@@ -7,9 +7,14 @@ En el presente proyecto, se realiza la automatización para la aplicación Agend
 
 Cabe señalar que esta es una automatización de creación de acuerdo a Elementos creados en **Digiturno**, para que posteriormente puedan relacionarse ambas aplicaciones. Además, este proyecto de creación se divide en **ADM** y **CLI**, para poder ver el proceso de creación de toda la estructura de la aplicación Agendamiento y posteriormente en el lado **CLI**, se realiza el proceso de solicitud de Citas.
 
+En este proyecto se tiene sólo la parte de **ADM**, en otro proyecto se incluirá el **CLI**.
+
+
+
 ## Que necesitan para poder automatizar
 
 Para poder automatizar necesitan descargar Katalon Studio del siguiente enlace:
+
 ![Katalon Studio](README/katalon-logo.png)
 [https://katalon.com/download](https://katalon.com/download)
 
@@ -24,6 +29,11 @@ Son un total de 339 casos en Agendamiento ADM, que abarcan desde la creación de
 
 Se realiza la presente automatización para la versión de Agendamiento ADM 3.0.0.0.
 
+## Si se desean realizar cambios
+
+Si se necesita hacer una automatización personalizada en la carpeta Data Files se encuentra el archivo **prueba** de excel. Al modificar el mismo se podrá realizar una automatización personalizada. 
+
+Cabe señalar, que **no se debe modificar los nombres de columnas y tampoco la cantidad de registros**, para que la automatización funcione de la manera esperada.
 
 ## Autores del proyecto
 
