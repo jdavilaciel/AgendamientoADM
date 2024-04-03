@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>click_Filtro</name>
+   <tag></tag>
+   <elementGuidId>27b39951-1350-42ed-a6a0-00a15d385f4f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='ctl00_ContentPlaceHolder2_RadGrid1_ctl00_ctl02_ctl02_Filter_TiempoPorCita']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_ContentPlaceHolder2_RadGrid1_ctl00_ctl02_ctl02_Filter_TiempoPorCita > span.t-font-icon.rgIcon.rgFilterIcon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>33933289-a629-4397-ada3-c0274915fe17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-font-icon rgIcon rgFilterIcon</value>
+      <webElementGuid>8dcc7f49-b9fb-4f74-af0c-cb37efe0cfe7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_ContentPlaceHolder2_RadGrid1_ctl00_ctl02_ctl02_Filter_TiempoPorCita&quot;)/span[@class=&quot;t-font-icon rgIcon rgFilterIcon&quot;]</value>
+      <webElementGuid>2fd15747-09cd-48ee-a1ce-3dba6f927bb8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='ctl00_ContentPlaceHolder2_RadGrid1_ctl00_ctl02_ctl02_Filter_TiempoPorCita']/span</value>
+      <webElementGuid>9b2a7453-4654-42d5-bcc5-57faf651c39b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/button/span</value>
+      <webElementGuid>cd13887d-a296-4267-a20f-7abf0f7e41e0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

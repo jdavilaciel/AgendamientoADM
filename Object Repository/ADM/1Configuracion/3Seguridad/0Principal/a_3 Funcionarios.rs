@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_3 Funcionarios</name>
+   <tag></tag>
+   <elementGuidId>aaea821c-6499-4904-9501-5f2d930c278c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@onclick='Utilidades.establecerEfectoHeader()'])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b7b75818-4c55-47d1-b992-065a453fc214</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>idpagina</name>
+      <type>Main</type>
+      <value>21</value>
+      <webElementGuid>17fa5420-2afb-42e2-8adc-a5a83613d7cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/Paginas/Configuracion/Seguridad/frmFuncionariosNew.aspx</value>
+      <webElementGuid>afde3e8f-738d-4cbe-9a68-06e13f804faf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>Utilidades.establecerEfectoHeader()</value>
+      <webElementGuid>25f958e7-8ec2-4ccb-ab05-3219451de306</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>itemnumber</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>2426f044-244c-49a6-99dc-df69ea64cb0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        
+                        Funcionarios
+                    </value>
+      <webElementGuid>8dd50e21-a89d-4a41-914e-2717ca2c4439</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_UpdatePanel1&quot;)/div[@class=&quot;divCentral container-fluid&quot;]/div[@class=&quot;d-flex align-items-center justify-content-center&quot;]/div[@class=&quot;contenedorMenuIconos&quot;]/div[@class=&quot;menuIconos&quot;]/div[1]/a[3]</value>
+      <webElementGuid>4c751306-c2b5-4f48-ac48-1f43d54402dc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//a[@onclick='Utilidades.establecerEfectoHeader()'])[3]</value>
+      <webElementGuid>82833a54-4f7f-41fc-a947-be7f92a67c1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_UpdatePanel1']/div/div/div/div[2]/div/a[3]</value>
+      <webElementGuid>828671bd-d5d3-40b4-ba56-91f7e21cfeda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Páginas por rol'])[2]/following::a[1]</value>
+      <webElementGuid>99f23832-2881-4959-9d31-d92e30ceef8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Roles'])[2]/following::a[2]</value>
+      <webElementGuid>a98b7c69-c2f9-48e4-89b6-430a4fe682bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/Paginas/Configuracion/Seguridad/frmFuncionariosNew.aspx')]</value>
+      <webElementGuid>bf4a1e12-73f0-448b-9e1a-9c51cdfea0fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]</value>
+      <webElementGuid>2d508bfd-d172-4725-a9ec-9f83fadc6c0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/Paginas/Configuracion/Seguridad/frmFuncionariosNew.aspx' and (text() = '
+                        
+                        Funcionarios
+                    ' or . = '
+                        
+                        Funcionarios
+                    ')]</value>
+      <webElementGuid>c138e283-941b-45b0-850d-f464640eb997</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

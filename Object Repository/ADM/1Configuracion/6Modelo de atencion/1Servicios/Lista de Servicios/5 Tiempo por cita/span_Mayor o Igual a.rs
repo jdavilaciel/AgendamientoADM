@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Mayor o Igual a</name>
+   <tag></tag>
+   <elementGuidId>4fffc1e0-b9af-44ee-aca6-746b380b1b6c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ctl00_ContentPlaceHolder2_RadGrid1_rfltMenu_detached']/ul/li[10]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0e107d7c-6d81-4421-a7d8-72de4c9966ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rmLink</value>
+      <webElementGuid>18048166-0607-4788-9838-392f4ab0316a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>14f20a6c-cfa9-4811-9ab8-a36ceb0ce02e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mayor o Igual a</value>
+      <webElementGuid>179be290-d7c2-4f1b-a61d-5f109126c1bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_ContentPlaceHolder2_RadGrid1_rfltMenu_detached&quot;)/ul[@class=&quot;rmActive rmVertical rmGroup rmLevel1&quot;]/li[@class=&quot;rmItem&quot;]/span[@class=&quot;rmLink&quot;]</value>
+      <webElementGuid>e6ba465c-391f-4fbe-8a3c-91d43a6b78b9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_ContentPlaceHolder2_RadGrid1_rfltMenu_detached']/ul/li[10]/span</value>
+      <webElementGuid>a09a7346-3c7c-4ab4-934a-c80877171f59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menor'])[1]/following::span[1]</value>
+      <webElementGuid>25d1ee61-f987-423b-9829-092336e4e80d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mayor'])[1]/following::span[2]</value>
+      <webElementGuid>4ff26c63-5ad6-463b-90e7-a3319d31dfae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menor o Igual a'])[1]/preceding::span[1]</value>
+      <webElementGuid>b91197cb-f70f-4688-a416-6358a9419323</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entre'])[1]/preceding::span[2]</value>
+      <webElementGuid>3e3e4f5f-e129-47dd-b309-1a397d19710f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Mayor o Igual a']/parent::*</value>
+      <webElementGuid>f2695140-dbca-4397-ba72-39be6cd6fc30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[10]/span</value>
+      <webElementGuid>976fb11d-200a-46a0-8190-4db9930e201a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Mayor o Igual a' or . = 'Mayor o Igual a')]</value>
+      <webElementGuid>0d644fbf-28a6-40e1-98da-605eb18a9525</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

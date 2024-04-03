@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_General (G)</name>
+   <tag></tag>
+   <elementGuidId>16c52dde-c645-4aa2-a12a-57992f4fb745</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='ctl00_ContentPlaceHolder2_chlTiposCliente']/tbody/tr/td/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td > label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>348fcb34-9e70-47c1-82f6-57e05ebbda4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>ctl00_ContentPlaceHolder2_chlTiposCliente_0</value>
+      <webElementGuid>a8d1fd19-7d32-49e8-8cdf-b7fa339d4e89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>General (G)</value>
+      <webElementGuid>139c922a-6461-4fea-992e-5b4396513a01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_ContentPlaceHolder2_chlTiposCliente&quot;)/tbody[1]/tr[1]/td[1]/label[1]</value>
+      <webElementGuid>fcf4e96b-872f-4853-961f-dbd267c433e2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='ctl00_ContentPlaceHolder2_chlTiposCliente']/tbody/tr/td/label</value>
+      <webElementGuid>5a2adf8b-71f8-4452-ae7e-83f59c9f6562</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo Cliente:'])[1]/following::label[1]</value>
+      <webElementGuid>9842af1b-1dac-4e88-9406-56cc31ee830a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aplica nombres y apellidos:'])[1]/following::label[2]</value>
+      <webElementGuid>37946fdf-7752-419e-b92f-4904688b3a4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preferencial (P)'])[1]/preceding::label[1]</value>
+      <webElementGuid>199923e4-a1ef-4a3d-9a8e-5e53983875a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lista de Tipos Documento'])[1]/preceding::label[2]</value>
+      <webElementGuid>8c02d854-7096-4eba-b9dc-024275cb316f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='General (G)']/parent::*</value>
+      <webElementGuid>f0c22a7d-a513-48d5-8251-e9683865b5ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/label</value>
+      <webElementGuid>3f74133a-e45d-455c-907b-e166fc35f0c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'General (G)' or . = 'General (G)')]</value>
+      <webElementGuid>fbb8c2db-2089-4383-bc12-e2e72e8c9d7a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

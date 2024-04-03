@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Notificar Selección</description>
+   <name>R339</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cfc40af1-ede2-46d4-b78f-7e4feb2dc1ad</testCaseGuid>
+</TestCaseEntity>

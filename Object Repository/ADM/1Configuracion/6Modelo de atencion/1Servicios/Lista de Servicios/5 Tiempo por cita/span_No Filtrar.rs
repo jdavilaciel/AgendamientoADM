@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_No Filtrar</name>
+   <tag></tag>
+   <elementGuidId>133afa08-9906-46cb-b0b9-4aaf01e08b2a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ctl00_ContentPlaceHolder2_RadGrid1_rfltMenu_detached']/ul/li/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.rmLink</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>baca60f0-e5ae-48e9-9002-489bee795b4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rmLink</value>
+      <webElementGuid>5e4fc604-9ea7-47ad-bd29-34901e59b642</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>bafb8f0a-c9d4-440e-8e03-8bb5ce5c64cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>No Filtrar</value>
+      <webElementGuid>7a660420-63f1-419f-934c-01c79d97560c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_ContentPlaceHolder2_RadGrid1_rfltMenu_detached&quot;)/ul[@class=&quot;rmActive rmVertical rmGroup rmLevel1&quot;]/li[@class=&quot;rmItem rmFirst rmFocused&quot;]/span[@class=&quot;rmLink&quot;]</value>
+      <webElementGuid>ecdfc563-ed68-4f69-af64-35e82cc45f88</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_ContentPlaceHolder2_RadGrid1_rfltMenu_detached']/ul/li/span</value>
+      <webElementGuid>a62d7309-7c7a-4d91-ba10-80620ece69de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contiene'])[1]/preceding::span[1]</value>
+      <webElementGuid>b9fd78a0-0f2c-4ca5-b60d-4a5d0777a35f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No contiene'])[1]/preceding::span[2]</value>
+      <webElementGuid>6ce30a66-26a5-4e19-bfd0-61cce8fb5395</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='No Filtrar']/parent::*</value>
+      <webElementGuid>ffbff272-fd2e-4f0a-8874-5f1da4d74c61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>c51316dd-910d-4369-85c0-0078a61034fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'No Filtrar' or . = 'No Filtrar')]</value>
+      <webElementGuid>d87f8d92-e920-42d6-a57b-7e03de09dd7f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

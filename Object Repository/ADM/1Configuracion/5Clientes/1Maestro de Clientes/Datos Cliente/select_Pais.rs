@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Pais</name>
+   <tag></tag>
+   <elementGuidId>70cbe5ea-0d98-4f30-94c9-3a3455bbd0b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='ctl00_ContentPlaceHolder2_ddlPaises']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_ContentPlaceHolder2_ddlPaises</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>79924d05-67a9-421d-918c-7378506cf4f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ctl00$ContentPlaceHolder2$ddlPaises</value>
+      <webElementGuid>9659b46d-2557-4d62-9153-548148799511</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>javascript:setTimeout('__doPostBack(\'ctl00$ContentPlaceHolder2$ddlPaises\',\'\')', 0)</value>
+      <webElementGuid>bae0ded3-de01-48e6-9993-60dd668b00dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_ContentPlaceHolder2_ddlPaises</value>
+      <webElementGuid>434e0bcc-7633-4368-aa2f-194bda018b59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+		Colombia
+
+	</value>
+      <webElementGuid>50a3428d-94a4-4c14-a871-cce1cf724dd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_ContentPlaceHolder2_ddlPaises&quot;)</value>
+      <webElementGuid>16122b1c-a079-4579-aae6-5c87923681e6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='ctl00_ContentPlaceHolder2_ddlPaises']</value>
+      <webElementGuid>815381a5-77f3-4dac-a527-0377da234ea2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_UpdatePanel1']/div/div/div[2]/div/table[2]/tbody/tr[5]/td[2]/select</value>
+      <webElementGuid>b6c38c48-14e1-4c66-a007-967be2d839cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='País residencia:'])[1]/following::select[1]</value>
+      <webElementGuid>6fd3268e-3bac-42af-abed-dd718f7b2d47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Género:'])[1]/following::select[2]</value>
+      <webElementGuid>2cea4e5a-5b12-43dc-a930-1c856498a930</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Departamento residencia:'])[1]/preceding::select[1]</value>
+      <webElementGuid>0913b297-3ae9-4088-ab2d-a1ef2169ed59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ciudad residencia:'])[1]/preceding::select[2]</value>
+      <webElementGuid>a77f3b5e-e46a-48ed-9b56-66bbc74e8666</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[5]/td[2]/select</value>
+      <webElementGuid>32864e7c-8fc8-4827-a47a-d9513b172002</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'ctl00$ContentPlaceHolder2$ddlPaises' and @id = 'ctl00_ContentPlaceHolder2_ddlPaises' and (text() = '
+		Colombia
+
+	' or . = '
+		Colombia
+
+	')]</value>
+      <webElementGuid>2fbce63c-16f6-4ff7-93b6-42ade2e73218</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

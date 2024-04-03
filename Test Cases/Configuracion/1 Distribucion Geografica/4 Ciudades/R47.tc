@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Boton nueva ciudad dirige a otra página para crear una ciuddad nueva</description>
+   <name>R47</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>76df1c2c-9e3c-416b-b259-5027baba18d9</testCaseGuid>
+</TestCaseEntity>

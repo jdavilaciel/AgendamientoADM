@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>El campo nombre no debe aceptar números o simbolos y el campo código sólo aceptará números.</description>
+   <name>R31</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7a69fc23-e04d-44de-9473-08eeb9c4a6ba</testCaseGuid>
+</TestCaseEntity>

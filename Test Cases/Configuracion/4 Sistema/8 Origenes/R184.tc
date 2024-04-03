@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Campo nombre debe aceptar solo caracteres alfabeticos</description>
+   <name>R184</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>da21d3eb-6eb7-4f6f-9277-75b524d3b1ed</testCaseGuid>
+</TestCaseEntity>

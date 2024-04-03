@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Mostrar Tabla de politica de datos</description>
+   <name>R212</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fa67bed3-a08a-43c1-bb95-0f8afd6ca066</testCaseGuid>
+</TestCaseEntity>

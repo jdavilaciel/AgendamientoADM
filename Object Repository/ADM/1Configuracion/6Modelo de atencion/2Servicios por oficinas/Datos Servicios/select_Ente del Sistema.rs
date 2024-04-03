@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Ente del Sistema</name>
+   <tag></tag>
+   <elementGuidId>8e31249a-57d0-4caa-89d3-7483b470301a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='ctl00_ContentPlaceHolder2_ddlEnteSistemaDT5']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_ContentPlaceHolder2_ddlEnteSistemaDT5</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>a6b9a79b-4706-42cd-801f-d946f3fad539</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ctl00$ContentPlaceHolder2$ddlEnteSistemaDT5</value>
+      <webElementGuid>44cf4e0b-2ace-4b9e-bbee-6c0d4c226afc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_ContentPlaceHolder2_ddlEnteSistemaDT5</value>
+      <webElementGuid>51670c60-e4c8-47d6-aad0-968a8cd4c5ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+			Sala
+			Grupo
+			Servidor
+
+		</value>
+      <webElementGuid>81a53b34-6e0d-47b3-9874-56dec950bfde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_ContentPlaceHolder2_ddlEnteSistemaDT5&quot;)</value>
+      <webElementGuid>9fa5a6fb-b3c6-4cfc-a650-9ad16ef8f016</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='ctl00_ContentPlaceHolder2_ddlEnteSistemaDT5']</value>
+      <webElementGuid>789888b1-485b-49d2-b886-679bf990879d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='divRolEdit']/div/div[2]/table/tbody/tr[5]/td[2]/select</value>
+      <webElementGuid>d4b71127-78f2-47ae-a116-69f9d3aa29cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ente Sistema:'])[1]/following::select[1]</value>
+      <webElementGuid>dfe172b6-1a62-4597-8802-73c238b065ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::select[1]</value>
+      <webElementGuid>bc0e77ab-e905-4fee-b0b4-d9ffa94188bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Id Destino:'])[1]/preceding::select[1]</value>
+      <webElementGuid>f34908b3-a81a-4152-8fbf-38352d6ad98c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[5]/preceding::select[1]</value>
+      <webElementGuid>74d83cb7-2a13-4f44-b687-7a785efa93d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>4bbda48c-f23a-4911-ac76-dda33f420954</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'ctl00$ContentPlaceHolder2$ddlEnteSistemaDT5' and @id = 'ctl00_ContentPlaceHolder2_ddlEnteSistemaDT5' and (text() = '
+			Sala
+			Grupo
+			Servidor
+
+		' or . = '
+			Sala
+			Grupo
+			Servidor
+
+		')]</value>
+      <webElementGuid>2b930666-c074-471c-adea-30e5b4069ba4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

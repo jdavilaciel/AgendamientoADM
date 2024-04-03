@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Dias No Laborables, verificar que se activan</description>
+   <name>R73</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fd43d0f5-a6b5-488b-94a9-4e615e1d9503</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Captura de Listado de tipos de Usuario</description>
+   <name>R134</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a82c7044-70b6-4f3f-89de-706220adc2d4</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Boton Crear de lista de Calendarios</description>
+   <name>R72</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eb917299-b7a5-42e5-9902-fcc9ea88e229</testCaseGuid>
+</TestCaseEntity>

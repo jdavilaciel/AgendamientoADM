@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_1 Plantillas</name>
+   <tag></tag>
+   <elementGuidId>fa980e5a-a248-45e7-a488-e1209a8b764e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick='Utilidades.establecerEfectoHeader()']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.menuIconos > div > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3f842ac9-58fd-464f-a167-14698eb71691</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>idpagina</name>
+      <type>Main</type>
+      <value>30</value>
+      <webElementGuid>faead6a9-19a1-4670-ba89-a923739eab13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/Paginas/Agendas/frmPlantillas.aspx</value>
+      <webElementGuid>1af0111d-f5c0-420a-83d5-414d43ed728e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>Utilidades.establecerEfectoHeader()</value>
+      <webElementGuid>991abbf7-58e5-4319-8b74-aa4c614da157</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>itemnumber</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>1502e2e8-6b1d-47e2-a591-a2461844d915</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        
+                        Plantillas
+                    </value>
+      <webElementGuid>4ac4692a-cb37-4645-a2c2-182dc52193b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_UpdatePanel1&quot;)/div[@class=&quot;divCentral container-fluid&quot;]/div[@class=&quot;d-flex align-items-center justify-content-center&quot;]/div[@class=&quot;contenedorMenuIconos&quot;]/div[@class=&quot;menuIconos&quot;]/div[1]/a[1]</value>
+      <webElementGuid>1b18eff8-d2db-4bfd-9de8-21c02151d5f8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick='Utilidades.establecerEfectoHeader()']</value>
+      <webElementGuid>15730831-2ce6-49d3-99ec-ae70a299e7d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_UpdatePanel1']/div/div/div/div[2]/div/a</value>
+      <webElementGuid>d254f622-079f-4735-aa96-0f708bcaaec9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Agendas'])[3]/following::a[1]</value>
+      <webElementGuid>6dc62da4-c526-4c75-99c5-5c53163372e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Agendas'])[2]/following::a[2]</value>
+      <webElementGuid>c86f1cdf-395e-4194-a3bf-4a414d1c2eae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Agendas por fechas'])[2]/preceding::a[1]</value>
+      <webElementGuid>5f7337e9-a883-4c7b-93df-53cebe584e99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/Paginas/Agendas/frmPlantillas.aspx')]</value>
+      <webElementGuid>38a58354-5190-41fd-b5ae-e3ba0a898eff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div/div/div/div[2]/div/a</value>
+      <webElementGuid>0b992ae0-dc5c-427c-be74-95d6bd34382a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/Paginas/Agendas/frmPlantillas.aspx' and (text() = '
+                        
+                        Plantillas
+                    ' or . = '
+                        
+                        Plantillas
+                    ')]</value>
+      <webElementGuid>942722ae-1b9d-4454-ba06-7486ad3a05c6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verificar Campos presentes en plantilla</description>
+   <name>R264</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c89006d0-c707-4cf0-a159-a291d835b818</testCaseGuid>
+</TestCaseEntity>

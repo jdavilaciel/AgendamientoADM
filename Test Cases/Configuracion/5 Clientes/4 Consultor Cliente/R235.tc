@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Botón Cargar De nuevo</description>
+   <name>R235</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dc8fa7f2-4c04-4b1a-a76e-16762dc8e309</testCaseGuid>
+</TestCaseEntity>

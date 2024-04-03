@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Eliminar Calendario prueba</description>
+   <name>R78</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a39b8034-ea36-4053-a620-fe4a843da197</testCaseGuid>
+</TestCaseEntity>

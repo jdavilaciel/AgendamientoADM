@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_Pre Agendadas</name>
+   <tag></tag>
+   <elementGuidId>6f902fd1-2efc-42dc-a0c8-bb580cb081fb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='ctl00_ContentPlaceHolder2_gvAgendasXFechas']/tbody/tr/th[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tbody > tr > th:nth-of-type(6)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>36d61221-ac5a-4083-b6d9-9113e4aa1c43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>scope</name>
+      <type>Main</type>
+      <value>col</value>
+      <webElementGuid>76264489-19a6-4d85-ad34-ef62aba6c2ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pre Agendadas</value>
+      <webElementGuid>8e4beb19-b0ba-482d-984e-cd387c29dcb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_ContentPlaceHolder2_gvAgendasXFechas&quot;)/tbody[1]/tr[1]/th[6]</value>
+      <webElementGuid>cddb5f76-27c8-4728-a6e6-ca23d59b9687</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='ctl00_ContentPlaceHolder2_gvAgendasXFechas']/tbody/tr/th[6]</value>
+      <webElementGuid>6c78b78e-d1e1-4926-85ce-4f494b3f945e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reservadas'])[1]/following::th[1]</value>
+      <webElementGuid>7f8be467-65f2-4508-a56a-4c68589c0371</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Suspendidas'])[1]/following::th[2]</value>
+      <webElementGuid>1a6fdca9-a09c-47a9-ae44-355d9728882d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirmadas'])[1]/preceding::th[1]</value>
+      <webElementGuid>d5ae0713-ceb1-491e-bd01-883829061e8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Totales:'])[1]/preceding::th[3]</value>
+      <webElementGuid>c54bd377-e59b-4465-8e1e-388336d858c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pre Agendadas']/parent::*</value>
+      <webElementGuid>8e590b5b-cfc5-4f9d-a998-747b7743f55e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tbody/tr/th[6]</value>
+      <webElementGuid>2c3ab655-3e22-426f-a38c-8d3f400d8b0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = 'Pre Agendadas' or . = 'Pre Agendadas')]</value>
+      <webElementGuid>9c7c2bae-7f40-4a01-9483-421614bb5dbc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

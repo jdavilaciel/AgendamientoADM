@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verificr campos presente en sección Calendario</description>
+   <name>R265</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a5441dd9-e332-4703-9fd3-014d58b6bd2a</testCaseGuid>
+</TestCaseEntity>

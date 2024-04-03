@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_4 Ciudades</name>
+   <tag></tag>
+   <elementGuidId>9d0b27e5-ce52-496c-b686-e471ee5d0fa9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@onclick='Utilidades.establecerEfectoHeader()'])[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>17b92061-dbdb-4036-8e88-0895b09a2f4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>idpagina</name>
+      <type>Main</type>
+      <value>13</value>
+      <webElementGuid>b9efff01-561a-43a1-beb4-260c68762164</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/Paginas/Configuracion/DistribucionGeografica/frmCiudades.aspx</value>
+      <webElementGuid>4f2266ba-da6d-4742-9143-cba86cadeb4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>Utilidades.establecerEfectoHeader()</value>
+      <webElementGuid>1f2d5566-d208-42cf-a8da-a5a249bbb654</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>itemnumber</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>050ed8e0-0017-4ef5-aa06-4250f8ac1074</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        
+                        Ciudades
+                    </value>
+      <webElementGuid>db2377f0-37fa-4ce0-8c23-d585bbc0e413</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_UpdatePanel1&quot;)/div[@class=&quot;divCentral container-fluid&quot;]/div[@class=&quot;d-flex align-items-center justify-content-center&quot;]/div[@class=&quot;contenedorMenuIconos&quot;]/div[@class=&quot;menuIconos&quot;]/div[1]/a[4]</value>
+      <webElementGuid>a49acdc0-c3f0-4020-8ccc-46c82b7288f3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//a[@onclick='Utilidades.establecerEfectoHeader()'])[4]</value>
+      <webElementGuid>807d6ead-1193-4dda-b10b-edaf7fe4411f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_UpdatePanel1']/div/div/div/div[2]/div/a[4]</value>
+      <webElementGuid>844066cf-dc23-4b33-945f-5b3419aa6c18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Regionales'])[2]/following::a[1]</value>
+      <webElementGuid>6db55b81-90b1-45a8-a9ad-569fc1144b10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Departamentos o estados'])[2]/following::a[2]</value>
+      <webElementGuid>b04c1459-25d7-4ccb-8705-6e3d05a63977</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Oficinas'])[2]/preceding::a[1]</value>
+      <webElementGuid>c342d104-e842-4fca-ac4f-8aba1fbdac4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/Paginas/Configuracion/DistribucionGeografica/frmCiudades.aspx')]</value>
+      <webElementGuid>73b9a36b-ba86-40da-ae6b-45dda11eef7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[4]</value>
+      <webElementGuid>dac1670b-f6dc-49e2-b6fa-31db5338c680</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/Paginas/Configuracion/DistribucionGeografica/frmCiudades.aspx' and (text() = '
+                        
+                        Ciudades
+                    ' or . = '
+                        
+                        Ciudades
+                    ')]</value>
+      <webElementGuid>74dd7b0c-3af6-4b03-aee7-f0cbddf33d5b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Igual a</name>
+   <tag></tag>
+   <elementGuidId>22b03f6c-c453-49e0-91f4-04a32fa3d9c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ctl00_ContentPlaceHolder2_RadGrid1_rfltMenu_detached']/ul/li[6]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3ea6e186-8790-4f31-89b2-c83ab7c984e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rmLink</value>
+      <webElementGuid>533b8760-c6a4-40bb-8e0f-ca600d9f83c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>963c09cc-451d-4bbb-8fa1-3e41c770ebe0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Igual a</value>
+      <webElementGuid>1c27310e-9d32-4f6d-a44d-74cda9440fac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_ContentPlaceHolder2_RadGrid1_rfltMenu_detached&quot;)/ul[@class=&quot;rmActive rmVertical rmGroup rmLevel1&quot;]/li[@class=&quot;rmItem&quot;]/span[@class=&quot;rmLink&quot;]</value>
+      <webElementGuid>aeeb6be2-0a2a-4184-af2c-b033ac29eb8f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_ContentPlaceHolder2_RadGrid1_rfltMenu_detached']/ul/li[6]/span</value>
+      <webElementGuid>198f543a-883a-45a0-9998-dbbfc0208e0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Termina En'])[1]/following::span[1]</value>
+      <webElementGuid>b6c55141-6ea2-4251-a7d2-048c3b1f3774</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Empieza Por'])[1]/following::span[2]</value>
+      <webElementGuid>ee44a4f0-3a4e-435d-a82b-733432f549af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Diferente de'])[1]/preceding::span[1]</value>
+      <webElementGuid>97e090ad-3835-4b3c-b25b-109a65784845</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mayor'])[1]/preceding::span[2]</value>
+      <webElementGuid>716e05c5-8443-4db2-8f38-6eb6b50e7f83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Igual a']/parent::*</value>
+      <webElementGuid>ad09a2f7-7e3e-4a8e-9bc9-415969db58f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/span</value>
+      <webElementGuid>374a07ab-f3a6-4a29-b74d-7251af004e32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Igual a' or . = 'Igual a')]</value>
+      <webElementGuid>78d38701-dce6-4ce0-b824-5e3ac9179179</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

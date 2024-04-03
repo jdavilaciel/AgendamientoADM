@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Pagina Anterior</name>
+   <tag></tag>
+   <elementGuidId>260fc996-50be-4608-ae80-a67160a53c46</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='ctl00_ContentPlaceHolder2_RadGrid1_ctl00_Pager']/tbody/tr/td/div/div/button[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button[name=&quot;ctl00$ContentPlaceHolder2$RadGrid1$ctl00$ctl03$ctl01$ctl03&quot;] > span.t-font-icon.rgIcon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>573e82dd-f518-4145-b1df-62d6897145d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-font-icon rgIcon</value>
+      <webElementGuid>6464faf2-dd98-4182-9ee2-011f74fd9654</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_ContentPlaceHolder2_RadGrid1_ctl00_Pager&quot;)/tbody[1]/tr[@class=&quot;rgPager&quot;]/td[@class=&quot;rgPagerCell&quot;]/div[@class=&quot;NextPrevAndNumeric&quot;]/div[@class=&quot;rgWrap rgArrPart1&quot;]/button[@class=&quot;t-button rgActionButton rgPagePrev&quot;]/span[@class=&quot;t-font-icon rgIcon&quot;]</value>
+      <webElementGuid>a43c8405-043e-48d4-9b45-45d065ac3d09</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='ctl00_ContentPlaceHolder2_RadGrid1_ctl00_Pager']/tbody/tr/td/div/div/button[2]/span</value>
+      <webElementGuid>336464fa-a045-4701-9669-f4cba6e527b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span</value>
+      <webElementGuid>586394ec-9b49-4add-bbfa-996570e2349c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

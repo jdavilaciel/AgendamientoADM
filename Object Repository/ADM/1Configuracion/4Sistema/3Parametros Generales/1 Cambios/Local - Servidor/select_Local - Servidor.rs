@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Local - Servidor</name>
+   <tag></tag>
+   <elementGuidId>2fe8c2ad-6a54-4ae3-9a58-d5badc180c63</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='ctl00_ContentPlaceHolder2_ddlLista']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_ContentPlaceHolder2_ddlLista</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>77d5313d-27e3-4861-881e-ba40f06ba965</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ctl00$ContentPlaceHolder2$ddlLista</value>
+      <webElementGuid>75ec9449-a547-472a-8956-28be3ba933fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_ContentPlaceHolder2_ddlLista</value>
+      <webElementGuid>714e463f-d3ac-486f-8a98-5a3cbf96b4df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+			Local
+			Servidor
+
+		</value>
+      <webElementGuid>4d5caee8-1a4a-410d-9f73-25708e9702ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_ContentPlaceHolder2_ddlLista&quot;)</value>
+      <webElementGuid>91c258f7-c597-4c3b-9b40-cb81007e6b14</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='ctl00_ContentPlaceHolder2_ddlLista']</value>
+      <webElementGuid>6813aa32-0ce4-452c-b23f-bf0f94efa647</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_ContentPlaceHolder2_UpdatePanel1']/table/tbody/tr[3]/td[2]/select</value>
+      <webElementGuid>2961a0f1-2324-4edd-80a2-5d45028c388a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Valor 1:'])[1]/following::select[1]</value>
+      <webElementGuid>94fa0564-c9a1-46c5-8814-5acec663c42b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nombre:'])[1]/following::select[1]</value>
+      <webElementGuid>23a4f5bc-54fb-4148-8ec1-f93dcc802981</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='URL Servidor:'])[1]/preceding::select[1]</value>
+      <webElementGuid>83788f9d-c3be-4b25-b70e-7aa3a9db4705</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Validar por:'])[1]/preceding::select[1]</value>
+      <webElementGuid>dc2188dd-c211-487a-b6c4-94a521b8c652</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>9c852f59-972a-4939-a46b-a5c1012504aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'ctl00$ContentPlaceHolder2$ddlLista' and @id = 'ctl00_ContentPlaceHolder2_ddlLista' and (text() = '
+			Local
+			Servidor
+
+		' or . = '
+			Local
+			Servidor
+
+		')]</value>
+      <webElementGuid>4012af35-cfab-4647-acdb-0e5cfe97203c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

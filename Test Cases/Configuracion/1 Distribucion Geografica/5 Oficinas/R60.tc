@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Boton Nueva Oficina</description>
+   <name>R60</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ec04963d-1a2c-4c83-9e59-a953fd2dca06</testCaseGuid>
+</TestCaseEntity>

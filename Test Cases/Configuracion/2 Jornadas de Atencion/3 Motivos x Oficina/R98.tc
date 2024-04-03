@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Actualizar un motivo</description>
+   <name>R98</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b13c8aa8-7cf9-4565-8c58-c5913dff7ea8</testCaseGuid>
+</TestCaseEntity>

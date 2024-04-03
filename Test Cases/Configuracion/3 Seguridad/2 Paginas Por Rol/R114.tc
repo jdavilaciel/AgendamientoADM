@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Boton Editar, verificar que muestre los otro botones al hacer click</description>
+   <name>R114</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>da44310e-7bff-47ac-b68f-de652b06d5ff</testCaseGuid>
+</TestCaseEntity>

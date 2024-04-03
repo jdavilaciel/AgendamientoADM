@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Boton Editar habilita y deshabilita las páginas al hacer click</description>
+   <name>R115</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e7bd8065-56ad-4441-a72b-e69e789bef6f</testCaseGuid>
+</TestCaseEntity>

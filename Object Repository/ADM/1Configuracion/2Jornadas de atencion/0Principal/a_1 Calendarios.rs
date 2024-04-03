@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_1 Calendarios</name>
+   <tag></tag>
+   <elementGuidId>b0dec77f-8be5-4c36-b42a-befbc4fffeb5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick='Utilidades.establecerEfectoHeader()']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.menuIconos > div > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>aeed0833-8918-4ea7-b761-7d1ea4a83432</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>idpagina</name>
+      <type>Main</type>
+      <value>16</value>
+      <webElementGuid>36b813db-feeb-4572-a2b2-b19d24b64110</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/Paginas/Configuracion/JornadasAtencion/frmCalendario.aspx</value>
+      <webElementGuid>fdaee478-78ca-49e5-91e9-cd6cb9e69fb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>Utilidades.establecerEfectoHeader()</value>
+      <webElementGuid>7ac48d4f-e7bb-4326-89e8-08ca42e69578</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>itemnumber</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>27d4cf61-8bf9-42b7-a045-2f0e93e70ee3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        
+                        Calendarios
+                    </value>
+      <webElementGuid>3a39a194-39f8-4709-a5cc-71b94bd9bfbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_UpdatePanel1&quot;)/div[@class=&quot;divCentral container-fluid&quot;]/div[@class=&quot;d-flex align-items-center justify-content-center&quot;]/div[@class=&quot;contenedorMenuIconos&quot;]/div[@class=&quot;menuIconos&quot;]/div[1]/a[1]</value>
+      <webElementGuid>2e768fa9-931a-444c-aed8-0598b7dc03ab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick='Utilidades.establecerEfectoHeader()']</value>
+      <webElementGuid>60a8b8a8-bbb7-45ef-8852-c7c91221037f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_UpdatePanel1']/div/div/div/div[2]/div/a</value>
+      <webElementGuid>ba743990-f275-4288-bc0a-7eaabd047144</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jornadas de atención'])[3]/following::a[1]</value>
+      <webElementGuid>1358241d-f99d-4c4c-9371-a030b763c404</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jornadas de atención'])[2]/following::a[2]</value>
+      <webElementGuid>fd84197f-e2a5-4497-adb4-b58ee989dbbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jornadas'])[2]/preceding::a[1]</value>
+      <webElementGuid>0abde1f8-565e-4e51-baa3-3bf11a16363f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/Paginas/Configuracion/JornadasAtencion/frmCalendario.aspx')]</value>
+      <webElementGuid>e152bbe8-d761-4714-8405-8e97b442b7ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div/div/div/div[2]/div/a</value>
+      <webElementGuid>8398526e-de72-4633-893e-1aa94f6a573e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/Paginas/Configuracion/JornadasAtencion/frmCalendario.aspx' and (text() = '
+                        
+                        Calendarios
+                    ' or . = '
+                        
+                        Calendarios
+                    ')]</value>
+      <webElementGuid>c31f0b6f-f143-4ced-ad1c-cb89f782d559</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

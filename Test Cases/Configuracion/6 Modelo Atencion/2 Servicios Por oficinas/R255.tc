@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Seleccionar Seccionales y Tipo de cliente</description>
+   <name>R255</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b9a04f91-77fb-48c3-ac77-b5851e5670fa</testCaseGuid>
+</TestCaseEntity>

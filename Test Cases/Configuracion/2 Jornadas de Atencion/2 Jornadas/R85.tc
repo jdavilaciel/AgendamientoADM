@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Se  debe verificar si crea ID correlativo</description>
+   <name>R85</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a5e0594d-af52-4ba0-9d5e-7751be5f8652</testCaseGuid>
+</TestCaseEntity>

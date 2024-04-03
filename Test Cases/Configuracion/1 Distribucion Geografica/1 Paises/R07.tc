@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Boton Limpiar en Paises</description>
+   <name>R07</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2bc17b4b-3a59-44bd-8bca-8560f15831b4</testCaseGuid>
+</TestCaseEntity>

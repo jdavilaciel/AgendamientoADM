@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Catidad registros</name>
+   <tag></tag>
+   <elementGuidId>fd35b49e-e08a-4e4c-88ba-8f50e5def011</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_ContentPlaceHolder2_ddlTamanioPagina</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='ctl00_ContentPlaceHolder2_ddlTamanioPagina']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>9bc66eb6-3002-405b-b46b-67ce68fb3f12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ctl00$ContentPlaceHolder2$ddlTamanioPagina</value>
+      <webElementGuid>ca85d14a-1527-4547-9607-a612efbd0ea0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>javascript:setTimeout('__doPostBack(\'ctl00$ContentPlaceHolder2$ddlTamanioPagina\',\'\')', 0)</value>
+      <webElementGuid>e413531e-63f0-42d6-9838-910de8e91377</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_ContentPlaceHolder2_ddlTamanioPagina</value>
+      <webElementGuid>1883e51a-650c-428a-b3e3-26f6e4c84d5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+	5
+	10
+	15
+	20
+	25
+	30
+	35
+	40
+	45
+	50
+
+</value>
+      <webElementGuid>a26389a4-fdca-47c8-a798-5a4dc8883b69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_ContentPlaceHolder2_ddlTamanioPagina&quot;)</value>
+      <webElementGuid>94d7df00-3b5a-432c-8f36-28fb06a4d38d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='ctl00_ContentPlaceHolder2_ddlTamanioPagina']</value>
+      <webElementGuid>ee8a35c8-0660-490d-9874-008ae575e2fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_ContentPlaceHolder2_divGrillaCitasConData']/div[2]/div/div[2]/select</value>
+      <webElementGuid>98ef94fd-8ba1-44f8-b11e-004d5213e7e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelado por el Sistema'])[9]/following::select[1]</value>
+      <webElementGuid>172f8092-44f0-4a0d-bdd7-bb0ec94db5f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='- - - -'])[10]/following::select[1]</value>
+      <webElementGuid>a6806597-1f3a-4593-86cc-0015b545d9b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Página 1 de 3.'])[1]/preceding::select[1]</value>
+      <webElementGuid>0d0a4da5-c8dd-4c1d-8bd7-a8b9a5fc4983</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/select</value>
+      <webElementGuid>fb64b76d-3e9a-4ac2-ada3-65bf2c13284f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'ctl00$ContentPlaceHolder2$ddlTamanioPagina' and @id = 'ctl00_ContentPlaceHolder2_ddlTamanioPagina' and (text() = '
+	5
+	10
+	15
+	20
+	25
+	30
+	35
+	40
+	45
+	50
+
+' or . = '
+	5
+	10
+	15
+	20
+	25
+	30
+	35
+	40
+	45
+	50
+
+')]</value>
+      <webElementGuid>035998a0-f0d1-496a-b18f-93bc6beed669</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

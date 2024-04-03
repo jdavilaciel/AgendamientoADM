@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Seleccionar todos</name>
+   <tag></tag>
+   <elementGuidId>7390f1ce-8ffc-4a71-9794-1177cc3193c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ctl00_ContentPlaceHolder2_rcbFuncionarios_DropDown']/div/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>8a1031e9-cb43-4472-924b-b0b4db10a299</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Seleccionar todos</value>
+      <webElementGuid>cd5a8d52-e2c0-49a4-b367-09a542cc099e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_ContentPlaceHolder2_rcbFuncionarios_DropDown&quot;)/div[@class=&quot;rcbScroll rcbWidth&quot;]/div[@class=&quot;rcbCheckAllItemsHovered&quot;]/label[1]</value>
+      <webElementGuid>f6b7c815-fba6-44c2-b7b9-a96ae6ca51b0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_ContentPlaceHolder2_rcbFuncionarios_DropDown']/div/div/label</value>
+      <webElementGuid>58d315d9-e567-435a-bdd1-b1fe3f31b8da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prueba'])[1]/preceding::label[1]</value>
+      <webElementGuid>1779fe17-c4cb-49f3-8015-216cde648fc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Seleccionar todos'])[2]/preceding::label[2]</value>
+      <webElementGuid>de03c865-73fb-4246-a535-84ab6c3f8e17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Seleccionar todos']/parent::*</value>
+      <webElementGuid>010da25d-6e31-4978-8ad7-20a1dad864ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>15cb5cb2-ce05-4827-b2eb-9ae6eaf8476e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Seleccionar todos' or . = 'Seleccionar todos')]</value>
+      <webElementGuid>56745424-982a-4da6-80df-860d28543747</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

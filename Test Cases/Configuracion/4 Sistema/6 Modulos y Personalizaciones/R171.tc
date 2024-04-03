@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verificar página módulos y personalizaciones</description>
+   <name>R171</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>926629b5-1526-4b1b-a25e-5cab43e0e9f0</testCaseGuid>
+</TestCaseEntity>

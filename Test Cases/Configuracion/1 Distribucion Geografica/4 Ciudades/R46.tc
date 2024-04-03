@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Boton Limpiar en ciudades</description>
+   <name>R46</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d167b75e-cf16-41b2-84e3-d188495f1a6b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_Tipo de identificacion</name>
+   <tag></tag>
+   <elementGuidId>e2ff10c2-4d2b-4045-8cdf-55e32e169b91</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='ctl00_ContentPlaceHolder2_gvHistoricoCitas']/tbody/tr/th[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tbody > tr > th:nth-of-type(6)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>103c2286-8fd6-4dcd-89d6-917ae4acabae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>scope</name>
+      <type>Main</type>
+      <value>col</value>
+      <webElementGuid>7863fa51-1e41-4d52-a51b-02bfcbd4fcb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tipo de identificación</value>
+      <webElementGuid>67911707-442a-4bc7-8063-d3332d5487f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_ContentPlaceHolder2_gvHistoricoCitas&quot;)/tbody[1]/tr[1]/th[6]</value>
+      <webElementGuid>99aa8bff-fb7e-42b8-9e89-777699834ee0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='ctl00_ContentPlaceHolder2_gvHistoricoCitas']/tbody/tr/th[6]</value>
+      <webElementGuid>498e8dc4-e23d-48a5-9fb5-f5a374a2ddc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo de persona'])[1]/following::th[1]</value>
+      <webElementGuid>be77e41a-2611-4aa7-9e1c-1755180054b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Código de cita'])[1]/following::th[2]</value>
+      <webElementGuid>8d0b7b05-705d-4335-a3ea-90d5722126f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='N° identificación'])[1]/preceding::th[1]</value>
+      <webElementGuid>27a136d6-afe8-4efe-ac50-2ec6af932a39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Razón Social'])[1]/preceding::th[2]</value>
+      <webElementGuid>cf61a758-577f-4f7c-b701-dcd89e402d44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tipo de identificación']/parent::*</value>
+      <webElementGuid>9e8fad4d-232f-4e6e-b43f-a535119cde74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tbody/tr/th[6]</value>
+      <webElementGuid>c63df37f-0f08-4071-850e-b3233c569014</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = 'Tipo de identificación' or . = 'Tipo de identificación')]</value>
+      <webElementGuid>f8022138-6f21-4dfe-9cbc-4f368755eb66</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

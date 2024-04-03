@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_1 SiNo</name>
+   <tag></tag>
+   <elementGuidId>6173da77-f7b3-469e-85ec-74a9a7107c56</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_ContentPlaceHolder2_ddlLista</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='ctl00_ContentPlaceHolder2_ddlLista']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>c2fe383d-8c22-4af5-a3c2-ac53b42ca8f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ctl00$ContentPlaceHolder2$ddlLista</value>
+      <webElementGuid>74735686-075e-4135-ba44-f7b15ac5bca6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_ContentPlaceHolder2_ddlLista</value>
+      <webElementGuid>a0d88eec-2388-4c96-9fc7-ee7e8e015299</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+			Si
+			No
+
+		</value>
+      <webElementGuid>3f50c25d-2d71-4992-a322-52dcdb8b6695</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_ContentPlaceHolder2_ddlLista&quot;)</value>
+      <webElementGuid>b74f268f-abac-43f4-93cf-1e25d7db139d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='ctl00_ContentPlaceHolder2_ddlLista']</value>
+      <webElementGuid>6a1c39a3-75af-4c53-a1ad-c57a91800d6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_ContentPlaceHolder2_UpdatePanel1']/table/tbody/tr[3]/td[2]/select</value>
+      <webElementGuid>951beed3-b9b2-4a41-ae15-494fb6c9d591</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Agendar citas a cuentas de correo a afiliados:'])[1]/following::select[1]</value>
+      <webElementGuid>ce9820db-16fc-4b01-988b-2ef13acf6b60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nombre:'])[1]/following::select[1]</value>
+      <webElementGuid>41c4b63d-510d-40eb-a4a6-97e9a7ca0aa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Agendar citas a cuentas de correo a funcionarios:'])[1]/preceding::select[1]</value>
+      <webElementGuid>4f084758-4d19-436b-8949-356d331136cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aplicar modificación de citas a cuentas de correo destino:'])[1]/preceding::select[2]</value>
+      <webElementGuid>b69e282e-d09b-4182-96e2-f5821918ccd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>e0a5cd03-1950-47ab-a9e2-c05413e32737</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'ctl00$ContentPlaceHolder2$ddlLista' and @id = 'ctl00_ContentPlaceHolder2_ddlLista' and (text() = '
+			Si
+			No
+
+		' or . = '
+			Si
+			No
+
+		')]</value>
+      <webElementGuid>dda426c3-a114-475f-b5fb-8a52c062ce09</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

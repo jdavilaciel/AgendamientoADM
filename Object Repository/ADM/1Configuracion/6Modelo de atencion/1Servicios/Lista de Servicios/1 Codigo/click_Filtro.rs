@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>click_Filtro</name>
+   <tag></tag>
+   <elementGuidId>e9c5c898-77ab-4f47-89b3-81620a6f8da6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='ctl00_ContentPlaceHolder2_RadGrid1_ctl00_ctl02_ctl02_Filter_Codigo']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.t-font-icon.rgIcon.rgFilterIcon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ecba1d21-1062-471f-b053-26eacb384999</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-font-icon rgIcon rgFilterIcon</value>
+      <webElementGuid>47d4ea50-4c70-4cf7-b17b-5c86dd481519</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_ContentPlaceHolder2_RadGrid1_ctl00_ctl02_ctl02_Filter_Codigo&quot;)/span[@class=&quot;t-font-icon rgIcon rgFilterIcon&quot;]</value>
+      <webElementGuid>60635f8c-ed92-42db-b174-37a4561a2289</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='ctl00_ContentPlaceHolder2_RadGrid1_ctl00_ctl02_ctl02_Filter_Codigo']/span</value>
+      <webElementGuid>7f8d5ce9-b2df-4e64-87da-9a3b72d30480</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>f37e7e3c-0ca2-4d44-945f-daaac9361703</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Open calendar Fecha Inicio</name>
+   <tag></tag>
+   <elementGuidId>61971515-759e-4b03-8325-b687abd1545b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='ctl00_ContentPlaceHolder2_rdpFechaInicio_popupButton']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_ContentPlaceHolder2_rdpFechaInicio_popupButton</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a27ce609-de0a-4215-8313-d6bc43edf95c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Open the calendar popup.</value>
+      <webElementGuid>81aff08a-f845-4991-b28f-335a6d4f4ad4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>e9d295ff-59e0-466c-afa0-d82fb191e81d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_ContentPlaceHolder2_rdpFechaInicio_popupButton</value>
+      <webElementGuid>61677932-2fe4-4e95-a3b6-d7fbfacc9e34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rcCalPopup btnDatePicker</value>
+      <webElementGuid>58da022d-a8eb-40fd-970b-c97ae24dc348</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Open the calendar popup.</value>
+      <webElementGuid>97c89aed-6770-4a9a-b0b5-ebeb56fbd2f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_ContentPlaceHolder2_rdpFechaInicio_popupButton&quot;)</value>
+      <webElementGuid>74445113-f314-4e32-b8d3-c3f98f499d0f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='ctl00_ContentPlaceHolder2_rdpFechaInicio_popupButton']</value>
+      <webElementGuid>50ea9de6-4da7-4162-a41d-64e4c1377495</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_ContentPlaceHolder2_rdpFechaInicio_wrapper']/table/tbody/tr/td[2]/a</value>
+      <webElementGuid>04c0a7f4-d381-45ed-8ad1-3fde90d977da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Open the calendar popup.')]</value>
+      <webElementGuid>4fcd1fc2-17b3-4922-926f-c80feaa1a612</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RadDatePicker'])[2]/following::a[1]</value>
+      <webElementGuid>8462cd19-7dc0-428d-9cd8-01014b561e39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RadDatePicker'])[1]/following::a[1]</value>
+      <webElementGuid>cf6e3920-5b82-4d01-aa2c-9385077dd738</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Calendar'])[1]/preceding::a[1]</value>
+      <webElementGuid>24a02dfe-ef75-4815-85b4-3fcc15f6fcb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Title and navigation'])[1]/preceding::a[1]</value>
+      <webElementGuid>74ec22ac-3f8a-4a30-a1e4-bcdf629823e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Open the calendar popup.']/parent::*</value>
+      <webElementGuid>e31404e7-bf32-49f2-ab80-72f821e8a8ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[4]</value>
+      <webElementGuid>d270f984-a9d5-4000-a9e0-824abcf1bb33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/table/tbody/tr/td[2]/a</value>
+      <webElementGuid>58e6de0e-0f2d-4176-a7fb-603460194704</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Open the calendar popup.' and @href = '#' and @id = 'ctl00_ContentPlaceHolder2_rdpFechaInicio_popupButton' and (text() = 'Open the calendar popup.' or . = 'Open the calendar popup.')]</value>
+      <webElementGuid>73bf21c5-8532-4bb8-a5ca-6499dde43729</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

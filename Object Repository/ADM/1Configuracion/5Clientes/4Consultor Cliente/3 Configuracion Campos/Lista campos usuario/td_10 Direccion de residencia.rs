@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_10 Direccion de residencia</name>
+   <tag></tag>
+   <elementGuidId>a7e9efc6-becf-4f8f-aa6a-eba1bd072f3b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='ctl00_ContentPlaceHolder2_RadGridCamposUsuarioCliente_ctl00__9']/td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>026b20aa-6584-44ee-9968-094278112cec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>align</name>
+      <type>Main</type>
+      <value>center</value>
+      <webElementGuid>55b72017-b708-4a18-abed-c2b7e6579cf1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>valign</name>
+      <type>Main</type>
+      <value>middle</value>
+      <webElementGuid>c97abfac-5749-4376-9c6f-32fe48e820a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                        Dirección de residencia: 
+                                    </value>
+      <webElementGuid>69c6f4dd-7eb6-4949-8041-937b5c1b015d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_ContentPlaceHolder2_RadGridCamposUsuarioCliente_ctl00__9&quot;)/td[2]</value>
+      <webElementGuid>828bf863-0f0e-47e8-80d0-e83353e3720c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='ctl00_ContentPlaceHolder2_RadGridCamposUsuarioCliente_ctl00__9']/td[2]</value>
+      <webElementGuid>059eaebe-f03c-471c-a5c8-b9d758f3182c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='^[0-9]{7,10}$'])[1]/following::td[6]</value>
+      <webElementGuid>5717f9b2-609e-4823-aa8b-9c3ff1bcfa04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Teléfono fijo:'])[1]/following::td[7]</value>
+      <webElementGuid>e985784f-ba25-4a3a-b6b2-f4860b9fa3b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[a-zA-Z0-9\s-#/?,.]*'])[1]/preceding::td[1]</value>
+      <webElementGuid>afd4c9bc-dc77-4c6e-9179-b78b0add9fbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[10]/td[2]</value>
+      <webElementGuid>78807241-9d51-4db8-93ce-0bb18bdb6fe3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '
+                                        Dirección de residencia: 
+                                    ' or . = '
+                                        Dirección de residencia: 
+                                    ')]</value>
+      <webElementGuid>a0120845-04a8-4af5-a4c5-535dd9d99700</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

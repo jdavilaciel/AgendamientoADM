@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Boton exportar excel</description>
+   <name>R282</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7b33a45a-a588-4bab-adbd-5186bcbaba74</testCaseGuid>
+</TestCaseEntity>

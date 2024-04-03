@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_1 Paises</name>
+   <tag></tag>
+   <elementGuidId>7db500e8-4b61-475c-8973-6a381cc321d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick='Utilidades.establecerEfectoHeader()']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.menuIconos > div > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e917c703-fe46-428e-a165-b7687fa339f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>idpagina</name>
+      <type>Main</type>
+      <value>11</value>
+      <webElementGuid>c3f39c0e-6509-4623-9320-204c68fed830</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/Paginas/Configuracion/DistribucionGeografica/frmPaises.aspx</value>
+      <webElementGuid>468d9c93-7076-4252-b3dd-16a7326c7e00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>Utilidades.establecerEfectoHeader()</value>
+      <webElementGuid>688b4a26-51a3-4768-ac9d-9fd26e163119</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>itemnumber</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>1b293ecd-3e72-48ed-a60f-58d3b6cd3de8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        
+                        Países
+                    </value>
+      <webElementGuid>69ae2d26-e252-4a9f-9c7e-41bf118c8d6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_UpdatePanel1&quot;)/div[@class=&quot;divCentral container-fluid&quot;]/div[@class=&quot;d-flex align-items-center justify-content-center&quot;]/div[@class=&quot;contenedorMenuIconos&quot;]/div[@class=&quot;menuIconos&quot;]/div[1]/a[1]</value>
+      <webElementGuid>606bf3d4-40f8-49e1-bc0c-9f1454cf0a4f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick='Utilidades.establecerEfectoHeader()']</value>
+      <webElementGuid>eb0182f8-de46-48ef-af3e-b4d48e1ddecf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_UpdatePanel1']/div/div/div/div[2]/div/a</value>
+      <webElementGuid>1e7292b6-b0d4-4656-837f-7f51f586a811</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Distribución geográfica'])[3]/following::a[1]</value>
+      <webElementGuid>82397358-ef82-475a-bbdb-4715afc2e830</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Distribución geográfica'])[2]/following::a[2]</value>
+      <webElementGuid>c9220588-3b64-48e7-aebe-e7268bbcb23a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Departamentos o estados'])[2]/preceding::a[1]</value>
+      <webElementGuid>d9468273-c0fc-4c18-a72f-d96c43dc538d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/Paginas/Configuracion/DistribucionGeografica/frmPaises.aspx')]</value>
+      <webElementGuid>39a656c1-fd42-46ee-b6ec-a3a1acc610ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div/div/div/div[2]/div/a</value>
+      <webElementGuid>adad4e99-7b46-4c07-b421-0c066ed75e06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/Paginas/Configuracion/DistribucionGeografica/frmPaises.aspx' and (text() = '
+                        
+                        Países
+                    ' or . = '
+                        
+                        Países
+                    ')]</value>
+      <webElementGuid>35613dfb-0255-46dd-9725-954ffa5a3209</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

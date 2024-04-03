@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_6</name>
+   <tag></tag>
+   <elementGuidId>ca676a77-a909-4ddc-a661-09632b28b95b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='ctl00_ContentPlaceHolder2_grvEspecialidadesXCampo']/tbody/tr[7]/td[3]/span/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(7) > td:nth-of-type(3) > span.chkAspGeneric.chkCampo > label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>2653b901-e424-42ab-a921-a5fd6288f7bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>ctl00_ContentPlaceHolder2_grvEspecialidadesXCampo_ctl07_chkSeleccionar</value>
+      <webElementGuid>bb2c0c55-2b60-4609-8096-2350b0ef5787</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_ContentPlaceHolder2_grvEspecialidadesXCampo&quot;)/tbody[1]/tr[7]/td[3]/span[@class=&quot;chkAspGeneric chkCampo&quot;]/label[1]</value>
+      <webElementGuid>598a13c9-a6bf-4018-b6cf-09322a1dfa39</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='ctl00_ContentPlaceHolder2_grvEspecialidadesXCampo']/tbody/tr[7]/td[3]/span/label</value>
+      <webElementGuid>bbb0111f-8b58-415c-a1f6-d74a0ef3e79c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[7]/td[3]/span/label</value>
+      <webElementGuid>fb0ed71c-6558-4a47-a19d-8bf701ddebf3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

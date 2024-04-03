@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Boton buscar en oficinas</description>
+   <name>R58</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c251f661-69ed-44e7-824c-39477eb14515</testCaseGuid>
+</TestCaseEntity>

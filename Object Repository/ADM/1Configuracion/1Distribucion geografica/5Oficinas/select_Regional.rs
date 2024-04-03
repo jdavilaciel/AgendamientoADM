@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Regional</name>
+   <tag></tag>
+   <elementGuidId>159ae9f6-694b-410a-ae3e-c16abe56ce10</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='ctl00_ContentPlaceHolder2_ddlRegionales']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_ContentPlaceHolder2_ddlRegionales</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>9971b6d7-2b19-4c23-a312-966891b908ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ctl00$ContentPlaceHolder2$ddlRegionales</value>
+      <webElementGuid>25982a31-37ae-4003-be98-daa103cd1bfe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>javascript:setTimeout('__doPostBack(\'ctl00$ContentPlaceHolder2$ddlRegionales\',\'\')', 0)</value>
+      <webElementGuid>6cc6e523-f320-4133-a759-153c8a01629f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_ContentPlaceHolder2_ddlRegionales</value>
+      <webElementGuid>e6e69e39-29c5-4d86-8e50-799903d3c3fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+		-- Seleccione --
+		Bogota
+		Cali
+		Cartagena
+		Manizales
+		Medellin
+		Virtual
+		WorkFlow
+
+	</value>
+      <webElementGuid>4da922e0-85ac-4c34-b803-a5a1f4f9a3fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_ContentPlaceHolder2_ddlRegionales&quot;)</value>
+      <webElementGuid>46bcbb04-8c3b-47b4-8fca-aacab21dc13f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='ctl00_ContentPlaceHolder2_ddlRegionales']</value>
+      <webElementGuid>f00b3c63-aa4d-4f6c-b4d1-982b99fa374d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='divFiltrosCitas']/div[3]/select</value>
+      <webElementGuid>33d48229-4ea8-43c5-b49d-7b60fde0c33e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Regional:'])[1]/following::select[1]</value>
+      <webElementGuid>eb685f02-4a38-473b-85a8-077409cdd224</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nombre:'])[1]/following::select[1]</value>
+      <webElementGuid>597aff14-9f08-405f-9501-bc8c030be66e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Calendario:'])[1]/preceding::select[1]</value>
+      <webElementGuid>26dae425-1f15-4c42-ace1-d41084da17f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total:'])[1]/preceding::select[2]</value>
+      <webElementGuid>619069ff-8704-440e-8ab4-80e81c4a2772</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>a7494bb0-faf9-4726-89dd-ec67e864e37c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'ctl00$ContentPlaceHolder2$ddlRegionales' and @id = 'ctl00_ContentPlaceHolder2_ddlRegionales' and (text() = '
+		-- Seleccione --
+		Bogota
+		Cali
+		Cartagena
+		Manizales
+		Medellin
+		Virtual
+		WorkFlow
+
+	' or . = '
+		-- Seleccione --
+		Bogota
+		Cali
+		Cartagena
+		Manizales
+		Medellin
+		Virtual
+		WorkFlow
+
+	')]</value>
+      <webElementGuid>49e4cfeb-427b-46c2-a3ac-badb9a311b30</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

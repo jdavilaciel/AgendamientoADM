@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_13 Departamento de residencia</name>
+   <tag></tag>
+   <elementGuidId>b4f229e6-92d1-4b0a-8f2e-716478a25cd8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='ctl00_ContentPlaceHolder2_RadGridCamposUsuarioCliente_ctl00__12']/td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>c38264df-32d3-40ac-815b-d811dc2b08c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>align</name>
+      <type>Main</type>
+      <value>center</value>
+      <webElementGuid>10a9b23d-9a99-4c9c-9224-83b39243918a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>valign</name>
+      <type>Main</type>
+      <value>middle</value>
+      <webElementGuid>64023cca-d15d-4945-9704-325a03c25ec6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                        Departamento de residencia: 
+                                    </value>
+      <webElementGuid>465869e2-5b8a-4360-8ba7-ede3aa96a1c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_ContentPlaceHolder2_RadGridCamposUsuarioCliente_ctl00__12&quot;)/td[2]</value>
+      <webElementGuid>f5a216cf-fa1f-4c72-887b-265197b6540a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='ctl00_ContentPlaceHolder2_RadGridCamposUsuarioCliente_ctl00__12']/td[2]</value>
+      <webElementGuid>187a9ed4-9512-401f-93a8-be3690062fc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='País de residencia:'])[1]/following::td[7]</value>
+      <webElementGuid>c3fe04b6-a4ad-4ef7-b043-4071ef231f24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ciudad de residencia:'])[1]/following::td[14]</value>
+      <webElementGuid>3ef5f470-49b1-4b83-97ed-0fc883fc8d79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[13]/td[2]</value>
+      <webElementGuid>d5792082-76f1-4967-b732-82fe5641192f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '
+                                        Departamento de residencia: 
+                                    ' or . = '
+                                        Departamento de residencia: 
+                                    ')]</value>
+      <webElementGuid>41b09043-6371-40e1-b265-7b57d3a97a92</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

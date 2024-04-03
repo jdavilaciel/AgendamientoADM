@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Eliminar Servicio</description>
+   <name>R251</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d2ddb91f-8f71-47e8-878f-eb0c24c52af8</testCaseGuid>
+</TestCaseEntity>

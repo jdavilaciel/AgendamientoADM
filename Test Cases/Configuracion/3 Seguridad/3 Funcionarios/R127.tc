@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Boton eliminar funcionario</description>
+   <name>R127</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e7e55514-7b89-4c47-ae5b-269833bbd010</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Guardar, si no hay datos no guardará nada</description>
+   <name>R123</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f33b4795-2b4a-45b4-88bf-256ac3d017ee</testCaseGuid>
+</TestCaseEntity>

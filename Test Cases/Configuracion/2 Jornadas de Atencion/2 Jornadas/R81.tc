@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Jornadas, veririfcar que los elementos se encuentren presentes.</description>
+   <name>R81</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ea5b54cc-ea45-49aa-9da6-700089182d49</testCaseGuid>
+</TestCaseEntity>

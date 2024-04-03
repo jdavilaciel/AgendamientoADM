@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Boton servicios por oficina</description>
+   <name>R254</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aaf79523-bc27-4bf6-9fee-62370b3fde92</testCaseGuid>
+</TestCaseEntity>

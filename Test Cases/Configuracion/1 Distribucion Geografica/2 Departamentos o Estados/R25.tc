@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sacar Pantallazo de la tabla de Departamentos y verificar Orden ascendente (revisar captura pantalla)</description>
+   <name>R25</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f7b247ed-d5d3-44f4-b386-f48be532d4d6</testCaseGuid>
+</TestCaseEntity>

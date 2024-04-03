@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Url Agendamiento ADM</description>
+      <initValue>'https://pcpruebas101.ciel.cielingenieria.com:8615/'</initValue>
+      <name>Url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Usuario para inicio de sesión</description>
+      <initValue>'Ciel'</initValue>
+      <name>Usuario</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Contraseña para inicio de sesión</description>
+      <initValue>'Digiturno5.'</initValue>
+      <name>Clave</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Código de País Colombia</description>
+      <initValue>'1'</initValue>
+      <name>CodPais</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Para Crear País Colombia</description>
+      <initValue>'Colombia'</initValue>
+      <name>NombrePais</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Texto de prueba caracteres distintos</description>
+      <initValue>'Este es un texto de prueba 5897386*@'</initValue>
+      <name>TextoPrueba</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Campo para hacer pruebas</description>
+      <initValue>'rhfh123$%&amp;.'</initValue>
+      <name>CampoPrueba</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Identificacion para cliente</description>
+      <initValue>'12345456789'</initValue>
+      <name>ClienteIdentificacion</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Nombre para Cliente</description>
+      <initValue>'Pedro'</initValue>
+      <name>ClienteNombre</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Apellido para cliente</description>
+      <initValue>'Parada'</initValue>
+      <name>ClienteApellido</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Fecha Nacimiento cliente dd/mm/aaaa </description>
+      <initValue>'03/03/2000'</initValue>
+      <name>ClienteFechaNac</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Direccion Cliente</description>
+      <initValue>'Carrera 50 # 154-30'</initValue>
+      <name>ClienteDireccion</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Cliente Telefono Fijo</description>
+      <initValue>'6011234567'</initValue>
+      <name>ClienteTelefono</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>email cliente</description>
+      <initValue>'pedrito@gmail.com'</initValue>
+      <name>ClienteEmail</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Cliente numero de celular</description>
+      <initValue>'3194159302'</initValue>
+      <name>ClienteCelular</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'C:\\\\CIEL INGENIERIA\\\\Katalon\\\\AgendamientoADM\\\\PDF\\\\3.pdf'</initValue>
+      <name>UploadFile</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

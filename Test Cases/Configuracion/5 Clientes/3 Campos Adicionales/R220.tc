@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Boton Guardar</description>
+   <name>R220</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d735fc25-4a43-400d-b6fc-dc5f374af40a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Boton Volver en Oficinas</description>
+   <name>R65</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b4f8a1b4-c470-4aa7-9461-51554d7b1695</testCaseGuid>
+</TestCaseEntity>

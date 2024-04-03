@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Campo Código sólo debe aceptar números</description>
+   <name>R48</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bf05eab8-fd2a-4cba-b16f-f908afab6001</testCaseGuid>
+</TestCaseEntity>

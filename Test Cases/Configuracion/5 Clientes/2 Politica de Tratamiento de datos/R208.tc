@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Boton crear redirige correctamente</description>
+   <name>R208</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a67c2fae-6371-47b0-9b52-dc2c7d737d74</testCaseGuid>
+</TestCaseEntity>

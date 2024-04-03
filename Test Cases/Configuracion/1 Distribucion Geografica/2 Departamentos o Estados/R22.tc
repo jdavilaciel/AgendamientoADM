@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Campo estado validar, la aplicación no debería crear un estado con  numeros o símbolos</description>
+   <name>R22</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>03190ccb-8244-4b3e-b140-89b81b699219</testCaseGuid>
+</TestCaseEntity>

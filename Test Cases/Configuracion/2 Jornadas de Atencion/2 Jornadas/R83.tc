@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Buscar, validar con datos como 1, 11,</description>
+   <name>R83</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>975287e6-9f28-4bba-a0f7-c9f9841e9af8</testCaseGuid>
+</TestCaseEntity>

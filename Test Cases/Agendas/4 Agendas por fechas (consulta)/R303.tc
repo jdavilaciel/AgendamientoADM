@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verificar campos de tabla</description>
+   <name>R303</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6cd27d27-4d97-4718-95c2-3dfacab0a325</testCaseGuid>
+</TestCaseEntity>

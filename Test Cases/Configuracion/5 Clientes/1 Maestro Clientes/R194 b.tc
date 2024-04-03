@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Prueba de insertar con tabla excel</description>
+   <name>R194 b</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>557ac2ff-1bbc-4f69-90e2-0d969a544e42</testCaseGuid>
+</TestCaseEntity>

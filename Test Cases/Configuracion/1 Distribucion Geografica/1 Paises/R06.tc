@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Buscar páis que comienza con col y dejará ver en la lista Colombia</description>
+   <name>R06</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac7a63bb-77e1-42a7-b9c3-d76f38e34d7b</testCaseGuid>
+</TestCaseEntity>

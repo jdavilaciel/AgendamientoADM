@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Seleccionar todos</name>
+   <tag></tag>
+   <elementGuidId>29614942-e90d-4ae8-a470-01aefc1af347</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ctl00_ContentPlaceHolder2_rcbFuncionarios_DropDown']/div/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>102a1c6c-1e4c-46a8-b7e1-168f7bfac553</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Seleccionar todos</value>
+      <webElementGuid>7f5dd21b-62c7-48ab-bd3e-f0d60d67ee4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_ContentPlaceHolder2_rcbFuncionarios_DropDown&quot;)/div[@class=&quot;rcbScroll rcbWidth&quot;]/div[@class=&quot;rcbCheckAllItems&quot;]/label[1]</value>
+      <webElementGuid>b78371b5-7dbf-4849-b3c3-4c458e514633</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_ContentPlaceHolder2_rcbFuncionarios_DropDown']/div/div/label</value>
+      <webElementGuid>e6e5d978-199d-472f-a601-e1a9fb8c3114</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelar'])[1]/preceding::label[1]</value>
+      <webElementGuid>dbb9c6f8-4746-4fb4-8a79-aea7e0f3e3f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Módulo de administración'])[1]/preceding::label[1]</value>
+      <webElementGuid>7897ab82-8a92-4ee8-b06d-8f1d9ac250c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Seleccionar todos']/parent::*</value>
+      <webElementGuid>5ccb2333-9119-4104-b5f6-fc0684332a96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>ebce0daf-95e1-4079-803e-dd153d7f70ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Seleccionar todos' or . = 'Seleccionar todos')]</value>
+      <webElementGuid>8c586353-ac40-4014-9281-a1d01d7b39d8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

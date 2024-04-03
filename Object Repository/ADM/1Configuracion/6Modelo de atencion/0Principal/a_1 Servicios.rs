@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_1 Servicios</name>
+   <tag></tag>
+   <elementGuidId>231fcad2-e830-4318-9b3a-a1d5136857eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick='Utilidades.establecerEfectoHeader()']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.menuIconos > div > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>17a2e7ef-2895-422d-8455-34ae247d8e39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>idpagina</name>
+      <type>Main</type>
+      <value>28</value>
+      <webElementGuid>418372cc-90cf-43e0-b9c6-b1d51f9c0b7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/Paginas/Configuracion/ModeloAtencion/frmEspecialidades.aspx</value>
+      <webElementGuid>6ffb3455-c17a-4d11-b7eb-6132178c9e85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>Utilidades.establecerEfectoHeader()</value>
+      <webElementGuid>35cf15dd-8c7c-4639-bc5b-7d58a42f6915</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>itemnumber</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>e1227ffc-f86c-41b3-a092-515e0d4c7eb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        
+                        Servicios
+                    </value>
+      <webElementGuid>23d8798d-1ac3-4d26-80f4-b9335bdb777c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_UpdatePanel1&quot;)/div[@class=&quot;divCentral container-fluid&quot;]/div[@class=&quot;d-flex align-items-center justify-content-center&quot;]/div[@class=&quot;contenedorMenuIconos&quot;]/div[@class=&quot;menuIconos&quot;]/div[1]/a[1]</value>
+      <webElementGuid>3d2458d2-0f9d-4b7a-bb13-363e2aa53b69</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick='Utilidades.establecerEfectoHeader()']</value>
+      <webElementGuid>39c73352-2696-4151-9b31-519ed553f662</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_UpdatePanel1']/div/div/div/div[2]/div/a</value>
+      <webElementGuid>ea7eb8b1-1cd1-4bfc-8da8-669d7583d074</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Modelo de atención'])[3]/following::a[1]</value>
+      <webElementGuid>522ff806-d0cb-4fdd-821e-9355fb74d7e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Modelo de atención'])[2]/following::a[2]</value>
+      <webElementGuid>92865649-0ce9-419f-89c8-7a19a30aca6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Servicios por oficinas'])[2]/preceding::a[1]</value>
+      <webElementGuid>ac097c27-302f-4355-ad9c-1338c37fd17b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/Paginas/Configuracion/ModeloAtencion/frmEspecialidades.aspx')]</value>
+      <webElementGuid>f656c9f9-327c-4d76-a6f1-f8076615b9bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div/div/div/div[2]/div/a</value>
+      <webElementGuid>ce0aeee0-14c5-43dc-b025-53f35f10c236</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/Paginas/Configuracion/ModeloAtencion/frmEspecialidades.aspx' and (text() = '
+                        
+                        Servicios
+                    ' or . = '
+                        
+                        Servicios
+                    ')]</value>
+      <webElementGuid>3d40cce6-e21a-4611-bd63-75f8e69a37f1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

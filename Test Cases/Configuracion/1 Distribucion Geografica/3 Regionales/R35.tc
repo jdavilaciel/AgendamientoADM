@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validar campo codigo y campo nombre regional al crear</description>
+   <name>R35</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d1b077c1-c457-4d40-ac23-d567fda06164</testCaseGuid>
+</TestCaseEntity>

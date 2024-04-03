@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verificar campos al crear plantilla</description>
+   <name>R264a</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>016c6d14-ab5a-4b81-a70a-13ee69bef8c1</testCaseGuid>
+</TestCaseEntity>

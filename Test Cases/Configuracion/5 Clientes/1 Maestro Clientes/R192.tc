@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Boton nuevo cliente</description>
+   <name>R192</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>afba547d-08c2-48b6-be5e-2542fd2a684e</testCaseGuid>
+</TestCaseEntity>

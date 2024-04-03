@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Texto de prueba en Campo de Mensaje Principal</description>
+   <name>R158</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>45328a1c-97bf-4503-b3b0-361bcd9ad73f</testCaseGuid>
+</TestCaseEntity>

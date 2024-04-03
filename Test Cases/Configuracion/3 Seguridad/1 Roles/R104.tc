@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Botón Limpiar</description>
+   <name>R104</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0e733764-ca09-484c-bf71-452a34c854a4</testCaseGuid>
+</TestCaseEntity>

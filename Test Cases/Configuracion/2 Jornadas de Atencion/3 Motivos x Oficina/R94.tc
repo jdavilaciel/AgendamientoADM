@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Boton Limpiar, limpiara datos ingresados</description>
+   <name>R94</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bbca4844-f82e-4be3-9098-41f6fa314b23</testCaseGuid>
+</TestCaseEntity>

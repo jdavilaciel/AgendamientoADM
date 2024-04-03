@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_2 afiliados</name>
+   <tag></tag>
+   <elementGuidId>fd90b0d1-cb63-4f27-ba33-b92bd4d5901b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='ctl00_ContentPlaceHolder2_gvRoles']/tbody/tr[3]/td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>01ddd490-11b4-437d-82b7-2f6de2ddf8f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-none d-md-table-cell</value>
+      <webElementGuid>f32d66d5-5030-403b-9eb1-b53f123faa79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>align</name>
+      <type>Main</type>
+      <value>center</value>
+      <webElementGuid>b5903f4c-14db-4b9a-92be-730b411e8771</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>valign</name>
+      <type>Main</type>
+      <value>middle</value>
+      <webElementGuid>954ef5c2-1016-4e96-8cd6-1c0d7751fefa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>afiliados</value>
+      <webElementGuid>6ec9541d-95bc-4ef7-af65-1d18d15c0c85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_ContentPlaceHolder2_gvRoles&quot;)/tbody[1]/tr[@class=&quot;trClick&quot;]/td[@class=&quot;d-none d-md-table-cell&quot;]</value>
+      <webElementGuid>0ac8f403-06c7-4831-b50a-a75abb73d033</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='ctl00_ContentPlaceHolder2_gvRoles']/tbody/tr[3]/td[2]</value>
+      <webElementGuid>cedb0130-944b-4ff3-8ef1-c0ea66b5eedd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='afiliados'])[1]/following::td[1]</value>
+      <webElementGuid>53c7d940-05f1-42aa-8224-fce99080a8cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perfil único del usuario CIEL de Agendamiento. No se puede modificar y/o eliminar.'])[1]/following::td[3]</value>
+      <webElementGuid>b437cdcc-0dce-4a5e-8399-64be7194760f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perfil requerido para la creaciÃ³n de afiliados. No se puede modificar y/o eliminar.'])[1]/preceding::td[1]</value>
+      <webElementGuid>4dd51d99-d269-41ec-809f-13f47c8b749c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/table/tbody/tr[3]/td[2]</value>
+      <webElementGuid>7438174a-73e3-4faa-87c0-67a6cbd79f1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'afiliados' or . = 'afiliados')]</value>
+      <webElementGuid>e59fffd1-66e3-411b-804f-e6241923754a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

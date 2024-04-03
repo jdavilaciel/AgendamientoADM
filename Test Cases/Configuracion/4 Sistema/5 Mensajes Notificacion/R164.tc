@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Campo Nombre mensaje debe aceptar sólo caracteres alfabéticos</description>
+   <name>R164</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>af871c9e-3114-4e95-a7b4-414b921b6a37</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Codigo</name>
+   <tag></tag>
+   <elementGuidId>d2babfe7-2dfd-480d-a902-40952cca2c27</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick=&quot;Telerik.Web.UI.Grid.Sort($find('ctl00_ContentPlaceHolder2_RadGrid1_ctl00'), 'Codigo'); return false;&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;Click here to sort&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a2b095d8-4224-444b-a651-e425845a344b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>Telerik.Web.UI.Grid.Sort($find('ctl00_ContentPlaceHolder2_RadGrid1_ctl00'), 'Codigo'); return false;</value>
+      <webElementGuid>83ab2d32-f1a0-4ec7-8a81-909e92b89e97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Click here to sort</value>
+      <webElementGuid>8271270d-1a81-4e0c-a1f7-e9cb53e0d556</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:__doPostBack('ctl00$ContentPlaceHolder2$RadGrid1$ctl00$ctl02$ctl01$ctl00','')</value>
+      <webElementGuid>384f64d4-4c55-4d4a-8aff-b56c0c2fac2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Código</value>
+      <webElementGuid>c043b395-f968-4855-ab9a-38d96221f1f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_ContentPlaceHolder2_RadGrid1_ctl00_Header&quot;)/thead[1]/tr[1]/th[@class=&quot;rgHeader&quot;]/a[1]</value>
+      <webElementGuid>12b98e8d-90db-409c-9475-96544e3fdfa5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick=&quot;Telerik.Web.UI.Grid.Sort($find('ctl00_ContentPlaceHolder2_RadGrid1_ctl00'), 'Codigo'); return false;&quot;]</value>
+      <webElementGuid>9e90d3db-5eb5-476e-93ff-c7eb0841c6a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='ctl00_ContentPlaceHolder2_RadGrid1_ctl00_Header']/thead/tr/th[2]/a</value>
+      <webElementGuid>fb1b5e2a-230a-42a2-8364-afddae627f1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Código')]</value>
+      <webElementGuid>c6df1331-8477-4b5c-9550-ea716fdb41e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Editar'])[1]/following::a[1]</value>
+      <webElementGuid>17cf7f59-e3e8-436a-b236-cf0ddfb0bace</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lista de parámetros generales'])[1]/following::a[1]</value>
+      <webElementGuid>24462d91-d8f9-42b3-8ee7-49367189e77b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nombre Parámetro'])[1]/preceding::a[1]</value>
+      <webElementGuid>02417f03-690b-400d-aeac-f6b2fb2e7488</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Valor1'])[1]/preceding::a[2]</value>
+      <webElementGuid>a2f442bd-ffa3-4a10-a575-33ed3328e210</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Código']/parent::*</value>
+      <webElementGuid>5415b46f-0a43-4e71-9d25-abe140dfb9b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, &quot;javascript:__doPostBack('ctl00$ContentPlaceHolder2$RadGrid1$ctl00$ctl02$ctl01$ctl00','')&quot;)]</value>
+      <webElementGuid>a2cb0c7e-70cb-4727-af41-860769f20d35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[2]/a</value>
+      <webElementGuid>a7208e30-b45a-491f-9474-78624468b84c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Click here to sort' and @href = concat(&quot;javascript:__doPostBack(&quot; , &quot;'&quot; , &quot;ctl00$ContentPlaceHolder2$RadGrid1$ctl00$ctl02$ctl01$ctl00&quot; , &quot;'&quot; , &quot;,&quot; , &quot;'&quot; , &quot;&quot; , &quot;'&quot; , &quot;)&quot;) and (text() = 'Código' or . = 'Código')]</value>
+      <webElementGuid>22cacc58-f3d1-462b-8d54-128633e11ad2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

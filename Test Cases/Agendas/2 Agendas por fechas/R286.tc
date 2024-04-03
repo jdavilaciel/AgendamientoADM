@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Eliminar suspendidas</description>
+   <name>R286</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b890bee2-dad3-471d-99aa-46a32544442f</testCaseGuid>
+</TestCaseEntity>

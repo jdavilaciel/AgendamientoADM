@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_5 Numero documento</name>
+   <tag></tag>
+   <elementGuidId>8dba508e-2cfa-465c-a5eb-96c01bd7d43a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='ctl00_ContentPlaceHolder2_RadGridCamposUsuarioCliente_ctl00__4']/td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>e2b8aa6b-5cb4-43ed-996d-2aadcaa08976</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>align</name>
+      <type>Main</type>
+      <value>center</value>
+      <webElementGuid>3f165140-af01-4504-99a9-04b264a6565d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>valign</name>
+      <type>Main</type>
+      <value>middle</value>
+      <webElementGuid>bbdcc061-71e0-4498-b6c3-cbbed27b8f1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                        Numero documento: 
+                                    </value>
+      <webElementGuid>c32e08fe-ffca-464c-a223-ac3170090f2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_ContentPlaceHolder2_RadGridCamposUsuarioCliente_ctl00__4&quot;)/td[2]</value>
+      <webElementGuid>75197150-cc38-408c-99f4-d6d5e73e4829</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='ctl00_ContentPlaceHolder2_RadGridCamposUsuarioCliente_ctl00__4']/td[2]</value>
+      <webElementGuid>d6705494-629b-465a-9de3-963af9b0045c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('^[^\d_|!???', '&quot;', '?$%&amp;()\\\/??#=?\{\}\[\]\^;,:.\-&lt;>@~\+\*]+$')])[2]/following::td[6]</value>
+      <webElementGuid>f1ebca3e-6c57-4de2-87b3-30d51a3e320c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apellidos:'])[1]/following::td[7]</value>
+      <webElementGuid>7c44c695-db7d-41d7-b329-50090286cc96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='^[0-9]{4,10}$'])[1]/preceding::td[1]</value>
+      <webElementGuid>e5b91e3d-84d5-4d5b-ad40-6d11e3c80e83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/table/tbody/tr[5]/td[2]</value>
+      <webElementGuid>b1fee2e7-8104-4f89-a126-760079e0958a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '
+                                        Numero documento: 
+                                    ' or . = '
+                                        Numero documento: 
+                                    ')]</value>
+      <webElementGuid>571ec911-9e20-4c96-8a2d-4e299af4ae88</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

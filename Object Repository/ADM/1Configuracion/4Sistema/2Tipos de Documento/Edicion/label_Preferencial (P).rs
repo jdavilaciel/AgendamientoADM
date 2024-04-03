@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Preferencial (P)</name>
+   <tag></tag>
+   <elementGuidId>b5310cad-57a9-4c36-b480-ac822b39aa03</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='ctl00_ContentPlaceHolder2_chlTiposCliente']/tbody/tr[2]/td/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>f15a8fb6-c0e8-4810-8d33-f4690ad10416</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>ctl00_ContentPlaceHolder2_chlTiposCliente_1</value>
+      <webElementGuid>7eb74f62-790a-42ad-a63a-a2f94181bf90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Preferencial (P)</value>
+      <webElementGuid>1887d230-f9ea-45d9-bfff-7b18903a5639</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_ContentPlaceHolder2_chlTiposCliente&quot;)/tbody[1]/tr[2]/td[1]/label[1]</value>
+      <webElementGuid>d9d96140-5e83-4bf6-a1c1-7b3c849092a4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='ctl00_ContentPlaceHolder2_chlTiposCliente']/tbody/tr[2]/td/label</value>
+      <webElementGuid>719a2b05-7db0-490b-92d0-fe204d45a8b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='General (G)'])[1]/following::label[1]</value>
+      <webElementGuid>fe73078d-3156-4dd7-9fef-3825d6391e6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo Cliente:'])[1]/following::label[2]</value>
+      <webElementGuid>f568096b-26c1-414a-97d0-8f4c487b31f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lista de Tipos Documento'])[1]/preceding::label[1]</value>
+      <webElementGuid>a6f927ca-e8a8-4993-8718-7729a94145a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Preferencial (P)']/parent::*</value>
+      <webElementGuid>09829ae6-4719-4b8b-934a-9d49d279db5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td/label</value>
+      <webElementGuid>3468d1e4-175b-426b-a005-b7b750e32155</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Preferencial (P)' or . = 'Preferencial (P)')]</value>
+      <webElementGuid>846a0aba-e2d6-4e01-835a-7ae60fb99d14</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

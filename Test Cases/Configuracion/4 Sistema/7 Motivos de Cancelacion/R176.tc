@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Campo nombre caracteres alfabeticos</description>
+   <name>R176</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>21c34dbf-7e09-4c96-923e-74010a7fd09b</testCaseGuid>
+</TestCaseEntity>

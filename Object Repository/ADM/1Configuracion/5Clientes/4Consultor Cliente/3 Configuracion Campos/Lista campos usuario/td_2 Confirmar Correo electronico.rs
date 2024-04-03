@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_2 Confirmar Correo electronico</name>
+   <tag></tag>
+   <elementGuidId>50312b64-2ef5-414b-be87-f5c11a1014a5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='ctl00_ContentPlaceHolder2_RadGridCamposUsuarioCliente_ctl00__1']/td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>34ef088e-1a9d-48cd-a273-2723502d236b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>align</name>
+      <type>Main</type>
+      <value>center</value>
+      <webElementGuid>123008da-6f83-4231-a4fe-5bcca94f20d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>valign</name>
+      <type>Main</type>
+      <value>middle</value>
+      <webElementGuid>b44d1e2a-04d4-48e5-949d-c692bbbd7138</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                        Confirmar Correo electr?nico: 
+                                    </value>
+      <webElementGuid>06aeb623-ec75-4c0a-ba6d-ecf6e6697ed1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_ContentPlaceHolder2_RadGridCamposUsuarioCliente_ctl00__1&quot;)/td[2]</value>
+      <webElementGuid>17020eb3-fb26-4149-abdf-d424778f7ccb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='ctl00_ContentPlaceHolder2_RadGridCamposUsuarioCliente_ctl00__1']/td[2]</value>
+      <webElementGuid>5ef0ef58-8a39-46eb-bf10-1b379114b882</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('\w+([-+.', &quot;'&quot;, ']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*')])[1]/following::td[6]</value>
+      <webElementGuid>b4702ed9-a9bb-4980-9c97-723d03bebd8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Correo electrónico:'])[1]/following::td[7]</value>
+      <webElementGuid>62fc1051-7c4f-4eeb-826b-aad99dce9a3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('\w+([-+.', &quot;'&quot;, ']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*')])[2]/preceding::td[1]</value>
+      <webElementGuid>0ac51716-d11d-4d06-bb43-5dc9ac3861de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/table/tbody/tr[2]/td[2]</value>
+      <webElementGuid>c26d0a32-f05f-4bb7-a087-13205f256c1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '
+                                        Confirmar Correo electr?nico: 
+                                    ' or . = '
+                                        Confirmar Correo electr?nico: 
+                                    ')]</value>
+      <webElementGuid>0bf7409c-0bb7-4009-8719-9e762c555c78</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

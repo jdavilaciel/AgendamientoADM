@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Boton eliminar</description>
+   <name>R275</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fd78ae5c-660e-449a-9c43-af26b5c93327</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>click_Filtro</name>
+   <tag></tag>
+   <elementGuidId>71518142-f7f4-4153-b86f-25e19af3c55a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='ctl00_ContentPlaceHolder2_RadGrid1_ctl00_ctl02_ctl02_Filter_NombreTipoEspecialidad']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_ContentPlaceHolder2_RadGrid1_ctl00_ctl02_ctl02_Filter_NombreTipoEspecialidad > span.t-font-icon.rgIcon.rgFilterIcon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a68126d7-7cc4-442a-afa7-79196107148d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-font-icon rgIcon rgFilterIcon</value>
+      <webElementGuid>695dc344-996d-45b7-bebf-b657c98b8047</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_ContentPlaceHolder2_RadGrid1_ctl00_ctl02_ctl02_Filter_NombreTipoEspecialidad&quot;)/span[@class=&quot;t-font-icon rgIcon rgFilterIcon&quot;]</value>
+      <webElementGuid>378a869a-04d8-4c84-977f-2ed2785db264</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='ctl00_ContentPlaceHolder2_RadGrid1_ctl00_ctl02_ctl02_Filter_NombreTipoEspecialidad']/span</value>
+      <webElementGuid>d4d7ec97-f3bd-4261-b3e6-db15f338183a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/button/span</value>
+      <webElementGuid>bb9da74c-3422-4845-b672-250fc12bdfa2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

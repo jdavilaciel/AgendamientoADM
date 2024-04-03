@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Boton Limpiar Estados o Departamentos</description>
+   <name>R20</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3f73a801-6d68-45a7-83bc-0d317b5bb803</testCaseGuid>
+</TestCaseEntity>

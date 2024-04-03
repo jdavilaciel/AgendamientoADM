@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verificar botones en agendas por fechas</description>
+   <name>R280</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cd97b315-a249-46d6-ad92-7fdbbd9801fe</testCaseGuid>
+</TestCaseEntity>

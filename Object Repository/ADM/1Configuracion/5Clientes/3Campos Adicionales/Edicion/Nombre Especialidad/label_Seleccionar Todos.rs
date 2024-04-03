@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Seleccionar Todos</name>
+   <tag></tag>
+   <elementGuidId>ed15c934-d07e-453a-b60f-bf00a0d7bf2b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='ctl00_ContentPlaceHolder2_grvEspecialidadesXCampo']/tbody/tr/th[3]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>th:nth-of-type(3) > label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>2b98d059-cf80-427f-b9ae-4af50c99c5f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>ctl00_ContentPlaceHolder2_grvEspecialidadesXCampo_ctl01_chkSelTodo</value>
+      <webElementGuid>c84aeca7-8f2f-475b-8370-708b898e3655</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_ContentPlaceHolder2_grvEspecialidadesXCampo&quot;)/tbody[1]/tr[1]/th[3]/label[1]</value>
+      <webElementGuid>efe62ac8-15e5-41e2-a892-1a2db0d6845c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='ctl00_ContentPlaceHolder2_grvEspecialidadesXCampo']/tbody/tr/th[3]/label</value>
+      <webElementGuid>7a346611-75b5-4c18-b43c-120726abd9cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[3]/label</value>
+      <webElementGuid>7499a6e5-ffb5-4164-87dd-056050b13b2d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

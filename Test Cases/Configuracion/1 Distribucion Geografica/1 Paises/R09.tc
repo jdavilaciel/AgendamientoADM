@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Se colocan números y distintos caracteres, en el nombre para confirmar que la aplicación no aceptará la creación del país.</description>
+   <name>R09</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b324d3f0-84b7-473f-917c-1688434676c6</testCaseGuid>
+</TestCaseEntity>

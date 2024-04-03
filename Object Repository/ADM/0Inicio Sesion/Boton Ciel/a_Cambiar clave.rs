@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Cambiar clave</name>
+   <tag></tag>
+   <elementGuidId>85ffcf7d-f746-44e5-881c-a74b87491f3d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='ctl00_hlkCambiarClave']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_hlkCambiarClave</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>11751719-f8e9-45a9-8d42-45742a67a0b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_hlkCambiarClave</value>
+      <webElementGuid>1fa4a1f8-aa39-454f-b93b-d02fea5d8ffe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>Autenticacion/frmCambiarClave.aspx</value>
+      <webElementGuid>b91cd468-47c9-4709-9ebc-7de39922bffc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cambiar clave</value>
+      <webElementGuid>0e749419-990a-4532-8ff7-c1764c1e4fad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_hlkCambiarClave&quot;)</value>
+      <webElementGuid>9fe81726-cd23-42ac-ab21-9955604ab97d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='ctl00_hlkCambiarClave']</value>
+      <webElementGuid>946cd290-3981-4572-af66-ce11f8d527c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='aspnetForm']/div[3]/div[2]/div/div/div[2]/div[2]/div[2]/a[2]</value>
+      <webElementGuid>ed3eb446-2a21-438b-9f33-b70aa648beb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Cambiar clave')]</value>
+      <webElementGuid>09be1950-4b3c-4116-9115-adbf5f18a2b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cerrar sesión'])[1]/following::a[1]</value>
+      <webElementGuid>19b542a3-bef1-4c71-a05b-91a70c526b4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CIEL'])[1]/following::a[2]</value>
+      <webElementGuid>5970a411-9ac3-4422-b6fc-31a38fc41ee8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inicio'])[1]/preceding::a[3]</value>
+      <webElementGuid>0f0fa573-004c-4a8a-804e-8727d6414dc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Configuración'])[1]/preceding::a[4]</value>
+      <webElementGuid>5c3ac094-1769-495e-999b-4f1b034fcfb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cambiar clave']/parent::*</value>
+      <webElementGuid>b82a2c55-cc1e-474d-9479-08d7360cd9e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'Autenticacion/frmCambiarClave.aspx')]</value>
+      <webElementGuid>8fb0b1b1-b72f-48ea-ac54-1df10bb54d2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]</value>
+      <webElementGuid>805deda5-ffd6-4f87-a3dd-64d445bcc47f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'ctl00_hlkCambiarClave' and @href = 'Autenticacion/frmCambiarClave.aspx' and (text() = 'Cambiar clave' or . = 'Cambiar clave')]</value>
+      <webElementGuid>69312546-4e55-4f15-9fc7-c6f3a7947367</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

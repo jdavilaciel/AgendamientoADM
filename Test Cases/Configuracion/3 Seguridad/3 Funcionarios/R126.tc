@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verificar los elementos existentes al editar</description>
+   <name>R126</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d620cb57-ac40-4b0e-a89a-f174d43d4b80</testCaseGuid>
+</TestCaseEntity>

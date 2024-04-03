@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Creación Ciudad con un nombre con números y símbolos</description>
+   <name>R61</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b4f980a4-0a33-4f66-9bb2-9ae766c7c7b1</testCaseGuid>
+</TestCaseEntity>

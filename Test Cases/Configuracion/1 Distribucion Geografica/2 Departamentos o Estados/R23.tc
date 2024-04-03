@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>La aplicación no debería permitir un estado con el mismo código</description>
+   <name>R23</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>146eb462-402c-42da-a6cf-a0807fc5e4cb</testCaseGuid>
+</TestCaseEntity>

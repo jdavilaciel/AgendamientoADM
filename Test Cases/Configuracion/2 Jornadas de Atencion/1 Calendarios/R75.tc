@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Crear Nuevo Calendario</description>
+   <name>R75</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fc2a2414-25c5-417f-9dc7-c1231b6b6fce</testCaseGuid>
+</TestCaseEntity>

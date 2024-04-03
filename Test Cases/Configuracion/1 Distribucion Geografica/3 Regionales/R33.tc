@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Boton Limpiar en la busqueda en Regionales</description>
+   <name>R33</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c6aacfd4-99a8-4a24-a225-b723a56d3983</testCaseGuid>
+</TestCaseEntity>

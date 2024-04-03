@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Habilitado</name>
+   <tag></tag>
+   <elementGuidId>a3eb5b56-69e0-49af-b399-2b010dc8d833</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ctl00_UpdatePanel1']/div/div/div[2]/div/div[2]/div/div/span/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.cajaContenido > div > div.divCheckBox > span > label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>80364634-8961-462d-88a9-92dec0f37427</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>ctl00_ContentPlaceHolder2_chkMsjAdmin</value>
+      <webElementGuid>a7935524-9dad-4a80-aca0-6fa28d8cb6f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Habilitado: </value>
+      <webElementGuid>864a4d2c-a87f-4a35-9c32-c1a8b3b83a51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_UpdatePanel1&quot;)/div[@class=&quot;divCentral container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 col-md-7 col-lg-8 col-xxl-8&quot;]/div[@class=&quot;caja&quot;]/div[@class=&quot;cajaContenido&quot;]/div[1]/div[@class=&quot;divCheckBox&quot;]/span[1]/label[1]</value>
+      <webElementGuid>1d974eea-6374-4d32-a306-adf753c0b34f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_UpdatePanel1']/div/div/div[2]/div/div[2]/div/div/span/label</value>
+      <webElementGuid>86886e64-bfb3-4c07-bf63-fe6d075f2f01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ventana Modal Administradores'])[1]/following::label[1]</value>
+      <webElementGuid>b2371c92-4aaa-4a96-91fc-2b38ad02deab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mensaje Adicional'])[1]/following::label[1]</value>
+      <webElementGuid>2942f09c-d158-4b96-aede-78cee7c4f0db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mensaje Principal'])[2]/preceding::label[1]</value>
+      <webElementGuid>801e1371-6c70-4c9c-a6b2-f6ba0cb3d7a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/span/label</value>
+      <webElementGuid>3d30f251-8d5c-4566-8300-35c469b1c32e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Habilitado: ' or . = 'Habilitado: ')]</value>
+      <webElementGuid>0e554c8e-084b-4f2f-a2bd-65316ca987b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

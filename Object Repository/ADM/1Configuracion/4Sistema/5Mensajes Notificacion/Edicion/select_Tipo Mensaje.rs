@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Tipo Mensaje</name>
+   <tag></tag>
+   <elementGuidId>be2682ff-02b6-4251-be0d-0dd1dcaa1347</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='ctl00_ContentPlaceHolder2_ddlTipoMensaje']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_ContentPlaceHolder2_ddlTipoMensaje</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>85d6ae82-87a5-400f-ae3b-33dd1e36675f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ctl00$ContentPlaceHolder2$ddlTipoMensaje</value>
+      <webElementGuid>bb380735-ac05-40c4-9b63-1294b4052411</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_ContentPlaceHolder2_ddlTipoMensaje</value>
+      <webElementGuid>d05d69bc-1dab-4dad-bef3-54f1c6cdb012</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+			Notificacion
+			Cancelacion
+
+		</value>
+      <webElementGuid>5bdc8a07-4079-4c0d-86ea-d1a4f571db6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_ContentPlaceHolder2_ddlTipoMensaje&quot;)</value>
+      <webElementGuid>d054d43f-d59f-4793-942f-c2bc0bddd42b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='ctl00_ContentPlaceHolder2_ddlTipoMensaje']</value>
+      <webElementGuid>4e623db4-16bf-45ba-bcd5-17013a2d8685</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='divRolEdit']/div/div[2]/table/tbody/tr[2]/td[2]/select</value>
+      <webElementGuid>f373efbd-2f30-404a-9b7a-ca17ae924a66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo Mensaje:'])[1]/following::select[1]</value>
+      <webElementGuid>9842c186-e139-4825-bfe0-c711f005ccd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::select[1]</value>
+      <webElementGuid>6fc05757-d639-4276-bf05-977c3462b1fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mensaje:'])[1]/preceding::select[1]</value>
+      <webElementGuid>a51d2c8e-e2ab-435b-894a-7d78c2409b62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elemetos Disponibles Mensaje:'])[1]/preceding::select[1]</value>
+      <webElementGuid>bd8f7473-64cc-43f8-a615-8b8a3ec557fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>bf1c6266-0fa5-44eb-afd2-c1b9a0ff69cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'ctl00$ContentPlaceHolder2$ddlTipoMensaje' and @id = 'ctl00_ContentPlaceHolder2_ddlTipoMensaje' and (text() = '
+			Notificacion
+			Cancelacion
+
+		' or . = '
+			Notificacion
+			Cancelacion
+
+		')]</value>
+      <webElementGuid>0570d241-b043-4023-889d-7af02a8f9a4c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
