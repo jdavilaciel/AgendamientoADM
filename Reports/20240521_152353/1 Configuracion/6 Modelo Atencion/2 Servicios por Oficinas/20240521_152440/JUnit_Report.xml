@@ -1,0 +1,1731 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="2 Servicios por Oficinas" time="301.589" tests="7" failures="6" errors="0">
+   <testsuite name="2 Servicios por Oficinas" tests="7" failures="6" errors="0" time="301.589" skipped="0" timestamp="2024-05-21 17:15:59" hostname="jdavila - PCPruebas101.ciel.cielingenieria.com" id="Test Suites/1 Configuracion/6 Modelo Atencion/2 Servicios por Oficinas">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\2 Servicios por Oficinas\\20240521_152440"/>
+         <property name="logFiles" value="C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\2 Servicios por Oficinas\\20240521_152440\\execution0.log"/>
+         <property name="attachments" value="C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\2 Servicios por Oficinas\\20240521_152440\\1716329787406.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\2 Servicios por Oficinas\\20240521_152440\\1716329787527.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\2 Servicios por Oficinas\\20240521_152440\\1716329812895.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\2 Servicios por Oficinas\\20240521_152440\\1716329818072.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\2 Servicios por Oficinas\\20240521_152440\\1716329872595.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\2 Servicios por Oficinas\\20240521_152440\\1716329926750.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\2 Servicios por Oficinas\\20240521_152440\\1716329980771.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\2 Servicios por Oficinas\\20240521_152440\\1716330034786.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\2 Servicios por Oficinas\\20240521_152440\\1716330060763.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\2 Servicios por Oficinas\\20240521_152440\\1716330060857.png"/>
+         <property name="hostName" value="jdavila - PCPruebas101.ciel.cielingenieria.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.9.208"/>
+         <property name="browser" value="Chrome 124.0.0.0"/>
+         <property name="hostAddress" value="192.168.91.13"/>
+         <property name="sessionId" value="3f369b4e47df85d4f06c55847dbc8838"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Configuracion/6 Modelo Atencion/2 Servicios Por oficinas/R254" time="28.045" classname="Test Cases/Configuracion/6 Modelo Atencion/2 Servicios Por oficinas/R254" status="FAILED">
+         <failure type="FAILED" message="Test Cases/Configuracion/6 Modelo Atencion/2 Servicios Por oficinas/R254 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_1 G.G.Informacion_Editar' is present
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.verifyElementPresent(VerifyElementPresentKeyword.groovy:92)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.execute(VerifyElementPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementPresent(WebUiBuiltInKeywords.groovy:1464)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementPresent$4.call(Unknown Source)
+	at R254.run(R254:40)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323080097.run(TempTestSuite1716323080097.groovy:35)
+Caused by: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_1 G.G.Informacion_Editar' located by '//a[@id='ctl00_ContentPlaceHolder2_gvEspecialidades_ctl02_btnEdit']' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.doCall(VerifyElementPresentKeyword.groovy:85)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.call(VerifyElementPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+"/>
+         <system-out><![CDATA[2024-05-21 17:15:59 - [TEST_CASE][FAILED] - Test Cases/Configuracion/6 Modelo Atencion/2 Servicios Por oficinas/R254: Test Cases/Configuracion/6 Modelo Atencion/2 Servicios Por oficinas/R254 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_1 G.G.Informacion_Editar' is present
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.verifyElementPresent(VerifyElementPresentKeyword.groovy:92)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.execute(VerifyElementPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementPresent(WebUiBuiltInKeywords.groovy:1464)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementPresent$4.call(Unknown Source)
+	at R254.run(R254:40)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323080097.run(TempTestSuite1716323080097.groovy:35)
+Caused by: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_1 G.G.Informacion_Editar' located by '//a[@id='ctl00_ContentPlaceHolder2_gvEspecialidades_ctl02_btnEdit']' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.doCall(VerifyElementPresentKeyword.groovy:85)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.call(VerifyElementPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+
+
+2024-05-21 17:15:59 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 17:16:00 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 17:16:00 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 17:16:01 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 17:16:01 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 17:16:04 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 17:16:04 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 17:16:04 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 17:16:04 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:16:06 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:16:06 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 17:16:07 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 17:16:07 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:16:09 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:16:09 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 17:16:10 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 17:16:10 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:16:12 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:16:12 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 17:16:12 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 17:16:12 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 17:16:15 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 17:16:15 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 17:16:15 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 17:16:16 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 17:16:16 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:16:18 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:16:18 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_6 Modelo de atencion")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_6 Modelo de atencion' is clicked on
+
+2024-05-21 17:16:18 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_6 Modelo de atencion' is clicked on
+
+2024-05-21 17:16:18 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:16:20 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:16:20 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/6Modelo de atencion/0Principal/a_2 Servicios por oficinas"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/0Principal/a_2 Servicios por oficinas' is clicked on
+
+2024-05-21 17:16:21 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/0Principal/a_2 Servicios por oficinas' is clicked on
+
+2024-05-21 17:16:21 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:16:23 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:16:23 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/select_Direccion Seccional(oficina)"), 2): Object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/select_Direccion Seccional(oficina)' is present
+
+2024-05-21 17:16:23 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/select_Direccion Seccional(oficina)' is present
+
+2024-05-21 17:16:23 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/select_Tipo Cliente"), 2): Object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/select_Tipo Cliente' is present
+
+2024-05-21 17:16:24 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/select_Tipo Cliente' is present
+
+2024-05-21 17:16:24 - [TEST_STEP][FAILED] - verifyElementPresent(findTestObject("ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_1 G.G.Informacion_Editar"), 2): Unable to verify object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_1 G.G.Informacion_Editar' is present (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_1 G.G.Informacion_Editar' is present
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.verifyElementPresent(VerifyElementPresentKeyword.groovy:92)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.execute(VerifyElementPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementPresent(WebUiBuiltInKeywords.groovy:1464)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementPresent$4.call(Unknown Source)
+	at R254.run(R254:40)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323080097.run(TempTestSuite1716323080097.groovy:35)
+Caused by: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_1 G.G.Informacion_Editar' located by '//a[@id='ctl00_ContentPlaceHolder2_gvEspecialidades_ctl02_btnEdit']' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.doCall(VerifyElementPresentKeyword.groovy:85)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.call(VerifyElementPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+)
+
+2024-05-21 17:16:27 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //a[@id='ctl00_ContentPlaceHolder2_gvEspecialidades_ctl02_btnEdit']'. Please recheck the objects properties to make sure the desired element is located. 
+
+2024-05-21 17:16:27 - [MESSAGE][FAILED] - com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_1 G.G.Informacion_Editar' located by '//a[@id='ctl00_ContentPlaceHolder2_gvEspecialidades_ctl02_btnEdit']' not found (Root cause: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_1 G.G.Informacion_Editar' located by '//a[@id='ctl00_ContentPlaceHolder2_gvEspecialidades_ctl02_btnEdit']' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.doCall(VerifyElementPresentKeyword.groovy:85)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.call(VerifyElementPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.verifyElementPresent(VerifyElementPresentKeyword.groovy:92)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.execute(VerifyElementPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementPresent(WebUiBuiltInKeywords.groovy:1464)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementPresent$4.call(Unknown Source)
+	at R254.run(R254:40)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323080097.run(TempTestSuite1716323080097.groovy:35)
+)
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\2 Servicios por Oficinas\\20240521_152440\\1716329787406.png]]
+
+2024-05-21 17:16:27 - [MESSAGE][FAILED] - Unable to verify object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_1 G.G.Informacion_Editar' is present (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_1 G.G.Informacion_Editar' is present
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.verifyElementPresent(VerifyElementPresentKeyword.groovy:92)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.execute(VerifyElementPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementPresent(WebUiBuiltInKeywords.groovy:1464)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementPresent$4.call(Unknown Source)
+	at R254.run(R254:40)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323080097.run(TempTestSuite1716323080097.groovy:35)
+Caused by: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_1 G.G.Informacion_Editar' located by '//a[@id='ctl00_ContentPlaceHolder2_gvEspecialidades_ctl02_btnEdit']' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.doCall(VerifyElementPresentKeyword.groovy:85)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.call(VerifyElementPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+)
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\2 Servicios por Oficinas\\20240521_152440\\1716329787527.png]]
+
+2024-05-21 17:16:27 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[2024-05-21 17:15:59 - [TEST_CASE][FAILED] - Test Cases/Configuracion/6 Modelo Atencion/2 Servicios Por oficinas/R254: Test Cases/Configuracion/6 Modelo Atencion/2 Servicios Por oficinas/R254 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_1 G.G.Informacion_Editar' is present
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.verifyElementPresent(VerifyElementPresentKeyword.groovy:92)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.execute(VerifyElementPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementPresent(WebUiBuiltInKeywords.groovy:1464)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementPresent$4.call(Unknown Source)
+	at R254.run(R254:40)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323080097.run(TempTestSuite1716323080097.groovy:35)
+Caused by: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_1 G.G.Informacion_Editar' located by '//a[@id='ctl00_ContentPlaceHolder2_gvEspecialidades_ctl02_btnEdit']' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.doCall(VerifyElementPresentKeyword.groovy:85)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.call(VerifyElementPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/6 Modelo Atencion/2 Servicios Por oficinas/R255" time="30.937" classname="Test Cases/Configuracion/6 Modelo Atencion/2 Servicios Por oficinas/R255" status="PASSED">
+         <system-out><![CDATA[2024-05-21 17:16:27 - [TEST_CASE][PASSED] - Test Cases/Configuracion/6 Modelo Atencion/2 Servicios Por oficinas/R255: Test Cases/Configuracion/6 Modelo Atencion/2 Servicios Por oficinas/R255
+
+2024-05-21 17:16:27 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 17:16:28 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 17:16:28 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 17:16:28 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 17:16:28 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 17:16:28 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 17:16:31 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 17:16:31 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 17:16:31 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 17:16:31 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:16:33 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:16:33 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 17:16:34 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 17:16:34 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:16:36 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:16:36 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 17:16:37 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 17:16:37 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:16:39 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:16:39 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 17:16:39 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 17:16:39 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 17:16:42 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 17:16:42 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 17:16:42 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 17:16:43 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 17:16:43 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:16:45 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:16:45 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_6 Modelo de atencion")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_6 Modelo de atencion' is clicked on
+
+2024-05-21 17:16:45 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_6 Modelo de atencion' is clicked on
+
+2024-05-21 17:16:45 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:16:47 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:16:47 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/6Modelo de atencion/0Principal/a_2 Servicios por oficinas"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/0Principal/a_2 Servicios por oficinas' is clicked on
+
+2024-05-21 17:16:48 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/0Principal/a_2 Servicios por oficinas' is clicked on
+
+2024-05-21 17:16:48 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:16:50 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:16:50 - [TEST_STEP][PASSED] - comment("Select Seccional y select Tipo Cliente muestran datos"): Select Seccional y select Tipo Cliente muestran datos
+
+2024-05-21 17:16:50 - [MESSAGE][INFO] - Select Seccional y select Tipo Cliente muestran datos
+
+2024-05-21 17:16:50 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/select_Direccion Seccional(oficina)"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/select_Direccion Seccional(oficina)' is clicked on
+
+2024-05-21 17:16:50 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/select_Direccion Seccional(oficina)' is clicked on
+
+2024-05-21 17:16:50 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:16:52 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:16:52 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 17:16:53 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 17:16:53 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\2 Servicios por Oficinas\\20240521_152440\\1716329812895.png]]
+
+2024-05-21 17:16:53 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:16:55 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:16:55 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/select_Tipo Cliente"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/select_Tipo Cliente' is clicked on
+
+2024-05-21 17:16:56 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/select_Tipo Cliente' is clicked on
+
+2024-05-21 17:16:56 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:16:58 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:16:58 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 17:16:58 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 17:16:58 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\2 Servicios por Oficinas\\20240521_152440\\1716329818072.png]]
+
+2024-05-21 17:16:58 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/6 Modelo Atencion/2 Servicios Por oficinas/R256" time="54.112" classname="Test Cases/Configuracion/6 Modelo Atencion/2 Servicios Por oficinas/R256" status="FAILED">
+         <failure type="FAILED" message="Test Cases/Configuracion/6 Modelo Atencion/2 Servicios Por oficinas/R256 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_7 Prueba_Editar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:608)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at R256.run(R256:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323080097.run(TempTestSuite1716323080097.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_7 Prueba_Editar' located by '//a[@id='ctl00_ContentPlaceHolder2_gvEspecialidades_ctl08_btnEdit']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+"/>
+         <system-out><![CDATA[2024-05-21 17:16:58 - [TEST_CASE][FAILED] - Test Cases/Configuracion/6 Modelo Atencion/2 Servicios Por oficinas/R256: Test Cases/Configuracion/6 Modelo Atencion/2 Servicios Por oficinas/R256 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_7 Prueba_Editar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:608)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at R256.run(R256:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323080097.run(TempTestSuite1716323080097.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_7 Prueba_Editar' located by '//a[@id='ctl00_ContentPlaceHolder2_gvEspecialidades_ctl08_btnEdit']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+
+
+2024-05-21 17:16:58 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 17:16:59 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 17:16:59 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 17:16:59 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 17:16:59 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 17:16:59 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 17:17:02 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 17:17:02 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 17:17:02 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 17:17:02 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:17:04 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:17:04 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 17:17:05 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 17:17:05 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:17:07 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:17:07 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 17:17:08 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 17:17:08 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:17:10 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:17:10 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 17:17:10 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 17:17:10 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 17:17:13 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 17:17:13 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 17:17:13 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 17:17:14 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 17:17:14 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:17:16 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:17:16 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_6 Modelo de atencion")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_6 Modelo de atencion' is clicked on
+
+2024-05-21 17:17:16 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_6 Modelo de atencion' is clicked on
+
+2024-05-21 17:17:16 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:17:18 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:17:18 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/6Modelo de atencion/0Principal/a_2 Servicios por oficinas"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/0Principal/a_2 Servicios por oficinas' is clicked on
+
+2024-05-21 17:17:19 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/0Principal/a_2 Servicios por oficinas' is clicked on
+
+2024-05-21 17:17:19 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:17:21 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:17:21 - [TEST_STEP][PASSED] - comment("Boton Editar redirige a página de servicio"): Boton Editar redirige a página de servicio
+
+2024-05-21 17:17:21 - [MESSAGE][INFO] - Boton Editar redirige a página de servicio
+
+2024-05-21 17:17:21 - [TEST_STEP][FAILED] - click(findTestObject("ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_7 Prueba_Editar"), STOP_ON_FAILURE): Unable to click on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_7 Prueba_Editar' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_7 Prueba_Editar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:608)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at R256.run(R256:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323080097.run(TempTestSuite1716323080097.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_7 Prueba_Editar' located by '//a[@id='ctl00_ContentPlaceHolder2_gvEspecialidades_ctl08_btnEdit']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:608)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at Script1710257894299.run(Script1710257894299.groovy:36)
+	... 13 more
+)
+
+2024-05-21 17:17:52 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //a[@id='ctl00_ContentPlaceHolder2_gvEspecialidades_ctl08_btnEdit']'. Please recheck the objects properties to make sure the desired element is located. 
+
+2024-05-21 17:17:52 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_7 Prueba_Editar' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_7 Prueba_Editar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:608)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at R256.run(R256:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323080097.run(TempTestSuite1716323080097.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_7 Prueba_Editar' located by '//a[@id='ctl00_ContentPlaceHolder2_gvEspecialidades_ctl08_btnEdit']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:608)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at Script1710257894299.run(Script1710257894299.groovy:36)
+	... 13 more
+)
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\2 Servicios por Oficinas\\20240521_152440\\1716329872595.png]]
+
+2024-05-21 17:17:52 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[2024-05-21 17:16:58 - [TEST_CASE][FAILED] - Test Cases/Configuracion/6 Modelo Atencion/2 Servicios Por oficinas/R256: Test Cases/Configuracion/6 Modelo Atencion/2 Servicios Por oficinas/R256 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_7 Prueba_Editar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:608)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at R256.run(R256:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323080097.run(TempTestSuite1716323080097.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_7 Prueba_Editar' located by '//a[@id='ctl00_ContentPlaceHolder2_gvEspecialidades_ctl08_btnEdit']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/6 Modelo Atencion/2 Servicios Por oficinas/R257" time="54.172" classname="Test Cases/Configuracion/6 Modelo Atencion/2 Servicios Por oficinas/R257" status="FAILED">
+         <failure type="FAILED" message="Test Cases/Configuracion/6 Modelo Atencion/2 Servicios Por oficinas/R257 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_7 Prueba_Editar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:608)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at R257.run(R257:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323080097.run(TempTestSuite1716323080097.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_7 Prueba_Editar' located by '//a[@id='ctl00_ContentPlaceHolder2_gvEspecialidades_ctl08_btnEdit']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+"/>
+         <system-out><![CDATA[2024-05-21 17:17:52 - [TEST_CASE][FAILED] - Test Cases/Configuracion/6 Modelo Atencion/2 Servicios Por oficinas/R257: Test Cases/Configuracion/6 Modelo Atencion/2 Servicios Por oficinas/R257 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_7 Prueba_Editar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:608)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at R257.run(R257:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323080097.run(TempTestSuite1716323080097.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_7 Prueba_Editar' located by '//a[@id='ctl00_ContentPlaceHolder2_gvEspecialidades_ctl08_btnEdit']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+
+
+2024-05-21 17:17:53 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 17:17:53 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 17:17:53 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 17:17:53 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 17:17:53 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 17:17:53 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 17:17:56 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 17:17:56 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 17:17:56 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 17:17:56 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:17:58 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:17:58 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 17:17:59 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 17:17:59 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:18:01 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:18:01 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 17:18:02 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 17:18:02 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:18:04 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:18:04 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 17:18:04 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 17:18:04 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 17:18:07 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 17:18:07 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 17:18:07 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 17:18:08 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 17:18:08 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:18:10 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:18:10 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_6 Modelo de atencion")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_6 Modelo de atencion' is clicked on
+
+2024-05-21 17:18:10 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_6 Modelo de atencion' is clicked on
+
+2024-05-21 17:18:10 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:18:12 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:18:12 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/6Modelo de atencion/0Principal/a_2 Servicios por oficinas"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/0Principal/a_2 Servicios por oficinas' is clicked on
+
+2024-05-21 17:18:13 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/0Principal/a_2 Servicios por oficinas' is clicked on
+
+2024-05-21 17:18:13 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:18:15 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:18:15 - [TEST_STEP][PASSED] - comment("Llenado de Servicio"): Llenado de Servicio
+
+2024-05-21 17:18:15 - [MESSAGE][INFO] - Llenado de Servicio
+
+2024-05-21 17:18:15 - [TEST_STEP][FAILED] - click(findTestObject("ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_7 Prueba_Editar"), STOP_ON_FAILURE): Unable to click on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_7 Prueba_Editar' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_7 Prueba_Editar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:608)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at R257.run(R257:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323080097.run(TempTestSuite1716323080097.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_7 Prueba_Editar' located by '//a[@id='ctl00_ContentPlaceHolder2_gvEspecialidades_ctl08_btnEdit']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:608)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at Script1710338931071.run(Script1710338931071.groovy:36)
+	... 13 more
+)
+
+2024-05-21 17:18:46 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //a[@id='ctl00_ContentPlaceHolder2_gvEspecialidades_ctl08_btnEdit']'. Please recheck the objects properties to make sure the desired element is located. 
+
+2024-05-21 17:18:46 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_7 Prueba_Editar' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_7 Prueba_Editar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:608)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at R257.run(R257:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323080097.run(TempTestSuite1716323080097.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_7 Prueba_Editar' located by '//a[@id='ctl00_ContentPlaceHolder2_gvEspecialidades_ctl08_btnEdit']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:608)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at Script1710338931071.run(Script1710338931071.groovy:36)
+	... 13 more
+)
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\2 Servicios por Oficinas\\20240521_152440\\1716329926750.png]]
+
+2024-05-21 17:18:46 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[2024-05-21 17:17:52 - [TEST_CASE][FAILED] - Test Cases/Configuracion/6 Modelo Atencion/2 Servicios Por oficinas/R257: Test Cases/Configuracion/6 Modelo Atencion/2 Servicios Por oficinas/R257 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_7 Prueba_Editar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:608)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at R257.run(R257:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323080097.run(TempTestSuite1716323080097.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_7 Prueba_Editar' located by '//a[@id='ctl00_ContentPlaceHolder2_gvEspecialidades_ctl08_btnEdit']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/6 Modelo Atencion/2 Servicios Por oficinas/R258" time="54.007" classname="Test Cases/Configuracion/6 Modelo Atencion/2 Servicios Por oficinas/R258" status="FAILED">
+         <failure type="FAILED" message="Test Cases/Configuracion/6 Modelo Atencion/2 Servicios Por oficinas/R258 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_7 Prueba_Editar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:608)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at R258.run(R258:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323080097.run(TempTestSuite1716323080097.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_7 Prueba_Editar' located by '//a[@id='ctl00_ContentPlaceHolder2_gvEspecialidades_ctl08_btnEdit']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+"/>
+         <system-out><![CDATA[2024-05-21 17:18:46 - [TEST_CASE][FAILED] - Test Cases/Configuracion/6 Modelo Atencion/2 Servicios Por oficinas/R258: Test Cases/Configuracion/6 Modelo Atencion/2 Servicios Por oficinas/R258 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_7 Prueba_Editar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:608)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at R258.run(R258:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323080097.run(TempTestSuite1716323080097.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_7 Prueba_Editar' located by '//a[@id='ctl00_ContentPlaceHolder2_gvEspecialidades_ctl08_btnEdit']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+
+
+2024-05-21 17:18:47 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 17:18:47 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 17:18:47 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 17:18:47 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 17:18:47 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 17:18:47 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 17:18:50 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 17:18:50 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 17:18:50 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 17:18:50 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:18:52 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:18:52 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 17:18:53 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 17:18:53 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:18:55 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:18:55 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 17:18:56 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 17:18:56 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:18:58 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:18:58 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 17:18:58 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 17:18:58 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 17:19:01 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 17:19:01 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 17:19:01 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 17:19:02 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 17:19:02 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:19:04 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:19:04 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_6 Modelo de atencion")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_6 Modelo de atencion' is clicked on
+
+2024-05-21 17:19:05 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_6 Modelo de atencion' is clicked on
+
+2024-05-21 17:19:05 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:19:07 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:19:07 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/6Modelo de atencion/0Principal/a_2 Servicios por oficinas"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/0Principal/a_2 Servicios por oficinas' is clicked on
+
+2024-05-21 17:19:07 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/0Principal/a_2 Servicios por oficinas' is clicked on
+
+2024-05-21 17:19:07 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:19:09 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:19:09 - [TEST_STEP][PASSED] - comment("Botón Cancelar"): Botón Cancelar
+
+2024-05-21 17:19:09 - [MESSAGE][INFO] - Botón Cancelar
+
+2024-05-21 17:19:09 - [TEST_STEP][FAILED] - click(findTestObject("ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_7 Prueba_Editar"), STOP_ON_FAILURE): Unable to click on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_7 Prueba_Editar' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_7 Prueba_Editar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:608)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at R258.run(R258:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323080097.run(TempTestSuite1716323080097.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_7 Prueba_Editar' located by '//a[@id='ctl00_ContentPlaceHolder2_gvEspecialidades_ctl08_btnEdit']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:608)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at Script1710340968935.run(Script1710340968935.groovy:36)
+	... 13 more
+)
+
+2024-05-21 17:19:40 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //a[@id='ctl00_ContentPlaceHolder2_gvEspecialidades_ctl08_btnEdit']'. Please recheck the objects properties to make sure the desired element is located. 
+
+2024-05-21 17:19:40 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_7 Prueba_Editar' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_7 Prueba_Editar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:608)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at R258.run(R258:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323080097.run(TempTestSuite1716323080097.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_7 Prueba_Editar' located by '//a[@id='ctl00_ContentPlaceHolder2_gvEspecialidades_ctl08_btnEdit']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:608)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at Script1710340968935.run(Script1710340968935.groovy:36)
+	... 13 more
+)
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\2 Servicios por Oficinas\\20240521_152440\\1716329980771.png]]
+
+2024-05-21 17:19:40 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[2024-05-21 17:18:46 - [TEST_CASE][FAILED] - Test Cases/Configuracion/6 Modelo Atencion/2 Servicios Por oficinas/R258: Test Cases/Configuracion/6 Modelo Atencion/2 Servicios Por oficinas/R258 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_7 Prueba_Editar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:608)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at R258.run(R258:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323080097.run(TempTestSuite1716323080097.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_7 Prueba_Editar' located by '//a[@id='ctl00_ContentPlaceHolder2_gvEspecialidades_ctl08_btnEdit']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/6 Modelo Atencion/2 Servicios Por oficinas/R259" time="53.974" classname="Test Cases/Configuracion/6 Modelo Atencion/2 Servicios Por oficinas/R259" status="FAILED">
+         <failure type="FAILED" message="Test Cases/Configuracion/6 Modelo Atencion/2 Servicios Por oficinas/R259 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_7 Prueba_Editar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:608)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at R259.run(R259:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323080097.run(TempTestSuite1716323080097.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_7 Prueba_Editar' located by '//a[@id='ctl00_ContentPlaceHolder2_gvEspecialidades_ctl08_btnEdit']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+"/>
+         <system-out><![CDATA[2024-05-21 17:19:40 - [TEST_CASE][FAILED] - Test Cases/Configuracion/6 Modelo Atencion/2 Servicios Por oficinas/R259: Test Cases/Configuracion/6 Modelo Atencion/2 Servicios Por oficinas/R259 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_7 Prueba_Editar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:608)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at R259.run(R259:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323080097.run(TempTestSuite1716323080097.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_7 Prueba_Editar' located by '//a[@id='ctl00_ContentPlaceHolder2_gvEspecialidades_ctl08_btnEdit']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+
+
+2024-05-21 17:19:41 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 17:19:41 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 17:19:41 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 17:19:41 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 17:19:41 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 17:19:41 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 17:19:44 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 17:19:44 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 17:19:44 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 17:19:44 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:19:46 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:19:46 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 17:19:47 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 17:19:47 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:19:49 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:19:49 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 17:19:50 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 17:19:50 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:19:52 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:19:52 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 17:19:52 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 17:19:52 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 17:19:55 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 17:19:55 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 17:19:55 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 17:19:56 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 17:19:56 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:19:58 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:19:58 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_6 Modelo de atencion")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_6 Modelo de atencion' is clicked on
+
+2024-05-21 17:19:58 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_6 Modelo de atencion' is clicked on
+
+2024-05-21 17:19:58 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:20:00 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:20:00 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/6Modelo de atencion/0Principal/a_2 Servicios por oficinas"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/0Principal/a_2 Servicios por oficinas' is clicked on
+
+2024-05-21 17:20:01 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/0Principal/a_2 Servicios por oficinas' is clicked on
+
+2024-05-21 17:20:01 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:20:03 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:20:03 - [TEST_STEP][PASSED] - comment("Botón Cancelar"): Botón Cancelar
+
+2024-05-21 17:20:03 - [MESSAGE][INFO] - Botón Cancelar
+
+2024-05-21 17:20:03 - [TEST_STEP][FAILED] - click(findTestObject("ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_7 Prueba_Editar"), STOP_ON_FAILURE): Unable to click on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_7 Prueba_Editar' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_7 Prueba_Editar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:608)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at R259.run(R259:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323080097.run(TempTestSuite1716323080097.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_7 Prueba_Editar' located by '//a[@id='ctl00_ContentPlaceHolder2_gvEspecialidades_ctl08_btnEdit']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:608)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at Script1710341121345.run(Script1710341121345.groovy:36)
+	... 13 more
+)
+
+2024-05-21 17:20:34 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //a[@id='ctl00_ContentPlaceHolder2_gvEspecialidades_ctl08_btnEdit']'. Please recheck the objects properties to make sure the desired element is located. 
+
+2024-05-21 17:20:34 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_7 Prueba_Editar' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_7 Prueba_Editar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:608)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at R259.run(R259:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323080097.run(TempTestSuite1716323080097.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_7 Prueba_Editar' located by '//a[@id='ctl00_ContentPlaceHolder2_gvEspecialidades_ctl08_btnEdit']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:608)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at Script1710341121345.run(Script1710341121345.groovy:36)
+	... 13 more
+)
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\2 Servicios por Oficinas\\20240521_152440\\1716330034786.png]]
+
+2024-05-21 17:20:34 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[2024-05-21 17:19:40 - [TEST_CASE][FAILED] - Test Cases/Configuracion/6 Modelo Atencion/2 Servicios Por oficinas/R259: Test Cases/Configuracion/6 Modelo Atencion/2 Servicios Por oficinas/R259 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_7 Prueba_Editar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:608)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at R259.run(R259:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323080097.run(TempTestSuite1716323080097.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_7 Prueba_Editar' located by '//a[@id='ctl00_ContentPlaceHolder2_gvEspecialidades_ctl08_btnEdit']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/6 Modelo Atencion/2 Servicios Por oficinas/R260" time="26.057" classname="Test Cases/Configuracion/6 Modelo Atencion/2 Servicios Por oficinas/R260" status="FAILED">
+         <failure type="FAILED" message="Test Cases/Configuracion/6 Modelo Atencion/2 Servicios Por oficinas/R260 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_1 G.G.Informacion_Editar' is present
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.verifyElementPresent(VerifyElementPresentKeyword.groovy:92)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.execute(VerifyElementPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementPresent(WebUiBuiltInKeywords.groovy:1464)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementPresent$4.call(Unknown Source)
+	at R260.run(R260:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323080097.run(TempTestSuite1716323080097.groovy:35)
+Caused by: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_1 G.G.Informacion_Editar' located by '//a[@id='ctl00_ContentPlaceHolder2_gvEspecialidades_ctl02_btnEdit']' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.doCall(VerifyElementPresentKeyword.groovy:85)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.call(VerifyElementPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+"/>
+         <system-out><![CDATA[2024-05-21 17:20:34 - [TEST_CASE][FAILED] - Test Cases/Configuracion/6 Modelo Atencion/2 Servicios Por oficinas/R260: Test Cases/Configuracion/6 Modelo Atencion/2 Servicios Por oficinas/R260 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_1 G.G.Informacion_Editar' is present
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.verifyElementPresent(VerifyElementPresentKeyword.groovy:92)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.execute(VerifyElementPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementPresent(WebUiBuiltInKeywords.groovy:1464)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementPresent$4.call(Unknown Source)
+	at R260.run(R260:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323080097.run(TempTestSuite1716323080097.groovy:35)
+Caused by: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_1 G.G.Informacion_Editar' located by '//a[@id='ctl00_ContentPlaceHolder2_gvEspecialidades_ctl02_btnEdit']' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.doCall(VerifyElementPresentKeyword.groovy:85)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.call(VerifyElementPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+
+
+2024-05-21 17:20:35 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 17:20:35 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 17:20:35 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 17:20:35 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 17:20:36 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 17:20:36 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 17:20:38 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 17:20:38 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 17:20:38 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 17:20:38 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:20:40 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:20:40 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 17:20:41 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 17:20:41 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:20:43 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:20:43 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 17:20:44 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 17:20:44 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:20:46 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:20:46 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 17:20:46 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 17:20:46 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 17:20:49 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 17:20:49 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 17:20:49 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 17:20:50 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 17:20:50 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:20:52 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:20:52 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_6 Modelo de atencion")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_6 Modelo de atencion' is clicked on
+
+2024-05-21 17:20:53 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_6 Modelo de atencion' is clicked on
+
+2024-05-21 17:20:53 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:20:55 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:20:55 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/6Modelo de atencion/0Principal/a_2 Servicios por oficinas"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/0Principal/a_2 Servicios por oficinas' is clicked on
+
+2024-05-21 17:20:55 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/0Principal/a_2 Servicios por oficinas' is clicked on
+
+2024-05-21 17:20:55 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:20:57 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:20:57 - [TEST_STEP][PASSED] - comment("Mostrar Tabla y verificar elementos presentes"): Mostrar Tabla y verificar elementos presentes
+
+2024-05-21 17:20:57 - [MESSAGE][INFO] - Mostrar Tabla y verificar elementos presentes
+
+2024-05-21 17:20:57 - [TEST_STEP][FAILED] - verifyElementPresent(findTestObject("ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_1 G.G.Informacion_Editar"), 2): Unable to verify object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_1 G.G.Informacion_Editar' is present (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_1 G.G.Informacion_Editar' is present
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.verifyElementPresent(VerifyElementPresentKeyword.groovy:92)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.execute(VerifyElementPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementPresent(WebUiBuiltInKeywords.groovy:1464)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementPresent$4.call(Unknown Source)
+	at R260.run(R260:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323080097.run(TempTestSuite1716323080097.groovy:35)
+Caused by: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_1 G.G.Informacion_Editar' located by '//a[@id='ctl00_ContentPlaceHolder2_gvEspecialidades_ctl02_btnEdit']' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.doCall(VerifyElementPresentKeyword.groovy:85)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.call(VerifyElementPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+)
+
+2024-05-21 17:21:00 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //a[@id='ctl00_ContentPlaceHolder2_gvEspecialidades_ctl02_btnEdit']'. Please recheck the objects properties to make sure the desired element is located. 
+
+2024-05-21 17:21:00 - [MESSAGE][FAILED] - com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_1 G.G.Informacion_Editar' located by '//a[@id='ctl00_ContentPlaceHolder2_gvEspecialidades_ctl02_btnEdit']' not found (Root cause: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_1 G.G.Informacion_Editar' located by '//a[@id='ctl00_ContentPlaceHolder2_gvEspecialidades_ctl02_btnEdit']' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.doCall(VerifyElementPresentKeyword.groovy:85)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.call(VerifyElementPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.verifyElementPresent(VerifyElementPresentKeyword.groovy:92)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.execute(VerifyElementPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementPresent(WebUiBuiltInKeywords.groovy:1464)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementPresent$4.call(Unknown Source)
+	at R260.run(R260:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323080097.run(TempTestSuite1716323080097.groovy:35)
+)
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\2 Servicios por Oficinas\\20240521_152440\\1716330060763.png]]
+
+2024-05-21 17:21:00 - [MESSAGE][FAILED] - Unable to verify object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_1 G.G.Informacion_Editar' is present (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_1 G.G.Informacion_Editar' is present
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.verifyElementPresent(VerifyElementPresentKeyword.groovy:92)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.execute(VerifyElementPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementPresent(WebUiBuiltInKeywords.groovy:1464)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementPresent$4.call(Unknown Source)
+	at R260.run(R260:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323080097.run(TempTestSuite1716323080097.groovy:35)
+Caused by: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_1 G.G.Informacion_Editar' located by '//a[@id='ctl00_ContentPlaceHolder2_gvEspecialidades_ctl02_btnEdit']' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.doCall(VerifyElementPresentKeyword.groovy:85)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.call(VerifyElementPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+)
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\2 Servicios por Oficinas\\20240521_152440\\1716330060857.png]]
+
+2024-05-21 17:21:00 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[2024-05-21 17:20:34 - [TEST_CASE][FAILED] - Test Cases/Configuracion/6 Modelo Atencion/2 Servicios Por oficinas/R260: Test Cases/Configuracion/6 Modelo Atencion/2 Servicios Por oficinas/R260 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_1 G.G.Informacion_Editar' is present
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.verifyElementPresent(VerifyElementPresentKeyword.groovy:92)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.execute(VerifyElementPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementPresent(WebUiBuiltInKeywords.groovy:1464)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementPresent$4.call(Unknown Source)
+	at R260.run(R260:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323080097.run(TempTestSuite1716323080097.groovy:35)
+Caused by: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_1 G.G.Informacion_Editar' located by '//a[@id='ctl00_ContentPlaceHolder2_gvEspecialidades_ctl02_btnEdit']' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.doCall(VerifyElementPresentKeyword.groovy:85)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.call(VerifyElementPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2024-05-21 17:15:59 - [TEST_SUITE][FAILED] - 2 Servicios por Oficinas: Test Cases/Configuracion/6 Modelo Atencion/2 Servicios Por oficinas/R254 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_1 G.G.Informacion_Editar' is present
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.verifyElementPresent(VerifyElementPresentKeyword.groovy:92)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.execute(VerifyElementPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementPresent(WebUiBuiltInKeywords.groovy:1464)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementPresent$4.call(Unknown Source)
+	at R254.run(R254:40)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323080097.run(TempTestSuite1716323080097.groovy:35)
+Caused by: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_1 G.G.Informacion_Editar' located by '//a[@id='ctl00_ContentPlaceHolder2_gvEspecialidades_ctl02_btnEdit']' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.doCall(VerifyElementPresentKeyword.groovy:85)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.call(VerifyElementPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-out>
+      <system-err><![CDATA[2024-05-21 17:15:59 - [TEST_SUITE][FAILED] - 2 Servicios por Oficinas: Test Cases/Configuracion/6 Modelo Atencion/2 Servicios Por oficinas/R254 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_1 G.G.Informacion_Editar' is present
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.verifyElementPresent(VerifyElementPresentKeyword.groovy:92)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.execute(VerifyElementPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementPresent(WebUiBuiltInKeywords.groovy:1464)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementPresent$4.call(Unknown Source)
+	at R254.run(R254:40)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323080097.run(TempTestSuite1716323080097.groovy:35)
+Caused by: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/2Servicios por oficinas/Direcciones Seccionales/a_1 G.G.Informacion_Editar' located by '//a[@id='ctl00_ContentPlaceHolder2_gvEspecialidades_ctl02_btnEdit']' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.doCall(VerifyElementPresentKeyword.groovy:85)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.call(VerifyElementPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+   </testsuite>
+</testsuites>

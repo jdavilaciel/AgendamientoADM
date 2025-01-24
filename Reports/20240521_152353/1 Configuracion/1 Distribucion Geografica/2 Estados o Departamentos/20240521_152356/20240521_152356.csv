@@ -1,0 +1,156 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+2 Estados o Departamentos,Chrome 124.0.0.0,,,2024-05-21 15:30:17,2024-05-21 15:40:37,"10m - 19,861s",PASSED
+,,,,,,,
+Test Cases/Configuracion/1 Distribucion Geografica/2 Departamentos o Estados/R18,Chrome 124.0.0.0,Creación Departamentos,,2024-05-21 15:30:17,2024-05-21 15:31:19,"1m - 2,082s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:30:18,2024-05-21 15:30:33,"15,712s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 15:30:33,2024-05-21 15:30:34,"0,538s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_1 Distribucion geografica""))",Chrome 124.0.0.0,,,2024-05-21 15:30:34,2024-05-21 15:30:35,"0,653s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/0Principal/a_2 Departamentos o estados""))",Chrome 124.0.0.0,,,2024-05-21 15:30:35,2024-05-21 15:30:35,"0,668s",PASSED
+delay(3),Chrome 124.0.0.0,,,2024-05-21 15:30:35,2024-05-21 15:30:38,"3,010s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/2Departamentos o estados/0 btn_NuevoEstado""))",Chrome 124.0.0.0,,,2024-05-21 15:30:38,2024-05-21 15:30:39,"0,436s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/1Distribucion geografica/2Departamentos o estados/0 btn_NuevoEstado(1)/input_Codigo Estado""), ""2"")",Chrome 124.0.0.0,,,2024-05-21 15:30:39,2024-05-21 15:30:40,"1,017s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/1Distribucion geografica/2Departamentos o estados/0 btn_NuevoEstado(1)/input_Nombre Estado""), ""Cundinamarca"")",Chrome 124.0.0.0,,,2024-05-21 15:30:40,2024-05-21 15:30:41,"0,800s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/2Departamentos o estados/0 btn_NuevoEstado(1)/btn_GuardarEstado""))",Chrome 124.0.0.0,,,2024-05-21 15:30:41,2024-05-21 15:30:41,"0,411s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:30:41,2024-05-21 15:30:43,"2,007s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/2Departamentos o estados/0 btn_NuevoEstado""))",Chrome 124.0.0.0,,,2024-05-21 15:30:43,2024-05-21 15:30:43,"0,488s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/1Distribucion geografica/2Departamentos o estados/0 btn_NuevoEstado(1)/input_Codigo Estado""), ""3"")",Chrome 124.0.0.0,,,2024-05-21 15:30:43,2024-05-21 15:30:44,"1,017s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/1Distribucion geografica/2Departamentos o estados/0 btn_NuevoEstado(1)/input_Nombre Estado""), ""Valle del Cauca"")",Chrome 124.0.0.0,,,2024-05-21 15:30:44,2024-05-21 15:30:45,"0,816s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/2Departamentos o estados/0 btn_NuevoEstado(1)/btn_GuardarEstado""))",Chrome 124.0.0.0,,,2024-05-21 15:30:45,2024-05-21 15:30:46,"0,409s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:30:46,2024-05-21 15:30:48,"2,013s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/2Departamentos o estados/0 btn_NuevoEstado""))",Chrome 124.0.0.0,,,2024-05-21 15:30:48,2024-05-21 15:30:48,"0,457s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/1Distribucion geografica/2Departamentos o estados/0 btn_NuevoEstado(1)/input_Codigo Estado""), ""4"")",Chrome 124.0.0.0,,,2024-05-21 15:30:48,2024-05-21 15:30:49,"0,975s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/1Distribucion geografica/2Departamentos o estados/0 btn_NuevoEstado(1)/input_Nombre Estado""), ""Bolivar"")",Chrome 124.0.0.0,,,2024-05-21 15:30:49,2024-05-21 15:30:50,"0,834s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/2Departamentos o estados/0 btn_NuevoEstado(1)/btn_GuardarEstado""))",Chrome 124.0.0.0,,,2024-05-21 15:30:50,2024-05-21 15:30:50,"0,374s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:30:50,2024-05-21 15:30:52,"2,013s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/2Departamentos o estados/0 btn_NuevoEstado""))",Chrome 124.0.0.0,,,2024-05-21 15:30:52,2024-05-21 15:30:53,"0,482s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/1Distribucion geografica/2Departamentos o estados/0 btn_NuevoEstado(1)/input_Codigo Estado""), ""5"")",Chrome 124.0.0.0,,,2024-05-21 15:30:53,2024-05-21 15:30:54,"0,868s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/1Distribucion geografica/2Departamentos o estados/0 btn_NuevoEstado(1)/input_Nombre Estado""), ""Caldas"")",Chrome 124.0.0.0,,,2024-05-21 15:30:54,2024-05-21 15:30:55,"0,822s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/2Departamentos o estados/0 btn_NuevoEstado(1)/btn_GuardarEstado""))",Chrome 124.0.0.0,,,2024-05-21 15:30:55,2024-05-21 15:30:55,"0,474s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:30:55,2024-05-21 15:30:57,"2,016s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/2Departamentos o estados/0 btn_NuevoEstado""))",Chrome 124.0.0.0,,,2024-05-21 15:30:57,2024-05-21 15:30:57,"0,434s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/1Distribucion geografica/2Departamentos o estados/0 btn_NuevoEstado(1)/input_Codigo Estado""), ""6"")",Chrome 124.0.0.0,,,2024-05-21 15:30:57,2024-05-21 15:30:58,"0,975s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/1Distribucion geografica/2Departamentos o estados/0 btn_NuevoEstado(1)/input_Nombre Estado""), ""Dpto. Virtual"")",Chrome 124.0.0.0,,,2024-05-21 15:30:58,2024-05-21 15:30:59,"0,794s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/2Departamentos o estados/0 btn_NuevoEstado(1)/btn_GuardarEstado""))",Chrome 124.0.0.0,,,2024-05-21 15:30:59,2024-05-21 15:31:00,"0,398s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:31:00,2024-05-21 15:31:02,"2,007s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/2Departamentos o estados/0 btn_NuevoEstado""))",Chrome 124.0.0.0,,,2024-05-21 15:31:02,2024-05-21 15:31:02,"0,408s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/1Distribucion geografica/2Departamentos o estados/0 btn_NuevoEstado(1)/input_Codigo Estado""), ""7"")",Chrome 124.0.0.0,,,2024-05-21 15:31:02,2024-05-21 15:31:03,"1,159s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/1Distribucion geografica/2Departamentos o estados/0 btn_NuevoEstado(1)/input_Nombre Estado""), ""Dpto. WorkFlow"")",Chrome 124.0.0.0,,,2024-05-21 15:31:03,2024-05-21 15:31:04,"0,776s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/2Departamentos o estados/0 btn_NuevoEstado(1)/btn_GuardarEstado""))",Chrome 124.0.0.0,,,2024-05-21 15:31:04,2024-05-21 15:31:04,"0,421s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:31:04,2024-05-21 15:31:06,"2,011s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/2Departamentos o estados/0 btn_NuevoEstado""))",Chrome 124.0.0.0,,,2024-05-21 15:31:06,2024-05-21 15:31:07,"0,430s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/1Distribucion geografica/2Departamentos o estados/0 btn_NuevoEstado(1)/input_Codigo Estado""), ""8"")",Chrome 124.0.0.0,,,2024-05-21 15:31:07,2024-05-21 15:31:08,"0,937s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/1Distribucion geografica/2Departamentos o estados/0 btn_NuevoEstado(1)/input_Nombre Estado""), ""Antioquia"")",Chrome 124.0.0.0,,,2024-05-21 15:31:08,2024-05-21 15:31:09,"0,816s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/2Departamentos o estados/0 btn_NuevoEstado(1)/btn_GuardarEstado""))",Chrome 124.0.0.0,,,2024-05-21 15:31:09,2024-05-21 15:31:09,"0,428s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:31:09,2024-05-21 15:31:11,"2,006s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/2Departamentos o estados/0 btn_NuevoEstado""))",Chrome 124.0.0.0,,,2024-05-21 15:31:11,2024-05-21 15:31:11,"0,453s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/1Distribucion geografica/2Departamentos o estados/0 btn_NuevoEstado(1)/input_Codigo Estado""), ""9"")",Chrome 124.0.0.0,,,2024-05-21 15:31:11,2024-05-21 15:31:12,"0,950s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/1Distribucion geografica/2Departamentos o estados/0 btn_NuevoEstado(1)/input_Nombre Estado""), ""Prueba"")",Chrome 124.0.0.0,,,2024-05-21 15:31:12,2024-05-21 15:31:13,"0,836s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/2Departamentos o estados/0 btn_NuevoEstado(1)/btn_GuardarEstado""))",Chrome 124.0.0.0,,,2024-05-21 15:31:13,2024-05-21 15:31:14,"0,444s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:31:14,2024-05-21 15:31:16,"2,011s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 15:31:16,2024-05-21 15:31:16,"0,705s",PASSED
+delay(3),Chrome 124.0.0.0,,,2024-05-21 15:31:16,2024-05-21 15:31:19,"3,029s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 15:31:19,2024-05-21 15:31:19,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/1 Distribucion Geografica/2 Departamentos o Estados/R19,Chrome 124.0.0.0,Boton Buscar,,2024-05-21 15:31:19,2024-05-21 15:31:44,"24,090s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:31:20,2024-05-21 15:31:35,"14,716s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 15:31:35,2024-05-21 15:31:35,"0,620s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_1 Distribucion geografica""))",Chrome 124.0.0.0,,,2024-05-21 15:31:35,2024-05-21 15:31:36,"0,676s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/0Principal/a_2 Departamentos o estados""))",Chrome 124.0.0.0,,,2024-05-21 15:31:36,2024-05-21 15:31:37,"0,705s",PASSED
+delay(3),Chrome 124.0.0.0,,,2024-05-21 15:31:37,2024-05-21 15:31:40,"3,007s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/1Distribucion geografica/2Departamentos o estados/input_Nombre Estado""), ""Bo"")",Chrome 124.0.0.0,,,2024-05-21 15:31:40,2024-05-21 15:31:41,"0,847s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/2Departamentos o estados/btn_Buscar""))",Chrome 124.0.0.0,,,2024-05-21 15:31:41,2024-05-21 15:31:41,"0,443s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:31:41,2024-05-21 15:31:43,"2,016s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 15:31:43,2024-05-21 15:31:44,"0,587s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 15:31:44,2024-05-21 15:31:44,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/1 Distribucion Geografica/2 Departamentos o Estados/R20,Chrome 124.0.0.0,Boton Limpiar Estados o Departamentos,,2024-05-21 15:31:44,2024-05-21 15:32:10,"26,559s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:31:44,2024-05-21 15:31:59,"14,820s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 15:31:59,2024-05-21 15:31:59,"0,623s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_1 Distribucion geografica""))",Chrome 124.0.0.0,,,2024-05-21 15:31:59,2024-05-21 15:32:00,"0,670s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/0Principal/a_2 Departamentos o estados""))",Chrome 124.0.0.0,,,2024-05-21 15:32:00,2024-05-21 15:32:01,"0,694s",PASSED
+delay(3),Chrome 124.0.0.0,,,2024-05-21 15:32:01,2024-05-21 15:32:04,"3,012s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/1Distribucion geografica/2Departamentos o estados/input_Nombre Estado""), ""Cundinamarca"")",Chrome 124.0.0.0,,,2024-05-21 15:32:04,2024-05-21 15:32:04,"0,788s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:32:04,2024-05-21 15:32:06,"2,009s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 15:32:06,2024-05-21 15:32:07,"0,609s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/2Departamentos o estados/btn_Limpiar""))",Chrome 124.0.0.0,,,2024-05-21 15:32:07,2024-05-21 15:32:08,"0,445s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:32:08,2024-05-21 15:32:10,"2,009s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 15:32:10,2024-05-21 15:32:10,"0,597s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 15:32:10,2024-05-21 15:32:10,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/1 Distribucion Geografica/2 Departamentos o Estados/R21,Chrome 124.0.0.0,"Boton Nuevo Estado, se abre otra página para poder ingresar datos",,2024-05-21 15:32:10,2024-05-21 15:32:34,"24,131s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:32:10,2024-05-21 15:32:25,"14,805s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 15:32:25,2024-05-21 15:32:26,"0,550s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_1 Distribucion geografica""))",Chrome 124.0.0.0,,,2024-05-21 15:32:26,2024-05-21 15:32:26,"0,624s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/0Principal/a_2 Departamentos o estados""))",Chrome 124.0.0.0,,,2024-05-21 15:32:26,2024-05-21 15:32:27,"0,771s",PASSED
+delay(3),Chrome 124.0.0.0,,,2024-05-21 15:32:27,2024-05-21 15:32:30,"3,017s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/2Departamentos o estados/0 btn_NuevoEstado""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:32:30,2024-05-21 15:32:31,"0,474s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:32:31,2024-05-21 15:32:33,"2,010s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/1Distribucion geografica/2Departamentos o estados/0 btn_NuevoEstado(1)/input_Codigo Estado""), 2)",Chrome 124.0.0.0,,,2024-05-21 15:32:33,2024-05-21 15:32:33,"0,331s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/1Distribucion geografica/2Departamentos o estados/0 btn_NuevoEstado(1)/input_Nombre Estado""), 2)",Chrome 124.0.0.0,,,2024-05-21 15:32:33,2024-05-21 15:32:33,"0,347s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/1Distribucion geografica/2Departamentos o estados/0 btn_NuevoEstado(1)/select_Paises""), 2)",Chrome 124.0.0.0,,,2024-05-21 15:32:33,2024-05-21 15:32:34,"0,376s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 15:32:34,2024-05-21 15:32:34,"0,511s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 15:32:34,2024-05-21 15:32:34,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/1 Distribucion Geografica/2 Departamentos o Estados/R22,Chrome 124.0.0.0,"Campo estado validar, la aplicación no debería crear un estado con  numeros o símbolos",,2024-05-21 15:32:34,2024-05-21 15:39:01,"6m - 26,810s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:32:35,2024-05-21 15:32:49,"14,709s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 15:32:49,2024-05-21 15:32:50,"0,543s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_1 Distribucion geografica""))",Chrome 124.0.0.0,,,2024-05-21 15:32:50,2024-05-21 15:32:52,"1,734s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/0Principal/a_2 Departamentos o estados""))",Chrome 124.0.0.0,,,2024-05-21 15:32:52,2024-05-21 15:32:54,"1,958s",PASSED
+delay(3),Chrome 124.0.0.0,,,2024-05-21 15:32:54,2024-05-21 15:32:57,"3,006s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/2Departamentos o estados/0 btn_NuevoEstado""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:32:57,2024-05-21 15:32:58,"1,886s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:32:58,2024-05-21 15:33:00,"2,008s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/1Distribucion geografica/2Departamentos o estados/0 btn_NuevoEstado(1)/input_Nombre Estado""), ""(987098)prueba"")",Chrome 124.0.0.0,,,2024-05-21 15:33:00,2024-05-21 15:33:04,"3,995s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/1Distribucion geografica/2Departamentos o estados/0 btn_NuevoEstado(1)/input_Codigo Estado""), ""9"")",Chrome 124.0.0.0,,,2024-05-21 15:33:04,2024-05-21 15:33:09,"4,020s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/2Departamentos o estados/0 btn_NuevoEstado(1)/btn_GuardarEstado""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:33:09,2024-05-21 15:33:10,"1,991s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:33:10,2024-05-21 15:33:13,"2,008s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 15:33:13,2024-05-21 15:39:01,"5m - 48,557s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 15:39:01,2024-05-21 15:39:01,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/1 Distribucion Geografica/2 Departamentos o Estados/R23,Chrome 124.0.0.0,La aplicación no debería permitir un estado con el mismo código,,2024-05-21 15:39:01,2024-05-21 15:39:28,"26,621s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:39:01,2024-05-21 15:39:15,"14,020s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 15:39:15,2024-05-21 15:39:16,"0,545s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_1 Distribucion geografica""))",Chrome 124.0.0.0,,,2024-05-21 15:39:16,2024-05-21 15:39:16,"0,644s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/0Principal/a_2 Departamentos o estados""))",Chrome 124.0.0.0,,,2024-05-21 15:39:16,2024-05-21 15:39:17,"0,664s",PASSED
+delay(3),Chrome 124.0.0.0,,,2024-05-21 15:39:17,2024-05-21 15:39:20,"3,012s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/2Departamentos o estados/0 btn_NuevoEstado""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:39:20,2024-05-21 15:39:21,"0,773s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:39:21,2024-05-21 15:39:23,"2,009s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/1Distribucion geografica/2Departamentos o estados/0 btn_NuevoEstado(1)/input_Nombre Estado""), ""(987098)prueba2"")",Chrome 124.0.0.0,,,2024-05-21 15:39:23,2024-05-21 15:39:24,"0,866s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/1Distribucion geografica/2Departamentos o estados/0 btn_NuevoEstado(1)/input_Codigo Estado""), ""8"")",Chrome 124.0.0.0,,,2024-05-21 15:39:24,2024-05-21 15:39:25,"0,870s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/2Departamentos o estados/0 btn_NuevoEstado(1)/btn_GuardarEstado""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:39:25,2024-05-21 15:39:25,"0,510s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:39:25,2024-05-21 15:39:27,"2,008s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 15:39:27,2024-05-21 15:39:28,"0,493s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 15:39:28,2024-05-21 15:39:28,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/1 Distribucion Geografica/2 Departamentos o Estados/R24,Chrome 124.0.0.0,Botón volver al crear estado debe redirigir a la página de estados o Departamentos,,2024-05-21 15:39:28,2024-05-21 15:39:53,"25,426s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:39:28,2024-05-21 15:39:43,"14,596s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 15:39:43,2024-05-21 15:39:43,"0,578s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_1 Distribucion geografica""))",Chrome 124.0.0.0,,,2024-05-21 15:39:43,2024-05-21 15:39:44,"0,630s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/0Principal/a_2 Departamentos o estados""))",Chrome 124.0.0.0,,,2024-05-21 15:39:44,2024-05-21 15:39:45,"0,639s",PASSED
+delay(3),Chrome 124.0.0.0,,,2024-05-21 15:39:45,2024-05-21 15:39:48,"3,016s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/2Departamentos o estados/0 btn_NuevoEstado""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:39:48,2024-05-21 15:39:48,"0,474s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:39:48,2024-05-21 15:39:50,"2,006s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/2Departamentos o estados/0 btn_NuevoEstado(1)/btn_Volver""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:39:50,2024-05-21 15:39:50,"0,410s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:39:50,2024-05-21 15:39:52,"2,001s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 15:39:52,2024-05-21 15:39:53,"0,634s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 15:39:53,2024-05-21 15:39:53,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/1 Distribucion Geografica/2 Departamentos o Estados/R25,Chrome 124.0.0.0,Sacar Pantallazo de la tabla de Departamentos y verificar Orden ascendente (revisar captura pantalla),,2024-05-21 15:39:53,2024-05-21 15:40:14,"20,503s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:39:53,2024-05-21 15:40:08,"14,746s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 15:40:08,2024-05-21 15:40:09,"0,595s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_1 Distribucion geografica""))",Chrome 124.0.0.0,,,2024-05-21 15:40:09,2024-05-21 15:40:09,"0,632s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/0Principal/a_2 Departamentos o estados""))",Chrome 124.0.0.0,,,2024-05-21 15:40:09,2024-05-21 15:40:10,"0,658s",PASSED
+delay(3),Chrome 124.0.0.0,,,2024-05-21 15:40:10,2024-05-21 15:40:13,"3,012s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 15:40:13,2024-05-21 15:40:14,"0,564s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 15:40:14,2024-05-21 15:40:14,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/1 Distribucion Geografica/2 Departamentos o Estados/R26,Chrome 124.0.0.0,Eliminar un Departamento o Estado,,2024-05-21 15:40:14,2024-05-21 15:40:37,"23,293s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:40:14,2024-05-21 15:40:29,"14,987s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 15:40:29,2024-05-21 15:40:30,"0,560s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_1 Distribucion geografica""))",Chrome 124.0.0.0,,,2024-05-21 15:40:30,2024-05-21 15:40:30,"0,670s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/0Principal/a_2 Departamentos o estados""))",Chrome 124.0.0.0,,,2024-05-21 15:40:30,2024-05-21 15:40:31,"0,647s",PASSED
+delay(3),Chrome 124.0.0.0,,,2024-05-21 15:40:31,2024-05-21 15:40:34,"3,009s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/2Departamentos o estados/a_9 Prueba_Borrar""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:40:34,2024-05-21 15:40:34,"0,467s",PASSED
+acceptAlert(),Chrome 124.0.0.0,,,2024-05-21 15:40:34,2024-05-21 15:40:34,"0,028s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:40:34,2024-05-21 15:40:36,"2,005s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 15:40:36,2024-05-21 15:40:37,"0,573s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 15:40:37,2024-05-21 15:40:37,"0,000s",PASSED

@@ -25,8 +25,6 @@ WebUI.delay(2)
 
 WebUI.click(findTestObject('ADM/1Configuracion/0Principal/a_6 Modelo de atencion'))
 
-WebUI.comment('Validación de campos')
-
 WebUI.delay(2)
 
 WebUI.click(findTestObject('ADM/1Configuracion/6Modelo de atencion/0Principal/a_1 Servicios'))

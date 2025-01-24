@@ -39,6 +39,8 @@ WebUI.selectOptionByLabel(findTestObject('ADM/2Agendas/2 Agendas por fechas/sele
 
 WebUI.click(findTestObject('ADM/2Agendas/2 Agendas por fechas/a_Open calendar Fecha Inicio'), FailureHandling.STOP_ON_FAILURE)
 
+WebUI.click(findTestObject('ADM/2Agendas/2 Agendas por fechas/a_Fecha Inicio Mes Siguiente'), FailureHandling.STOP_ON_FAILURE)
+
 'Javascript para escoger un dia a al azar'
 WebUI.executeJavaScript('return document.querySelector("#ctl00_ContentPlaceHolder2_rdpFechaInicio_calendar_Top > tbody > tr:nth-child(2) > td:nth-child(3) > a").click()', 
     [])
@@ -46,6 +48,8 @@ WebUI.executeJavaScript('return document.querySelector("#ctl00_ContentPlaceHolde
 WebUI.delay(2)
 
 WebUI.click(findTestObject('ADM/2Agendas/2 Agendas por fechas/a_Open calendar Fecha Fin'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('ADM/2Agendas/2 Agendas por fechas/a_Fecha Fin Mes Siguiente'), FailureHandling.STOP_ON_FAILURE)
 
 'Javascript para escoger un dia a al azar'
 WebUI.executeJavaScript('return document.querySelector("#ctl00_ContentPlaceHolder2_rdpFechaFin_calendar_Top > tbody > tr:nth-child(4) > td:nth-child(5) > a").click()', 

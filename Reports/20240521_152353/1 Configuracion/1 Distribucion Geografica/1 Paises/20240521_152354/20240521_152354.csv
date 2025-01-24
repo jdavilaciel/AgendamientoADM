@@ -1,0 +1,196 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+1 Paises,Chrome 124.0.0.0,,,2024-05-21 15:24:46,2024-05-21 15:30:08,"5m - 21,819s",PASSED
+,,,,,,,
+Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R01,Chrome 124.0.0.0,Inicio de Sesión en Agendamiento ADM,,2024-05-21 15:24:47,2024-05-21 15:25:03,"16,748s",PASSED
+openBrowser(Url),Chrome 124.0.0.0,,,2024-05-21 15:24:47,2024-05-21 15:24:51,"3,805s",PASSED
+maximizeWindow(),Chrome 124.0.0.0,,,2024-05-21 15:24:51,2024-05-21 15:24:51,"0,156s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:24:51,2024-05-21 15:24:53,"2,039s",PASSED
+"setText(findTestObject(""ADM/0Inicio Sesion/input_Usuario""), Usuario)",Chrome 124.0.0.0,,,2024-05-21 15:24:53,2024-05-21 15:24:54,"1,153s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:24:54,2024-05-21 15:24:56,"2,004s",PASSED
+"setText(findTestObject(""ADM/0Inicio Sesion/input_Clave""), Clave)",Chrome 124.0.0.0,,,2024-05-21 15:24:56,2024-05-21 15:24:57,"0,863s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:24:57,2024-05-21 15:24:59,"2,002s",PASSED
+"click(findTestObject(""ADM/0Inicio Sesion/btn_IniciarSesion""))",Chrome 124.0.0.0,,,2024-05-21 15:24:59,2024-05-21 15:24:59,"0,492s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:24:59,2024-05-21 15:25:01,"2,002s",PASSED
+"verifyElementPresent(findTestObject(""ADM/0Principal/a_Agendas""), 2)",Chrome 124.0.0.0,,,2024-05-21 15:25:01,2024-05-21 15:25:02,"0,392s",PASSED
+"verifyElementPresent(findTestObject(""ADM/0Principal/a_Citas""), 2)",Chrome 124.0.0.0,,,2024-05-21 15:25:02,2024-05-21 15:25:02,"0,379s",PASSED
+"verifyElementPresent(findTestObject(""ADM/0Principal/a_Configuracion""), 2)",Chrome 124.0.0.0,,,2024-05-21 15:25:02,2024-05-21 15:25:03,"0,378s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 15:25:03,2024-05-21 15:25:03,"0,695s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 15:25:03,2024-05-21 15:25:03,"0,015s",PASSED
+,,,,,,,
+Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R02,Chrome 124.0.0.0,Se hace click en configuración y se deben mostrar los iconos correspondientes,,2024-05-21 15:25:03,2024-05-21 15:25:26,"22,823s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:25:04,2024-05-21 15:25:19,"15,089s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 15:25:19,2024-05-21 15:25:19,"0,551s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:25:19,2024-05-21 15:25:21,"2,002s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/0Principal/a_1 Distribucion geografica""), 2)",Chrome 124.0.0.0,,,2024-05-21 15:25:21,2024-05-21 15:25:22,"0,361s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/0Principal/a_2 Jornadas de atencion""), 2)",Chrome 124.0.0.0,,,2024-05-21 15:25:22,2024-05-21 15:25:22,"0,409s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/0Principal/a_3 Seguridad""), 2)",Chrome 124.0.0.0,,,2024-05-21 15:25:22,2024-05-21 15:25:22,"0,347s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/0Principal/a_4 Sistema""), 2)",Chrome 124.0.0.0,,,2024-05-21 15:25:22,2024-05-21 15:25:23,"0,359s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/0Principal/a_5 Clientes""), 2)",Chrome 124.0.0.0,,,2024-05-21 15:25:23,2024-05-21 15:25:23,"0,398s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/0Principal/a_6 Modelo de atencion""), 2)",Chrome 124.0.0.0,,,2024-05-21 15:25:23,2024-05-21 15:25:24,"0,389s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:25:24,2024-05-21 15:25:26,"2,027s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 15:25:26,2024-05-21 15:25:26,"0,494s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 15:25:26,2024-05-21 15:25:26,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R03,Chrome 124.0.0.0,Boton distribución Geográfica,,2024-05-21 15:25:26,2024-05-21 15:25:49,"22,664s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:25:26,2024-05-21 15:25:41,"14,739s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 15:25:41,2024-05-21 15:25:42,"0,644s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:25:42,2024-05-21 15:25:44,"2,015s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_1 Distribucion geografica""))",Chrome 124.0.0.0,,,2024-05-21 15:25:44,2024-05-21 15:25:44,"0,531s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:25:44,2024-05-21 15:25:46,"2,020s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/1Distribucion geografica/0Principal/a_1 Paises""), 2)",Chrome 124.0.0.0,,,2024-05-21 15:25:46,2024-05-21 15:25:47,"0,361s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/1Distribucion geografica/0Principal/a_2 Departamentos o estados""), 2)",Chrome 124.0.0.0,,,2024-05-21 15:25:47,2024-05-21 15:25:47,"0,409s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/1Distribucion geografica/0Principal/a_3 Regionales""), 2)",Chrome 124.0.0.0,,,2024-05-21 15:25:47,2024-05-21 15:25:48,"0,378s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/1Distribucion geografica/0Principal/a_4 Ciudades""), 2)",Chrome 124.0.0.0,,,2024-05-21 15:25:48,2024-05-21 15:25:48,"0,347s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/1Distribucion geografica/0Principal/a_5 Oficinas""), 2)",Chrome 124.0.0.0,,,2024-05-21 15:25:48,2024-05-21 15:25:48,"0,362s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 15:25:48,2024-05-21 15:25:49,"0,479s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 15:25:49,2024-05-21 15:25:49,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R04,Chrome 124.0.0.0,,,2024-05-21 15:25:49,2024-05-21 15:26:14,"25,412s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:25:49,2024-05-21 15:26:04,"14,793s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 15:26:04,2024-05-21 15:26:05,"0,542s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:26:05,2024-05-21 15:26:07,"2,003s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_1 Distribucion geografica""))",Chrome 124.0.0.0,,,2024-05-21 15:26:07,2024-05-21 15:26:07,"0,580s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:26:07,2024-05-21 15:26:09,"2,005s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/0Principal/a_1 Paises""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:26:09,2024-05-21 15:26:10,"0,612s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:26:10,2024-05-21 15:26:12,"2,015s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/1Distribucion geografica/1Paises/input_Codigo Pais""), 2)",Chrome 124.0.0.0,,,2024-05-21 15:26:12,2024-05-21 15:26:12,"0,392s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/1Distribucion geografica/1Paises/input_Nombre Pais""), 2)",Chrome 124.0.0.0,,,2024-05-21 15:26:12,2024-05-21 15:26:13,"0,409s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/1Distribucion geografica/1Paises/btn_Buscar""), 2)",Chrome 124.0.0.0,,,2024-05-21 15:26:13,2024-05-21 15:26:13,"0,377s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/1Distribucion geografica/1Paises/btn_Limpiar""), 2)",Chrome 124.0.0.0,,,2024-05-21 15:26:13,2024-05-21 15:26:13,"0,393s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais""), 2)",Chrome 124.0.0.0,,,2024-05-21 15:26:13,2024-05-21 15:26:14,"0,392s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 15:26:14,2024-05-21 15:26:14,"0,496s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 15:26:14,2024-05-21 15:26:14,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R10,Chrome 124.0.0.0,El botoón guardar cumple la función de crear un nuevo País,,2024-05-21 15:26:14,2024-05-21 15:26:44,"30,006s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:26:15,2024-05-21 15:26:29,"14,725s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 15:26:29,2024-05-21 15:26:30,"0,555s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:26:30,2024-05-21 15:26:32,"2,004s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_1 Distribucion geografica""))",Chrome 124.0.0.0,,,2024-05-21 15:26:32,2024-05-21 15:26:32,"0,547s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:26:32,2024-05-21 15:26:34,"2,004s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/0Principal/a_1 Paises""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:26:34,2024-05-21 15:26:35,"0,611s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:26:35,2024-05-21 15:26:37,"2,003s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:26:37,2024-05-21 15:26:38,"0,468s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:26:38,2024-05-21 15:26:40,"2,015s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais(1)/input_Codigo Pais""), CodPais)",Chrome 124.0.0.0,,,2024-05-21 15:26:40,2024-05-21 15:26:40,"0,844s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais(1)/input_Nombre Pais""), NombrePais)",Chrome 124.0.0.0,,,2024-05-21 15:26:40,2024-05-21 15:26:41,"0,826s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais(1)/btn_Guardar Pais""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:26:41,2024-05-21 15:26:42,"0,430s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:26:42,2024-05-21 15:26:44,"2,008s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 15:26:44,2024-05-21 15:26:44,"0,544s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 15:26:44,2024-05-21 15:26:44,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R08,Chrome 124.0.0.0,Creación del país Colombia con código 1,,2024-05-21 15:26:44,2024-05-21 15:27:11,"26,679s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:26:45,2024-05-21 15:26:59,"14,731s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 15:26:59,2024-05-21 15:27:00,"0,653s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:27:00,2024-05-21 15:27:02,"2,013s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_1 Distribucion geografica""))",Chrome 124.0.0.0,,,2024-05-21 15:27:02,2024-05-21 15:27:02,"0,547s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:27:02,2024-05-21 15:27:04,"2,003s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/0Principal/a_1 Paises""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:27:04,2024-05-21 15:27:05,"0,584s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:27:05,2024-05-21 15:27:07,"2,015s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:27:07,2024-05-21 15:27:08,"0,458s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:27:08,2024-05-21 15:27:10,"2,005s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais(1)/input_Codigo Pais""), 2)",Chrome 124.0.0.0,,,2024-05-21 15:27:10,2024-05-21 15:27:10,"0,376s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais(1)/input_Nombre Pais""), 2)",Chrome 124.0.0.0,,,2024-05-21 15:27:10,2024-05-21 15:27:10,"0,425s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 15:27:10,2024-05-21 15:27:11,"0,538s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 15:27:11,2024-05-21 15:27:11,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R06,Chrome 124.0.0.0,Buscar páis que comienza con col y dejará ver en la lista Colombia,,2024-05-21 15:27:11,2024-05-21 15:27:43,"32,294s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:27:11,2024-05-21 15:27:26,"14,802s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 15:27:26,2024-05-21 15:27:27,"0,580s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:27:27,2024-05-21 15:27:29,"2,014s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_1 Distribucion geografica""))",Chrome 124.0.0.0,,,2024-05-21 15:27:29,2024-05-21 15:27:29,"0,532s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:27:29,2024-05-21 15:27:31,"2,020s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/0Principal/a_1 Paises""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:27:31,2024-05-21 15:27:32,"0,533s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:27:32,2024-05-21 15:27:34,"2,018s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/1Distribucion geografica/1Paises/input_Nombre Pais""), ""chi"")",Chrome 124.0.0.0,,,2024-05-21 15:27:34,2024-05-21 15:27:35,"0,801s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/1Paises/btn_Buscar""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:27:35,2024-05-21 15:27:35,"0,408s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:27:35,2024-05-21 15:27:37,"2,012s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 15:27:37,2024-05-21 15:27:37,"0,481s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:27:37,2024-05-21 15:27:39,"2,008s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/1Distribucion geografica/1Paises/input_Nombre Pais""), ""col"")",Chrome 124.0.0.0,,,2024-05-21 15:27:39,2024-05-21 15:27:40,"0,815s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/1Paises/btn_Buscar""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:27:40,2024-05-21 15:27:41,"0,408s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:27:41,2024-05-21 15:27:43,"2,010s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 15:27:43,2024-05-21 15:27:43,"0,522s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 15:27:43,2024-05-21 15:27:43,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R07,Chrome 124.0.0.0,Boton Limpiar en Paises,,2024-05-21 15:27:43,2024-05-21 15:28:13,"30,240s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:27:44,2024-05-21 15:27:58,"14,643s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 15:27:58,2024-05-21 15:27:59,"0,590s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:27:59,2024-05-21 15:28:01,"2,000s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_1 Distribucion geografica""))",Chrome 124.0.0.0,,,2024-05-21 15:28:01,2024-05-21 15:28:01,"0,496s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:28:01,2024-05-21 15:28:03,"2,019s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/0Principal/a_1 Paises""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:28:03,2024-05-21 15:28:04,"0,532s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:28:04,2024-05-21 15:28:06,"2,003s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/1Distribucion geografica/1Paises/input_Nombre Pais""), ""Prueba"")",Chrome 124.0.0.0,,,2024-05-21 15:28:06,2024-05-21 15:28:07,"0,814s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/1Paises/btn_Limpiar""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:28:07,2024-05-21 15:28:07,"0,426s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:28:07,2024-05-21 15:28:09,"2,001s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 15:28:09,2024-05-21 15:28:10,"0,479s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/1Distribucion geografica/1Paises/input_Nombre Pais""), ""col"")",Chrome 124.0.0.0,,,2024-05-21 15:28:10,2024-05-21 15:28:10,"0,854s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/1Paises/btn_Buscar""))",Chrome 124.0.0.0,,,2024-05-21 15:28:10,2024-05-21 15:28:11,"0,414s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:28:11,2024-05-21 15:28:13,"2,005s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 15:28:13,2024-05-21 15:28:13,"0,603s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 15:28:13,2024-05-21 15:28:13,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R05,Chrome 124.0.0.0,Se coloca caracteres en el código para confirmar que la aplicación no aceptará la creación del país.,,2024-05-21 15:28:13,2024-05-21 15:28:43,"29,834s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:28:14,2024-05-21 15:28:29,"14,748s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 15:28:29,2024-05-21 15:28:29,"0,556s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:28:29,2024-05-21 15:28:31,"2,006s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_1 Distribucion geografica""))",Chrome 124.0.0.0,,,2024-05-21 15:28:31,2024-05-21 15:28:32,"0,544s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:28:32,2024-05-21 15:28:34,"2,004s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/0Principal/a_1 Paises""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:28:34,2024-05-21 15:28:34,"0,564s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:28:34,2024-05-21 15:28:36,"2,004s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:28:36,2024-05-21 15:28:37,"0,435s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:28:37,2024-05-21 15:28:39,"2,009s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais(1)/input_Codigo Pais""), ""gdfhsjs"")",Chrome 124.0.0.0,,,2024-05-21 15:28:39,2024-05-21 15:28:40,"0,844s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais(1)/input_Nombre Pais""), ""Chile"")",Chrome 124.0.0.0,,,2024-05-21 15:28:40,2024-05-21 15:28:40,"0,762s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais(1)/btn_Guardar Pais""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:28:40,2024-05-21 15:28:41,"0,424s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:28:41,2024-05-21 15:28:43,"2,015s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 15:28:43,2024-05-21 15:28:43,"0,495s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 15:28:43,2024-05-21 15:28:43,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R09,Chrome 124.0.0.0,"Se colocan números y distintos caracteres, en el nombre para confirmar que la aplicación no aceptará la creación del país.",,2024-05-21 15:28:43,2024-05-21 15:29:13,"29,735s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:28:44,2024-05-21 15:28:59,"14,839s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 15:28:59,2024-05-21 15:28:59,"0,585s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:28:59,2024-05-21 15:29:01,"2,009s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_1 Distribucion geografica""))",Chrome 124.0.0.0,,,2024-05-21 15:29:01,2024-05-21 15:29:02,"0,496s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:29:02,2024-05-21 15:29:04,"2,004s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/0Principal/a_1 Paises""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:29:04,2024-05-21 15:29:04,"0,544s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:29:04,2024-05-21 15:29:06,"2,005s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:29:06,2024-05-21 15:29:07,"0,383s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:29:07,2024-05-21 15:29:09,"2,012s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais(1)/input_Codigo Pais""), ""2"")",Chrome 124.0.0.0,,,2024-05-21 15:29:09,2024-05-21 15:29:09,"0,810s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais(1)/input_Nombre Pais""), ""000??Chile?LJ?"")",Chrome 124.0.0.0,,,2024-05-21 15:29:09,2024-05-21 15:29:10,"0,772s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais(1)/btn_Guardar Pais""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:29:10,2024-05-21 15:29:11,"0,401s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:29:11,2024-05-21 15:29:13,"2,012s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 15:29:13,2024-05-21 15:29:13,"0,480s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 15:29:13,2024-05-21 15:29:13,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R11,Chrome 124.0.0.0,"El botón ""Volver"", cumple la función de redirigir correctamente a la página ""Países"".",,2024-05-21 15:29:13,2024-05-21 15:29:42,"28,985s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:29:13,2024-05-21 15:29:28,"14,706s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 15:29:28,2024-05-21 15:29:29,"0,540s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:29:29,2024-05-21 15:29:31,"2,002s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_1 Distribucion geografica""))",Chrome 124.0.0.0,,,2024-05-21 15:29:31,2024-05-21 15:29:31,"0,552s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:29:31,2024-05-21 15:29:33,"2,012s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/0Principal/a_1 Paises""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:29:33,2024-05-21 15:29:34,"0,577s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:29:34,2024-05-21 15:29:36,"2,007s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:29:36,2024-05-21 15:29:36,"0,461s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:29:36,2024-05-21 15:29:38,"2,015s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais(1)/btn_Volver""))",Chrome 124.0.0.0,,,2024-05-21 15:29:38,2024-05-21 15:29:39,"0,454s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:29:39,2024-05-21 15:29:41,"2,012s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/1Distribucion geografica/1Paises/input_Nombre Pais""), 2)",Chrome 124.0.0.0,,,2024-05-21 15:29:41,2024-05-21 15:29:41,"0,378s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/1Distribucion geografica/1Paises/input_Codigo Pais""), 2)",Chrome 124.0.0.0,,,2024-05-21 15:29:41,2024-05-21 15:29:42,"0,394s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 15:29:42,2024-05-21 15:29:42,"0,496s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 15:29:42,2024-05-21 15:29:42,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R13,Chrome 124.0.0.0,Boton eliminar Pais,,2024-05-21 15:29:42,2024-05-21 15:30:08,"26,045s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:29:42,2024-05-21 15:29:57,"14,833s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 15:29:57,2024-05-21 15:29:58,"0,596s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:29:58,2024-05-21 15:30:00,"2,000s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_1 Distribucion geografica""))",Chrome 124.0.0.0,,,2024-05-21 15:30:00,2024-05-21 15:30:00,"0,512s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:30:00,2024-05-21 15:30:02,"2,007s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/0Principal/a_1 Paises""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:30:02,2024-05-21 15:30:03,"0,579s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:30:03,2024-05-21 15:30:05,"2,004s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/1Paises/a_2 Prueba_Borrar""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:30:05,2024-05-21 15:30:05,"0,457s",PASSED
+acceptAlert(),Chrome 124.0.0.0,,,2024-05-21 15:30:05,2024-05-21 15:30:06,"0,042s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:30:06,2024-05-21 15:30:08,"2,008s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 15:30:08,2024-05-21 15:30:08,"0,542s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 15:30:08,2024-05-21 15:30:08,"0,000s",PASSED

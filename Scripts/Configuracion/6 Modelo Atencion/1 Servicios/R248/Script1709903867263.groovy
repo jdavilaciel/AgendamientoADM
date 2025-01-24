@@ -25,15 +25,13 @@ WebUI.delay(2)
 
 WebUI.click(findTestObject('ADM/1Configuracion/0Principal/a_6 Modelo de atencion'))
 
-WebUI.comment('Validación de campos')
+WebUI.comment('Boton Limpiar')
 
 WebUI.delay(2)
 
 WebUI.click(findTestObject('ADM/1Configuracion/6Modelo de atencion/0Principal/a_1 Servicios'))
 
 WebUI.delay(2)
-
-WebUI.comment('Sin código')
 
 WebUI.setText(findTestObject('ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Codigo'), '')
 

@@ -1,0 +1,1876 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="1 Servicios" time="499.634" tests="12" failures="0" errors="0">
+   <testsuite name="1 Servicios" tests="12" failures="0" errors="0" time="499.634" skipped="0" timestamp="2024-05-21 17:07:30" hostname="jdavila - PCPruebas101.ciel.cielingenieria.com" id="Test Suites/1 Configuracion/6 Modelo Atencion/1 Servicios">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\1 Servicios\\20240521_152438"/>
+         <property name="logFiles" value="C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\1 Servicios\\20240521_152438\\execution0.log"/>
+         <property name="attachments" value="C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\1 Servicios\\20240521_152438\\1716329275500.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\1 Servicios\\20240521_152438\\1716329299767.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\1 Servicios\\20240521_152438\\1716329303639.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\1 Servicios\\20240521_152438\\1716329340843.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\1 Servicios\\20240521_152438\\1716329348283.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\1 Servicios\\20240521_152438\\1716329386730.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\1 Servicios\\20240521_152438\\1716329394086.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\1 Servicios\\20240521_152438\\1716329432503.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\1 Servicios\\20240521_152438\\1716329440002.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\1 Servicios\\20240521_152438\\1716329478850.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\1 Servicios\\20240521_152438\\1716329486256.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\1 Servicios\\20240521_152438\\1716329524420.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\1 Servicios\\20240521_152438\\1716329531843.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\1 Servicios\\20240521_152438\\1716329570197.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\1 Servicios\\20240521_152438\\1716329577647.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\1 Servicios\\20240521_152438\\1716329614106.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\1 Servicios\\20240521_152438\\1716329621595.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\1 Servicios\\20240521_152438\\1716329659813.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\1 Servicios\\20240521_152438\\1716329667303.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\1 Servicios\\20240521_152438\\1716329691466.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\1 Servicios\\20240521_152438\\1716329706054.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\1 Servicios\\20240521_152438\\1716329713525.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\1 Servicios\\20240521_152438\\1716329737566.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\1 Servicios\\20240521_152438\\1716329744255.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\1 Servicios\\20240521_152438\\1716329749601.png"/>
+         <property name="hostName" value="jdavila - PCPruebas101.ciel.cielingenieria.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.9.208"/>
+         <property name="browser" value="Chrome 124.0.0.0"/>
+         <property name="hostAddress" value="192.168.91.13"/>
+         <property name="sessionId" value="25765aee03fb0c517977a82cb1ecc556"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R245" time="25.098" classname="Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R245" status="PASSED">
+         <system-out><![CDATA[2024-05-21 17:07:31 - [TEST_CASE][PASSED] - Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R245: Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R245
+
+2024-05-21 17:07:31 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 17:07:31 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 17:07:31 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 17:07:32 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 17:07:32 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 17:07:35 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 17:07:35 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 17:07:35 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 17:07:35 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:07:37 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:07:37 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 17:07:38 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 17:07:38 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:07:40 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:07:40 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 17:07:41 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 17:07:41 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:07:43 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:07:43 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 17:07:43 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 17:07:43 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 17:07:46 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 17:07:46 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 17:07:46 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 17:07:47 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 17:07:47 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:07:49 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:07:49 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_6 Modelo de atencion")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_6 Modelo de atencion' is clicked on
+
+2024-05-21 17:07:50 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_6 Modelo de atencion' is clicked on
+
+2024-05-21 17:07:50 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:07:52 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:07:52 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/6Modelo de atencion/0Principal/a_1 Servicios"), 2): Object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/0Principal/a_1 Servicios' is present
+
+2024-05-21 17:07:53 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/0Principal/a_1 Servicios' is present
+
+2024-05-21 17:07:53 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/6Modelo de atencion/0Principal/a_2 Servicios por oficinas"), 2): Object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/0Principal/a_2 Servicios por oficinas' is present
+
+2024-05-21 17:07:53 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/0Principal/a_2 Servicios por oficinas' is present
+
+2024-05-21 17:07:53 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:07:55 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:07:55 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 17:07:56 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 17:07:56 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\1 Servicios\\20240521_152438\\1716329275500.png]]
+
+2024-05-21 17:07:56 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R246" time="28.263" classname="Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R246" status="PASSED">
+         <system-out><![CDATA[2024-05-21 17:07:56 - [TEST_CASE][PASSED] - Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R246: Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R246
+
+2024-05-21 17:07:56 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 17:07:56 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 17:07:56 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 17:07:56 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 17:07:57 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 17:07:57 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 17:07:59 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 17:07:59 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 17:07:59 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 17:07:59 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:08:01 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:08:01 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 17:08:02 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 17:08:02 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:08:04 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:08:04 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 17:08:05 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 17:08:05 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:08:07 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:08:07 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 17:08:08 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 17:08:08 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 17:08:11 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 17:08:11 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 17:08:11 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 17:08:11 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 17:08:11 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:08:13 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:08:13 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_6 Modelo de atencion")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_6 Modelo de atencion' is clicked on
+
+2024-05-21 17:08:14 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_6 Modelo de atencion' is clicked on
+
+2024-05-21 17:08:14 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:08:16 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:08:16 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/6Modelo de atencion/0Principal/a_1 Servicios")): Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/0Principal/a_1 Servicios' is clicked on
+
+2024-05-21 17:08:17 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/0Principal/a_1 Servicios' is clicked on
+
+2024-05-21 17:08:17 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:08:19 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:08:19 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 17:08:20 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 17:08:20 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\1 Servicios\\20240521_152438\\1716329299767.png]]
+
+2024-05-21 17:08:20 - [TEST_STEP][PASSED] - comment("Verificación de campos"): Verificación de campos
+
+2024-05-21 17:08:20 - [MESSAGE][INFO] - Verificación de campos
+
+2024-05-21 17:08:20 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/btn_Guardar"), 2): Object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/btn_Guardar' is present
+
+2024-05-21 17:08:20 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/btn_Guardar' is present
+
+2024-05-21 17:08:20 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/btn_Limpiar"), 2): Object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/btn_Limpiar' is present
+
+2024-05-21 17:08:21 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/btn_Limpiar' is present
+
+2024-05-21 17:08:21 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Codigo"), 2): Object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Codigo' is present
+
+2024-05-21 17:08:21 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Codigo' is present
+
+2024-05-21 17:08:21 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Diseno Descripcion"), 2): Object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Diseno Descripcion' is present
+
+2024-05-21 17:08:22 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Diseno Descripcion' is present
+
+2024-05-21 17:08:22 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_Diseno Requisitos"), 2): Object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_Diseno Requisitos' is present
+
+2024-05-21 17:08:22 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_Diseno Requisitos' is present
+
+2024-05-21 17:08:22 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Tiempo por Cita (Minutos)"), 2): Object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Tiempo por Cita (Minutos)' is present
+
+2024-05-21 17:08:22 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Tiempo por Cita (Minutos)' is present
+
+2024-05-21 17:08:22 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/select_Tipo especialidad"), 2): Object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/select_Tipo especialidad' is present
+
+2024-05-21 17:08:23 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/select_Tipo especialidad' is present
+
+2024-05-21 17:08:23 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Nombre"), 2): Object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Nombre' is present
+
+2024-05-21 17:08:23 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Nombre' is present
+
+2024-05-21 17:08:23 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 17:08:24 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 17:08:24 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\1 Servicios\\20240521_152438\\1716329303639.png]]
+
+2024-05-21 17:08:24 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R247a" time="44.745" classname="Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R247a" status="PASSED">
+         <system-out><![CDATA[2024-05-21 17:08:24 - [TEST_CASE][PASSED] - Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R247a: Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R247a
+
+2024-05-21 17:08:24 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 17:08:24 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 17:08:24 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 17:08:24 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 17:08:25 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 17:08:25 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 17:08:27 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 17:08:27 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 17:08:27 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 17:08:27 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:08:29 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:08:30 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 17:08:31 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 17:08:31 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:08:33 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:08:33 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 17:08:34 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 17:08:34 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:08:36 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:08:36 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 17:08:36 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 17:08:36 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 17:08:39 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 17:08:39 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 17:08:39 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 17:08:40 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 17:08:40 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:08:42 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:08:42 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_6 Modelo de atencion")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_6 Modelo de atencion' is clicked on
+
+2024-05-21 17:08:42 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_6 Modelo de atencion' is clicked on
+
+2024-05-21 17:08:42 - [TEST_STEP][PASSED] - comment("Validación de campos"): Validación de campos
+
+2024-05-21 17:08:42 - [MESSAGE][INFO] - Validación de campos
+
+2024-05-21 17:08:42 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:08:44 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:08:44 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/6Modelo de atencion/0Principal/a_1 Servicios")): Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/0Principal/a_1 Servicios' is clicked on
+
+2024-05-21 17:08:45 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/0Principal/a_1 Servicios' is clicked on
+
+2024-05-21 17:08:45 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:08:47 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:08:47 - [TEST_STEP][PASSED] - comment("Sin código"): Sin código
+
+2024-05-21 17:08:47 - [MESSAGE][INFO] - Sin código
+
+2024-05-21 17:08:47 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Codigo"), ""): Text '' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Codigo'
+
+2024-05-21 17:08:48 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Codigo'
+
+2024-05-21 17:08:48 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Nombre"), findTestData("7 Servicios").getValue("Nombre", 8)): Text '0005754%$&htgy' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Nombre'
+
+2024-05-21 17:08:50 - [MESSAGE][PASSED] - Text '0005754%$&htgy' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Nombre'
+
+2024-05-21 17:08:50 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Requisitos")): Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Requisitos' is clicked on
+
+2024-05-21 17:08:50 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Requisitos' is clicked on
+
+2024-05-21 17:08:50 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:08:52 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:08:52 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Requisitos"), findTestData("7 Servicios").getValue("Requisitos", 8)): Text '0005754%$&htgy' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Requisitos'
+
+2024-05-21 17:08:53 - [MESSAGE][PASSED] - Text '0005754%$&htgy' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Requisitos'
+
+2024-05-21 17:08:53 - [TEST_STEP][PASSED] - scrollToPosition(0, 500): Browser is scrolled to position x = 0, y = 500
+
+2024-05-21 17:08:53 - [MESSAGE][PASSED] - Browser is scrolled to position x = 0, y = 500
+
+2024-05-21 17:08:53 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Descripcion")): Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Descripcion' is clicked on
+
+2024-05-21 17:08:54 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Descripcion' is clicked on
+
+2024-05-21 17:08:54 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:08:56 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:08:56 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Descripcion"), findTestData("7 Servicios").getValue("Descripción", 8)): Text '0005754%$&htgy' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Descripcion'
+
+2024-05-21 17:08:57 - [MESSAGE][PASSED] - Text '0005754%$&htgy' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Descripcion'
+
+2024-05-21 17:08:57 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Tiempo por Cita (Minutos)"), findTestData("7 Servicios").getValue("Tiempo Por Cita", 1)): Text '2' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Tiempo por Cita (Minutos)'
+
+2024-05-21 17:08:58 - [MESSAGE][PASSED] - Text '2' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Tiempo por Cita (Minutos)'
+
+2024-05-21 17:08:58 - [TEST_STEP][PASSED] - selectOptionByLabel(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/select_Tipo especialidad"), findTestData("7 Servicios").getValue("Tipo Especialidad", 1), false): All options with label 'Presencial' are selected in object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/select_Tipo especialidad' 
+
+2024-05-21 17:08:58 - [MESSAGE][PASSED] - All options with label 'Presencial' are selected in object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/select_Tipo especialidad' 
+
+2024-05-21 17:08:58 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:09:00 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:09:00 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 17:09:01 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 17:09:01 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\1 Servicios\\20240521_152438\\1716329340843.png]]
+
+2024-05-21 17:09:01 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:09:03 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:09:03 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/btn_Guardar")): Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/btn_Guardar' is clicked on
+
+2024-05-21 17:09:06 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/btn_Guardar' is clicked on
+
+2024-05-21 17:09:06 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:09:08 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:09:08 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 17:09:08 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 17:09:09 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\1 Servicios\\20240521_152438\\1716329348283.png]]
+
+2024-05-21 17:09:09 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R247b" time="45.708" classname="Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R247b" status="PASSED">
+         <system-out><![CDATA[2024-05-21 17:09:09 - [TEST_CASE][PASSED] - Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R247b: Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R247b
+
+2024-05-21 17:09:09 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 17:09:09 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 17:09:09 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 17:09:09 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 17:09:10 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 17:09:10 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 17:09:12 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 17:09:12 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 17:09:12 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 17:09:12 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:09:14 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:09:14 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 17:09:15 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 17:09:15 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:09:17 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:09:17 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 17:09:18 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 17:09:18 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:09:20 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:09:20 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 17:09:21 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 17:09:21 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 17:09:24 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 17:09:24 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 17:09:24 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 17:09:24 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 17:09:24 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:09:26 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:09:26 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_6 Modelo de atencion")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_6 Modelo de atencion' is clicked on
+
+2024-05-21 17:09:27 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_6 Modelo de atencion' is clicked on
+
+2024-05-21 17:09:27 - [TEST_STEP][PASSED] - comment("Validación de campos"): Validación de campos
+
+2024-05-21 17:09:27 - [MESSAGE][INFO] - Validación de campos
+
+2024-05-21 17:09:27 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:09:29 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:09:29 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/6Modelo de atencion/0Principal/a_1 Servicios")): Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/0Principal/a_1 Servicios' is clicked on
+
+2024-05-21 17:09:30 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/0Principal/a_1 Servicios' is clicked on
+
+2024-05-21 17:09:30 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:09:32 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:09:32 - [TEST_STEP][PASSED] - comment("Sin Nombre"): Sin Nombre
+
+2024-05-21 17:09:32 - [MESSAGE][INFO] - Sin Nombre
+
+2024-05-21 17:09:32 - [TEST_STEP][PASSED] - scrollToPosition(0, 0): Browser is scrolled to position x = 0, y = 0
+
+2024-05-21 17:09:32 - [MESSAGE][PASSED] - Browser is scrolled to position x = 0, y = 0
+
+2024-05-21 17:09:32 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:09:34 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:09:34 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Codigo"), findTestData("7 Servicios").getValue("Código", 8)): Text '8' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Codigo'
+
+2024-05-21 17:09:35 - [MESSAGE][PASSED] - Text '8' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Codigo'
+
+2024-05-21 17:09:35 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Nombre"), ""): Text '' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Nombre'
+
+2024-05-21 17:09:36 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Nombre'
+
+2024-05-21 17:09:36 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Requisitos")): Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Requisitos' is clicked on
+
+2024-05-21 17:09:36 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Requisitos' is clicked on
+
+2024-05-21 17:09:36 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:09:38 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:09:38 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Requisitos"), findTestData("7 Servicios").getValue("Requisitos", 8)): Text '0005754%$&htgy' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Requisitos'
+
+2024-05-21 17:09:39 - [MESSAGE][PASSED] - Text '0005754%$&htgy' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Requisitos'
+
+2024-05-21 17:09:39 - [TEST_STEP][PASSED] - scrollToPosition(0, 500): Browser is scrolled to position x = 0, y = 500
+
+2024-05-21 17:09:39 - [MESSAGE][PASSED] - Browser is scrolled to position x = 0, y = 500
+
+2024-05-21 17:09:39 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Descripcion")): Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Descripcion' is clicked on
+
+2024-05-21 17:09:39 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Descripcion' is clicked on
+
+2024-05-21 17:09:39 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:09:41 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:09:41 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Descripcion"), findTestData("7 Servicios").getValue("Descripción", 8)): Text '0005754%$&htgy' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Descripcion'
+
+2024-05-21 17:09:42 - [MESSAGE][PASSED] - Text '0005754%$&htgy' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Descripcion'
+
+2024-05-21 17:09:42 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Tiempo por Cita (Minutos)"), findTestData("7 Servicios").getValue("Tiempo Por Cita", 1)): Text '2' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Tiempo por Cita (Minutos)'
+
+2024-05-21 17:09:43 - [MESSAGE][PASSED] - Text '2' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Tiempo por Cita (Minutos)'
+
+2024-05-21 17:09:43 - [TEST_STEP][PASSED] - selectOptionByLabel(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/select_Tipo especialidad"), findTestData("7 Servicios").getValue("Tipo Especialidad", 1), false): All options with label 'Presencial' are selected in object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/select_Tipo especialidad' 
+
+2024-05-21 17:09:44 - [MESSAGE][PASSED] - All options with label 'Presencial' are selected in object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/select_Tipo especialidad' 
+
+2024-05-21 17:09:44 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:09:46 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:09:46 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 17:09:47 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 17:09:47 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\1 Servicios\\20240521_152438\\1716329386730.png]]
+
+2024-05-21 17:09:47 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:09:49 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:09:49 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/btn_Guardar")): Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/btn_Guardar' is clicked on
+
+2024-05-21 17:09:52 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/btn_Guardar' is clicked on
+
+2024-05-21 17:09:52 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:09:54 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:09:54 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 17:09:54 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 17:09:54 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\1 Servicios\\20240521_152438\\1716329394086.png]]
+
+2024-05-21 17:09:54 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R247c" time="45.955" classname="Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R247c" status="PASSED">
+         <system-out><![CDATA[2024-05-21 17:09:54 - [TEST_CASE][PASSED] - Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R247c: Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R247c
+
+2024-05-21 17:09:55 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 17:09:55 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 17:09:55 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 17:09:55 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 17:09:56 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 17:09:56 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 17:09:58 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 17:09:58 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 17:09:58 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 17:09:58 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:10:00 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:10:00 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 17:10:01 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 17:10:01 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:10:03 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:10:03 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 17:10:04 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 17:10:04 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:10:06 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:10:06 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 17:10:06 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 17:10:06 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 17:10:09 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 17:10:09 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 17:10:09 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 17:10:10 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 17:10:10 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:10:12 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:10:12 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_6 Modelo de atencion")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_6 Modelo de atencion' is clicked on
+
+2024-05-21 17:10:12 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_6 Modelo de atencion' is clicked on
+
+2024-05-21 17:10:12 - [TEST_STEP][PASSED] - comment("Validación de campos"): Validación de campos
+
+2024-05-21 17:10:13 - [MESSAGE][INFO] - Validación de campos
+
+2024-05-21 17:10:13 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:10:15 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:10:15 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/6Modelo de atencion/0Principal/a_1 Servicios")): Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/0Principal/a_1 Servicios' is clicked on
+
+2024-05-21 17:10:16 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/0Principal/a_1 Servicios' is clicked on
+
+2024-05-21 17:10:16 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:10:18 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:10:18 - [TEST_STEP][PASSED] - comment("Sin Requisitos"): Sin Requisitos
+
+2024-05-21 17:10:18 - [MESSAGE][INFO] - Sin Requisitos
+
+2024-05-21 17:10:18 - [TEST_STEP][PASSED] - scrollToPosition(0, 0): Browser is scrolled to position x = 0, y = 0
+
+2024-05-21 17:10:18 - [MESSAGE][PASSED] - Browser is scrolled to position x = 0, y = 0
+
+2024-05-21 17:10:18 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:10:20 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:10:20 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Codigo"), findTestData("7 Servicios").getValue("Código", 8)): Text '8' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Codigo'
+
+2024-05-21 17:10:21 - [MESSAGE][PASSED] - Text '8' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Codigo'
+
+2024-05-21 17:10:21 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Nombre"), findTestData("7 Servicios").getValue("Nombre", 8)): Text '0005754%$&htgy' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Nombre'
+
+2024-05-21 17:10:21 - [MESSAGE][PASSED] - Text '0005754%$&htgy' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Nombre'
+
+2024-05-21 17:10:21 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Requisitos")): Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Requisitos' is clicked on
+
+2024-05-21 17:10:22 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Requisitos' is clicked on
+
+2024-05-21 17:10:22 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:10:24 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:10:24 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Requisitos"), ""): Text '' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Requisitos'
+
+2024-05-21 17:10:25 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Requisitos'
+
+2024-05-21 17:10:25 - [TEST_STEP][PASSED] - scrollToPosition(0, 500): Browser is scrolled to position x = 0, y = 500
+
+2024-05-21 17:10:25 - [MESSAGE][PASSED] - Browser is scrolled to position x = 0, y = 500
+
+2024-05-21 17:10:25 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Descripcion")): Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Descripcion' is clicked on
+
+2024-05-21 17:10:25 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Descripcion' is clicked on
+
+2024-05-21 17:10:25 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:10:27 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:10:27 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Descripcion"), findTestData("7 Servicios").getValue("Descripción", 8)): Text '0005754%$&htgy' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Descripcion'
+
+2024-05-21 17:10:28 - [MESSAGE][PASSED] - Text '0005754%$&htgy' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Descripcion'
+
+2024-05-21 17:10:28 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Tiempo por Cita (Minutos)"), findTestData("7 Servicios").getValue("Tiempo Por Cita", 1)): Text '2' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Tiempo por Cita (Minutos)'
+
+2024-05-21 17:10:29 - [MESSAGE][PASSED] - Text '2' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Tiempo por Cita (Minutos)'
+
+2024-05-21 17:10:29 - [TEST_STEP][PASSED] - selectOptionByLabel(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/select_Tipo especialidad"), findTestData("7 Servicios").getValue("Tipo Especialidad", 1), false): All options with label 'Presencial' are selected in object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/select_Tipo especialidad' 
+
+2024-05-21 17:10:30 - [MESSAGE][PASSED] - All options with label 'Presencial' are selected in object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/select_Tipo especialidad' 
+
+2024-05-21 17:10:30 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:10:32 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:10:32 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 17:10:33 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 17:10:33 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\1 Servicios\\20240521_152438\\1716329432503.png]]
+
+2024-05-21 17:10:33 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:10:35 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:10:35 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/btn_Guardar")): Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/btn_Guardar' is clicked on
+
+2024-05-21 17:10:37 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/btn_Guardar' is clicked on
+
+2024-05-21 17:10:37 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:10:39 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:10:39 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 17:10:40 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 17:10:40 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\1 Servicios\\20240521_152438\\1716329440002.png]]
+
+2024-05-21 17:10:40 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R247d" time="46.125" classname="Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R247d" status="PASSED">
+         <system-out><![CDATA[2024-05-21 17:10:40 - [TEST_CASE][PASSED] - Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R247d: Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R247d
+
+2024-05-21 17:10:41 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 17:10:41 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 17:10:41 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 17:10:41 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 17:10:42 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 17:10:42 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 17:10:44 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 17:10:44 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 17:10:44 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 17:10:44 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:10:46 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:10:46 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 17:10:47 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 17:10:47 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:10:49 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:10:49 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 17:10:50 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 17:10:50 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:10:52 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:10:52 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 17:10:53 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 17:10:53 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 17:10:56 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 17:10:56 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 17:10:56 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 17:10:56 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 17:10:56 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:10:58 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:10:58 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_6 Modelo de atencion")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_6 Modelo de atencion' is clicked on
+
+2024-05-21 17:10:59 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_6 Modelo de atencion' is clicked on
+
+2024-05-21 17:10:59 - [TEST_STEP][PASSED] - comment("Validación de campos"): Validación de campos
+
+2024-05-21 17:10:59 - [MESSAGE][INFO] - Validación de campos
+
+2024-05-21 17:10:59 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:11:01 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:11:01 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/6Modelo de atencion/0Principal/a_1 Servicios")): Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/0Principal/a_1 Servicios' is clicked on
+
+2024-05-21 17:11:02 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/0Principal/a_1 Servicios' is clicked on
+
+2024-05-21 17:11:02 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:11:04 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:11:04 - [TEST_STEP][PASSED] - comment("Sin Descripción"): Sin Descripción
+
+2024-05-21 17:11:04 - [MESSAGE][INFO] - Sin Descripción
+
+2024-05-21 17:11:04 - [TEST_STEP][PASSED] - scrollToPosition(0, 0): Browser is scrolled to position x = 0, y = 0
+
+2024-05-21 17:11:04 - [MESSAGE][PASSED] - Browser is scrolled to position x = 0, y = 0
+
+2024-05-21 17:11:04 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:11:06 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:11:06 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Codigo"), findTestData("7 Servicios").getValue("Código", 8)): Text '8' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Codigo'
+
+2024-05-21 17:11:07 - [MESSAGE][PASSED] - Text '8' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Codigo'
+
+2024-05-21 17:11:07 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Nombre"), findTestData("7 Servicios").getValue("Nombre", 8)): Text '0005754%$&htgy' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Nombre'
+
+2024-05-21 17:11:08 - [MESSAGE][PASSED] - Text '0005754%$&htgy' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Nombre'
+
+2024-05-21 17:11:08 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Requisitos")): Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Requisitos' is clicked on
+
+2024-05-21 17:11:08 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Requisitos' is clicked on
+
+2024-05-21 17:11:08 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:11:10 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:11:10 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Requisitos"), findTestData("7 Servicios").getValue("Requisitos", 8)): Text '0005754%$&htgy' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Requisitos'
+
+2024-05-21 17:11:11 - [MESSAGE][PASSED] - Text '0005754%$&htgy' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Requisitos'
+
+2024-05-21 17:11:11 - [TEST_STEP][PASSED] - scrollToPosition(0, 500): Browser is scrolled to position x = 0, y = 500
+
+2024-05-21 17:11:11 - [MESSAGE][PASSED] - Browser is scrolled to position x = 0, y = 500
+
+2024-05-21 17:11:11 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Descripcion")): Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Descripcion' is clicked on
+
+2024-05-21 17:11:12 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Descripcion' is clicked on
+
+2024-05-21 17:11:12 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:11:14 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:11:14 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Descripcion"), ""): Text '' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Descripcion'
+
+2024-05-21 17:11:14 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Descripcion'
+
+2024-05-21 17:11:14 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Tiempo por Cita (Minutos)"), findTestData("7 Servicios").getValue("Tiempo Por Cita", 1)): Text '2' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Tiempo por Cita (Minutos)'
+
+2024-05-21 17:11:15 - [MESSAGE][PASSED] - Text '2' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Tiempo por Cita (Minutos)'
+
+2024-05-21 17:11:15 - [TEST_STEP][PASSED] - selectOptionByLabel(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/select_Tipo especialidad"), findTestData("7 Servicios").getValue("Tipo Especialidad", 1), false): All options with label 'Presencial' are selected in object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/select_Tipo especialidad' 
+
+2024-05-21 17:11:16 - [MESSAGE][PASSED] - All options with label 'Presencial' are selected in object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/select_Tipo especialidad' 
+
+2024-05-21 17:11:16 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:11:18 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:11:18 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 17:11:19 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 17:11:19 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\1 Servicios\\20240521_152438\\1716329478850.png]]
+
+2024-05-21 17:11:19 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:11:21 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:11:21 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/btn_Guardar")): Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/btn_Guardar' is clicked on
+
+2024-05-21 17:11:24 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/btn_Guardar' is clicked on
+
+2024-05-21 17:11:24 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:11:26 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:11:26 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 17:11:26 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 17:11:26 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\1 Servicios\\20240521_152438\\1716329486256.png]]
+
+2024-05-21 17:11:26 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R247e" time="45.738" classname="Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R247e" status="PASSED">
+         <system-out><![CDATA[2024-05-21 17:11:26 - [TEST_CASE][PASSED] - Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R247e: Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R247e
+
+2024-05-21 17:11:27 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 17:11:27 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 17:11:27 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 17:11:27 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 17:11:28 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 17:11:28 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 17:11:30 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 17:11:30 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 17:11:30 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 17:11:30 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:11:32 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:11:32 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 17:11:33 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 17:11:33 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:11:35 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:11:35 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 17:11:36 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 17:11:36 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:11:38 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:11:38 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 17:11:39 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 17:11:39 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 17:11:42 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 17:11:42 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 17:11:42 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 17:11:42 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 17:11:42 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:11:44 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:11:44 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_6 Modelo de atencion")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_6 Modelo de atencion' is clicked on
+
+2024-05-21 17:11:45 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_6 Modelo de atencion' is clicked on
+
+2024-05-21 17:11:45 - [TEST_STEP][PASSED] - comment("Validación de campos"): Validación de campos
+
+2024-05-21 17:11:45 - [MESSAGE][INFO] - Validación de campos
+
+2024-05-21 17:11:45 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:11:47 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:11:47 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/6Modelo de atencion/0Principal/a_1 Servicios")): Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/0Principal/a_1 Servicios' is clicked on
+
+2024-05-21 17:11:48 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/0Principal/a_1 Servicios' is clicked on
+
+2024-05-21 17:11:48 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:11:50 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:11:50 - [TEST_STEP][PASSED] - comment("Sin Tiempo cita"): Sin Tiempo cita
+
+2024-05-21 17:11:50 - [MESSAGE][INFO] - Sin Tiempo cita
+
+2024-05-21 17:11:50 - [TEST_STEP][PASSED] - scrollToPosition(0, 0): Browser is scrolled to position x = 0, y = 0
+
+2024-05-21 17:11:50 - [MESSAGE][PASSED] - Browser is scrolled to position x = 0, y = 0
+
+2024-05-21 17:11:50 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:11:52 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:11:52 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Codigo"), findTestData("7 Servicios").getValue("Código", 8)): Text '8' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Codigo'
+
+2024-05-21 17:11:53 - [MESSAGE][PASSED] - Text '8' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Codigo'
+
+2024-05-21 17:11:53 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Nombre"), findTestData("7 Servicios").getValue("Nombre", 8)): Text '0005754%$&htgy' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Nombre'
+
+2024-05-21 17:11:54 - [MESSAGE][PASSED] - Text '0005754%$&htgy' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Nombre'
+
+2024-05-21 17:11:54 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Requisitos")): Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Requisitos' is clicked on
+
+2024-05-21 17:11:54 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Requisitos' is clicked on
+
+2024-05-21 17:11:54 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:11:56 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:11:56 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Requisitos"), findTestData("7 Servicios").getValue("Requisitos", 8)): Text '0005754%$&htgy' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Requisitos'
+
+2024-05-21 17:11:57 - [MESSAGE][PASSED] - Text '0005754%$&htgy' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Requisitos'
+
+2024-05-21 17:11:57 - [TEST_STEP][PASSED] - scrollToPosition(0, 500): Browser is scrolled to position x = 0, y = 500
+
+2024-05-21 17:11:57 - [MESSAGE][PASSED] - Browser is scrolled to position x = 0, y = 500
+
+2024-05-21 17:11:57 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Descripcion")): Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Descripcion' is clicked on
+
+2024-05-21 17:11:57 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Descripcion' is clicked on
+
+2024-05-21 17:11:57 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:11:59 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:11:59 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Descripcion"), findTestData("7 Servicios").getValue("Descripción", 8)): Text '0005754%$&htgy' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Descripcion'
+
+2024-05-21 17:12:00 - [MESSAGE][PASSED] - Text '0005754%$&htgy' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Descripcion'
+
+2024-05-21 17:12:00 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Tiempo por Cita (Minutos)"), ""): Text '' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Tiempo por Cita (Minutos)'
+
+2024-05-21 17:12:01 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Tiempo por Cita (Minutos)'
+
+2024-05-21 17:12:01 - [TEST_STEP][PASSED] - selectOptionByLabel(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/select_Tipo especialidad"), findTestData("7 Servicios").getValue("Tipo Especialidad", 1), false): All options with label 'Presencial' are selected in object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/select_Tipo especialidad' 
+
+2024-05-21 17:12:02 - [MESSAGE][PASSED] - All options with label 'Presencial' are selected in object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/select_Tipo especialidad' 
+
+2024-05-21 17:12:02 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:12:04 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:12:04 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 17:12:05 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 17:12:05 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\1 Servicios\\20240521_152438\\1716329524420.png]]
+
+2024-05-21 17:12:05 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:12:07 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:12:07 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/btn_Guardar")): Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/btn_Guardar' is clicked on
+
+2024-05-21 17:12:09 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/btn_Guardar' is clicked on
+
+2024-05-21 17:12:09 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:12:11 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:12:11 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 17:12:12 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 17:12:12 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\1 Servicios\\20240521_152438\\1716329531843.png]]
+
+2024-05-21 17:12:12 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R247f" time="45.709" classname="Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R247f" status="PASSED">
+         <system-out><![CDATA[2024-05-21 17:12:12 - [TEST_CASE][PASSED] - Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R247f: Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R247f
+
+2024-05-21 17:12:13 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 17:12:13 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 17:12:13 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 17:12:13 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 17:12:13 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 17:12:13 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 17:12:16 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 17:12:16 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 17:12:16 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 17:12:16 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:12:18 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:12:18 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 17:12:19 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 17:12:19 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:12:21 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:12:21 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 17:12:22 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 17:12:22 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:12:24 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:12:24 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 17:12:24 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 17:12:24 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 17:12:27 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 17:12:27 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 17:12:27 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 17:12:28 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 17:12:28 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:12:30 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:12:30 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_6 Modelo de atencion")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_6 Modelo de atencion' is clicked on
+
+2024-05-21 17:12:30 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_6 Modelo de atencion' is clicked on
+
+2024-05-21 17:12:30 - [TEST_STEP][PASSED] - comment("Validación de campos"): Validación de campos
+
+2024-05-21 17:12:30 - [MESSAGE][INFO] - Validación de campos
+
+2024-05-21 17:12:30 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:12:33 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:12:33 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/6Modelo de atencion/0Principal/a_1 Servicios")): Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/0Principal/a_1 Servicios' is clicked on
+
+2024-05-21 17:12:33 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/0Principal/a_1 Servicios' is clicked on
+
+2024-05-21 17:12:33 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:12:35 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:12:35 - [TEST_STEP][PASSED] - comment("Nombre comienza en números"): Nombre comienza en números
+
+2024-05-21 17:12:35 - [MESSAGE][INFO] - Nombre comienza en números
+
+2024-05-21 17:12:35 - [TEST_STEP][PASSED] - scrollToPosition(0, 0): Browser is scrolled to position x = 0, y = 0
+
+2024-05-21 17:12:36 - [MESSAGE][PASSED] - Browser is scrolled to position x = 0, y = 0
+
+2024-05-21 17:12:36 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:12:38 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:12:38 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Codigo"), findTestData("7 Servicios").getValue("Código", 8)): Text '8' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Codigo'
+
+2024-05-21 17:12:38 - [MESSAGE][PASSED] - Text '8' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Codigo'
+
+2024-05-21 17:12:38 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Nombre"), findTestData("7 Servicios").getValue("Nombre", 8)): Text '0005754%$&htgy' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Nombre'
+
+2024-05-21 17:12:39 - [MESSAGE][PASSED] - Text '0005754%$&htgy' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Nombre'
+
+2024-05-21 17:12:39 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Requisitos")): Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Requisitos' is clicked on
+
+2024-05-21 17:12:40 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Requisitos' is clicked on
+
+2024-05-21 17:12:40 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:12:42 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:12:42 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Requisitos"), findTestData("7 Servicios").getValue("Requisitos", 8)): Text '0005754%$&htgy' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Requisitos'
+
+2024-05-21 17:12:43 - [MESSAGE][PASSED] - Text '0005754%$&htgy' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Requisitos'
+
+2024-05-21 17:12:43 - [TEST_STEP][PASSED] - scrollToPosition(0, 500): Browser is scrolled to position x = 0, y = 500
+
+2024-05-21 17:12:43 - [MESSAGE][PASSED] - Browser is scrolled to position x = 0, y = 500
+
+2024-05-21 17:12:43 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Descripcion")): Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Descripcion' is clicked on
+
+2024-05-21 17:12:43 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Descripcion' is clicked on
+
+2024-05-21 17:12:43 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:12:45 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:12:45 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Descripcion"), findTestData("7 Servicios").getValue("Descripción", 8)): Text '0005754%$&htgy' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Descripcion'
+
+2024-05-21 17:12:46 - [MESSAGE][PASSED] - Text '0005754%$&htgy' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Descripcion'
+
+2024-05-21 17:12:46 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Tiempo por Cita (Minutos)"), findTestData("7 Servicios").getValue("Tiempo Por Cita", 1)): Text '2' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Tiempo por Cita (Minutos)'
+
+2024-05-21 17:12:47 - [MESSAGE][PASSED] - Text '2' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Tiempo por Cita (Minutos)'
+
+2024-05-21 17:12:47 - [TEST_STEP][PASSED] - selectOptionByLabel(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/select_Tipo especialidad"), findTestData("7 Servicios").getValue("Tipo Especialidad", 1), false): All options with label 'Presencial' are selected in object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/select_Tipo especialidad' 
+
+2024-05-21 17:12:48 - [MESSAGE][PASSED] - All options with label 'Presencial' are selected in object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/select_Tipo especialidad' 
+
+2024-05-21 17:12:48 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:12:50 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:12:50 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 17:12:50 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 17:12:50 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\1 Servicios\\20240521_152438\\1716329570197.png]]
+
+2024-05-21 17:12:50 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:12:52 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:12:52 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/btn_Guardar")): Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/btn_Guardar' is clicked on
+
+2024-05-21 17:12:55 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/btn_Guardar' is clicked on
+
+2024-05-21 17:12:55 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:12:57 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:12:57 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 17:12:58 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 17:12:58 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\1 Servicios\\20240521_152438\\1716329577647.png]]
+
+2024-05-21 17:12:58 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R248" time="43.896" classname="Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R248" status="PASSED">
+         <system-out><![CDATA[2024-05-21 17:12:58 - [TEST_CASE][PASSED] - Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R248: Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R248
+
+2024-05-21 17:12:58 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 17:12:59 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 17:12:59 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 17:12:59 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 17:12:59 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 17:12:59 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 17:13:01 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 17:13:01 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 17:13:02 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 17:13:02 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:13:04 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:13:04 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 17:13:05 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 17:13:05 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:13:07 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:13:07 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 17:13:08 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 17:13:08 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:13:10 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:13:10 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 17:13:10 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 17:13:10 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 17:13:13 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 17:13:13 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 17:13:13 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 17:13:14 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 17:13:14 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:13:16 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:13:16 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_6 Modelo de atencion")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_6 Modelo de atencion' is clicked on
+
+2024-05-21 17:13:16 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_6 Modelo de atencion' is clicked on
+
+2024-05-21 17:13:16 - [TEST_STEP][PASSED] - comment("Validación de campos"): Validación de campos
+
+2024-05-21 17:13:16 - [MESSAGE][INFO] - Validación de campos
+
+2024-05-21 17:13:16 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:13:18 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:13:18 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/6Modelo de atencion/0Principal/a_1 Servicios")): Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/0Principal/a_1 Servicios' is clicked on
+
+2024-05-21 17:13:19 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/0Principal/a_1 Servicios' is clicked on
+
+2024-05-21 17:13:19 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:13:21 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:13:21 - [TEST_STEP][PASSED] - comment("Sin código"): Sin código
+
+2024-05-21 17:13:21 - [MESSAGE][INFO] - Sin código
+
+2024-05-21 17:13:21 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Codigo"), ""): Text '' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Codigo'
+
+2024-05-21 17:13:22 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Codigo'
+
+2024-05-21 17:13:22 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Nombre"), findTestData("7 Servicios").getValue("Nombre", 8)): Text '0005754%$&htgy' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Nombre'
+
+2024-05-21 17:13:23 - [MESSAGE][PASSED] - Text '0005754%$&htgy' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Nombre'
+
+2024-05-21 17:13:23 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Requisitos")): Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Requisitos' is clicked on
+
+2024-05-21 17:13:24 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Requisitos' is clicked on
+
+2024-05-21 17:13:24 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:13:26 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:13:26 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Requisitos"), findTestData("7 Servicios").getValue("Requisitos", 8)): Text '0005754%$&htgy' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Requisitos'
+
+2024-05-21 17:13:27 - [MESSAGE][PASSED] - Text '0005754%$&htgy' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Requisitos'
+
+2024-05-21 17:13:27 - [TEST_STEP][PASSED] - scrollToPosition(0, 500): Browser is scrolled to position x = 0, y = 500
+
+2024-05-21 17:13:27 - [MESSAGE][PASSED] - Browser is scrolled to position x = 0, y = 500
+
+2024-05-21 17:13:27 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Descripcion")): Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Descripcion' is clicked on
+
+2024-05-21 17:13:27 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Descripcion' is clicked on
+
+2024-05-21 17:13:27 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:13:29 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:13:29 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Descripcion"), findTestData("7 Servicios").getValue("Descripción", 8)): Text '0005754%$&htgy' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Descripcion'
+
+2024-05-21 17:13:30 - [MESSAGE][PASSED] - Text '0005754%$&htgy' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Descripcion'
+
+2024-05-21 17:13:30 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Tiempo por Cita (Minutos)"), findTestData("7 Servicios").getValue("Tiempo Por Cita", 1)): Text '2' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Tiempo por Cita (Minutos)'
+
+2024-05-21 17:13:31 - [MESSAGE][PASSED] - Text '2' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Tiempo por Cita (Minutos)'
+
+2024-05-21 17:13:31 - [TEST_STEP][PASSED] - selectOptionByLabel(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/select_Tipo especialidad"), findTestData("7 Servicios").getValue("Tipo Especialidad", 1), false): All options with label 'Presencial' are selected in object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/select_Tipo especialidad' 
+
+2024-05-21 17:13:32 - [MESSAGE][PASSED] - All options with label 'Presencial' are selected in object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/select_Tipo especialidad' 
+
+2024-05-21 17:13:32 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:13:34 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:13:34 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 17:13:34 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 17:13:34 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\1 Servicios\\20240521_152438\\1716329614106.png]]
+
+2024-05-21 17:13:34 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:13:36 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:13:36 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/btn_Limpiar")): Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/btn_Limpiar' is clicked on
+
+2024-05-21 17:13:39 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/btn_Limpiar' is clicked on
+
+2024-05-21 17:13:39 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:13:41 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:13:41 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 17:13:42 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 17:13:42 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\1 Servicios\\20240521_152438\\1716329621595.png]]
+
+2024-05-21 17:13:42 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R249" time="45.718" classname="Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R249" status="PASSED">
+         <system-out><![CDATA[2024-05-21 17:13:42 - [TEST_CASE][PASSED] - Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R249: Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R249
+
+2024-05-21 17:13:42 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 17:13:42 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 17:13:42 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 17:13:42 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 17:13:43 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 17:13:43 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 17:13:45 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 17:13:45 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 17:13:45 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 17:13:45 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:13:47 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:13:47 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 17:13:49 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 17:13:49 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:13:51 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:13:51 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 17:13:51 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 17:13:51 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:13:54 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:13:54 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 17:13:54 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 17:13:54 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 17:13:57 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 17:13:57 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 17:13:57 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 17:13:58 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 17:13:58 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:14:00 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:14:00 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_6 Modelo de atencion")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_6 Modelo de atencion' is clicked on
+
+2024-05-21 17:14:00 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_6 Modelo de atencion' is clicked on
+
+2024-05-21 17:14:00 - [TEST_STEP][PASSED] - comment("Validación de campos"): Validación de campos
+
+2024-05-21 17:14:00 - [MESSAGE][INFO] - Validación de campos
+
+2024-05-21 17:14:00 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:14:02 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:14:02 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/6Modelo de atencion/0Principal/a_1 Servicios")): Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/0Principal/a_1 Servicios' is clicked on
+
+2024-05-21 17:14:03 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/0Principal/a_1 Servicios' is clicked on
+
+2024-05-21 17:14:03 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:14:05 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:14:05 - [TEST_STEP][PASSED] - comment("Nombre comienza en números"): Nombre comienza en números
+
+2024-05-21 17:14:05 - [MESSAGE][INFO] - Nombre comienza en números
+
+2024-05-21 17:14:05 - [TEST_STEP][PASSED] - scrollToPosition(0, 0): Browser is scrolled to position x = 0, y = 0
+
+2024-05-21 17:14:05 - [MESSAGE][PASSED] - Browser is scrolled to position x = 0, y = 0
+
+2024-05-21 17:14:05 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:14:07 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:14:07 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Codigo"), findTestData("7 Servicios").getValue("Código", 7)): Text '7' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Codigo'
+
+2024-05-21 17:14:08 - [MESSAGE][PASSED] - Text '7' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Codigo'
+
+2024-05-21 17:14:08 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Nombre"), findTestData("7 Servicios").getValue("Nombre", 7)): Text 'Prueba' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Nombre'
+
+2024-05-21 17:14:09 - [MESSAGE][PASSED] - Text 'Prueba' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Nombre'
+
+2024-05-21 17:14:09 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Requisitos")): Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Requisitos' is clicked on
+
+2024-05-21 17:14:09 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Requisitos' is clicked on
+
+2024-05-21 17:14:09 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:14:11 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:14:11 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Requisitos"), findTestData("7 Servicios").getValue("Requisitos", 7)): Text 'Prueba' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Requisitos'
+
+2024-05-21 17:14:12 - [MESSAGE][PASSED] - Text 'Prueba' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Requisitos'
+
+2024-05-21 17:14:12 - [TEST_STEP][PASSED] - scrollToPosition(0, 500): Browser is scrolled to position x = 0, y = 500
+
+2024-05-21 17:14:12 - [MESSAGE][PASSED] - Browser is scrolled to position x = 0, y = 500
+
+2024-05-21 17:14:12 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Descripcion")): Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Descripcion' is clicked on
+
+2024-05-21 17:14:13 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Descripcion' is clicked on
+
+2024-05-21 17:14:13 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:14:15 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:14:15 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Descripcion"), findTestData("7 Servicios").getValue("Descripción", 7)): Text 'Prueba' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Descripcion'
+
+2024-05-21 17:14:16 - [MESSAGE][PASSED] - Text 'Prueba' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Descripcion'
+
+2024-05-21 17:14:16 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Tiempo por Cita (Minutos)"), findTestData("7 Servicios").getValue("Tiempo Por Cita", 1)): Text '2' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Tiempo por Cita (Minutos)'
+
+2024-05-21 17:14:16 - [MESSAGE][PASSED] - Text '2' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Tiempo por Cita (Minutos)'
+
+2024-05-21 17:14:16 - [TEST_STEP][PASSED] - selectOptionByLabel(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/select_Tipo especialidad"), findTestData("7 Servicios").getValue("Tipo Especialidad", 1), false): All options with label 'Presencial' are selected in object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/select_Tipo especialidad' 
+
+2024-05-21 17:14:17 - [MESSAGE][PASSED] - All options with label 'Presencial' are selected in object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/select_Tipo especialidad' 
+
+2024-05-21 17:14:17 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:14:19 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:14:19 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 17:14:20 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 17:14:20 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\1 Servicios\\20240521_152438\\1716329659813.png]]
+
+2024-05-21 17:14:20 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:14:22 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:14:22 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/btn_Guardar")): Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/btn_Guardar' is clicked on
+
+2024-05-21 17:14:25 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/btn_Guardar' is clicked on
+
+2024-05-21 17:14:25 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:14:27 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:14:27 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 17:14:27 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 17:14:28 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\1 Servicios\\20240521_152438\\1716329667303.png]]
+
+2024-05-21 17:14:28 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R250" time="46.229" classname="Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R250" status="PASSED">
+         <system-out><![CDATA[2024-05-21 17:14:28 - [TEST_CASE][PASSED] - Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R250: Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R250
+
+2024-05-21 17:14:28 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 17:14:28 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 17:14:28 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 17:14:28 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 17:14:29 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 17:14:29 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 17:14:31 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 17:14:31 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 17:14:31 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 17:14:31 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:14:33 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:14:33 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 17:14:34 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 17:14:34 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:14:36 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:14:36 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 17:14:37 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 17:14:37 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:14:39 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:14:39 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 17:14:40 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 17:14:40 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 17:14:43 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 17:14:43 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 17:14:43 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 17:14:43 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 17:14:43 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:14:45 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:14:45 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_6 Modelo de atencion")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_6 Modelo de atencion' is clicked on
+
+2024-05-21 17:14:46 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_6 Modelo de atencion' is clicked on
+
+2024-05-21 17:14:46 - [TEST_STEP][PASSED] - comment("Modificar servicio Prueba"): Modificar servicio Prueba
+
+2024-05-21 17:14:46 - [MESSAGE][INFO] - Modificar servicio Prueba
+
+2024-05-21 17:14:46 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:14:48 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:14:48 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/6Modelo de atencion/0Principal/a_1 Servicios")): Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/0Principal/a_1 Servicios' is clicked on
+
+2024-05-21 17:14:49 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/0Principal/a_1 Servicios' is clicked on
+
+2024-05-21 17:14:49 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:14:51 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:14:51 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 17:14:52 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 17:14:52 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\1 Servicios\\20240521_152438\\1716329691466.png]]
+
+2024-05-21 17:14:52 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:14:54 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:14:54 - [TEST_STEP][PASSED] - scrollToPosition(0, 0): Browser is scrolled to position x = 0, y = 0
+
+2024-05-21 17:14:54 - [MESSAGE][PASSED] - Browser is scrolled to position x = 0, y = 0
+
+2024-05-21 17:14:54 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Lista de Servicios/1 Codigo/input_Codigo"), findTestData("7 Servicios").getValue("Código", 7)): Text '7' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Lista de Servicios/1 Codigo/input_Codigo'
+
+2024-05-21 17:14:55 - [MESSAGE][PASSED] - Text '7' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Lista de Servicios/1 Codigo/input_Codigo'
+
+2024-05-21 17:14:55 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Lista de Servicios/1 Codigo/click_Filtro")): Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Lista de Servicios/1 Codigo/click_Filtro' is clicked on
+
+2024-05-21 17:14:55 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Lista de Servicios/1 Codigo/click_Filtro' is clicked on
+
+2024-05-21 17:14:55 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Lista de Servicios/1 Codigo/span_Igual a")): Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Lista de Servicios/1 Codigo/span_Igual a' is clicked on
+
+2024-05-21 17:14:56 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Lista de Servicios/1 Codigo/span_Igual a' is clicked on
+
+2024-05-21 17:14:56 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:14:58 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:14:58 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Lista de Servicios/td1_4 - rea General - General (G) - Informacin")): Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Lista de Servicios/td1_4 - rea General - General (G) - Informacin' is clicked on
+
+2024-05-21 17:14:58 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Lista de Servicios/td1_4 - rea General - General (G) - Informacin' is clicked on
+
+2024-05-21 17:14:58 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:15:00 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:15:00 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Requisitos")): Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Requisitos' is clicked on
+
+2024-05-21 17:15:01 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Requisitos' is clicked on
+
+2024-05-21 17:15:01 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:15:03 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:15:03 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Requisitos"), findTestData("7 Servicios").getValue("Requisitos", 8)): Text '0005754%$&htgy' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Requisitos'
+
+2024-05-21 17:15:04 - [MESSAGE][PASSED] - Text '0005754%$&htgy' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Requisitos'
+
+2024-05-21 17:15:04 - [TEST_STEP][PASSED] - scrollToPosition(0, 500): Browser is scrolled to position x = 0, y = 500
+
+2024-05-21 17:15:04 - [MESSAGE][PASSED] - Browser is scrolled to position x = 0, y = 500
+
+2024-05-21 17:15:04 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:15:06 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:15:06 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 17:15:06 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 17:15:06 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\1 Servicios\\20240521_152438\\1716329706054.png]]
+
+2024-05-21 17:15:06 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:15:08 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:15:08 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/btn_Guardar")): Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/btn_Guardar' is clicked on
+
+2024-05-21 17:15:11 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/btn_Guardar' is clicked on
+
+2024-05-21 17:15:11 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:15:13 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:15:13 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 17:15:14 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 17:15:14 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\1 Servicios\\20240521_152438\\1716329713525.png]]
+
+2024-05-21 17:15:14 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R251" time="36.14" classname="Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R251" status="PASSED">
+         <system-out><![CDATA[2024-05-21 17:15:14 - [TEST_CASE][PASSED] - Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R251: Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R251
+
+2024-05-21 17:15:14 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 17:15:14 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 17:15:14 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 17:15:14 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 17:15:15 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 17:15:15 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 17:15:17 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 17:15:17 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 17:15:17 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 17:15:17 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:15:19 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:15:19 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 17:15:20 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 17:15:20 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:15:22 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:15:22 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 17:15:23 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 17:15:23 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:15:25 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:15:25 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 17:15:26 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 17:15:26 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 17:15:29 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 17:15:29 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 17:15:29 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 17:15:29 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 17:15:29 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:15:31 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:15:31 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_6 Modelo de atencion")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_6 Modelo de atencion' is clicked on
+
+2024-05-21 17:15:32 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_6 Modelo de atencion' is clicked on
+
+2024-05-21 17:15:32 - [TEST_STEP][PASSED] - comment("Eliminar servicio Prueba"): Eliminar servicio Prueba
+
+2024-05-21 17:15:32 - [MESSAGE][INFO] - Eliminar servicio Prueba
+
+2024-05-21 17:15:32 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:15:34 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:15:34 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/6Modelo de atencion/0Principal/a_1 Servicios")): Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/0Principal/a_1 Servicios' is clicked on
+
+2024-05-21 17:15:35 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/0Principal/a_1 Servicios' is clicked on
+
+2024-05-21 17:15:35 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:15:37 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:15:37 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 17:15:38 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 17:15:38 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\1 Servicios\\20240521_152438\\1716329737566.png]]
+
+2024-05-21 17:15:38 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:15:40 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:15:40 - [TEST_STEP][PASSED] - scrollToPosition(0, 0): Browser is scrolled to position x = 0, y = 0
+
+2024-05-21 17:15:40 - [MESSAGE][PASSED] - Browser is scrolled to position x = 0, y = 0
+
+2024-05-21 17:15:40 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Lista de Servicios/1 Codigo/input_Codigo"), findTestData("7 Servicios").getValue("Código", 7)): Text '7' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Lista de Servicios/1 Codigo/input_Codigo'
+
+2024-05-21 17:15:41 - [MESSAGE][PASSED] - Text '7' is set on object 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Lista de Servicios/1 Codigo/input_Codigo'
+
+2024-05-21 17:15:41 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Lista de Servicios/1 Codigo/click_Filtro")): Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Lista de Servicios/1 Codigo/click_Filtro' is clicked on
+
+2024-05-21 17:15:41 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Lista de Servicios/1 Codigo/click_Filtro' is clicked on
+
+2024-05-21 17:15:41 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Lista de Servicios/1 Codigo/span_Igual a")): Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Lista de Servicios/1 Codigo/span_Igual a' is clicked on
+
+2024-05-21 17:15:42 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Lista de Servicios/1 Codigo/span_Igual a' is clicked on
+
+2024-05-21 17:15:42 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:15:44 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:15:44 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 17:15:44 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 17:15:45 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\1 Servicios\\20240521_152438\\1716329744255.png]]
+
+2024-05-21 17:15:45 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:15:47 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:15:47 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/6Modelo de atencion/1Servicios/Lista de Servicios/a_1_Borrar")): Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Lista de Servicios/a_1_Borrar' is clicked on
+
+2024-05-21 17:15:47 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/6Modelo de atencion/1Servicios/Lista de Servicios/a_1_Borrar' is clicked on
+
+2024-05-21 17:15:47 - [TEST_STEP][PASSED] - acceptAlert(): Alert accepted
+
+2024-05-21 17:15:47 - [MESSAGE][PASSED] - Alert accepted
+
+2024-05-21 17:15:47 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:15:49 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:15:49 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 17:15:50 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 17:15:50 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\6 Modelo Atencion\\1 Servicios\\20240521_152438\\1716329749601.png]]
+
+2024-05-21 17:15:50 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2024-05-21 17:07:30 - [TEST_SUITE][PASSED] - 1 Servicios: Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R251]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

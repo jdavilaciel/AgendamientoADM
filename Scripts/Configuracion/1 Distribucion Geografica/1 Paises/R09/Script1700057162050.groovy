@@ -36,13 +36,12 @@ WebUI.click(findTestObject('ADM/1Configuracion/1Distribucion geografica/1Paises/
 WebUI.delay(2)
 
 WebUI.setText(findTestObject('ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais(1)/input_Codigo Pais'), 
-    '2')
+    '3')
 
 WebUI.setText(findTestObject('ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais(1)/input_Nombre Pais'), 
     '000??Chile?LJ?')
 
-WebUI.click(findTestObject('ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais(1)/btn_Guardar Pais'), 
-    FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais(1)/btn_Guardar Pais'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(2)
 

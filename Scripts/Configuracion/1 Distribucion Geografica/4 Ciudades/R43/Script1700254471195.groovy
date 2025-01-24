@@ -29,3 +29,5 @@ WebUI.delay(2)
 
 WebUI.takeFullPageScreenshot()
 
+WebUI.click(findTestObject('ADM/1Configuracion/1Distribucion geografica/4Ciudades/0 btn_NuevaCiudad'))
+

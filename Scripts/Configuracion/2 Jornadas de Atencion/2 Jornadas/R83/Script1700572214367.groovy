@@ -51,7 +51,7 @@ WebUI.delay(2)
 
 WebUI.comment('La aplicación hace la distincion entre mayusculas y minusculas')
 
-WebUI.setText(findTestObject('ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Jornadas/input_Busqueda'), 'bogota')
+WebUI.setText(findTestObject('ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Jornadas/input_Busqueda'), 'prueba')
 
 WebUI.click(findTestObject('ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Jornadas/btn_Buscar'), FailureHandling.STOP_ON_FAILURE)
 
@@ -61,7 +61,7 @@ WebUI.delay(2)
 
 WebUI.comment('Se debe escribir el dato tal como está en la lista para que lo encuentre')
 
-WebUI.setText(findTestObject('ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Jornadas/input_Busqueda'), 'Bogota')
+WebUI.setText(findTestObject('ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Jornadas/input_Busqueda'), 'Prueba')
 
 WebUI.click(findTestObject('ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Jornadas/btn_Buscar'), FailureHandling.STOP_ON_FAILURE)
 

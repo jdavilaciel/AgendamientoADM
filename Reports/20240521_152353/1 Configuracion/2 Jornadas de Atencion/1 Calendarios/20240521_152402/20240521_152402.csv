@@ -1,0 +1,149 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+1 Calendarios,Chrome 124.0.0.0,,,2024-05-21 15:50:05,2024-05-21 15:54:10,"4m - 4,675s",PASSED
+,,,,,,,
+Test Cases/Configuracion/2 Jornadas de Atencion/1 Calendarios/R70,Chrome 124.0.0.0,"Jornadas de Attencion, se ven los botones Calendarios, Jornadas y Motivos por Oficina",,2024-05-21 15:50:05,2024-05-21 15:50:32,"26,350s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:50:06,2024-05-21 15:50:21,"15,798s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 15:50:21,2024-05-21 15:50:22,"0,582s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:50:22,2024-05-21 15:50:24,"2,011s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_2 Jornadas de atencion""))",Chrome 124.0.0.0,,,2024-05-21 15:50:24,2024-05-21 15:50:25,"1,047s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:50:25,2024-05-21 15:50:27,"2,002s",PASSED
+"click(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/0Principal/a_2 Jornadas""))",Chrome 124.0.0.0,,,2024-05-21 15:50:27,2024-05-21 15:50:28,"0,765s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:50:28,2024-05-21 15:50:30,"2,017s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/input_N Funcionarios""), 2)",Chrome 124.0.0.0,,,2024-05-21 15:50:30,2024-05-21 15:50:30,"0,408s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/textarea_Descripcion""), 2)",Chrome 124.0.0.0,,,2024-05-21 15:50:30,2024-05-21 15:50:31,"0,392s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_Guardar""), 2)",Chrome 124.0.0.0,,,2024-05-21 15:50:31,2024-05-21 15:50:31,"0,393s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 15:50:31,2024-05-21 15:50:32,"0,627s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 15:50:32,2024-05-21 15:50:32,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/2 Jornadas de Atencion/1 Calendarios/R71,Chrome 124.0.0.0,Boton Calendarios,,2024-05-21 15:50:32,2024-05-21 15:50:56,"24,418s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:50:32,2024-05-21 15:50:47,"14,589s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 15:50:47,2024-05-21 15:50:47,"0,527s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:50:47,2024-05-21 15:50:49,"2,006s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_2 Jornadas de atencion""))",Chrome 124.0.0.0,,,2024-05-21 15:50:49,2024-05-21 15:50:50,"0,586s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:50:50,2024-05-21 15:50:52,"2,011s",PASSED
+"click(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/0Principal/a_1 Calendarios""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:50:52,2024-05-21 15:50:52,"0,571s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:50:52,2024-05-21 15:50:54,"2,011s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear""), 2)",Chrome 124.0.0.0,,,2024-05-21 15:50:54,2024-05-21 15:50:55,"0,394s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/1Calendarios/a_Calendario base_Borrar""), 2)",Chrome 124.0.0.0,,,2024-05-21 15:50:55,2024-05-21 15:50:55,"0,407s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/1Calendarios/td_Calendario base""), 2)",Chrome 124.0.0.0,,,2024-05-21 15:50:55,2024-05-21 15:50:56,"0,392s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 15:50:56,2024-05-21 15:50:56,"0,514s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 15:50:56,2024-05-21 15:50:56,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/2 Jornadas de Atencion/1 Calendarios/R72,Chrome 124.0.0.0,Boton Crear de lista de Calendarios,,2024-05-21 15:50:56,2024-05-21 15:51:23,"26,788s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:50:56,2024-05-21 15:51:11,"14,599s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 15:51:11,2024-05-21 15:51:11,"0,526s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:51:11,2024-05-21 15:51:13,"2,018s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_2 Jornadas de atencion""))",Chrome 124.0.0.0,,,2024-05-21 15:51:13,2024-05-21 15:51:14,"0,512s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:51:14,2024-05-21 15:51:16,"2,020s",PASSED
+"click(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/0Principal/a_1 Calendarios""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:51:16,2024-05-21 15:51:17,"0,585s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:51:17,2024-05-21 15:51:19,"2,013s",PASSED
+"click(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:51:19,2024-05-21 15:51:19,"0,454s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:51:19,2024-05-21 15:51:21,"2,012s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/btn_Cancelar""), 2)",Chrome 124.0.0.0,,,2024-05-21 15:51:21,2024-05-21 15:51:21,"0,409s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/btn_Nuevo""), 2)",Chrome 124.0.0.0,,,2024-05-21 15:51:21,2024-05-21 15:51:22,"0,377s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/input_Nombre Calendario""), 2)",Chrome 124.0.0.0,,,2024-05-21 15:51:22,2024-05-21 15:51:22,"0,362s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 15:51:22,2024-05-21 15:51:23,"0,602s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 15:51:23,2024-05-21 15:51:23,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/2 Jornadas de Atencion/1 Calendarios/R73,Chrome 124.0.0.0,"Dias No Laborables, verificar que se activan",,2024-05-21 15:51:23,2024-05-21 15:51:56,"33,469s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:51:23,2024-05-21 15:51:38,"14,893s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 15:51:38,2024-05-21 15:51:39,"0,493s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:51:39,2024-05-21 15:51:41,"2,005s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_2 Jornadas de atencion""))",Chrome 124.0.0.0,,,2024-05-21 15:51:41,2024-05-21 15:51:41,"0,518s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:51:41,2024-05-21 15:51:43,"2,014s",PASSED
+"click(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/0Principal/a_1 Calendarios""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:51:43,2024-05-21 15:51:44,"0,523s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:51:44,2024-05-21 15:51:46,"2,012s",PASSED
+"click(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:51:46,2024-05-21 15:51:46,"0,443s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:51:46,2024-05-21 15:51:48,"2,016s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 15:51:48,2024-05-21 15:51:49,"0,526s",PASSED
+"click(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Domingo""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:51:49,2024-05-21 15:51:49,"0,433s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Domingo""), 2)",Chrome 124.0.0.0,,,2024-05-21 15:51:49,2024-05-21 15:51:50,"0,579s",PASSED
+"click(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Lunes""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:51:50,2024-05-21 15:51:50,"0,455s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Lunes""), 2)",Chrome 124.0.0.0,,,2024-05-21 15:51:50,2024-05-21 15:51:51,"0,578s",PASSED
+"click(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Martes""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:51:51,2024-05-21 15:51:51,"0,455s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Martes""), 2)",Chrome 124.0.0.0,,,2024-05-21 15:51:51,2024-05-21 15:51:52,"0,595s",PASSED
+"click(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Miercoles""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:51:52,2024-05-21 15:51:52,"0,424s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Miercoles""), 2)",Chrome 124.0.0.0,,,2024-05-21 15:51:52,2024-05-21 15:51:53,"0,575s",PASSED
+"click(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Jueves""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:51:53,2024-05-21 15:51:53,"0,473s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Jueves""), 2)",Chrome 124.0.0.0,,,2024-05-21 15:51:53,2024-05-21 15:51:54,"0,577s",PASSED
+"click(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Viernes""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:51:54,2024-05-21 15:51:54,"0,461s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Viernes""), 2)",Chrome 124.0.0.0,,,2024-05-21 15:51:54,2024-05-21 15:51:55,"0,493s",PASSED
+"click(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Sabado""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:51:55,2024-05-21 15:51:55,"0,494s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Sabado""), 2)",Chrome 124.0.0.0,,,2024-05-21 15:51:55,2024-05-21 15:51:56,"0,583s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 15:51:56,2024-05-21 15:51:56,"0,476s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 15:51:56,2024-05-21 15:51:56,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/2 Jornadas de Atencion/1 Calendarios/R74,Chrome 124.0.0.0,El campo nombre debería aceptar sólo carcateres alfabéticos,,2024-05-21 15:51:56,2024-05-21 15:52:24,"27,787s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:51:57,2024-05-21 15:52:11,"14,498s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 15:52:11,2024-05-21 15:52:12,"0,546s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:52:12,2024-05-21 15:52:14,"2,012s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_2 Jornadas de atencion""))",Chrome 124.0.0.0,,,2024-05-21 15:52:14,2024-05-21 15:52:14,"0,568s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:52:14,2024-05-21 15:52:16,"2,008s",PASSED
+"click(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/0Principal/a_1 Calendarios""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:52:16,2024-05-21 15:52:17,"0,513s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:52:17,2024-05-21 15:52:19,"2,001s",PASSED
+"click(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:52:19,2024-05-21 15:52:19,"0,446s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:52:19,2024-05-21 15:52:21,"2,014s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 15:52:21,2024-05-21 15:52:22,"0,525s",PASSED
+"click(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Domingo""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:52:22,2024-05-21 15:52:22,"0,455s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Domingo""), 2)",Chrome 124.0.0.0,,,2024-05-21 15:52:22,2024-05-21 15:52:23,"0,576s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/input_Nombre Calendario""), ""zzsfPrueba$%#&7658,.,-"")",Chrome 124.0.0.0,No debería crearse con ese nombre,,2024-05-21 15:52:23,2024-05-21 15:52:24,"0,866s",PASSED
+"click(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/btn_Nuevo""))",Chrome 124.0.0.0,,,2024-05-21 15:52:24,2024-05-21 15:52:24,"0,449s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 15:52:24,2024-05-21 15:52:24,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/2 Jornadas de Atencion/1 Calendarios/R75,Chrome 124.0.0.0,Crear Nuevo Calendario,,2024-05-21 15:52:24,2024-05-21 15:52:52,"28,051s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:52:24,2024-05-21 15:52:39,"14,821s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 15:52:39,2024-05-21 15:52:40,"0,575s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:52:40,2024-05-21 15:52:42,"2,004s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_2 Jornadas de atencion""))",Chrome 124.0.0.0,,,2024-05-21 15:52:42,2024-05-21 15:52:42,"0,536s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:52:42,2024-05-21 15:52:44,"2,015s",PASSED
+"click(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/0Principal/a_1 Calendarios""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:52:44,2024-05-21 15:52:45,"0,558s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:52:45,2024-05-21 15:52:47,"2,006s",PASSED
+"click(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:52:47,2024-05-21 15:52:47,"0,381s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:52:47,2024-05-21 15:52:49,"2,013s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 15:52:49,2024-05-21 15:52:50,"0,542s",PASSED
+"click(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Domingo""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:52:50,2024-05-21 15:52:50,"0,435s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Domingo""), 2)",Chrome 124.0.0.0,,,2024-05-21 15:52:50,2024-05-21 15:52:51,"0,578s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/input_Nombre Calendario""), ""Prueba"")",Chrome 124.0.0.0,No debería crearse con ese nombre,,2024-05-21 15:52:51,2024-05-21 15:52:52,"0,833s",PASSED
+"click(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/btn_Nuevo""))",Chrome 124.0.0.0,,,2024-05-21 15:52:52,2024-05-21 15:52:52,"0,457s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 15:52:52,2024-05-21 15:52:52,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/2 Jornadas de Atencion/1 Calendarios/R76,Chrome 124.0.0.0,Boton Cancelar debe redirigir nuevamente a la página anterior,,2024-05-21 15:52:52,2024-05-21 15:53:21,"28,651s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:52:52,2024-05-21 15:53:07,"14,741s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 15:53:07,2024-05-21 15:53:08,"0,578s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:53:08,2024-05-21 15:53:10,"2,015s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_2 Jornadas de atencion""))",Chrome 124.0.0.0,,,2024-05-21 15:53:10,2024-05-21 15:53:10,"0,549s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:53:10,2024-05-21 15:53:12,"2,001s",PASSED
+"click(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/0Principal/a_1 Calendarios""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:53:12,2024-05-21 15:53:13,"0,563s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:53:13,2024-05-21 15:53:15,"2,002s",PASSED
+"click(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:53:15,2024-05-21 15:53:15,"0,465s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:53:15,2024-05-21 15:53:17,"2,013s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 15:53:17,2024-05-21 15:53:18,"0,496s",PASSED
+"click(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/btn_Cancelar""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:53:18,2024-05-21 15:53:18,"0,362s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:53:18,2024-05-21 15:53:20,"2,014s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 15:53:20,2024-05-21 15:53:21,"0,520s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 15:53:21,2024-05-21 15:53:21,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/2 Jornadas de Atencion/1 Calendarios/R77,Chrome 124.0.0.0,"Lista de Calendarios, se verifica con el pantallazo",,2024-05-21 15:53:21,2024-05-21 15:53:44,"23,332s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:53:21,2024-05-21 15:53:36,"14,776s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 15:53:36,2024-05-21 15:53:37,"0,553s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:53:37,2024-05-21 15:53:39,"2,006s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_2 Jornadas de atencion""))",Chrome 124.0.0.0,,,2024-05-21 15:53:39,2024-05-21 15:53:39,"0,562s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:53:39,2024-05-21 15:53:41,"2,004s",PASSED
+"click(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/0Principal/a_1 Calendarios""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:53:41,2024-05-21 15:53:42,"0,530s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:53:42,2024-05-21 15:53:44,"2,003s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 15:53:44,2024-05-21 15:53:44,"0,506s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 15:53:44,2024-05-21 15:53:44,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/2 Jornadas de Atencion/1 Calendarios/R78,Chrome 124.0.0.0,Eliminar Calendario prueba,,2024-05-21 15:53:44,2024-05-21 15:54:10,"25,510s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:53:45,2024-05-21 15:53:59,"14,498s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 15:53:59,2024-05-21 15:54:00,"0,593s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:54:00,2024-05-21 15:54:02,"2,004s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_2 Jornadas de atencion""))",Chrome 124.0.0.0,,,2024-05-21 15:54:02,2024-05-21 15:54:02,"0,548s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:54:02,2024-05-21 15:54:04,"2,002s",PASSED
+"click(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/0Principal/a_1 Calendarios""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:54:04,2024-05-21 15:54:05,"0,545s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:54:05,2024-05-21 15:54:07,"2,005s",PASSED
+"click(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 Editar/a_Prueba_Borrar""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:54:07,2024-05-21 15:54:07,"0,447s",PASSED
+acceptAlert(),Chrome 124.0.0.0,,,2024-05-21 15:54:07,2024-05-21 15:54:07,"0,029s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:54:07,2024-05-21 15:54:09,"2,004s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 15:54:09,2024-05-21 15:54:10,"0,503s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 15:54:10,2024-05-21 15:54:10,"0,000s",PASSED

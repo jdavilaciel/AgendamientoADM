@@ -1,0 +1,198 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+3 Parametros Generales,Chrome 124.0.0.0,,,2024-05-21 16:24:02,2024-05-21 16:28:36,"4m - 34,397s",PASSED
+,,,,,,,
+Test Cases/Configuracion/4 Sistema/3 Parametros Generales/R146,Chrome 124.0.0.0,,,2024-05-21 16:24:02,2024-05-21 16:24:31,"29,108s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:24:02,2024-05-21 16:24:18,"15,662s",PASSED
+"comment(""Verificar elementos presentes"")",Chrome 124.0.0.0,,,2024-05-21 16:24:18,2024-05-21 16:24:18,"0,015s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:24:18,2024-05-21 16:24:19,"0,578s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:24:19,2024-05-21 16:24:21,"2,002s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_4 Sistema""))",Chrome 124.0.0.0,,,2024-05-21 16:24:21,2024-05-21 16:24:21,"0,580s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:24:21,2024-05-21 16:24:23,"2,008s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/0Principal/a_3 Parametros generales""))",Chrome 124.0.0.0,,,2024-05-21 16:24:23,2024-05-21 16:24:25,"1,464s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:24:25,2024-05-21 16:24:27,"2,008s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/4Sistema/3Parametros Generales/0 Por Codigo/btn_Editar 1""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:24:27,2024-05-21 16:24:27,"0,440s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/4Sistema/3Parametros Generales/0 Por Codigo/input_FiltroCodigo""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:24:27,2024-05-21 16:24:28,"0,392s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/4Sistema/3Parametros Generales/0 Por Codigo/click_FiltroCodigo""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:24:28,2024-05-21 16:24:28,"0,393s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/3Parametros Generales/0 Por Codigo/click_FiltroCodigo""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:24:28,2024-05-21 16:24:28,"0,494s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/4Sistema/3Parametros Generales/0 Por Codigo/span_Igual a""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:24:28,2024-05-21 16:24:29,"0,530s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/4Sistema/3Parametros Generales/0 Por Codigo/span_Mayor""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:24:29,2024-05-21 16:24:29,"0,393s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/4Sistema/3Parametros Generales/0 Por Codigo/span_Menor""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:24:29,2024-05-21 16:24:30,"0,391s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/4Sistema/3Parametros Generales/0 Por Codigo/span_Nulo""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:24:30,2024-05-21 16:24:30,"0,393s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:24:30,2024-05-21 16:24:31,"1,029s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:24:31,2024-05-21 16:24:31,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/4 Sistema/3 Parametros Generales/R147,Chrome 124.0.0.0,Boton Editar,,2024-05-21 16:24:31,2024-05-21 16:24:55,"23,889s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:24:32,2024-05-21 16:24:46,"14,621s",PASSED
+"comment(""Boton Editar dirige a ventana modal"")",Chrome 124.0.0.0,,,2024-05-21 16:24:46,2024-05-21 16:24:46,"0,000s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:24:46,2024-05-21 16:24:47,"0,510s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:24:47,2024-05-21 16:24:49,"2,003s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_4 Sistema""))",Chrome 124.0.0.0,,,2024-05-21 16:24:49,2024-05-21 16:24:49,"0,570s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:24:49,2024-05-21 16:24:51,"2,011s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/0Principal/a_3 Parametros generales""))",Chrome 124.0.0.0,,,2024-05-21 16:24:51,2024-05-21 16:24:52,"0,697s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:24:52,2024-05-21 16:24:54,"2,016s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/3Parametros Generales/0 Por Codigo/btn_Editar 1""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:24:54,2024-05-21 16:24:55,"0,551s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:24:55,2024-05-21 16:24:55,"0,548s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:24:55,2024-05-21 16:24:55,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/4 Sistema/3 Parametros Generales/R148,Chrome 124.0.0.0,"Colocar Datos en Valor 1, Valor 2, Valor 3",,2024-05-21 16:24:55,2024-05-21 16:25:25,"30,105s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:24:56,2024-05-21 16:25:10,"14,625s",PASSED
+"comment(""Boton Editar dirige a ventana modal"")",Chrome 124.0.0.0,,,2024-05-21 16:25:10,2024-05-21 16:25:10,"0,000s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:25:10,2024-05-21 16:25:11,"0,614s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:25:11,2024-05-21 16:25:13,"2,000s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_4 Sistema""))",Chrome 124.0.0.0,,,2024-05-21 16:25:13,2024-05-21 16:25:13,"0,529s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:25:13,2024-05-21 16:25:15,"2,004s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/0Principal/a_3 Parametros generales""))",Chrome 124.0.0.0,,,2024-05-21 16:25:15,2024-05-21 16:25:16,"0,683s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:25:16,2024-05-21 16:25:18,"2,015s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/3Parametros Generales/0 Por Codigo/btn_Editar 1""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:25:18,2024-05-21 16:25:19,"0,521s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:25:19,2024-05-21 16:25:21,"2,002s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:25:21,2024-05-21 16:25:21,"0,584s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:25:21,2024-05-21 16:25:23,"2,008s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/4Sistema/3Parametros Generales/1 Cambios/Valores/input_Valor2""), ""10"")",Chrome 124.0.0.0,,,2024-05-21 16:25:23,2024-05-21 16:25:24,"0,804s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/4Sistema/3Parametros Generales/1 Cambios/Valores/input_Valor3""), ""10"")",Chrome 124.0.0.0,,,2024-05-21 16:25:24,2024-05-21 16:25:25,"0,807s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:25:25,2024-05-21 16:25:25,"0,513s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:25:25,2024-05-21 16:25:25,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/4 Sistema/3 Parametros Generales/R149,Chrome 124.0.0.0,Boton Actualizar,,2024-05-21 16:25:25,2024-05-21 16:25:57,"32,107s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:25:26,2024-05-21 16:25:40,"14,613s",PASSED
+"comment(""Boton Actualizar en el parametro 1"")",Chrome 124.0.0.0,,,2024-05-21 16:25:40,2024-05-21 16:25:40,"0,000s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:25:40,2024-05-21 16:25:41,"0,561s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:25:41,2024-05-21 16:25:43,"2,018s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_4 Sistema""))",Chrome 124.0.0.0,,,2024-05-21 16:25:43,2024-05-21 16:25:43,"0,573s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:25:43,2024-05-21 16:25:45,"2,007s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/0Principal/a_3 Parametros generales""))",Chrome 124.0.0.0,,,2024-05-21 16:25:45,2024-05-21 16:25:46,"0,751s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:25:46,2024-05-21 16:25:48,"2,014s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/3Parametros Generales/0 Por Codigo/btn_Editar 1""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:25:48,2024-05-21 16:25:49,"0,519s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:25:49,2024-05-21 16:25:51,"2,004s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:25:51,2024-05-21 16:25:51,"0,500s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:25:51,2024-05-21 16:25:53,"2,013s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/4Sistema/3Parametros Generales/1 Cambios/Valores/input_Valor1""), ""5"")",Chrome 124.0.0.0,,,2024-05-21 16:25:53,2024-05-21 16:25:54,"0,795s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/3Parametros Generales/1 Cambios/Valores/btn_Actualizar""))",Chrome 124.0.0.0,,,2024-05-21 16:25:54,2024-05-21 16:25:55,"0,482s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:25:55,2024-05-21 16:25:57,"2,017s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:25:57,2024-05-21 16:25:57,"0,771s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:25:57,2024-05-21 16:25:57,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/4 Sistema/3 Parametros Generales/R150,Chrome 124.0.0.0,Boton Cancelar en el parametro 1,,2024-05-21 16:25:57,2024-05-21 16:26:34,"36,301s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:25:58,2024-05-21 16:26:13,"14,761s",PASSED
+"comment(""Boton Cancelar en el parametro 1"")",Chrome 124.0.0.0,,,2024-05-21 16:26:13,2024-05-21 16:26:13,"0,000s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:26:13,2024-05-21 16:26:13,"0,546s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:26:13,2024-05-21 16:26:15,"2,002s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_4 Sistema""))",Chrome 124.0.0.0,,,2024-05-21 16:26:15,2024-05-21 16:26:16,"0,567s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:26:16,2024-05-21 16:26:18,"2,013s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/0Principal/a_3 Parametros generales""))",Chrome 124.0.0.0,,,2024-05-21 16:26:18,2024-05-21 16:26:18,"0,679s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:26:18,2024-05-21 16:26:20,"2,006s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/3Parametros Generales/0 Por Codigo/btn_Editar 1""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:26:20,2024-05-21 16:26:21,"0,496s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:26:21,2024-05-21 16:26:23,"2,020s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:26:23,2024-05-21 16:26:23,"0,518s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:26:23,2024-05-21 16:26:25,"2,015s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/4Sistema/3Parametros Generales/1 Cambios/Valores/input_Valor1""), ""10"")",Chrome 124.0.0.0,,,2024-05-21 16:26:25,2024-05-21 16:26:26,"0,835s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/4Sistema/3Parametros Generales/1 Cambios/Valores/input_Valor2""), ""20"")",Chrome 124.0.0.0,,,2024-05-21 16:26:26,2024-05-21 16:26:27,"0,801s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/4Sistema/3Parametros Generales/1 Cambios/Valores/input_Valor3""), ""30"")",Chrome 124.0.0.0,,,2024-05-21 16:26:27,2024-05-21 16:26:28,"0,798s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:26:28,2024-05-21 16:26:30,"2,005s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:26:30,2024-05-21 16:26:30,"0,465s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/3Parametros Generales/1 Cambios/Valores/btn_Cancelar""))",Chrome 124.0.0.0,,,2024-05-21 16:26:30,2024-05-21 16:26:31,"0,468s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:26:31,2024-05-21 16:26:33,"2,007s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:26:33,2024-05-21 16:26:34,"0,865s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:26:34,2024-05-21 16:26:34,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/4 Sistema/3 Parametros Generales/R151,Chrome 124.0.0.0,Lista de Parametros de acuerdo a columna,,2024-05-21 16:26:34,2024-05-21 16:27:21,"47,434s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:26:34,2024-05-21 16:26:49,"14,712s",PASSED
+"comment(""Listar de acuerdo al titulo de columna"")",Chrome 124.0.0.0,,,2024-05-21 16:26:49,2024-05-21 16:26:49,"0,000s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:26:49,2024-05-21 16:26:49,"0,543s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:26:49,2024-05-21 16:26:51,"2,012s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_4 Sistema""))",Chrome 124.0.0.0,,,2024-05-21 16:26:51,2024-05-21 16:26:52,"0,568s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:26:52,2024-05-21 16:26:54,"2,016s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/0Principal/a_3 Parametros generales""))",Chrome 124.0.0.0,,,2024-05-21 16:26:54,2024-05-21 16:26:55,"0,733s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:26:55,2024-05-21 16:26:57,"2,013s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/3Parametros Generales/0 Titulos de Columnas/a_Codigo""))",Chrome 124.0.0.0,,,2024-05-21 16:26:57,2024-05-21 16:26:57,"0,469s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:26:57,2024-05-21 16:26:59,"2,017s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:26:59,2024-05-21 16:27:00,"0,858s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:27:00,2024-05-21 16:27:02,"2,010s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/3Parametros Generales/0 Titulos de Columnas/a_Nombre Parametro""))",Chrome 124.0.0.0,,,2024-05-21 16:27:02,2024-05-21 16:27:02,"0,449s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:27:02,2024-05-21 16:27:04,"2,010s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:27:04,2024-05-21 16:27:05,"0,799s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:27:05,2024-05-21 16:27:07,"2,018s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/3Parametros Generales/0 Titulos de Columnas/a_Valor1""))",Chrome 124.0.0.0,,,2024-05-21 16:27:07,2024-05-21 16:27:08,"0,468s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:27:08,2024-05-21 16:27:10,"2,014s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:27:10,2024-05-21 16:27:10,"0,766s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:27:10,2024-05-21 16:27:12,"2,008s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/3Parametros Generales/0 Titulos de Columnas/a_Valor2""))",Chrome 124.0.0.0,,,2024-05-21 16:27:12,2024-05-21 16:27:13,"0,476s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:27:13,2024-05-21 16:27:15,"2,012s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:27:15,2024-05-21 16:27:16,"0,834s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:27:16,2024-05-21 16:27:18,"2,014s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/3Parametros Generales/0 Titulos de Columnas/a_Valor3""))",Chrome 124.0.0.0,,,2024-05-21 16:27:18,2024-05-21 16:27:18,"0,455s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:27:18,2024-05-21 16:27:20,"2,012s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:27:20,2024-05-21 16:27:21,"0,882s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:27:21,2024-05-21 16:27:21,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/4 Sistema/3 Parametros Generales/R152,Chrome 124.0.0.0,Botones Paginas,,2024-05-21 16:27:21,2024-05-21 16:28:36,"1m - 15,111s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:27:21,2024-05-21 16:27:36,"14,655s",PASSED
+"comment(""Botones paginas"")",Chrome 124.0.0.0,,,2024-05-21 16:27:36,2024-05-21 16:27:36,"0,000s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:27:36,2024-05-21 16:27:37,"0,524s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:27:37,2024-05-21 16:27:39,"2,003s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_4 Sistema""))",Chrome 124.0.0.0,,,2024-05-21 16:27:39,2024-05-21 16:27:39,"0,536s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:27:39,2024-05-21 16:27:41,"2,012s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/0Principal/a_3 Parametros generales""))",Chrome 124.0.0.0,,,2024-05-21 16:27:41,2024-05-21 16:27:42,"0,697s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:27:42,2024-05-21 16:27:44,"2,003s",PASSED
+"comment(""Pagina 3"")",Chrome 124.0.0.0,,,2024-05-21 16:27:44,2024-05-21 16:27:44,"0,000s",PASSED
+"scrollToPosition(0, 1200)",Chrome 124.0.0.0,,,2024-05-21 16:27:44,2024-05-21 16:27:44,"0,061s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/3Parametros Generales/Paginacion/a_3""))",Chrome 124.0.0.0,,,2024-05-21 16:27:44,2024-05-21 16:27:44,"0,428s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:27:44,2024-05-21 16:27:46,"2,003s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:27:46,2024-05-21 16:27:47,"0,512s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:27:47,2024-05-21 16:27:49,"2,009s",PASSED
+"comment(""Pagina 2"")",Chrome 124.0.0.0,,,2024-05-21 16:27:49,2024-05-21 16:27:49,"0,000s",PASSED
+"scrollToPosition(0, 1200)",Chrome 124.0.0.0,,,2024-05-21 16:27:49,2024-05-21 16:27:49,"0,016s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/3Parametros Generales/Paginacion/a_2""))",Chrome 124.0.0.0,,,2024-05-21 16:27:49,2024-05-21 16:27:49,"0,477s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:27:49,2024-05-21 16:27:51,"2,005s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:27:51,2024-05-21 16:27:52,"0,785s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:27:52,2024-05-21 16:27:54,"2,009s",PASSED
+"comment(""Pagina 1"")",Chrome 124.0.0.0,,,2024-05-21 16:27:54,2024-05-21 16:27:54,"0,000s",PASSED
+"scrollToPosition(0, 1200)",Chrome 124.0.0.0,,,2024-05-21 16:27:54,2024-05-21 16:27:54,"0,028s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/3Parametros Generales/Paginacion/a_1""))",Chrome 124.0.0.0,,,2024-05-21 16:27:54,2024-05-21 16:27:55,"0,450s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:27:55,2024-05-21 16:27:57,"2,011s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:27:57,2024-05-21 16:27:58,"0,908s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:27:58,2024-05-21 16:28:00,"2,015s",PASSED
+"comment(""Ultima Pagina"")",Chrome 124.0.0.0,,,2024-05-21 16:28:00,2024-05-21 16:28:00,"0,000s",PASSED
+"scrollToPosition(0, 1200)",Chrome 124.0.0.0,,,2024-05-21 16:28:00,2024-05-21 16:28:00,"0,021s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/3Parametros Generales/Paginacion/span_Ultima Pagina""))",Chrome 124.0.0.0,,,2024-05-21 16:28:00,2024-05-21 16:28:00,"0,417s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:28:00,2024-05-21 16:28:02,"2,015s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:28:02,2024-05-21 16:28:03,"0,483s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:28:03,2024-05-21 16:28:05,"2,009s",PASSED
+"comment(""Primera Pagina"")",Chrome 124.0.0.0,,,2024-05-21 16:28:05,2024-05-21 16:28:05,"0,000s",PASSED
+"scrollToPosition(0, 1200)",Chrome 124.0.0.0,,,2024-05-21 16:28:05,2024-05-21 16:28:05,"0,015s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/3Parametros Generales/Paginacion/span_Primera pagina""))",Chrome 124.0.0.0,,,2024-05-21 16:28:05,2024-05-21 16:28:05,"0,481s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:28:05,2024-05-21 16:28:07,"2,012s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:28:07,2024-05-21 16:28:08,"0,851s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:28:08,2024-05-21 16:28:10,"2,010s",PASSED
+"comment(""Pagina Posterior"")",Chrome 124.0.0.0,,,2024-05-21 16:28:10,2024-05-21 16:28:10,"0,000s",PASSED
+"scrollToPosition(0, 1200)",Chrome 124.0.0.0,,,2024-05-21 16:28:10,2024-05-21 16:28:10,"0,022s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/3Parametros Generales/Paginacion/span_Pagina Posterior""))",Chrome 124.0.0.0,,,2024-05-21 16:28:10,2024-05-21 16:28:10,"0,402s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:28:10,2024-05-21 16:28:12,"2,015s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:28:12,2024-05-21 16:28:13,"0,865s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:28:13,2024-05-21 16:28:15,"2,011s",PASSED
+"comment(""Pagina Anterior"")",Chrome 124.0.0.0,,,2024-05-21 16:28:15,2024-05-21 16:28:15,"0,000s",PASSED
+"scrollToPosition(0, 1200)",Chrome 124.0.0.0,,,2024-05-21 16:28:15,2024-05-21 16:28:15,"0,026s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/3Parametros Generales/Paginacion/span_Pagina Anterior""))",Chrome 124.0.0.0,,,2024-05-21 16:28:15,2024-05-21 16:28:16,"0,416s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:28:16,2024-05-21 16:28:18,"2,013s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:28:18,2024-05-21 16:28:19,"0,799s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:28:19,2024-05-21 16:28:21,"2,017s",PASSED
+"comment(""Listado 10 Paginas"")",Chrome 124.0.0.0,,,2024-05-21 16:28:21,2024-05-21 16:28:21,"0,000s",PASSED
+"scrollToPosition(0, 1200)",Chrome 124.0.0.0,,,2024-05-21 16:28:21,2024-05-21 16:28:21,"0,024s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/3Parametros Generales/Paginacion/Click_SelectNumeroPaginas""))",Chrome 124.0.0.0,,,2024-05-21 16:28:21,2024-05-21 16:28:21,"0,448s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/3Parametros Generales/Paginacion/li_10""))",Chrome 124.0.0.0,,,2024-05-21 16:28:21,2024-05-21 16:28:22,"0,560s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:28:22,2024-05-21 16:28:24,"2,003s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:28:24,2024-05-21 16:28:24,"0,529s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:28:24,2024-05-21 16:28:26,"2,006s",PASSED
+"comment(""Listado 20 Paginas"")",Chrome 124.0.0.0,,,2024-05-21 16:28:26,2024-05-21 16:28:26,"0,000s",PASSED
+"scrollToPosition(0, 1200)",Chrome 124.0.0.0,,,2024-05-21 16:28:26,2024-05-21 16:28:26,"0,016s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/3Parametros Generales/Paginacion/Click_SelectNumeroPaginas""))",Chrome 124.0.0.0,,,2024-05-21 16:28:26,2024-05-21 16:28:27,"0,419s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/3Parametros Generales/Paginacion/li_20""))",Chrome 124.0.0.0,,,2024-05-21 16:28:27,2024-05-21 16:28:27,"0,507s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:28:27,2024-05-21 16:28:29,"2,019s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:28:29,2024-05-21 16:28:30,"0,916s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:28:30,2024-05-21 16:28:32,"2,010s",PASSED
+"comment(""Listado 50 Paginas"")",Chrome 124.0.0.0,,,2024-05-21 16:28:32,2024-05-21 16:28:32,"0,000s",PASSED
+"scrollToPosition(0, 1200)",Chrome 124.0.0.0,,,2024-05-21 16:28:32,2024-05-21 16:28:32,"0,029s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/3Parametros Generales/Paginacion/Click_SelectNumeroPaginas""))",Chrome 124.0.0.0,,,2024-05-21 16:28:32,2024-05-21 16:28:32,"0,426s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/3Parametros Generales/Paginacion/li_50""))",Chrome 124.0.0.0,,,2024-05-21 16:28:32,2024-05-21 16:28:33,"0,546s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:28:33,2024-05-21 16:28:35,"2,010s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:28:35,2024-05-21 16:28:36,"1,234s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:28:36,2024-05-21 16:28:36,"0,000s",PASSED

@@ -1,0 +1,333 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+1 Servicios,Chrome 124.0.0.0,,,2024-05-21 17:07:30,2024-05-21 17:15:50,"8m - 19,634s",PASSED
+,,,,,,,
+Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R245,Chrome 124.0.0.0,Servicios,,2024-05-21 17:07:31,2024-05-21 17:07:56,"25,098s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 17:07:31,2024-05-21 17:07:46,"15,605s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 17:07:46,2024-05-21 17:07:47,"0,534s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:07:47,2024-05-21 17:07:49,"2,000s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_6 Modelo de atencion""))",Chrome 124.0.0.0,,,2024-05-21 17:07:49,2024-05-21 17:07:50,"1,236s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:07:50,2024-05-21 17:07:52,"2,014s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/6Modelo de atencion/0Principal/a_1 Servicios""), 2)",Chrome 124.0.0.0,,,2024-05-21 17:07:52,2024-05-21 17:07:53,"0,370s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/6Modelo de atencion/0Principal/a_2 Servicios por oficinas""), 2)",Chrome 124.0.0.0,,,2024-05-21 17:07:53,2024-05-21 17:07:53,"0,353s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:07:53,2024-05-21 17:07:55,"2,010s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 17:07:55,2024-05-21 17:07:56,"0,665s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 17:07:56,2024-05-21 17:07:56,"0,003s",PASSED
+,,,,,,,
+Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R246,Chrome 124.0.0.0,Botn Servicios verificar campos,,2024-05-21 17:07:56,2024-05-21 17:08:24,"28,263s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 17:07:56,2024-05-21 17:08:11,"14,706s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 17:08:11,2024-05-21 17:08:11,"0,625s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:08:11,2024-05-21 17:08:13,"2,017s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_6 Modelo de atencion""))",Chrome 124.0.0.0,,,2024-05-21 17:08:13,2024-05-21 17:08:14,"0,599s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:08:14,2024-05-21 17:08:16,"2,005s",PASSED
+"click(findTestObject(""ADM/1Configuracion/6Modelo de atencion/0Principal/a_1 Servicios""))",Chrome 124.0.0.0,,,2024-05-21 17:08:16,2024-05-21 17:08:17,"1,394s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:08:17,2024-05-21 17:08:19,"2,005s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 17:08:19,2024-05-21 17:08:20,"0,783s",PASSED
+"comment(""Verificación de campos"")",Chrome 124.0.0.0,,,2024-05-21 17:08:20,2024-05-21 17:08:20,"0,016s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/btn_Guardar""), 2)",Chrome 124.0.0.0,,,2024-05-21 17:08:20,2024-05-21 17:08:20,"0,375s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/btn_Limpiar""), 2)",Chrome 124.0.0.0,,,2024-05-21 17:08:20,2024-05-21 17:08:21,"0,361s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Codigo""), 2)",Chrome 124.0.0.0,,,2024-05-21 17:08:21,2024-05-21 17:08:21,"0,377s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Diseno Descripcion""), 2)",Chrome 124.0.0.0,,,2024-05-21 17:08:21,2024-05-21 17:08:22,"0,393s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_Diseno Requisitos""), 2)",Chrome 124.0.0.0,,,2024-05-21 17:08:22,2024-05-21 17:08:22,"0,392s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Tiempo por Cita (Minutos)""), 2)",Chrome 124.0.0.0,,,2024-05-21 17:08:22,2024-05-21 17:08:22,"0,406s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/select_Tipo especialidad""), 2)",Chrome 124.0.0.0,,,2024-05-21 17:08:22,2024-05-21 17:08:23,"0,391s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Nombre""), 2)",Chrome 124.0.0.0,,,2024-05-21 17:08:23,2024-05-21 17:08:23,"0,364s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 17:08:23,2024-05-21 17:08:24,"0,775s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 17:08:24,2024-05-21 17:08:24,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R247a,Chrome 124.0.0.0,Validar campos,,2024-05-21 17:08:24,2024-05-21 17:09:09,"44,745s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 17:08:24,2024-05-21 17:08:39,"14,830s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 17:08:39,2024-05-21 17:08:40,"0,569s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:08:40,2024-05-21 17:08:42,"2,010s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_6 Modelo de atencion""))",Chrome 124.0.0.0,,,2024-05-21 17:08:42,2024-05-21 17:08:42,"0,550s",PASSED
+"comment(""Validación de campos"")",Chrome 124.0.0.0,,,2024-05-21 17:08:42,2024-05-21 17:08:42,"0,000s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:08:42,2024-05-21 17:08:44,"2,014s",PASSED
+"click(findTestObject(""ADM/1Configuracion/6Modelo de atencion/0Principal/a_1 Servicios""))",Chrome 124.0.0.0,,,2024-05-21 17:08:44,2024-05-21 17:08:45,"1,038s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:08:45,2024-05-21 17:08:47,"2,017s",PASSED
+"comment(""Sin código"")",Chrome 124.0.0.0,,,2024-05-21 17:08:47,2024-05-21 17:08:47,"0,000s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Codigo""), """")",Chrome 124.0.0.0,,,2024-05-21 17:08:47,2024-05-21 17:08:48,"0,759s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Nombre""), findTestData(""7 Servicios"").getValue(""Nombre"", 8))",Chrome 124.0.0.0,,,2024-05-21 17:08:48,2024-05-21 17:08:50,"1,624s",PASSED
+"click(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Requisitos""))",Chrome 124.0.0.0,,,2024-05-21 17:08:50,2024-05-21 17:08:50,"0,443s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:08:50,2024-05-21 17:08:52,"2,009s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Requisitos""), findTestData(""7 Servicios"").getValue(""Requisitos"", 8))",Chrome 124.0.0.0,,,2024-05-21 17:08:52,2024-05-21 17:08:53,"0,948s",PASSED
+"scrollToPosition(0, 500)",Chrome 124.0.0.0,,,2024-05-21 17:08:53,2024-05-21 17:08:53,"0,036s",PASSED
+"click(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Descripcion""))",Chrome 124.0.0.0,,,2024-05-21 17:08:53,2024-05-21 17:08:54,"0,428s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:08:54,2024-05-21 17:08:56,"2,005s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Descripcion""), findTestData(""7 Servicios"").getValue(""Descripción"", 8))",Chrome 124.0.0.0,,,2024-05-21 17:08:56,2024-05-21 17:08:57,"1,008s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Tiempo por Cita (Minutos)""), findTestData(""7 Servicios"").getValue(""Tiempo Por Cita"", 1))",Chrome 124.0.0.0,,,2024-05-21 17:08:57,2024-05-21 17:08:58,"0,985s",PASSED
+"selectOptionByLabel(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/select_Tipo especialidad""), findTestData(""7 Servicios"").getValue(""Tipo Especialidad"", 1), false)",Chrome 124.0.0.0,,,2024-05-21 17:08:58,2024-05-21 17:08:58,"0,828s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:08:58,2024-05-21 17:09:00,"2,008s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 17:09:00,2024-05-21 17:09:01,"0,781s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:09:01,2024-05-21 17:09:03,"2,009s",PASSED
+"click(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/btn_Guardar""))",Chrome 124.0.0.0,,,2024-05-21 17:09:03,2024-05-21 17:09:06,"2,644s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:09:06,2024-05-21 17:09:08,"2,004s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 17:09:08,2024-05-21 17:09:09,"0,878s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 17:09:09,2024-05-21 17:09:09,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R247b,Chrome 124.0.0.0,Sin Nombre,,2024-05-21 17:09:09,2024-05-21 17:09:54,"45,708s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 17:09:09,2024-05-21 17:09:24,"14,661s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 17:09:24,2024-05-21 17:09:24,"0,517s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:09:24,2024-05-21 17:09:26,"2,002s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_6 Modelo de atencion""))",Chrome 124.0.0.0,,,2024-05-21 17:09:26,2024-05-21 17:09:27,"0,522s",PASSED
+"comment(""Validación de campos"")",Chrome 124.0.0.0,,,2024-05-21 17:09:27,2024-05-21 17:09:27,"0,000s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:09:27,2024-05-21 17:09:29,"2,013s",PASSED
+"click(findTestObject(""ADM/1Configuracion/6Modelo de atencion/0Principal/a_1 Servicios""))",Chrome 124.0.0.0,,,2024-05-21 17:09:29,2024-05-21 17:09:30,"0,983s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:09:30,2024-05-21 17:09:32,"2,005s",PASSED
+"comment(""Sin Nombre"")",Chrome 124.0.0.0,,,2024-05-21 17:09:32,2024-05-21 17:09:32,"0,000s",PASSED
+"scrollToPosition(0, 0)",Chrome 124.0.0.0,,,2024-05-21 17:09:32,2024-05-21 17:09:32,"0,021s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:09:32,2024-05-21 17:09:34,"2,001s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Codigo""), findTestData(""7 Servicios"").getValue(""Código"", 8))",Chrome 124.0.0.0,,,2024-05-21 17:09:34,2024-05-21 17:09:35,"0,937s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Nombre""), """")",Chrome 124.0.0.0,,,2024-05-21 17:09:35,2024-05-21 17:09:36,"0,801s",PASSED
+"click(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Requisitos""))",Chrome 124.0.0.0,,,2024-05-21 17:09:36,2024-05-21 17:09:36,"0,431s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:09:36,2024-05-21 17:09:38,"2,010s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Requisitos""), findTestData(""7 Servicios"").getValue(""Requisitos"", 8))",Chrome 124.0.0.0,,,2024-05-21 17:09:38,2024-05-21 17:09:39,"0,954s",PASSED
+"scrollToPosition(0, 500)",Chrome 124.0.0.0,,,2024-05-21 17:09:39,2024-05-21 17:09:39,"0,015s",PASSED
+"click(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Descripcion""))",Chrome 124.0.0.0,,,2024-05-21 17:09:39,2024-05-21 17:09:39,"0,422s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:09:39,2024-05-21 17:09:41,"2,023s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Descripcion""), findTestData(""7 Servicios"").getValue(""Descripción"", 8))",Chrome 124.0.0.0,,,2024-05-21 17:09:41,2024-05-21 17:09:42,"0,934s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Tiempo por Cita (Minutos)""), findTestData(""7 Servicios"").getValue(""Tiempo Por Cita"", 1))",Chrome 124.0.0.0,,,2024-05-21 17:09:42,2024-05-21 17:09:43,"0,929s",PASSED
+"selectOptionByLabel(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/select_Tipo especialidad""), findTestData(""7 Servicios"").getValue(""Tipo Especialidad"", 1), false)",Chrome 124.0.0.0,,,2024-05-21 17:09:43,2024-05-21 17:09:44,"0,889s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:09:44,2024-05-21 17:09:46,"2,007s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 17:09:46,2024-05-21 17:09:47,"0,800s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:09:47,2024-05-21 17:09:49,"2,006s",PASSED
+"click(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/btn_Guardar""))",Chrome 124.0.0.0,,,2024-05-21 17:09:49,2024-05-21 17:09:52,"2,544s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:09:52,2024-05-21 17:09:54,"2,004s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 17:09:54,2024-05-21 17:09:54,"0,789s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 17:09:54,2024-05-21 17:09:54,"0,001s",PASSED
+,,,,,,,
+Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R247c,Chrome 124.0.0.0,Sin Requisitos,,2024-05-21 17:09:54,2024-05-21 17:10:40,"45,955s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 17:09:55,2024-05-21 17:10:09,"14,591s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 17:10:09,2024-05-21 17:10:10,"0,554s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:10:10,2024-05-21 17:10:12,"2,003s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_6 Modelo de atencion""))",Chrome 124.0.0.0,,,2024-05-21 17:10:12,2024-05-21 17:10:12,"0,500s",PASSED
+"comment(""Validación de campos"")",Chrome 124.0.0.0,,,2024-05-21 17:10:12,2024-05-21 17:10:13,"0,011s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:10:13,2024-05-21 17:10:15,"2,004s",PASSED
+"click(findTestObject(""ADM/1Configuracion/6Modelo de atencion/0Principal/a_1 Servicios""))",Chrome 124.0.0.0,,,2024-05-21 17:10:15,2024-05-21 17:10:16,"1,085s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:10:16,2024-05-21 17:10:18,"2,018s",PASSED
+"comment(""Sin Requisitos"")",Chrome 124.0.0.0,,,2024-05-21 17:10:18,2024-05-21 17:10:18,"0,000s",PASSED
+"scrollToPosition(0, 0)",Chrome 124.0.0.0,,,2024-05-21 17:10:18,2024-05-21 17:10:18,"0,032s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:10:18,2024-05-21 17:10:20,"2,007s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Codigo""), findTestData(""7 Servicios"").getValue(""Código"", 8))",Chrome 124.0.0.0,,,2024-05-21 17:10:20,2024-05-21 17:10:21,"0,902s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Nombre""), findTestData(""7 Servicios"").getValue(""Nombre"", 8))",Chrome 124.0.0.0,,,2024-05-21 17:10:21,2024-05-21 17:10:21,"0,887s",PASSED
+"click(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Requisitos""))",Chrome 124.0.0.0,,,2024-05-21 17:10:21,2024-05-21 17:10:22,"0,430s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:10:22,2024-05-21 17:10:24,"2,011s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Requisitos""), """")",Chrome 124.0.0.0,,,2024-05-21 17:10:24,2024-05-21 17:10:25,"0,798s",PASSED
+"scrollToPosition(0, 500)",Chrome 124.0.0.0,,,2024-05-21 17:10:25,2024-05-21 17:10:25,"0,041s",PASSED
+"click(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Descripcion""))",Chrome 124.0.0.0,,,2024-05-21 17:10:25,2024-05-21 17:10:25,"0,428s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:10:25,2024-05-21 17:10:27,"2,014s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Descripcion""), findTestData(""7 Servicios"").getValue(""Descripción"", 8))",Chrome 124.0.0.0,,,2024-05-21 17:10:27,2024-05-21 17:10:28,"1,031s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Tiempo por Cita (Minutos)""), findTestData(""7 Servicios"").getValue(""Tiempo Por Cita"", 1))",Chrome 124.0.0.0,,,2024-05-21 17:10:28,2024-05-21 17:10:29,"0,913s",PASSED
+"selectOptionByLabel(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/select_Tipo especialidad""), findTestData(""7 Servicios"").getValue(""Tipo Especialidad"", 1), false)",Chrome 124.0.0.0,,,2024-05-21 17:10:29,2024-05-21 17:10:30,"0,887s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:10:30,2024-05-21 17:10:32,"2,011s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 17:10:32,2024-05-21 17:10:33,"0,841s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:10:33,2024-05-21 17:10:35,"2,014s",PASSED
+"click(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/btn_Guardar""))",Chrome 124.0.0.0,,,2024-05-21 17:10:35,2024-05-21 17:10:37,"2,628s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:10:37,2024-05-21 17:10:39,"2,011s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 17:10:39,2024-05-21 17:10:40,"0,834s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 17:10:40,2024-05-21 17:10:40,"0,001s",PASSED
+,,,,,,,
+Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R247d,Chrome 124.0.0.0,Sin Descripcion,,2024-05-21 17:10:40,2024-05-21 17:11:26,"46,125s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 17:10:41,2024-05-21 17:10:56,"14,794s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 17:10:56,2024-05-21 17:10:56,"0,562s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:10:56,2024-05-21 17:10:58,"2,004s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_6 Modelo de atencion""))",Chrome 124.0.0.0,,,2024-05-21 17:10:58,2024-05-21 17:10:59,"0,571s",PASSED
+"comment(""Validación de campos"")",Chrome 124.0.0.0,,,2024-05-21 17:10:59,2024-05-21 17:10:59,"0,000s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:10:59,2024-05-21 17:11:01,"2,013s",PASSED
+"click(findTestObject(""ADM/1Configuracion/6Modelo de atencion/0Principal/a_1 Servicios""))",Chrome 124.0.0.0,,,2024-05-21 17:11:01,2024-05-21 17:11:02,"1,048s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:11:02,2024-05-21 17:11:04,"2,004s",PASSED
+"comment(""Sin Descripción"")",Chrome 124.0.0.0,,,2024-05-21 17:11:04,2024-05-21 17:11:04,"0,000s",PASSED
+"scrollToPosition(0, 0)",Chrome 124.0.0.0,,,2024-05-21 17:11:04,2024-05-21 17:11:04,"0,028s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:11:04,2024-05-21 17:11:06,"2,010s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Codigo""), findTestData(""7 Servicios"").getValue(""Código"", 8))",Chrome 124.0.0.0,,,2024-05-21 17:11:06,2024-05-21 17:11:07,"0,971s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Nombre""), findTestData(""7 Servicios"").getValue(""Nombre"", 8))",Chrome 124.0.0.0,,,2024-05-21 17:11:07,2024-05-21 17:11:08,"0,889s",PASSED
+"click(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Requisitos""))",Chrome 124.0.0.0,,,2024-05-21 17:11:08,2024-05-21 17:11:08,"0,446s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:11:08,2024-05-21 17:11:10,"2,007s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Requisitos""), findTestData(""7 Servicios"").getValue(""Requisitos"", 8))",Chrome 124.0.0.0,,,2024-05-21 17:11:10,2024-05-21 17:11:11,"0,913s",PASSED
+"scrollToPosition(0, 500)",Chrome 124.0.0.0,,,2024-05-21 17:11:11,2024-05-21 17:11:11,"0,035s",PASSED
+"click(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Descripcion""))",Chrome 124.0.0.0,,,2024-05-21 17:11:11,2024-05-21 17:11:12,"0,429s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:11:12,2024-05-21 17:11:14,"2,006s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Descripcion""), """")",Chrome 124.0.0.0,,,2024-05-21 17:11:14,2024-05-21 17:11:14,"0,780s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Tiempo por Cita (Minutos)""), findTestData(""7 Servicios"").getValue(""Tiempo Por Cita"", 1))",Chrome 124.0.0.0,,,2024-05-21 17:11:14,2024-05-21 17:11:15,"0,976s",PASSED
+"selectOptionByLabel(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/select_Tipo especialidad""), findTestData(""7 Servicios"").getValue(""Tipo Especialidad"", 1), false)",Chrome 124.0.0.0,,,2024-05-21 17:11:15,2024-05-21 17:11:16,"1,067s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:11:16,2024-05-21 17:11:18,"2,007s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 17:11:18,2024-05-21 17:11:19,"0,767s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:11:19,2024-05-21 17:11:21,"2,009s",PASSED
+"click(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/btn_Guardar""))",Chrome 124.0.0.0,,,2024-05-21 17:11:21,2024-05-21 17:11:24,"2,617s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:11:24,2024-05-21 17:11:26,"2,002s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 17:11:26,2024-05-21 17:11:26,"0,715s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 17:11:26,2024-05-21 17:11:26,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R247e,Chrome 124.0.0.0,Sin tiempo cita,,2024-05-21 17:11:26,2024-05-21 17:12:12,"45,738s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 17:11:27,2024-05-21 17:11:42,"14,650s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 17:11:42,2024-05-21 17:11:42,"0,527s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:11:42,2024-05-21 17:11:44,"2,003s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_6 Modelo de atencion""))",Chrome 124.0.0.0,,,2024-05-21 17:11:44,2024-05-21 17:11:45,"0,508s",PASSED
+"comment(""Validación de campos"")",Chrome 124.0.0.0,,,2024-05-21 17:11:45,2024-05-21 17:11:45,"0,000s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:11:45,2024-05-21 17:11:47,"2,006s",PASSED
+"click(findTestObject(""ADM/1Configuracion/6Modelo de atencion/0Principal/a_1 Servicios""))",Chrome 124.0.0.0,,,2024-05-21 17:11:47,2024-05-21 17:11:48,"1,054s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:11:48,2024-05-21 17:11:50,"2,011s",PASSED
+"comment(""Sin Tiempo cita"")",Chrome 124.0.0.0,,,2024-05-21 17:11:50,2024-05-21 17:11:50,"0,000s",PASSED
+"scrollToPosition(0, 0)",Chrome 124.0.0.0,,,2024-05-21 17:11:50,2024-05-21 17:11:50,"0,015s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:11:50,2024-05-21 17:11:52,"2,021s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Codigo""), findTestData(""7 Servicios"").getValue(""Código"", 8))",Chrome 124.0.0.0,,,2024-05-21 17:11:52,2024-05-21 17:11:53,"0,922s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Nombre""), findTestData(""7 Servicios"").getValue(""Nombre"", 8))",Chrome 124.0.0.0,,,2024-05-21 17:11:53,2024-05-21 17:11:54,"0,927s",PASSED
+"click(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Requisitos""))",Chrome 124.0.0.0,,,2024-05-21 17:11:54,2024-05-21 17:11:54,"0,423s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:11:54,2024-05-21 17:11:56,"2,007s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Requisitos""), findTestData(""7 Servicios"").getValue(""Requisitos"", 8))",Chrome 124.0.0.0,,,2024-05-21 17:11:56,2024-05-21 17:11:57,"0,895s",PASSED
+"scrollToPosition(0, 500)",Chrome 124.0.0.0,,,2024-05-21 17:11:57,2024-05-21 17:11:57,"0,035s",PASSED
+"click(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Descripcion""))",Chrome 124.0.0.0,,,2024-05-21 17:11:57,2024-05-21 17:11:57,"0,428s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:11:57,2024-05-21 17:11:59,"2,008s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Descripcion""), findTestData(""7 Servicios"").getValue(""Descripción"", 8))",Chrome 124.0.0.0,,,2024-05-21 17:11:59,2024-05-21 17:12:00,"0,945s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Tiempo por Cita (Minutos)""), """")",Chrome 124.0.0.0,,,2024-05-21 17:12:00,2024-05-21 17:12:01,"0,764s",PASSED
+"selectOptionByLabel(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/select_Tipo especialidad""), findTestData(""7 Servicios"").getValue(""Tipo Especialidad"", 1), false)",Chrome 124.0.0.0,,,2024-05-21 17:12:01,2024-05-21 17:12:02,"0,878s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:12:02,2024-05-21 17:12:04,"2,007s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 17:12:04,2024-05-21 17:12:05,"0,770s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:12:05,2024-05-21 17:12:07,"2,003s",PASSED
+"click(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/btn_Guardar""))",Chrome 124.0.0.0,,,2024-05-21 17:12:07,2024-05-21 17:12:09,"2,642s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:12:09,2024-05-21 17:12:11,"2,002s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 17:12:11,2024-05-21 17:12:12,"0,866s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 17:12:12,2024-05-21 17:12:12,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R247f,Chrome 124.0.0.0,Nombre comienza en números,,2024-05-21 17:12:12,2024-05-21 17:12:58,"45,709s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 17:12:13,2024-05-21 17:12:27,"14,699s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 17:12:27,2024-05-21 17:12:28,"0,586s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:12:28,2024-05-21 17:12:30,"2,008s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_6 Modelo de atencion""))",Chrome 124.0.0.0,,,2024-05-21 17:12:30,2024-05-21 17:12:30,"0,555s",PASSED
+"comment(""Validación de campos"")",Chrome 124.0.0.0,,,2024-05-21 17:12:30,2024-05-21 17:12:30,"0,000s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:12:30,2024-05-21 17:12:33,"2,011s",PASSED
+"click(findTestObject(""ADM/1Configuracion/6Modelo de atencion/0Principal/a_1 Servicios""))",Chrome 124.0.0.0,,,2024-05-21 17:12:33,2024-05-21 17:12:33,"0,975s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:12:33,2024-05-21 17:12:35,"2,006s",PASSED
+"comment(""Nombre comienza en números"")",Chrome 124.0.0.0,,,2024-05-21 17:12:35,2024-05-21 17:12:35,"0,000s",PASSED
+"scrollToPosition(0, 0)",Chrome 124.0.0.0,,,2024-05-21 17:12:35,2024-05-21 17:12:36,"0,017s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:12:36,2024-05-21 17:12:38,"2,018s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Codigo""), findTestData(""7 Servicios"").getValue(""Código"", 8))",Chrome 124.0.0.0,,,2024-05-21 17:12:38,2024-05-21 17:12:38,"0,957s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Nombre""), findTestData(""7 Servicios"").getValue(""Nombre"", 8))",Chrome 124.0.0.0,,,2024-05-21 17:12:38,2024-05-21 17:12:39,"0,906s",PASSED
+"click(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Requisitos""))",Chrome 124.0.0.0,,,2024-05-21 17:12:39,2024-05-21 17:12:40,"0,431s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:12:40,2024-05-21 17:12:42,"2,020s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Requisitos""), findTestData(""7 Servicios"").getValue(""Requisitos"", 8))",Chrome 124.0.0.0,,,2024-05-21 17:12:42,2024-05-21 17:12:43,"0,891s",PASSED
+"scrollToPosition(0, 500)",Chrome 124.0.0.0,,,2024-05-21 17:12:43,2024-05-21 17:12:43,"0,015s",PASSED
+"click(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Descripcion""))",Chrome 124.0.0.0,,,2024-05-21 17:12:43,2024-05-21 17:12:43,"0,471s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:12:43,2024-05-21 17:12:45,"2,006s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Descripcion""), findTestData(""7 Servicios"").getValue(""Descripción"", 8))",Chrome 124.0.0.0,,,2024-05-21 17:12:45,2024-05-21 17:12:46,"0,847s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Tiempo por Cita (Minutos)""), findTestData(""7 Servicios"").getValue(""Tiempo Por Cita"", 1))",Chrome 124.0.0.0,,,2024-05-21 17:12:46,2024-05-21 17:12:47,"0,808s",PASSED
+"selectOptionByLabel(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/select_Tipo especialidad""), findTestData(""7 Servicios"").getValue(""Tipo Especialidad"", 1), false)",Chrome 124.0.0.0,,,2024-05-21 17:12:47,2024-05-21 17:12:48,"0,819s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:12:48,2024-05-21 17:12:50,"2,005s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 17:12:50,2024-05-21 17:12:50,"0,765s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:12:50,2024-05-21 17:12:52,"2,025s",PASSED
+"click(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/btn_Guardar""))",Chrome 124.0.0.0,,,2024-05-21 17:12:52,2024-05-21 17:12:55,"2,649s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:12:55,2024-05-21 17:12:57,"2,008s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 17:12:57,2024-05-21 17:12:58,"0,778s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 17:12:58,2024-05-21 17:12:58,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R248,Chrome 124.0.0.0,boton limpiar,,2024-05-21 17:12:58,2024-05-21 17:13:42,"43,896s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 17:12:58,2024-05-21 17:13:13,"14,717s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 17:13:13,2024-05-21 17:13:14,"0,648s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:13:14,2024-05-21 17:13:16,"2,010s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_6 Modelo de atencion""))",Chrome 124.0.0.0,,,2024-05-21 17:13:16,2024-05-21 17:13:16,"0,557s",PASSED
+"comment(""Validación de campos"")",Chrome 124.0.0.0,,,2024-05-21 17:13:16,2024-05-21 17:13:16,"0,000s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:13:16,2024-05-21 17:13:18,"2,010s",PASSED
+"click(findTestObject(""ADM/1Configuracion/6Modelo de atencion/0Principal/a_1 Servicios""))",Chrome 124.0.0.0,,,2024-05-21 17:13:18,2024-05-21 17:13:19,"1,074s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:13:19,2024-05-21 17:13:21,"2,007s",PASSED
+"comment(""Sin código"")",Chrome 124.0.0.0,,,2024-05-21 17:13:21,2024-05-21 17:13:21,"0,000s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Codigo""), """")",Chrome 124.0.0.0,,,2024-05-21 17:13:21,2024-05-21 17:13:22,"0,889s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Nombre""), findTestData(""7 Servicios"").getValue(""Nombre"", 8))",Chrome 124.0.0.0,,,2024-05-21 17:13:22,2024-05-21 17:13:23,"0,918s",PASSED
+"click(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Requisitos""))",Chrome 124.0.0.0,,,2024-05-21 17:13:23,2024-05-21 17:13:24,"0,417s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:13:24,2024-05-21 17:13:26,"2,007s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Requisitos""), findTestData(""7 Servicios"").getValue(""Requisitos"", 8))",Chrome 124.0.0.0,,,2024-05-21 17:13:26,2024-05-21 17:13:27,"0,867s",PASSED
+"scrollToPosition(0, 500)",Chrome 124.0.0.0,,,2024-05-21 17:13:27,2024-05-21 17:13:27,"0,028s",PASSED
+"click(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Descripcion""))",Chrome 124.0.0.0,,,2024-05-21 17:13:27,2024-05-21 17:13:27,"0,409s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:13:27,2024-05-21 17:13:29,"2,009s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Descripcion""), findTestData(""7 Servicios"").getValue(""Descripción"", 8))",Chrome 124.0.0.0,,,2024-05-21 17:13:29,2024-05-21 17:13:30,"0,872s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Tiempo por Cita (Minutos)""), findTestData(""7 Servicios"").getValue(""Tiempo Por Cita"", 1))",Chrome 124.0.0.0,,,2024-05-21 17:13:30,2024-05-21 17:13:31,"0,888s",PASSED
+"selectOptionByLabel(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/select_Tipo especialidad""), findTestData(""7 Servicios"").getValue(""Tipo Especialidad"", 1), false)",Chrome 124.0.0.0,,,2024-05-21 17:13:31,2024-05-21 17:13:32,"0,821s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:13:32,2024-05-21 17:13:34,"2,015s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 17:13:34,2024-05-21 17:13:34,"0,778s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:13:34,2024-05-21 17:13:36,"2,011s",PASSED
+"click(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/btn_Limpiar""))",Chrome 124.0.0.0,,,2024-05-21 17:13:36,2024-05-21 17:13:39,"2,685s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:13:39,2024-05-21 17:13:41,"2,012s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 17:13:41,2024-05-21 17:13:42,"0,737s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 17:13:42,2024-05-21 17:13:42,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R249,Chrome 124.0.0.0,,,2024-05-21 17:13:42,2024-05-21 17:14:28,"45,718s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 17:13:42,2024-05-21 17:13:57,"14,661s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 17:13:57,2024-05-21 17:13:58,"0,616s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:13:58,2024-05-21 17:14:00,"2,008s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_6 Modelo de atencion""))",Chrome 124.0.0.0,,,2024-05-21 17:14:00,2024-05-21 17:14:00,"0,527s",PASSED
+"comment(""Validación de campos"")",Chrome 124.0.0.0,,,2024-05-21 17:14:00,2024-05-21 17:14:00,"0,001s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:14:00,2024-05-21 17:14:02,"2,007s",PASSED
+"click(findTestObject(""ADM/1Configuracion/6Modelo de atencion/0Principal/a_1 Servicios""))",Chrome 124.0.0.0,,,2024-05-21 17:14:02,2024-05-21 17:14:03,"1,075s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:14:03,2024-05-21 17:14:05,"2,007s",PASSED
+"comment(""Nombre comienza en números"")",Chrome 124.0.0.0,,,2024-05-21 17:14:05,2024-05-21 17:14:05,"0,000s",PASSED
+"scrollToPosition(0, 0)",Chrome 124.0.0.0,,,2024-05-21 17:14:05,2024-05-21 17:14:05,"0,016s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:14:05,2024-05-21 17:14:07,"2,018s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Codigo""), findTestData(""7 Servicios"").getValue(""Código"", 7))",Chrome 124.0.0.0,,,2024-05-21 17:14:07,2024-05-21 17:14:08,"0,853s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Nombre""), findTestData(""7 Servicios"").getValue(""Nombre"", 7))",Chrome 124.0.0.0,,,2024-05-21 17:14:08,2024-05-21 17:14:09,"0,836s",PASSED
+"click(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Requisitos""))",Chrome 124.0.0.0,,,2024-05-21 17:14:09,2024-05-21 17:14:09,"0,386s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:14:09,2024-05-21 17:14:11,"2,006s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Requisitos""), findTestData(""7 Servicios"").getValue(""Requisitos"", 7))",Chrome 124.0.0.0,,,2024-05-21 17:14:11,2024-05-21 17:14:12,"0,808s",PASSED
+"scrollToPosition(0, 500)",Chrome 124.0.0.0,,,2024-05-21 17:14:12,2024-05-21 17:14:12,"0,026s",PASSED
+"click(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Descripcion""))",Chrome 124.0.0.0,,,2024-05-21 17:14:12,2024-05-21 17:14:13,"0,423s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:14:13,2024-05-21 17:14:15,"2,007s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Descripcion""), findTestData(""7 Servicios"").getValue(""Descripción"", 7))",Chrome 124.0.0.0,,,2024-05-21 17:14:15,2024-05-21 17:14:16,"0,923s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/input_Tiempo por Cita (Minutos)""), findTestData(""7 Servicios"").getValue(""Tiempo Por Cita"", 1))",Chrome 124.0.0.0,,,2024-05-21 17:14:16,2024-05-21 17:14:16,"0,970s",PASSED
+"selectOptionByLabel(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/select_Tipo especialidad""), findTestData(""7 Servicios"").getValue(""Tipo Especialidad"", 1), false)",Chrome 124.0.0.0,,,2024-05-21 17:14:16,2024-05-21 17:14:17,"0,810s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:14:17,2024-05-21 17:14:19,"2,005s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 17:14:19,2024-05-21 17:14:20,"0,830s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:14:20,2024-05-21 17:14:22,"2,006s",PASSED
+"click(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/btn_Guardar""))",Chrome 124.0.0.0,,,2024-05-21 17:14:22,2024-05-21 17:14:25,"2,651s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:14:25,2024-05-21 17:14:27,"2,002s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 17:14:27,2024-05-21 17:14:28,"0,754s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 17:14:28,2024-05-21 17:14:28,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R250,Chrome 124.0.0.0,Modificar servicio prueba en la descripcion,,2024-05-21 17:14:28,2024-05-21 17:15:14,"46,229s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 17:14:28,2024-05-21 17:14:43,"14,700s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 17:14:43,2024-05-21 17:14:43,"0,520s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:14:43,2024-05-21 17:14:45,"2,010s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_6 Modelo de atencion""))",Chrome 124.0.0.0,,,2024-05-21 17:14:45,2024-05-21 17:14:46,"0,569s",PASSED
+"comment(""Modificar servicio Prueba"")",Chrome 124.0.0.0,,,2024-05-21 17:14:46,2024-05-21 17:14:46,"0,003s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:14:46,2024-05-21 17:14:48,"2,010s",PASSED
+"click(findTestObject(""ADM/1Configuracion/6Modelo de atencion/0Principal/a_1 Servicios""))",Chrome 124.0.0.0,,,2024-05-21 17:14:48,2024-05-21 17:14:49,"1,112s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:14:49,2024-05-21 17:14:51,"2,005s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 17:14:51,2024-05-21 17:14:52,"0,765s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:14:52,2024-05-21 17:14:54,"2,021s",PASSED
+"scrollToPosition(0, 0)",Chrome 124.0.0.0,,,2024-05-21 17:14:54,2024-05-21 17:14:54,"0,031s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Lista de Servicios/1 Codigo/input_Codigo""), findTestData(""7 Servicios"").getValue(""Código"", 7))",Chrome 124.0.0.0,,,2024-05-21 17:14:54,2024-05-21 17:14:55,"0,994s",PASSED
+"click(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Lista de Servicios/1 Codigo/click_Filtro""))",Chrome 124.0.0.0,,,2024-05-21 17:14:55,2024-05-21 17:14:55,"0,446s",PASSED
+"click(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Lista de Servicios/1 Codigo/span_Igual a""))",Chrome 124.0.0.0,,,2024-05-21 17:14:55,2024-05-21 17:14:56,"0,523s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:14:56,2024-05-21 17:14:58,"2,003s",PASSED
+"click(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Lista de Servicios/td1_4 - rea General - General (G) - Informacin""))",Chrome 124.0.0.0,Hace click al primero de la tabla que sale,,2024-05-21 17:14:58,2024-05-21 17:14:58,"0,439s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:14:58,2024-05-21 17:15:00,"2,006s",PASSED
+"click(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/img_Modo HTML Requisitos""))",Chrome 124.0.0.0,,,2024-05-21 17:15:00,2024-05-21 17:15:01,"0,395s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:15:01,2024-05-21 17:15:03,"2,007s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/textarea_HTML Requisitos""), findTestData(""7 Servicios"").getValue(""Requisitos"", 8))",Chrome 124.0.0.0,,,2024-05-21 17:15:03,2024-05-21 17:15:04,"0,923s",PASSED
+"scrollToPosition(0, 500)",Chrome 124.0.0.0,,,2024-05-21 17:15:04,2024-05-21 17:15:04,"0,024s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:15:04,2024-05-21 17:15:06,"2,014s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 17:15:06,2024-05-21 17:15:06,"0,832s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:15:06,2024-05-21 17:15:08,"2,005s",PASSED
+"click(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Datos de Servicio/btn_Guardar""))",Chrome 124.0.0.0,,,2024-05-21 17:15:08,2024-05-21 17:15:11,"2,620s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:15:11,2024-05-21 17:15:13,"2,014s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 17:15:13,2024-05-21 17:15:14,"0,760s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 17:15:14,2024-05-21 17:15:14,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/6 Modelo Atencion/1 Servicios/R251,Chrome 124.0.0.0,Eliminar Servicio,,2024-05-21 17:15:14,2024-05-21 17:15:50,"36,140s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 17:15:14,2024-05-21 17:15:29,"14,606s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 17:15:29,2024-05-21 17:15:29,"0,581s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:15:29,2024-05-21 17:15:31,"2,010s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_6 Modelo de atencion""))",Chrome 124.0.0.0,,,2024-05-21 17:15:31,2024-05-21 17:15:32,"0,592s",PASSED
+"comment(""Eliminar servicio Prueba"")",Chrome 124.0.0.0,,,2024-05-21 17:15:32,2024-05-21 17:15:32,"0,000s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:15:32,2024-05-21 17:15:34,"2,010s",PASSED
+"click(findTestObject(""ADM/1Configuracion/6Modelo de atencion/0Principal/a_1 Servicios""))",Chrome 124.0.0.0,,,2024-05-21 17:15:34,2024-05-21 17:15:35,"1,119s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:15:35,2024-05-21 17:15:37,"2,010s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 17:15:37,2024-05-21 17:15:38,"0,797s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:15:38,2024-05-21 17:15:40,"2,007s",PASSED
+"scrollToPosition(0, 0)",Chrome 124.0.0.0,,,2024-05-21 17:15:40,2024-05-21 17:15:40,"0,032s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Lista de Servicios/1 Codigo/input_Codigo""), findTestData(""7 Servicios"").getValue(""Código"", 7))",Chrome 124.0.0.0,,,2024-05-21 17:15:40,2024-05-21 17:15:41,"0,893s",PASSED
+"click(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Lista de Servicios/1 Codigo/click_Filtro""))",Chrome 124.0.0.0,,,2024-05-21 17:15:41,2024-05-21 17:15:41,"0,435s",PASSED
+"click(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Lista de Servicios/1 Codigo/span_Igual a""))",Chrome 124.0.0.0,,,2024-05-21 17:15:41,2024-05-21 17:15:42,"0,525s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:15:42,2024-05-21 17:15:44,"2,000s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 17:15:44,2024-05-21 17:15:45,"0,826s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:15:45,2024-05-21 17:15:47,"2,011s",PASSED
+"click(findTestObject(""ADM/1Configuracion/6Modelo de atencion/1Servicios/Lista de Servicios/a_1_Borrar""))",Chrome 124.0.0.0,Hace click al primero de la tabla que sale,,2024-05-21 17:15:47,2024-05-21 17:15:47,"0,461s",PASSED
+acceptAlert(),Chrome 124.0.0.0,,,2024-05-21 17:15:47,2024-05-21 17:15:47,"0,041s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 17:15:47,2024-05-21 17:15:49,"2,007s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 17:15:49,2024-05-21 17:15:50,"0,824s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 17:15:50,2024-05-21 17:15:50,"0,000s",PASSED

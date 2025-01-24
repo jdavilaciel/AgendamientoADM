@@ -1,0 +1,122 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+4 Ciudades,Chrome 124.0.0.0,,,2024-05-21 15:45:42,2024-05-21 15:49:55,"4m - 13,447s",FAILED
+,,,,,,,
+Test Cases/Configuracion/1 Distribucion Geografica/4 Ciudades/R43,Chrome 124.0.0.0,Boton Ciudades,,2024-05-21 15:45:42,2024-05-21 15:46:03,"20,827s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:45:43,2024-05-21 15:45:58,"15,826s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 15:45:58,2024-05-21 15:45:59,"0,594s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_1 Distribucion geografica""))",Chrome 124.0.0.0,,,2024-05-21 15:45:59,2024-05-21 15:46:00,"0,682s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/0Principal/a_4 Ciudades""))",Chrome 124.0.0.0,,,2024-05-21 15:46:00,2024-05-21 15:46:00,"0,736s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:46:00,2024-05-21 15:46:02,"2,001s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 15:46:02,2024-05-21 15:46:03,"0,663s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 15:46:03,2024-05-21 15:46:03,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/1 Distribucion Geografica/4 Ciudades/R45,Chrome 124.0.0.0,"Boton Buscar Ciudades, por código y por nombre",,2024-05-21 15:46:03,2024-05-21 15:46:37,"33,859s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:46:03,2024-05-21 15:46:18,"14,690s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 15:46:18,2024-05-21 15:46:19,"0,591s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_1 Distribucion geografica""))",Chrome 124.0.0.0,,,2024-05-21 15:46:19,2024-05-21 15:46:19,"0,651s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/0Principal/a_4 Ciudades""))",Chrome 124.0.0.0,,,2024-05-21 15:46:19,2024-05-21 15:46:20,"0,629s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:46:20,2024-05-21 15:46:22,"2,008s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/1Distribucion geografica/4Ciudades/input_CodigoCiudad""), ""2"")",Chrome 124.0.0.0,,,2024-05-21 15:46:22,2024-05-21 15:46:23,"0,812s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:46:23,2024-05-21 15:46:25,"2,010s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/4Ciudades/btn_Buscar""))",Chrome 124.0.0.0,,,2024-05-21 15:46:25,2024-05-21 15:46:25,"0,457s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 15:46:25,2024-05-21 15:46:26,"0,565s",PASSED
+delay(7),Chrome 124.0.0.0,,,2024-05-21 15:46:26,2024-05-21 15:46:33,"7,010s",PASSED
+"clearText(findTestObject(""ADM/1Configuracion/1Distribucion geografica/4Ciudades/input_CodigoCiudad""))",Chrome 124.0.0.0,,,2024-05-21 15:46:33,2024-05-21 15:46:33,"0,458s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/1Distribucion geografica/4Ciudades/input_NombreCiudad""), ""Bogota"")",Chrome 124.0.0.0,,,2024-05-21 15:46:33,2024-05-21 15:46:34,"0,715s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:46:34,2024-05-21 15:46:36,"2,008s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/4Ciudades/btn_Buscar""))",Chrome 124.0.0.0,,,2024-05-21 15:46:36,2024-05-21 15:46:36,"0,424s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 15:46:36,2024-05-21 15:46:37,"0,531s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 15:46:37,2024-05-21 15:46:37,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/1 Distribucion Geografica/4 Ciudades/R46,Chrome 124.0.0.0,Boton Limpiar en ciudades,,2024-05-21 15:46:37,2024-05-21 15:47:03,"26,300s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:46:37,2024-05-21 15:46:52,"14,793s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 15:46:52,2024-05-21 15:46:53,"0,631s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_1 Distribucion geografica""))",Chrome 124.0.0.0,,,2024-05-21 15:46:53,2024-05-21 15:46:53,"0,611s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/0Principal/a_4 Ciudades""))",Chrome 124.0.0.0,,,2024-05-21 15:46:53,2024-05-21 15:46:54,"0,656s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:46:54,2024-05-21 15:46:56,"2,009s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/1Distribucion geografica/4Ciudades/input_CodigoCiudad""), ""2"")",Chrome 124.0.0.0,,,2024-05-21 15:46:56,2024-05-21 15:46:57,"0,820s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:46:57,2024-05-21 15:46:59,"2,007s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/1Distribucion geografica/4Ciudades/input_NombreCiudad""), ""Bogota"")",Chrome 124.0.0.0,,,2024-05-21 15:46:59,2024-05-21 15:47:00,"0,816s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 15:47:00,2024-05-21 15:47:00,"0,497s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/4Ciudades/btn_Limpiar""))",Chrome 124.0.0.0,,,2024-05-21 15:47:00,2024-05-21 15:47:01,"0,484s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:47:01,2024-05-21 15:47:03,"2,001s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 15:47:03,2024-05-21 15:47:03,"0,594s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 15:47:03,2024-05-21 15:47:03,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/1 Distribucion Geografica/4 Ciudades/R47,Chrome 124.0.0.0,Boton nueva ciudad dirige a otra página para crear una ciuddad nueva,,2024-05-21 15:47:03,2024-05-21 15:47:27,"23,517s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:47:04,2024-05-21 15:47:18,"14,757s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 15:47:18,2024-05-21 15:47:19,"0,548s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_1 Distribucion geografica""))",Chrome 124.0.0.0,,,2024-05-21 15:47:19,2024-05-21 15:47:20,"0,651s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/0Principal/a_4 Ciudades""))",Chrome 124.0.0.0,,,2024-05-21 15:47:20,2024-05-21 15:47:20,"0,670s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:47:20,2024-05-21 15:47:22,"2,009s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/4Ciudades/0 btn_NuevaCiudad""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:47:22,2024-05-21 15:47:23,"0,464s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:47:23,2024-05-21 15:47:25,"2,010s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/1Distribucion geografica/4Ciudades/0 btn_NuevaCiudad(1)/input_Codigo Ciudad""), 2)",Chrome 124.0.0.0,,,2024-05-21 15:47:25,2024-05-21 15:47:25,"0,376s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/1Distribucion geografica/4Ciudades/0 btn_NuevaCiudad(1)/input_Nombre Ciudad""), 2)",Chrome 124.0.0.0,,,2024-05-21 15:47:25,2024-05-21 15:47:26,"0,377s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/1Distribucion geografica/4Ciudades/0 btn_NuevaCiudad(1)/btn_Volver""), 2)",Chrome 124.0.0.0,,,2024-05-21 15:47:26,2024-05-21 15:47:26,"0,377s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/1Distribucion geografica/4Ciudades/0 btn_NuevaCiudad(1)/btn_Guardar Ciudad""), 2)",Chrome 124.0.0.0,,,2024-05-21 15:47:26,2024-05-21 15:47:26,"0,376s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 15:47:26,2024-05-21 15:47:27,"0,541s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 15:47:27,2024-05-21 15:47:27,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/1 Distribucion Geografica/4 Ciudades/R48,Chrome 124.0.0.0,Campo Código sólo debe aceptar números,,2024-05-21 15:47:27,2024-05-21 15:47:53,"26,010s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:47:27,2024-05-21 15:47:42,"14,772s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 15:47:42,2024-05-21 15:47:42,"0,572s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_1 Distribucion geografica""))",Chrome 124.0.0.0,,,2024-05-21 15:47:42,2024-05-21 15:47:43,"0,637s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/0Principal/a_4 Ciudades""))",Chrome 124.0.0.0,,,2024-05-21 15:47:43,2024-05-21 15:47:44,"0,652s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:47:44,2024-05-21 15:47:46,"2,012s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/4Ciudades/0 btn_NuevaCiudad""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:47:46,2024-05-21 15:47:46,"0,458s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:47:46,2024-05-21 15:47:48,"2,006s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/1Distribucion geografica/4Ciudades/0 btn_NuevaCiudad(1)/input_Codigo Ciudad""), ""frht4756"")",Chrome 124.0.0.0,Debe colocarse letras y números para que falle el test case,,2024-05-21 15:47:48,2024-05-21 15:47:49,"0,852s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/1Distribucion geografica/4Ciudades/0 btn_NuevaCiudad(1)/input_Nombre Ciudad""), ""Prueba"")",Chrome 124.0.0.0,,,2024-05-21 15:47:49,2024-05-21 15:47:50,"0,804s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/4Ciudades/0 btn_NuevaCiudad(1)/btn_Guardar Ciudad""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:47:50,2024-05-21 15:47:50,"0,446s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:47:50,2024-05-21 15:47:52,"2,006s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 15:47:52,2024-05-21 15:47:53,"0,495s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 15:47:53,2024-05-21 15:47:53,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/1 Distribucion Geografica/4 Ciudades/R49,Chrome 124.0.0.0,,,2024-05-21 15:47:53,2024-05-21 15:48:19,"26,042s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:47:53,2024-05-21 15:48:08,"14,714s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 15:48:08,2024-05-21 15:48:08,"0,583s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_1 Distribucion geografica""))",Chrome 124.0.0.0,,,2024-05-21 15:48:08,2024-05-21 15:48:09,"0,631s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/0Principal/a_4 Ciudades""))",Chrome 124.0.0.0,,,2024-05-21 15:48:09,2024-05-21 15:48:10,"0,668s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:48:10,2024-05-21 15:48:12,"2,016s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/4Ciudades/0 btn_NuevaCiudad""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:48:12,2024-05-21 15:48:12,"0,453s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:48:12,2024-05-21 15:48:14,"2,001s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/1Distribucion geografica/4Ciudades/0 btn_NuevaCiudad(1)/input_Codigo Ciudad""), ""8"")",Chrome 124.0.0.0,Debe colocarse letras y números para que falle el test case,,2024-05-21 15:48:14,2024-05-21 15:48:15,"0,827s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/1Distribucion geografica/4Ciudades/0 btn_NuevaCiudad(1)/input_Nombre Ciudad""), ""98(Prueba)"")",Chrome 124.0.0.0,,,2024-05-21 15:48:15,2024-05-21 15:48:16,"0,838s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/4Ciudades/0 btn_NuevaCiudad(1)/btn_Guardar Ciudad""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:48:16,2024-05-21 15:48:16,"0,426s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:48:16,2024-05-21 15:48:18,"2,012s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 15:48:18,2024-05-21 15:48:19,"0,574s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 15:48:19,2024-05-21 15:48:19,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/1 Distribucion Geografica/4 Ciudades/R50,Chrome 124.0.0.0,Boton Volver en ciudades,,2024-05-21 15:48:19,2024-05-21 15:48:46,"26,918s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:48:19,2024-05-21 15:48:34,"14,709s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 15:48:34,2024-05-21 15:48:35,"0,557s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_1 Distribucion geografica""))",Chrome 124.0.0.0,,,2024-05-21 15:48:35,2024-05-21 15:48:35,"0,656s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/0Principal/a_4 Ciudades""))",Chrome 124.0.0.0,,,2024-05-21 15:48:35,2024-05-21 15:48:36,"0,661s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:48:36,2024-05-21 15:48:38,"2,006s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/4Ciudades/0 btn_NuevaCiudad""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:48:38,2024-05-21 15:48:38,"0,494s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:48:38,2024-05-21 15:48:40,"2,013s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 15:48:40,2024-05-21 15:48:41,"0,559s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:48:41,2024-05-21 15:48:43,"2,010s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/4Ciudades/0 btn_NuevaCiudad(1)/btn_Volver""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:48:43,2024-05-21 15:48:43,"0,433s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:48:43,2024-05-21 15:48:45,"2,016s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 15:48:45,2024-05-21 15:48:46,"0,444s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 15:48:46,2024-05-21 15:48:46,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/1 Distribucion Geografica/4 Ciudades/R51,Chrome 124.0.0.0,Verificar el orden de la lista de ciudades en el pantallazo,,2024-05-21 15:48:46,2024-05-21 15:49:05,"19,476s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:48:46,2024-05-21 15:49:01,"14,737s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 15:49:01,2024-05-21 15:49:01,"0,521s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_1 Distribucion geografica""))",Chrome 124.0.0.0,,,2024-05-21 15:49:01,2024-05-21 15:49:02,"0,668s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/0Principal/a_4 Ciudades""))",Chrome 124.0.0.0,,,2024-05-21 15:49:02,2024-05-21 15:49:03,"0,656s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:49:03,2024-05-21 15:49:05,"2,013s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 15:49:05,2024-05-21 15:49:05,"0,535s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 15:49:05,2024-05-21 15:49:05,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/1 Distribucion Geografica/4 Ciudades/R52,Chrome 124.0.0.0,"Boton eliminar, debe cumplir la función de eliminar una ciudad de la lista",,2024-05-21 15:49:05,2024-05-21 15:49:55,"50,164s",FAILED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:49:06,2024-05-21 15:49:20,"14,580s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 15:49:20,2024-05-21 15:49:21,"0,578s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_1 Distribucion geografica""))",Chrome 124.0.0.0,,,2024-05-21 15:49:21,2024-05-21 15:49:21,"0,682s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/0Principal/a_4 Ciudades""))",Chrome 124.0.0.0,,,2024-05-21 15:49:21,2024-05-21 15:49:22,"0,662s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:49:22,2024-05-21 15:49:24,"2,008s",PASSED
+"click(findTestObject(""ADM/1Configuracion/1Distribucion geografica/4Ciudades/a_td8Borrar (prueba)""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:49:24,2024-05-21 15:49:55,"31,371s",FAILED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 15:49:55,2024-05-21 15:49:55,"0,000s",PASSED

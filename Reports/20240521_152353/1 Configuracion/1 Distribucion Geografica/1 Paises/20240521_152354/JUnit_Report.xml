@@ -1,0 +1,1257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="1 Paises" time="321.819" tests="12" failures="0" errors="0">
+   <testsuite name="1 Paises" tests="12" failures="0" errors="0" time="321.819" skipped="0" timestamp="2024-05-21 15:24:46" hostname="jdavila - PCPruebas101.ciel.cielingenieria.com" id="Test Suites/1 Configuracion/1 Distribucion Geografica/1 Paises">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\1 Distribucion Geografica\\1 Paises\\20240521_152354"/>
+         <property name="logFiles" value="C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\1 Distribucion Geografica\\1 Paises\\20240521_152354\\execution0.log"/>
+         <property name="attachments" value="C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\1 Distribucion Geografica\\1 Paises\\20240521_152354\\1716323103092.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\1 Distribucion Geografica\\1 Paises\\20240521_152354\\1716323126100.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\1 Distribucion Geografica\\1 Paises\\20240521_152354\\1716323148795.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\1 Distribucion Geografica\\1 Paises\\20240521_152354\\1716323174206.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\1 Distribucion Geografica\\1 Paises\\20240521_152354\\1716323204132.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\1 Distribucion Geografica\\1 Paises\\20240521_152354\\1716323230850.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\1 Distribucion Geografica\\1 Paises\\20240521_152354\\1716323257437.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\1 Distribucion Geografica\\1 Paises\\20240521_152354\\1716323263159.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\1 Distribucion Geografica\\1 Paises\\20240521_152354\\1716323289582.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\1 Distribucion Geografica\\1 Paises\\20240521_152354\\1716323293334.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\1 Distribucion Geografica\\1 Paises\\20240521_152354\\1716323323296.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\1 Distribucion Geografica\\1 Paises\\20240521_152354\\1716323353055.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\1 Distribucion Geografica\\1 Paises\\20240521_152354\\1716323382019.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\1 Distribucion Geografica\\1 Paises\\20240521_152354\\1716323408026.png"/>
+         <property name="hostName" value="jdavila - PCPruebas101.ciel.cielingenieria.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.9.208"/>
+         <property name="browser" value="Chrome 124.0.0.0"/>
+         <property name="hostAddress" value="192.168.91.13"/>
+         <property name="sessionId" value="38e08273119f6c360051c4a568bfb2ee"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R01" time="16.748" classname="Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R01" status="PASSED">
+         <system-out><![CDATA[2024-05-21 15:24:47 - [TEST_CASE][PASSED] - Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R01: Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R01
+
+2024-05-21 15:24:47 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:24:48 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 15:24:48 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 15:24:51 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:24:51 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 15:24:51 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 15:24:51 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:24:53 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:24:53 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:24:54 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:24:54 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:24:56 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:24:56 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:24:57 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:24:57 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:24:59 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:24:59 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:24:59 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:24:59 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:25:01 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:25:01 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/0Principal/a_Agendas"), 2): Object 'Object Repository/ADM/0Principal/a_Agendas' is present
+
+2024-05-21 15:25:02 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/0Principal/a_Agendas' is present
+
+2024-05-21 15:25:02 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/0Principal/a_Citas"), 2): Object 'Object Repository/ADM/0Principal/a_Citas' is present
+
+2024-05-21 15:25:02 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/0Principal/a_Citas' is present
+
+2024-05-21 15:25:02 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/0Principal/a_Configuracion"), 2): Object 'Object Repository/ADM/0Principal/a_Configuracion' is present
+
+2024-05-21 15:25:03 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/0Principal/a_Configuracion' is present
+
+2024-05-21 15:25:03 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 15:25:03 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 15:25:03 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\1 Distribucion Geografica\\1 Paises\\20240521_152354\\1716323103092.png]]
+
+2024-05-21 15:25:03 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R02" time="22.823" classname="Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R02" status="PASSED">
+         <system-out><![CDATA[2024-05-21 15:25:03 - [TEST_CASE][PASSED] - Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R02: Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R02
+
+2024-05-21 15:25:04 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:25:04 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 15:25:04 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:25:04 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 15:25:05 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 15:25:05 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 15:25:07 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:25:07 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 15:25:07 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 15:25:07 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:25:09 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:25:09 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:25:10 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:25:10 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:25:12 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:25:12 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:25:13 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:25:13 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:25:15 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:25:15 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:25:16 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:25:16 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 15:25:19 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 15:25:19 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:25:19 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:25:19 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:25:19 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:25:21 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:25:21 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/0Principal/a_1 Distribucion geografica"), 2): Object 'Object Repository/ADM/1Configuracion/0Principal/a_1 Distribucion geografica' is present
+
+2024-05-21 15:25:22 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/0Principal/a_1 Distribucion geografica' is present
+
+2024-05-21 15:25:22 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/0Principal/a_2 Jornadas de atencion"), 2): Object 'Object Repository/ADM/1Configuracion/0Principal/a_2 Jornadas de atencion' is present
+
+2024-05-21 15:25:22 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/0Principal/a_2 Jornadas de atencion' is present
+
+2024-05-21 15:25:22 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/0Principal/a_3 Seguridad"), 2): Object 'Object Repository/ADM/1Configuracion/0Principal/a_3 Seguridad' is present
+
+2024-05-21 15:25:22 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/0Principal/a_3 Seguridad' is present
+
+2024-05-21 15:25:22 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/0Principal/a_4 Sistema"), 2): Object 'Object Repository/ADM/1Configuracion/0Principal/a_4 Sistema' is present
+
+2024-05-21 15:25:23 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/0Principal/a_4 Sistema' is present
+
+2024-05-21 15:25:23 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/0Principal/a_5 Clientes"), 2): Object 'Object Repository/ADM/1Configuracion/0Principal/a_5 Clientes' is present
+
+2024-05-21 15:25:23 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/0Principal/a_5 Clientes' is present
+
+2024-05-21 15:25:23 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/0Principal/a_6 Modelo de atencion"), 2): Object 'Object Repository/ADM/1Configuracion/0Principal/a_6 Modelo de atencion' is present
+
+2024-05-21 15:25:24 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/0Principal/a_6 Modelo de atencion' is present
+
+2024-05-21 15:25:24 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:25:26 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:25:26 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 15:25:26 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 15:25:26 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\1 Distribucion Geografica\\1 Paises\\20240521_152354\\1716323126100.png]]
+
+2024-05-21 15:25:26 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R03" time="22.664" classname="Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R03" status="PASSED">
+         <system-out><![CDATA[2024-05-21 15:25:26 - [TEST_CASE][PASSED] - Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R03: Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R03
+
+2024-05-21 15:25:26 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:25:27 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 15:25:27 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:25:27 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 15:25:27 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 15:25:27 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 15:25:30 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:25:30 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 15:25:30 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 15:25:30 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:25:32 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:25:32 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:25:33 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:25:33 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:25:35 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:25:35 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:25:36 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:25:36 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:25:38 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:25:38 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:25:38 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:25:38 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 15:25:41 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 15:25:41 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:25:41 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:25:42 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:25:42 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:25:44 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:25:44 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_1 Distribucion geografica")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_1 Distribucion geografica' is clicked on
+
+2024-05-21 15:25:44 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_1 Distribucion geografica' is clicked on
+
+2024-05-21 15:25:44 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:25:46 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:25:46 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/1Distribucion geografica/0Principal/a_1 Paises"), 2): Object 'Object Repository/ADM/1Configuracion/1Distribucion geografica/0Principal/a_1 Paises' is present
+
+2024-05-21 15:25:47 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/1Distribucion geografica/0Principal/a_1 Paises' is present
+
+2024-05-21 15:25:47 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/1Distribucion geografica/0Principal/a_2 Departamentos o estados"), 2): Object 'Object Repository/ADM/1Configuracion/1Distribucion geografica/0Principal/a_2 Departamentos o estados' is present
+
+2024-05-21 15:25:47 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/1Distribucion geografica/0Principal/a_2 Departamentos o estados' is present
+
+2024-05-21 15:25:47 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/1Distribucion geografica/0Principal/a_3 Regionales"), 2): Object 'Object Repository/ADM/1Configuracion/1Distribucion geografica/0Principal/a_3 Regionales' is present
+
+2024-05-21 15:25:48 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/1Distribucion geografica/0Principal/a_3 Regionales' is present
+
+2024-05-21 15:25:48 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/1Distribucion geografica/0Principal/a_4 Ciudades"), 2): Object 'Object Repository/ADM/1Configuracion/1Distribucion geografica/0Principal/a_4 Ciudades' is present
+
+2024-05-21 15:25:48 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/1Distribucion geografica/0Principal/a_4 Ciudades' is present
+
+2024-05-21 15:25:48 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/1Distribucion geografica/0Principal/a_5 Oficinas"), 2): Object 'Object Repository/ADM/1Configuracion/1Distribucion geografica/0Principal/a_5 Oficinas' is present
+
+2024-05-21 15:25:48 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/1Distribucion geografica/0Principal/a_5 Oficinas' is present
+
+2024-05-21 15:25:48 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 15:25:49 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 15:25:49 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\1 Distribucion Geografica\\1 Paises\\20240521_152354\\1716323148795.png]]
+
+2024-05-21 15:25:49 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R04" time="25.412" classname="Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R04" status="PASSED">
+         <system-out><![CDATA[2024-05-21 15:25:49 - [TEST_CASE][PASSED] - Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R04: Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R04
+
+2024-05-21 15:25:49 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:25:49 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 15:25:49 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:25:49 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 15:25:50 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 15:25:50 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 15:25:52 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:25:52 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 15:25:52 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 15:25:52 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:25:54 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:25:54 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:25:56 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:25:56 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:25:58 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:25:58 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:25:58 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:25:58 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:26:00 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:26:00 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:26:01 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:26:01 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 15:26:04 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 15:26:04 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:26:04 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:26:05 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:26:05 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:26:07 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:26:07 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_1 Distribucion geografica")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_1 Distribucion geografica' is clicked on
+
+2024-05-21 15:26:07 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_1 Distribucion geografica' is clicked on
+
+2024-05-21 15:26:07 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:26:09 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:26:09 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/1Distribucion geografica/0Principal/a_1 Paises"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/1Distribucion geografica/0Principal/a_1 Paises' is clicked on
+
+2024-05-21 15:26:10 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/1Distribucion geografica/0Principal/a_1 Paises' is clicked on
+
+2024-05-21 15:26:10 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:26:12 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:26:12 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/1Distribucion geografica/1Paises/input_Codigo Pais"), 2): Object 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/input_Codigo Pais' is present
+
+2024-05-21 15:26:12 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/input_Codigo Pais' is present
+
+2024-05-21 15:26:12 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/1Distribucion geografica/1Paises/input_Nombre Pais"), 2): Object 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/input_Nombre Pais' is present
+
+2024-05-21 15:26:13 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/input_Nombre Pais' is present
+
+2024-05-21 15:26:13 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/1Distribucion geografica/1Paises/btn_Buscar"), 2): Object 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/btn_Buscar' is present
+
+2024-05-21 15:26:13 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/btn_Buscar' is present
+
+2024-05-21 15:26:13 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/1Distribucion geografica/1Paises/btn_Limpiar"), 2): Object 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/btn_Limpiar' is present
+
+2024-05-21 15:26:13 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/btn_Limpiar' is present
+
+2024-05-21 15:26:13 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais"), 2): Object 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais' is present
+
+2024-05-21 15:26:14 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais' is present
+
+2024-05-21 15:26:14 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 15:26:14 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 15:26:14 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\1 Distribucion Geografica\\1 Paises\\20240521_152354\\1716323174206.png]]
+
+2024-05-21 15:26:14 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R10" time="30.006" classname="Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R10" status="PASSED">
+         <system-out><![CDATA[2024-05-21 15:26:14 - [TEST_CASE][PASSED] - Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R10: Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R10
+
+2024-05-21 15:26:15 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:26:15 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 15:26:15 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:26:15 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 15:26:15 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 15:26:15 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 15:26:18 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:26:18 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 15:26:18 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 15:26:18 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:26:20 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:26:20 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:26:21 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:26:21 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:26:23 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:26:23 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:26:24 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:26:24 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:26:26 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:26:26 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:26:26 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:26:26 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 15:26:29 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 15:26:29 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:26:29 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:26:30 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:26:30 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:26:32 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:26:32 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_1 Distribucion geografica")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_1 Distribucion geografica' is clicked on
+
+2024-05-21 15:26:32 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_1 Distribucion geografica' is clicked on
+
+2024-05-21 15:26:32 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:26:34 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:26:34 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/1Distribucion geografica/0Principal/a_1 Paises"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/1Distribucion geografica/0Principal/a_1 Paises' is clicked on
+
+2024-05-21 15:26:35 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/1Distribucion geografica/0Principal/a_1 Paises' is clicked on
+
+2024-05-21 15:26:35 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:26:37 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:26:37 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais' is clicked on
+
+2024-05-21 15:26:38 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais' is clicked on
+
+2024-05-21 15:26:38 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:26:40 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:26:40 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais(1)/input_Codigo Pais"), CodPais): Text '1' is set on object 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais(1)/input_Codigo Pais'
+
+2024-05-21 15:26:40 - [MESSAGE][PASSED] - Text '1' is set on object 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais(1)/input_Codigo Pais'
+
+2024-05-21 15:26:40 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais(1)/input_Nombre Pais"), NombrePais): Text 'Colombia' is set on object 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais(1)/input_Nombre Pais'
+
+2024-05-21 15:26:41 - [MESSAGE][PASSED] - Text 'Colombia' is set on object 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais(1)/input_Nombre Pais'
+
+2024-05-21 15:26:41 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais(1)/btn_Guardar Pais"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais(1)/btn_Guardar Pais' is clicked on
+
+2024-05-21 15:26:42 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais(1)/btn_Guardar Pais' is clicked on
+
+2024-05-21 15:26:42 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:26:44 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:26:44 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 15:26:44 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 15:26:44 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\1 Distribucion Geografica\\1 Paises\\20240521_152354\\1716323204132.png]]
+
+2024-05-21 15:26:44 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R08" time="26.679" classname="Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R08" status="PASSED">
+         <system-out><![CDATA[2024-05-21 15:26:44 - [TEST_CASE][PASSED] - Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R08: Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R08
+
+2024-05-21 15:26:45 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:26:45 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 15:26:45 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:26:45 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 15:26:45 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 15:26:45 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 15:26:48 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:26:48 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 15:26:48 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 15:26:48 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:26:50 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:26:50 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:26:51 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:26:51 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:26:53 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:26:53 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:26:54 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:26:54 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:26:56 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:26:56 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:26:56 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:26:56 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 15:26:59 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 15:26:59 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:26:59 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:27:00 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:27:00 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:27:02 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:27:02 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_1 Distribucion geografica")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_1 Distribucion geografica' is clicked on
+
+2024-05-21 15:27:02 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_1 Distribucion geografica' is clicked on
+
+2024-05-21 15:27:02 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:27:04 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:27:04 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/1Distribucion geografica/0Principal/a_1 Paises"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/1Distribucion geografica/0Principal/a_1 Paises' is clicked on
+
+2024-05-21 15:27:05 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/1Distribucion geografica/0Principal/a_1 Paises' is clicked on
+
+2024-05-21 15:27:05 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:27:07 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:27:07 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais' is clicked on
+
+2024-05-21 15:27:08 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais' is clicked on
+
+2024-05-21 15:27:08 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:27:10 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:27:10 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais(1)/input_Codigo Pais"), 2): Object 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais(1)/input_Codigo Pais' is present
+
+2024-05-21 15:27:10 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais(1)/input_Codigo Pais' is present
+
+2024-05-21 15:27:10 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais(1)/input_Nombre Pais"), 2): Object 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais(1)/input_Nombre Pais' is present
+
+2024-05-21 15:27:10 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais(1)/input_Nombre Pais' is present
+
+2024-05-21 15:27:10 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 15:27:11 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 15:27:11 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\1 Distribucion Geografica\\1 Paises\\20240521_152354\\1716323230850.png]]
+
+2024-05-21 15:27:11 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R06" time="32.294" classname="Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R06" status="PASSED">
+         <system-out><![CDATA[2024-05-21 15:27:11 - [TEST_CASE][PASSED] - Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R06: Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R06
+
+2024-05-21 15:27:11 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:27:11 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 15:27:11 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:27:11 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 15:27:12 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 15:27:12 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 15:27:14 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:27:14 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 15:27:14 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 15:27:14 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:27:16 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:27:16 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:27:18 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:27:18 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:27:20 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:27:20 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:27:21 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:27:21 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:27:23 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:27:23 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:27:23 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:27:23 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 15:27:26 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 15:27:26 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:27:26 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:27:27 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:27:27 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:27:29 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:27:29 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_1 Distribucion geografica")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_1 Distribucion geografica' is clicked on
+
+2024-05-21 15:27:29 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_1 Distribucion geografica' is clicked on
+
+2024-05-21 15:27:29 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:27:31 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:27:31 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/1Distribucion geografica/0Principal/a_1 Paises"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/1Distribucion geografica/0Principal/a_1 Paises' is clicked on
+
+2024-05-21 15:27:32 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/1Distribucion geografica/0Principal/a_1 Paises' is clicked on
+
+2024-05-21 15:27:32 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:27:34 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:27:34 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/1Distribucion geografica/1Paises/input_Nombre Pais"), "chi"): Text 'chi' is set on object 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/input_Nombre Pais'
+
+2024-05-21 15:27:35 - [MESSAGE][PASSED] - Text 'chi' is set on object 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/input_Nombre Pais'
+
+2024-05-21 15:27:35 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/1Distribucion geografica/1Paises/btn_Buscar"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/btn_Buscar' is clicked on
+
+2024-05-21 15:27:35 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/btn_Buscar' is clicked on
+
+2024-05-21 15:27:35 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:27:37 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:27:37 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 15:27:37 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 15:27:37 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\1 Distribucion Geografica\\1 Paises\\20240521_152354\\1716323257437.png]]
+
+2024-05-21 15:27:37 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:27:39 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:27:39 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/1Distribucion geografica/1Paises/input_Nombre Pais"), "col"): Text 'col' is set on object 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/input_Nombre Pais'
+
+2024-05-21 15:27:40 - [MESSAGE][PASSED] - Text 'col' is set on object 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/input_Nombre Pais'
+
+2024-05-21 15:27:40 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/1Distribucion geografica/1Paises/btn_Buscar"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/btn_Buscar' is clicked on
+
+2024-05-21 15:27:41 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/btn_Buscar' is clicked on
+
+2024-05-21 15:27:41 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:27:43 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:27:43 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 15:27:43 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 15:27:43 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\1 Distribucion Geografica\\1 Paises\\20240521_152354\\1716323263159.png]]
+
+2024-05-21 15:27:43 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R07" time="30.24" classname="Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R07" status="PASSED">
+         <system-out><![CDATA[2024-05-21 15:27:43 - [TEST_CASE][PASSED] - Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R07: Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R07
+
+2024-05-21 15:27:44 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:27:44 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 15:27:44 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:27:44 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 15:27:44 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 15:27:44 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 15:27:47 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:27:47 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 15:27:47 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 15:27:47 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:27:49 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:27:49 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:27:50 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:27:50 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:27:52 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:27:52 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:27:53 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:27:53 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:27:55 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:27:55 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:27:55 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:27:55 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 15:27:58 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 15:27:58 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:27:58 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:27:59 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:27:59 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:28:01 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:28:01 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_1 Distribucion geografica")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_1 Distribucion geografica' is clicked on
+
+2024-05-21 15:28:01 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_1 Distribucion geografica' is clicked on
+
+2024-05-21 15:28:01 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:28:03 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:28:03 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/1Distribucion geografica/0Principal/a_1 Paises"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/1Distribucion geografica/0Principal/a_1 Paises' is clicked on
+
+2024-05-21 15:28:04 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/1Distribucion geografica/0Principal/a_1 Paises' is clicked on
+
+2024-05-21 15:28:04 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:28:06 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:28:06 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/1Distribucion geografica/1Paises/input_Nombre Pais"), "Prueba"): Text 'Prueba' is set on object 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/input_Nombre Pais'
+
+2024-05-21 15:28:07 - [MESSAGE][PASSED] - Text 'Prueba' is set on object 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/input_Nombre Pais'
+
+2024-05-21 15:28:07 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/1Distribucion geografica/1Paises/btn_Limpiar"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/btn_Limpiar' is clicked on
+
+2024-05-21 15:28:07 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/btn_Limpiar' is clicked on
+
+2024-05-21 15:28:07 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:28:09 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:28:09 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 15:28:09 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 15:28:10 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\1 Distribucion Geografica\\1 Paises\\20240521_152354\\1716323289582.png]]
+
+2024-05-21 15:28:10 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/1Distribucion geografica/1Paises/input_Nombre Pais"), "col"): Text 'col' is set on object 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/input_Nombre Pais'
+
+2024-05-21 15:28:10 - [MESSAGE][PASSED] - Text 'col' is set on object 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/input_Nombre Pais'
+
+2024-05-21 15:28:10 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/1Distribucion geografica/1Paises/btn_Buscar")): Object: 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/btn_Buscar' is clicked on
+
+2024-05-21 15:28:11 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/btn_Buscar' is clicked on
+
+2024-05-21 15:28:11 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:28:13 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:28:13 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 15:28:13 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 15:28:13 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\1 Distribucion Geografica\\1 Paises\\20240521_152354\\1716323293334.png]]
+
+2024-05-21 15:28:13 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R05" time="29.834" classname="Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R05" status="PASSED">
+         <system-out><![CDATA[2024-05-21 15:28:13 - [TEST_CASE][PASSED] - Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R05: Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R05
+
+2024-05-21 15:28:14 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:28:14 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 15:28:14 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:28:14 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 15:28:15 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 15:28:15 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 15:28:17 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:28:17 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 15:28:17 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 15:28:17 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:28:19 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:28:19 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:28:20 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:28:20 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:28:22 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:28:22 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:28:23 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:28:23 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:28:25 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:28:25 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:28:26 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:28:26 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 15:28:29 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 15:28:29 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:28:29 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:28:29 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:28:29 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:28:31 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:28:31 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_1 Distribucion geografica")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_1 Distribucion geografica' is clicked on
+
+2024-05-21 15:28:32 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_1 Distribucion geografica' is clicked on
+
+2024-05-21 15:28:32 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:28:34 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:28:34 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/1Distribucion geografica/0Principal/a_1 Paises"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/1Distribucion geografica/0Principal/a_1 Paises' is clicked on
+
+2024-05-21 15:28:34 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/1Distribucion geografica/0Principal/a_1 Paises' is clicked on
+
+2024-05-21 15:28:34 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:28:36 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:28:36 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais' is clicked on
+
+2024-05-21 15:28:37 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais' is clicked on
+
+2024-05-21 15:28:37 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:28:39 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:28:39 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais(1)/input_Codigo Pais"), "gdfhsjs"): Text 'gdfhsjs' is set on object 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais(1)/input_Codigo Pais'
+
+2024-05-21 15:28:40 - [MESSAGE][PASSED] - Text 'gdfhsjs' is set on object 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais(1)/input_Codigo Pais'
+
+2024-05-21 15:28:40 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais(1)/input_Nombre Pais"), "Chile"): Text 'Chile' is set on object 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais(1)/input_Nombre Pais'
+
+2024-05-21 15:28:40 - [MESSAGE][PASSED] - Text 'Chile' is set on object 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais(1)/input_Nombre Pais'
+
+2024-05-21 15:28:40 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais(1)/btn_Guardar Pais"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais(1)/btn_Guardar Pais' is clicked on
+
+2024-05-21 15:28:41 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais(1)/btn_Guardar Pais' is clicked on
+
+2024-05-21 15:28:41 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:28:43 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:28:43 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 15:28:43 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 15:28:43 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\1 Distribucion Geografica\\1 Paises\\20240521_152354\\1716323323296.png]]
+
+2024-05-21 15:28:43 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R09" time="29.735" classname="Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R09" status="PASSED">
+         <system-out><![CDATA[2024-05-21 15:28:43 - [TEST_CASE][PASSED] - Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R09: Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R09
+
+2024-05-21 15:28:44 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:28:44 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 15:28:44 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:28:44 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 15:28:44 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 15:28:44 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 15:28:47 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:28:47 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 15:28:47 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 15:28:47 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:28:49 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:28:49 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:28:50 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:28:50 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:28:52 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:28:52 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:28:53 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:28:53 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:28:55 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:28:55 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:28:56 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:28:56 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 15:28:59 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 15:28:59 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:28:59 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:28:59 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:28:59 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:29:01 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:29:01 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_1 Distribucion geografica")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_1 Distribucion geografica' is clicked on
+
+2024-05-21 15:29:02 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_1 Distribucion geografica' is clicked on
+
+2024-05-21 15:29:02 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:29:04 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:29:04 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/1Distribucion geografica/0Principal/a_1 Paises"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/1Distribucion geografica/0Principal/a_1 Paises' is clicked on
+
+2024-05-21 15:29:04 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/1Distribucion geografica/0Principal/a_1 Paises' is clicked on
+
+2024-05-21 15:29:04 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:29:06 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:29:06 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais' is clicked on
+
+2024-05-21 15:29:07 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais' is clicked on
+
+2024-05-21 15:29:07 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:29:09 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:29:09 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais(1)/input_Codigo Pais"), "2"): Text '2' is set on object 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais(1)/input_Codigo Pais'
+
+2024-05-21 15:29:09 - [MESSAGE][PASSED] - Text '2' is set on object 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais(1)/input_Codigo Pais'
+
+2024-05-21 15:29:09 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais(1)/input_Nombre Pais"), "000??Chile?LJ?"): Text '000??Chile?LJ?' is set on object 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais(1)/input_Nombre Pais'
+
+2024-05-21 15:29:10 - [MESSAGE][PASSED] - Text '000??Chile?LJ?' is set on object 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais(1)/input_Nombre Pais'
+
+2024-05-21 15:29:10 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais(1)/btn_Guardar Pais"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais(1)/btn_Guardar Pais' is clicked on
+
+2024-05-21 15:29:11 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais(1)/btn_Guardar Pais' is clicked on
+
+2024-05-21 15:29:11 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:29:13 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:29:13 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 15:29:13 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 15:29:13 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\1 Distribucion Geografica\\1 Paises\\20240521_152354\\1716323353055.png]]
+
+2024-05-21 15:29:13 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R11" time="28.985" classname="Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R11" status="PASSED">
+         <system-out><![CDATA[2024-05-21 15:29:13 - [TEST_CASE][PASSED] - Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R11: Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R11
+
+2024-05-21 15:29:13 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:29:13 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 15:29:13 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:29:13 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 15:29:14 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 15:29:14 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 15:29:16 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:29:16 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 15:29:17 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 15:29:17 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:29:19 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:29:19 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:29:20 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:29:20 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:29:22 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:29:22 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:29:23 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:29:23 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:29:25 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:29:25 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:29:25 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:29:25 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 15:29:28 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 15:29:28 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:29:28 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:29:29 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:29:29 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:29:31 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:29:31 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_1 Distribucion geografica")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_1 Distribucion geografica' is clicked on
+
+2024-05-21 15:29:31 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_1 Distribucion geografica' is clicked on
+
+2024-05-21 15:29:31 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:29:33 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:29:33 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/1Distribucion geografica/0Principal/a_1 Paises"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/1Distribucion geografica/0Principal/a_1 Paises' is clicked on
+
+2024-05-21 15:29:34 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/1Distribucion geografica/0Principal/a_1 Paises' is clicked on
+
+2024-05-21 15:29:34 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:29:36 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:29:36 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais' is clicked on
+
+2024-05-21 15:29:36 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais' is clicked on
+
+2024-05-21 15:29:36 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:29:38 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:29:38 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais(1)/btn_Volver")): Object: 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais(1)/btn_Volver' is clicked on
+
+2024-05-21 15:29:39 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/0 btn_NuevoPais(1)/btn_Volver' is clicked on
+
+2024-05-21 15:29:39 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:29:41 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:29:41 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/1Distribucion geografica/1Paises/input_Nombre Pais"), 2): Object 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/input_Nombre Pais' is present
+
+2024-05-21 15:29:41 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/input_Nombre Pais' is present
+
+2024-05-21 15:29:41 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/1Distribucion geografica/1Paises/input_Codigo Pais"), 2): Object 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/input_Codigo Pais' is present
+
+2024-05-21 15:29:42 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/input_Codigo Pais' is present
+
+2024-05-21 15:29:42 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 15:29:42 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 15:29:42 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\1 Distribucion Geografica\\1 Paises\\20240521_152354\\1716323382019.png]]
+
+2024-05-21 15:29:42 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R13" time="26.045" classname="Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R13" status="PASSED">
+         <system-out><![CDATA[2024-05-21 15:29:42 - [TEST_CASE][PASSED] - Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R13: Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R13
+
+2024-05-21 15:29:42 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:29:43 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 15:29:43 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:29:43 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 15:29:43 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 15:29:43 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 15:29:46 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:29:46 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 15:29:46 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 15:29:46 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:29:48 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:29:48 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:29:49 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:29:49 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:29:51 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:29:51 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:29:52 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:29:52 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:29:54 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:29:54 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:29:54 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:29:54 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 15:29:57 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 15:29:57 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:29:57 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:29:58 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:29:58 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:30:00 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:30:00 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_1 Distribucion geografica")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_1 Distribucion geografica' is clicked on
+
+2024-05-21 15:30:00 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_1 Distribucion geografica' is clicked on
+
+2024-05-21 15:30:00 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:30:02 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:30:02 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/1Distribucion geografica/0Principal/a_1 Paises"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/1Distribucion geografica/0Principal/a_1 Paises' is clicked on
+
+2024-05-21 15:30:03 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/1Distribucion geografica/0Principal/a_1 Paises' is clicked on
+
+2024-05-21 15:30:03 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:30:05 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:30:05 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/1Distribucion geografica/1Paises/a_2 Prueba_Borrar"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/a_2 Prueba_Borrar' is clicked on
+
+2024-05-21 15:30:05 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/1Distribucion geografica/1Paises/a_2 Prueba_Borrar' is clicked on
+
+2024-05-21 15:30:05 - [TEST_STEP][PASSED] - acceptAlert(): Alert accepted
+
+2024-05-21 15:30:06 - [MESSAGE][PASSED] - Alert accepted
+
+2024-05-21 15:30:06 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:30:08 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:30:08 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 15:30:08 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 15:30:08 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\1 Distribucion Geografica\\1 Paises\\20240521_152354\\1716323408026.png]]
+
+2024-05-21 15:30:08 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2024-05-21 15:24:46 - [TEST_SUITE][PASSED] - 1 Paises: Test Cases/Configuracion/1 Distribucion Geografica/1 Paises/R13]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

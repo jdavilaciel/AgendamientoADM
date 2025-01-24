@@ -1,0 +1,1427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="2 Politica de datos" time="336.496" tests="10" failures="1" errors="0">
+   <testsuite name="2 Politica de datos" tests="10" failures="1" errors="0" time="336.496" skipped="0" timestamp="2024-05-21 16:51:31" hostname="jdavila - PCPruebas101.ciel.cielingenieria.com" id="Test Suites/1 Configuracion/5 Clientes/2 Politica de datos">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\2 Politica de datos\\20240521_152432"/>
+         <property name="logFiles" value="C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\2 Politica de datos\\20240521_152432\\execution0.log"/>
+         <property name="attachments" value="C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\2 Politica de datos\\20240521_152432\\1716328316796.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\2 Politica de datos\\20240521_152432\\1716328340117.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\2 Politica de datos\\20240521_152432\\1716328345200.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\2 Politica de datos\\20240521_152432\\1716328368377.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\2 Politica de datos\\20240521_152432\\1716328373392.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\2 Politica de datos\\20240521_152432\\1716328397183.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\2 Politica de datos\\20240521_152432\\1716328402274.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\2 Politica de datos\\20240521_152432\\1716328431840.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\2 Politica de datos\\20240521_152432\\1716328463832.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\2 Politica de datos\\20240521_152432\\1716328467192.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\2 Politica de datos\\20240521_152432\\1716328498733.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\2 Politica de datos\\20240521_152432\\1716328501931.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\2 Politica de datos\\20240521_152432\\1716328529569.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\2 Politica de datos\\20240521_152432\\1716328532473.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\2 Politica de datos\\20240521_152432\\1716328560320.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\2 Politica de datos\\20240521_152432\\1716328563308.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\2 Politica de datos\\20240521_152432\\1716328566273.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\2 Politica de datos\\20240521_152432\\1716328593715.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\2 Politica de datos\\20240521_152432\\1716328627393.png"/>
+         <property name="hostName" value="jdavila - PCPruebas101.ciel.cielingenieria.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.9.208"/>
+         <property name="browser" value="Chrome 124.0.0.0"/>
+         <property name="hostAddress" value="192.168.91.13"/>
+         <property name="sessionId" value="e360888a86423070496e2e02cce14560"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Configuracion/5 Clientes/2 Politica de Tratamiento de datos/R204" time="26.187" classname="Test Cases/Configuracion/5 Clientes/2 Politica de Tratamiento de datos/R204" status="PASSED">
+         <system-out><![CDATA[2024-05-21 16:51:31 - [TEST_CASE][PASSED] - Test Cases/Configuracion/5 Clientes/2 Politica de Tratamiento de datos/R204: Test Cases/Configuracion/5 Clientes/2 Politica de Tratamiento de datos/R204
+
+2024-05-21 16:51:31 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 16:51:31 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 16:51:31 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 16:51:32 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 16:51:32 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 16:51:35 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 16:51:35 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 16:51:35 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 16:51:35 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:51:37 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:51:37 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 16:51:38 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 16:51:38 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:51:40 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:51:40 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 16:51:41 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 16:51:41 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:51:43 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:51:43 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 16:51:44 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 16:51:44 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 16:51:47 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 16:51:47 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 16:51:47 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 16:51:47 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 16:51:47 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:51:49 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:51:49 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_5 Clientes")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_5 Clientes' is clicked on
+
+2024-05-21 16:51:50 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_5 Clientes' is clicked on
+
+2024-05-21 16:51:50 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:51:52 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:51:52 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/5Clientes/0Principal/a_2 Politica de tratamiento de datos")): Object: 'Object Repository/ADM/1Configuracion/5Clientes/0Principal/a_2 Politica de tratamiento de datos' is clicked on
+
+2024-05-21 16:51:53 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/5Clientes/0Principal/a_2 Politica de tratamiento de datos' is clicked on
+
+2024-05-21 16:51:53 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:51:55 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:51:55 - [TEST_STEP][PASSED] - comment("Verificar elementos"): Verificar elementos
+
+2024-05-21 16:51:55 - [MESSAGE][INFO] - Verificar elementos
+
+2024-05-21 16:51:55 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/5Clientes/2Politica de Datos/Poltica de tratamiento de datos personales/label_Ninguno"), 2): Object 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Poltica de tratamiento de datos personales/label_Ninguno' is present
+
+2024-05-21 16:51:55 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Poltica de tratamiento de datos personales/label_Ninguno' is present
+
+2024-05-21 16:51:55 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/5Clientes/2Politica de Datos/Poltica de tratamiento de datos personales/label_General"), 2): Object 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Poltica de tratamiento de datos personales/label_General' is present
+
+2024-05-21 16:51:55 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Poltica de tratamiento de datos personales/label_General' is present
+
+2024-05-21 16:51:55 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/5Clientes/2Politica de Datos/Poltica de tratamiento de datos personales/label_Por oficina"), 2): Object 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Poltica de tratamiento de datos personales/label_Por oficina' is present
+
+2024-05-21 16:51:56 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Poltica de tratamiento de datos personales/label_Por oficina' is present
+
+2024-05-21 16:51:56 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/btn_Crear Politica"), 2): Object 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/btn_Crear Politica' is present
+
+2024-05-21 16:51:56 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/btn_Crear Politica' is present
+
+2024-05-21 16:51:56 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 16:51:57 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 16:51:57 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\2 Politica de datos\\20240521_152432\\1716328316796.png]]
+
+2024-05-21 16:51:57 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/5 Clientes/2 Politica de Tratamiento de datos/R205" time="28.188" classname="Test Cases/Configuracion/5 Clientes/2 Politica de Tratamiento de datos/R205" status="PASSED">
+         <system-out><![CDATA[2024-05-21 16:51:57 - [TEST_CASE][PASSED] - Test Cases/Configuracion/5 Clientes/2 Politica de Tratamiento de datos/R205: Test Cases/Configuracion/5 Clientes/2 Politica de Tratamiento de datos/R205
+
+2024-05-21 16:51:57 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 16:51:57 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 16:51:57 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 16:51:57 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 16:51:58 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 16:51:58 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 16:52:00 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 16:52:00 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 16:52:01 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 16:52:01 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:52:03 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:52:03 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 16:52:04 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 16:52:04 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:52:06 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:52:06 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 16:52:07 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 16:52:07 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:52:09 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:52:09 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 16:52:09 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 16:52:09 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 16:52:12 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 16:52:12 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 16:52:12 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 16:52:13 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 16:52:13 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:52:15 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:52:15 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_5 Clientes")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_5 Clientes' is clicked on
+
+2024-05-21 16:52:15 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_5 Clientes' is clicked on
+
+2024-05-21 16:52:15 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:52:17 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:52:17 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/5Clientes/0Principal/a_2 Politica de tratamiento de datos")): Object: 'Object Repository/ADM/1Configuracion/5Clientes/0Principal/a_2 Politica de tratamiento de datos' is clicked on
+
+2024-05-21 16:52:18 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/5Clientes/0Principal/a_2 Politica de tratamiento de datos' is clicked on
+
+2024-05-21 16:52:18 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:52:20 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:52:20 - [TEST_STEP][PASSED] - comment("Boton Ninguno"): Boton Ninguno
+
+2024-05-21 16:52:20 - [MESSAGE][INFO] - Boton Ninguno
+
+2024-05-21 16:52:20 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 16:52:20 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 16:52:20 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\2 Politica de datos\\20240521_152432\\1716328340117.png]]
+
+2024-05-21 16:52:20 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:52:22 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:52:22 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/5Clientes/2Politica de Datos/Poltica de tratamiento de datos personales/label_Ninguno"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Poltica de tratamiento de datos personales/label_Ninguno' is clicked on
+
+2024-05-21 16:52:23 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Poltica de tratamiento de datos personales/label_Ninguno' is clicked on
+
+2024-05-21 16:52:23 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:52:25 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:52:25 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 16:52:25 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 16:52:25 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\2 Politica de datos\\20240521_152432\\1716328345200.png]]
+
+2024-05-21 16:52:25 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/5 Clientes/2 Politica de Tratamiento de datos/R206" time="28.258" classname="Test Cases/Configuracion/5 Clientes/2 Politica de Tratamiento de datos/R206" status="PASSED">
+         <system-out><![CDATA[2024-05-21 16:52:25 - [TEST_CASE][PASSED] - Test Cases/Configuracion/5 Clientes/2 Politica de Tratamiento de datos/R206: Test Cases/Configuracion/5 Clientes/2 Politica de Tratamiento de datos/R206
+
+2024-05-21 16:52:26 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 16:52:26 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 16:52:26 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 16:52:26 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 16:52:26 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 16:52:26 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 16:52:29 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 16:52:29 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 16:52:29 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 16:52:29 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:52:31 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:52:31 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 16:52:32 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 16:52:32 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:52:34 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:52:34 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 16:52:35 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 16:52:35 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:52:37 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:52:37 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 16:52:37 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 16:52:37 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 16:52:40 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 16:52:40 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 16:52:40 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 16:52:41 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 16:52:41 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:52:43 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:52:43 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_5 Clientes")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_5 Clientes' is clicked on
+
+2024-05-21 16:52:43 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_5 Clientes' is clicked on
+
+2024-05-21 16:52:43 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:52:45 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:52:45 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/5Clientes/0Principal/a_2 Politica de tratamiento de datos")): Object: 'Object Repository/ADM/1Configuracion/5Clientes/0Principal/a_2 Politica de tratamiento de datos' is clicked on
+
+2024-05-21 16:52:46 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/5Clientes/0Principal/a_2 Politica de tratamiento de datos' is clicked on
+
+2024-05-21 16:52:46 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:52:48 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:52:48 - [TEST_STEP][PASSED] - comment("Boton General"): Boton General
+
+2024-05-21 16:52:48 - [MESSAGE][INFO] - Boton General
+
+2024-05-21 16:52:48 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 16:52:48 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 16:52:48 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\2 Politica de datos\\20240521_152432\\1716328368377.png]]
+
+2024-05-21 16:52:48 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:52:50 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:52:50 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/5Clientes/2Politica de Datos/Poltica de tratamiento de datos personales/label_General"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Poltica de tratamiento de datos personales/label_General' is clicked on
+
+2024-05-21 16:52:51 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Poltica de tratamiento de datos personales/label_General' is clicked on
+
+2024-05-21 16:52:51 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:52:53 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:52:53 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 16:52:53 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 16:52:53 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\2 Politica de datos\\20240521_152432\\1716328373392.png]]
+
+2024-05-21 16:52:53 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/5 Clientes/2 Politica de Tratamiento de datos/R207" time="28.861" classname="Test Cases/Configuracion/5 Clientes/2 Politica de Tratamiento de datos/R207" status="PASSED">
+         <system-out><![CDATA[2024-05-21 16:52:53 - [TEST_CASE][PASSED] - Test Cases/Configuracion/5 Clientes/2 Politica de Tratamiento de datos/R207: Test Cases/Configuracion/5 Clientes/2 Politica de Tratamiento de datos/R207
+
+2024-05-21 16:52:54 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 16:52:54 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 16:52:54 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 16:52:54 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 16:52:55 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 16:52:55 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 16:52:57 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 16:52:57 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 16:52:57 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 16:52:57 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:52:59 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:52:59 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 16:53:00 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 16:53:00 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:53:02 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:53:02 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 16:53:03 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 16:53:03 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:53:05 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:53:05 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 16:53:05 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 16:53:05 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 16:53:08 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 16:53:08 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 16:53:08 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 16:53:09 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 16:53:09 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:53:11 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:53:11 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_5 Clientes")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_5 Clientes' is clicked on
+
+2024-05-21 16:53:12 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_5 Clientes' is clicked on
+
+2024-05-21 16:53:12 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:53:14 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:53:14 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/5Clientes/0Principal/a_2 Politica de tratamiento de datos")): Object: 'Object Repository/ADM/1Configuracion/5Clientes/0Principal/a_2 Politica de tratamiento de datos' is clicked on
+
+2024-05-21 16:53:15 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/5Clientes/0Principal/a_2 Politica de tratamiento de datos' is clicked on
+
+2024-05-21 16:53:15 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:53:17 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:53:17 - [TEST_STEP][PASSED] - comment("Boton por oficina"): Boton por oficina
+
+2024-05-21 16:53:17 - [MESSAGE][INFO] - Boton por oficina
+
+2024-05-21 16:53:17 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 16:53:17 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 16:53:17 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\2 Politica de datos\\20240521_152432\\1716328397183.png]]
+
+2024-05-21 16:53:17 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:53:19 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:53:19 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/5Clientes/2Politica de Datos/Poltica de tratamiento de datos personales/label_Por oficina"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Poltica de tratamiento de datos personales/label_Por oficina' is clicked on
+
+2024-05-21 16:53:20 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Poltica de tratamiento de datos personales/label_Por oficina' is clicked on
+
+2024-05-21 16:53:20 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:53:22 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:53:22 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 16:53:22 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 16:53:22 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\2 Politica de datos\\20240521_152432\\1716328402274.png]]
+
+2024-05-21 16:53:22 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/5 Clientes/2 Politica de Tratamiento de datos/R208" time="29.578" classname="Test Cases/Configuracion/5 Clientes/2 Politica de Tratamiento de datos/R208" status="PASSED">
+         <system-out><![CDATA[2024-05-21 16:53:22 - [TEST_CASE][PASSED] - Test Cases/Configuracion/5 Clientes/2 Politica de Tratamiento de datos/R208: Test Cases/Configuracion/5 Clientes/2 Politica de Tratamiento de datos/R208
+
+2024-05-21 16:53:23 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 16:53:23 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 16:53:23 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 16:53:23 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 16:53:23 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 16:53:23 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 16:53:26 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 16:53:26 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 16:53:26 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 16:53:26 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:53:28 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:53:28 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 16:53:29 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 16:53:29 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:53:31 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:53:31 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 16:53:32 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 16:53:32 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:53:34 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:53:34 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 16:53:34 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 16:53:34 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 16:53:37 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 16:53:37 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 16:53:37 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 16:53:38 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 16:53:38 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:53:40 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:53:40 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_5 Clientes")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_5 Clientes' is clicked on
+
+2024-05-21 16:53:40 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_5 Clientes' is clicked on
+
+2024-05-21 16:53:40 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:53:42 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:53:42 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/5Clientes/0Principal/a_2 Politica de tratamiento de datos")): Object: 'Object Repository/ADM/1Configuracion/5Clientes/0Principal/a_2 Politica de tratamiento de datos' is clicked on
+
+2024-05-21 16:53:43 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/5Clientes/0Principal/a_2 Politica de tratamiento de datos' is clicked on
+
+2024-05-21 16:53:43 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:53:45 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:53:45 - [TEST_STEP][PASSED] - comment("Boton Crear Redirige correctamente"): Boton Crear Redirige correctamente
+
+2024-05-21 16:53:45 - [MESSAGE][INFO] - Boton Crear Redirige correctamente
+
+2024-05-21 16:53:45 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:53:47 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:53:47 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/btn_Crear Politica"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/btn_Crear Politica' is clicked on
+
+2024-05-21 16:53:47 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/btn_Crear Politica' is clicked on
+
+2024-05-21 16:53:47 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:53:49 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:53:49 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/input_Texto aceptar poltica"), 2): Object 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/input_Texto aceptar poltica' is present
+
+2024-05-21 16:53:50 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/input_Texto aceptar poltica' is present
+
+2024-05-21 16:53:50 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/input_Nombre"), 2): Object 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/input_Nombre' is present
+
+2024-05-21 16:53:50 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/input_Nombre' is present
+
+2024-05-21 16:53:50 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/select_Tipo"), 2): Object 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/select_Tipo' is present
+
+2024-05-21 16:53:51 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/select_Tipo' is present
+
+2024-05-21 16:53:51 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/btn_Guardar"), 2): Object 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/btn_Guardar' is present
+
+2024-05-21 16:53:51 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/btn_Guardar' is present
+
+2024-05-21 16:53:51 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/btn_Volver"), 2): Object 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/btn_Volver' is present
+
+2024-05-21 16:53:51 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/btn_Volver' is present
+
+2024-05-21 16:53:51 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 16:53:52 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 16:53:52 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\2 Politica de datos\\20240521_152432\\1716328431840.png]]
+
+2024-05-21 16:53:52 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/5 Clientes/2 Politica de Tratamiento de datos/R209" time="35.419" classname="Test Cases/Configuracion/5 Clientes/2 Politica de Tratamiento de datos/R209" status="PASSED">
+         <system-out><![CDATA[2024-05-21 16:53:52 - [TEST_CASE][PASSED] - Test Cases/Configuracion/5 Clientes/2 Politica de Tratamiento de datos/R209: Test Cases/Configuracion/5 Clientes/2 Politica de Tratamiento de datos/R209
+
+2024-05-21 16:53:52 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 16:53:52 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 16:53:52 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 16:53:52 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 16:53:53 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 16:53:53 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 16:53:55 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 16:53:55 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 16:53:55 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 16:53:55 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:53:58 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:53:58 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 16:53:59 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 16:53:59 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:54:01 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:54:01 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 16:54:01 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 16:54:01 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:54:03 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:54:03 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 16:54:04 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 16:54:04 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 16:54:07 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 16:54:07 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 16:54:07 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 16:54:07 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 16:54:07 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:54:09 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:54:09 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_5 Clientes")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_5 Clientes' is clicked on
+
+2024-05-21 16:54:10 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_5 Clientes' is clicked on
+
+2024-05-21 16:54:10 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:54:12 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:54:12 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/5Clientes/0Principal/a_2 Politica de tratamiento de datos")): Object: 'Object Repository/ADM/1Configuracion/5Clientes/0Principal/a_2 Politica de tratamiento de datos' is clicked on
+
+2024-05-21 16:54:12 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/5Clientes/0Principal/a_2 Politica de tratamiento de datos' is clicked on
+
+2024-05-21 16:54:12 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:54:15 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:54:15 - [TEST_STEP][PASSED] - comment("Boton crear nombre con simbolos"): Boton crear nombre con simbolos
+
+2024-05-21 16:54:15 - [MESSAGE][INFO] - Boton crear nombre con simbolos
+
+2024-05-21 16:54:15 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:54:17 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:54:17 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/btn_Crear Politica"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/btn_Crear Politica' is clicked on
+
+2024-05-21 16:54:17 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/btn_Crear Politica' is clicked on
+
+2024-05-21 16:54:17 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:54:19 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:54:19 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/input_Texto aceptar poltica"), 2): Object 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/input_Texto aceptar poltica' is present
+
+2024-05-21 16:54:19 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/input_Texto aceptar poltica' is present
+
+2024-05-21 16:54:19 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/input_Nombre"), findTestData("5Clientes").getValue("Nombre", 6)): Text '#$%!1334455' is set on object 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/input_Nombre'
+
+2024-05-21 16:54:21 - [MESSAGE][PASSED] - Text '#$%!1334455' is set on object 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/input_Nombre'
+
+2024-05-21 16:54:21 - [TEST_STEP][PASSED] - selectOptionByLabel(findTestObject("ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/select_Tipo"), findTestData("5Clientes").getValue("Tipo", 1), false): All options with label 'PDF' are selected in object 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/select_Tipo' 
+
+2024-05-21 16:54:22 - [MESSAGE][PASSED] - All options with label 'PDF' are selected in object 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/select_Tipo' 
+
+2024-05-21 16:54:22 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/input_Texto aceptar poltica"), findTestData("5Clientes").getValue("Nombre", 6)): Text '#$%!1334455' is set on object 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/input_Texto aceptar poltica'
+
+2024-05-21 16:54:23 - [MESSAGE][PASSED] - Text '#$%!1334455' is set on object 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/input_Texto aceptar poltica'
+
+2024-05-21 16:54:23 - [TEST_STEP][PASSED] - uploadFile(findTestObject("ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/upload_ArchivoPDF"), UploadFile): File 'C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\PDF\\3.pdf' sent to object: 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/upload_ArchivoPDF'
+
+2024-05-21 16:54:23 - [MESSAGE][PASSED] - File 'C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\PDF\\3.pdf' sent to object: 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/upload_ArchivoPDF'
+
+2024-05-21 16:54:23 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 16:54:24 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 16:54:24 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\2 Politica de datos\\20240521_152432\\1716328463832.png]]
+
+2024-05-21 16:54:24 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:54:26 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:54:26 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/btn_Guardar"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/btn_Guardar' is clicked on
+
+2024-05-21 16:54:27 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/btn_Guardar' is clicked on
+
+2024-05-21 16:54:27 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 16:54:27 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 16:54:27 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\2 Politica de datos\\20240521_152432\\1716328467192.png]]
+
+2024-05-21 16:54:27 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/5 Clientes/2 Politica de Tratamiento de datos/R210" time="34.743" classname="Test Cases/Configuracion/5 Clientes/2 Politica de Tratamiento de datos/R210" status="PASSED">
+         <system-out><![CDATA[2024-05-21 16:54:27 - [TEST_CASE][PASSED] - Test Cases/Configuracion/5 Clientes/2 Politica de Tratamiento de datos/R210: Test Cases/Configuracion/5 Clientes/2 Politica de Tratamiento de datos/R210
+
+2024-05-21 16:54:28 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 16:54:28 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 16:54:28 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 16:54:28 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 16:54:29 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 16:54:29 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 16:54:31 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 16:54:31 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 16:54:31 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 16:54:31 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:54:33 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:54:33 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 16:54:34 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 16:54:34 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:54:36 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:54:36 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 16:54:37 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 16:54:37 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:54:39 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:54:39 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 16:54:39 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 16:54:39 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 16:54:42 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 16:54:42 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 16:54:42 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 16:54:43 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 16:54:43 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:54:45 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:54:45 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_5 Clientes")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_5 Clientes' is clicked on
+
+2024-05-21 16:54:46 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_5 Clientes' is clicked on
+
+2024-05-21 16:54:46 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:54:48 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:54:48 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/5Clientes/0Principal/a_2 Politica de tratamiento de datos")): Object: 'Object Repository/ADM/1Configuracion/5Clientes/0Principal/a_2 Politica de tratamiento de datos' is clicked on
+
+2024-05-21 16:54:48 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/5Clientes/0Principal/a_2 Politica de tratamiento de datos' is clicked on
+
+2024-05-21 16:54:48 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:54:50 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:54:50 - [TEST_STEP][PASSED] - comment("Boton Guardar"): Boton Guardar
+
+2024-05-21 16:54:50 - [MESSAGE][INFO] - Boton Guardar
+
+2024-05-21 16:54:50 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:54:52 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:54:52 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/btn_Crear Politica"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/btn_Crear Politica' is clicked on
+
+2024-05-21 16:54:53 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/btn_Crear Politica' is clicked on
+
+2024-05-21 16:54:53 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:54:55 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:54:55 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/input_Texto aceptar poltica"), 2): Object 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/input_Texto aceptar poltica' is present
+
+2024-05-21 16:54:55 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/input_Texto aceptar poltica' is present
+
+2024-05-21 16:54:55 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/input_Nombre"), findTestData("5Clientes").getValue("Nombre", 1)): Text 'Juan' is set on object 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/input_Nombre'
+
+2024-05-21 16:54:56 - [MESSAGE][PASSED] - Text 'Juan' is set on object 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/input_Nombre'
+
+2024-05-21 16:54:56 - [TEST_STEP][PASSED] - selectOptionByLabel(findTestObject("ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/select_Tipo"), findTestData("5Clientes").getValue("Tipo", 1), false): All options with label 'PDF' are selected in object 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/select_Tipo' 
+
+2024-05-21 16:54:57 - [MESSAGE][PASSED] - All options with label 'PDF' are selected in object 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/select_Tipo' 
+
+2024-05-21 16:54:57 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/input_Texto aceptar poltica"), "Politica"): Text 'Politica' is set on object 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/input_Texto aceptar poltica'
+
+2024-05-21 16:54:58 - [MESSAGE][PASSED] - Text 'Politica' is set on object 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/input_Texto aceptar poltica'
+
+2024-05-21 16:54:58 - [TEST_STEP][PASSED] - uploadFile(findTestObject("ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/upload_ArchivoPDF"), UploadFile): File 'C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\PDF\\3.pdf' sent to object: 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/upload_ArchivoPDF'
+
+2024-05-21 16:54:58 - [MESSAGE][PASSED] - File 'C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\PDF\\3.pdf' sent to object: 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/upload_ArchivoPDF'
+
+2024-05-21 16:54:58 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 16:54:59 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 16:54:59 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\2 Politica de datos\\20240521_152432\\1716328498733.png]]
+
+2024-05-21 16:54:59 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:55:01 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:55:01 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/btn_Guardar"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/btn_Guardar' is clicked on
+
+2024-05-21 16:55:01 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/btn_Guardar' is clicked on
+
+2024-05-21 16:55:01 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 16:55:02 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 16:55:02 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\2 Politica de datos\\20240521_152432\\1716328501931.png]]
+
+2024-05-21 16:55:02 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/5 Clientes/2 Politica de Tratamiento de datos/R211" time="30.484" classname="Test Cases/Configuracion/5 Clientes/2 Politica de Tratamiento de datos/R211" status="PASSED">
+         <system-out><![CDATA[2024-05-21 16:55:02 - [TEST_CASE][PASSED] - Test Cases/Configuracion/5 Clientes/2 Politica de Tratamiento de datos/R211: Test Cases/Configuracion/5 Clientes/2 Politica de Tratamiento de datos/R211
+
+2024-05-21 16:55:02 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 16:55:02 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 16:55:02 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 16:55:03 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 16:55:03 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 16:55:03 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 16:55:05 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 16:55:05 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 16:55:06 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 16:55:06 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:55:08 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:55:08 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 16:55:09 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 16:55:09 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:55:11 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:55:11 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 16:55:12 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 16:55:12 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:55:14 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:55:14 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 16:55:14 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 16:55:14 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 16:55:17 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 16:55:17 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 16:55:17 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 16:55:17 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 16:55:17 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:55:19 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:55:19 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_5 Clientes")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_5 Clientes' is clicked on
+
+2024-05-21 16:55:20 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_5 Clientes' is clicked on
+
+2024-05-21 16:55:20 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:55:22 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:55:22 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/5Clientes/0Principal/a_2 Politica de tratamiento de datos")): Object: 'Object Repository/ADM/1Configuracion/5Clientes/0Principal/a_2 Politica de tratamiento de datos' is clicked on
+
+2024-05-21 16:55:23 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/5Clientes/0Principal/a_2 Politica de tratamiento de datos' is clicked on
+
+2024-05-21 16:55:23 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:55:25 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:55:25 - [TEST_STEP][PASSED] - comment("Boton Volver"): Boton Volver
+
+2024-05-21 16:55:25 - [MESSAGE][INFO] - Boton Volver
+
+2024-05-21 16:55:25 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:55:27 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:55:27 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/btn_Crear Politica"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/btn_Crear Politica' is clicked on
+
+2024-05-21 16:55:27 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/btn_Crear Politica' is clicked on
+
+2024-05-21 16:55:27 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:55:29 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:55:29 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 16:55:29 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 16:55:30 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\2 Politica de datos\\20240521_152432\\1716328529569.png]]
+
+2024-05-21 16:55:30 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:55:32 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:55:32 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/btn_Volver"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/btn_Volver' is clicked on
+
+2024-05-21 16:55:32 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/btn_Volver' is clicked on
+
+2024-05-21 16:55:32 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 16:55:32 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 16:55:33 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\2 Politica de datos\\20240521_152432\\1716328532473.png]]
+
+2024-05-21 16:55:33 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/5 Clientes/2 Politica de Tratamiento de datos/R212" time="33.714" classname="Test Cases/Configuracion/5 Clientes/2 Politica de Tratamiento de datos/R212" status="PASSED">
+         <system-out><![CDATA[2024-05-21 16:55:33 - [TEST_CASE][PASSED] - Test Cases/Configuracion/5 Clientes/2 Politica de Tratamiento de datos/R212: Test Cases/Configuracion/5 Clientes/2 Politica de Tratamiento de datos/R212
+
+2024-05-21 16:55:33 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 16:55:33 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 16:55:33 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 16:55:33 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 16:55:34 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 16:55:34 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 16:55:36 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 16:55:36 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 16:55:36 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 16:55:36 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:55:38 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:55:38 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 16:55:39 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 16:55:39 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:55:41 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:55:41 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 16:55:42 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 16:55:42 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:55:44 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:55:44 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 16:55:45 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 16:55:45 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 16:55:48 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 16:55:48 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 16:55:48 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 16:55:48 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 16:55:48 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:55:50 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:55:50 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_5 Clientes")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_5 Clientes' is clicked on
+
+2024-05-21 16:55:51 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_5 Clientes' is clicked on
+
+2024-05-21 16:55:51 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:55:53 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:55:53 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/5Clientes/0Principal/a_2 Politica de tratamiento de datos")): Object: 'Object Repository/ADM/1Configuracion/5Clientes/0Principal/a_2 Politica de tratamiento de datos' is clicked on
+
+2024-05-21 16:55:53 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/5Clientes/0Principal/a_2 Politica de tratamiento de datos' is clicked on
+
+2024-05-21 16:55:53 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:55:55 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:55:55 - [TEST_STEP][PASSED] - comment("Verificar tabla datos"): Verificar tabla datos
+
+2024-05-21 16:55:55 - [MESSAGE][INFO] - Verificar tabla datos
+
+2024-05-21 16:55:55 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:55:57 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:55:57 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/btn_Crear Politica"), 0): Object 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/btn_Crear Politica' is present
+
+2024-05-21 16:55:57 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2024-05-21 16:55:58 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/btn_Crear Politica' is present
+
+2024-05-21 16:55:58 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:56:00 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:56:00 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 16:56:00 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 16:56:00 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\2 Politica de datos\\20240521_152432\\1716328560320.png]]
+
+2024-05-21 16:56:00 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/5Clientes/2Politica de Datos/Poltica de tratamiento de datos personales/label_General")): Object: 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Poltica de tratamiento de datos personales/label_General' is clicked on
+
+2024-05-21 16:56:01 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Poltica de tratamiento de datos personales/label_General' is clicked on
+
+2024-05-21 16:56:01 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:56:03 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:56:03 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 16:56:03 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 16:56:03 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\2 Politica de datos\\20240521_152432\\1716328563308.png]]
+
+2024-05-21 16:56:03 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/5Clientes/2Politica de Datos/Poltica de tratamiento de datos personales/label_Ninguno")): Object: 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Poltica de tratamiento de datos personales/label_Ninguno' is clicked on
+
+2024-05-21 16:56:04 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Poltica de tratamiento de datos personales/label_Ninguno' is clicked on
+
+2024-05-21 16:56:04 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:56:06 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:56:06 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 16:56:06 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 16:56:06 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\2 Politica de datos\\20240521_152432\\1716328566273.png]]
+
+2024-05-21 16:56:06 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/5 Clientes/2 Politica de Tratamiento de datos/R213" time="60.782" classname="Test Cases/Configuracion/5 Clientes/2 Politica de Tratamiento de datos/R213" status="FAILED">
+         <failure type="FAILED" message="Test Cases/Configuracion/5 Clientes/2 Politica de Tratamiento de datos/R213 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Tabla datos/a4_btnBorrar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at R213.run(R213:46)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323072357.run(TempTestSuite1716323072357.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Tabla datos/a4_btnBorrar' located by '//a[@id='ctl00_ContentPlaceHolder2_gvPoliticasDatos_ctl05_btnBorrar']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+"/>
+         <system-out><![CDATA[2024-05-21 16:56:06 - [TEST_CASE][FAILED] - Test Cases/Configuracion/5 Clientes/2 Politica de Tratamiento de datos/R213: Test Cases/Configuracion/5 Clientes/2 Politica de Tratamiento de datos/R213 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Tabla datos/a4_btnBorrar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at R213.run(R213:46)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323072357.run(TempTestSuite1716323072357.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Tabla datos/a4_btnBorrar' located by '//a[@id='ctl00_ContentPlaceHolder2_gvPoliticasDatos_ctl05_btnBorrar']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+
+
+2024-05-21 16:56:07 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 16:56:07 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 16:56:07 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 16:56:07 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 16:56:07 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 16:56:07 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 16:56:10 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 16:56:10 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 16:56:10 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 16:56:10 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:56:12 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:56:12 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 16:56:13 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 16:56:13 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:56:15 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:56:15 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 16:56:16 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 16:56:16 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:56:18 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:56:18 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 16:56:18 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 16:56:18 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 16:56:21 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 16:56:21 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 16:56:21 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 16:56:22 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 16:56:22 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:56:24 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:56:24 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_5 Clientes")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_5 Clientes' is clicked on
+
+2024-05-21 16:56:24 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_5 Clientes' is clicked on
+
+2024-05-21 16:56:24 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:56:26 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:56:26 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/5Clientes/0Principal/a_2 Politica de tratamiento de datos")): Object: 'Object Repository/ADM/1Configuracion/5Clientes/0Principal/a_2 Politica de tratamiento de datos' is clicked on
+
+2024-05-21 16:56:27 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/5Clientes/0Principal/a_2 Politica de tratamiento de datos' is clicked on
+
+2024-05-21 16:56:27 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:56:29 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:56:29 - [TEST_STEP][PASSED] - comment("Boton Eliminar"): Boton Eliminar
+
+2024-05-21 16:56:29 - [MESSAGE][INFO] - Boton Eliminar
+
+2024-05-21 16:56:29 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:56:31 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:56:31 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/5Clientes/2Politica de Datos/Poltica de tratamiento de datos personales/label_General")): Object: 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Poltica de tratamiento de datos personales/label_General' is clicked on
+
+2024-05-21 16:56:31 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Poltica de tratamiento de datos personales/label_General' is clicked on
+
+2024-05-21 16:56:31 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:56:33 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:56:33 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 16:56:34 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 16:56:34 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\2 Politica de datos\\20240521_152432\\1716328593715.png]]
+
+2024-05-21 16:56:34 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:56:36 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:56:36 - [TEST_STEP][FAILED] - click(findTestObject("ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Tabla datos/a4_btnBorrar")): Unable to click on object 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Tabla datos/a4_btnBorrar' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Tabla datos/a4_btnBorrar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at R213.run(R213:46)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323072357.run(TempTestSuite1716323072357.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Tabla datos/a4_btnBorrar' located by '//a[@id='ctl00_ContentPlaceHolder2_gvPoliticasDatos_ctl05_btnBorrar']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Script1707231343401.run(Script1707231343401.groovy:46)
+	... 13 more
+)
+
+2024-05-21 16:57:07 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //a[@id='ctl00_ContentPlaceHolder2_gvPoliticasDatos_ctl05_btnBorrar']'. Please recheck the objects properties to make sure the desired element is located. 
+
+2024-05-21 16:57:07 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Tabla datos/a4_btnBorrar' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Tabla datos/a4_btnBorrar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at R213.run(R213:46)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323072357.run(TempTestSuite1716323072357.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Tabla datos/a4_btnBorrar' located by '//a[@id='ctl00_ContentPlaceHolder2_gvPoliticasDatos_ctl05_btnBorrar']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Script1707231343401.run(Script1707231343401.groovy:46)
+	... 13 more
+)
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\2 Politica de datos\\20240521_152432\\1716328627393.png]]
+
+2024-05-21 16:57:07 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[2024-05-21 16:56:06 - [TEST_CASE][FAILED] - Test Cases/Configuracion/5 Clientes/2 Politica de Tratamiento de datos/R213: Test Cases/Configuracion/5 Clientes/2 Politica de Tratamiento de datos/R213 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Tabla datos/a4_btnBorrar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at R213.run(R213:46)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323072357.run(TempTestSuite1716323072357.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Tabla datos/a4_btnBorrar' located by '//a[@id='ctl00_ContentPlaceHolder2_gvPoliticasDatos_ctl05_btnBorrar']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2024-05-21 16:51:31 - [TEST_SUITE][FAILED] - 2 Politica de datos: Test Cases/Configuracion/5 Clientes/2 Politica de Tratamiento de datos/R213 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Tabla datos/a4_btnBorrar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at R213.run(R213:46)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323072357.run(TempTestSuite1716323072357.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Tabla datos/a4_btnBorrar' located by '//a[@id='ctl00_ContentPlaceHolder2_gvPoliticasDatos_ctl05_btnBorrar']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-out>
+      <system-err><![CDATA[2024-05-21 16:51:31 - [TEST_SUITE][FAILED] - 2 Politica de datos: Test Cases/Configuracion/5 Clientes/2 Politica de Tratamiento de datos/R213 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Tabla datos/a4_btnBorrar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at R213.run(R213:46)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323072357.run(TempTestSuite1716323072357.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Tabla datos/a4_btnBorrar' located by '//a[@id='ctl00_ContentPlaceHolder2_gvPoliticasDatos_ctl05_btnBorrar']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+   </testsuite>
+</testsuites>

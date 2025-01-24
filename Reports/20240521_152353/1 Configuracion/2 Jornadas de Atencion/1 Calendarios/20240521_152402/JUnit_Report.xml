@@ -1,0 +1,984 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="1 Calendarios" time="244.675" tests="9" failures="0" errors="0">
+   <testsuite name="1 Calendarios" tests="9" failures="0" errors="0" time="244.675" skipped="0" timestamp="2024-05-21 15:50:05" hostname="jdavila - PCPruebas101.ciel.cielingenieria.com" id="Test Suites/1 Configuracion/2 Jornadas de Atencion/1 Calendarios">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\1 Calendarios\\20240521_152402"/>
+         <property name="logFiles" value="C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\1 Calendarios\\20240521_152402\\execution0.log"/>
+         <property name="attachments" value="C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\1 Calendarios\\20240521_152402\\1716324631509.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\1 Calendarios\\20240521_152402\\1716324656038.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\1 Calendarios\\20240521_152402\\1716324682738.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\1 Calendarios\\20240521_152402\\1716324708631.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\1 Calendarios\\20240521_152402\\1716324716349.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\1 Calendarios\\20240521_152402\\1716324741725.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\1 Calendarios\\20240521_152402\\1716324769802.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\1 Calendarios\\20240521_152402\\1716324797914.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\1 Calendarios\\20240521_152402\\1716324800786.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\1 Calendarios\\20240521_152402\\1716324824148.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\1 Calendarios\\20240521_152402\\1716324849676.png"/>
+         <property name="hostName" value="jdavila - PCPruebas101.ciel.cielingenieria.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.9.208"/>
+         <property name="browser" value="Chrome 124.0.0.0"/>
+         <property name="hostAddress" value="192.168.91.13"/>
+         <property name="sessionId" value="2fb37fa6aef6425af96fa6699f6627a0"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Configuracion/2 Jornadas de Atencion/1 Calendarios/R70" time="26.35" classname="Test Cases/Configuracion/2 Jornadas de Atencion/1 Calendarios/R70" status="PASSED">
+         <system-out><![CDATA[2024-05-21 15:50:05 - [TEST_CASE][PASSED] - Test Cases/Configuracion/2 Jornadas de Atencion/1 Calendarios/R70: Test Cases/Configuracion/2 Jornadas de Atencion/1 Calendarios/R70
+
+2024-05-21 15:50:06 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:50:06 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 15:50:06 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:50:07 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 15:50:07 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 15:50:10 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:50:10 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 15:50:10 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 15:50:10 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:50:12 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:50:12 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:50:13 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:50:13 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:50:15 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:50:15 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:50:16 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:50:16 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:50:18 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:50:18 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:50:18 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:50:18 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 15:50:21 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 15:50:21 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:50:21 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:50:22 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:50:22 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:50:24 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:50:24 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_2 Jornadas de atencion")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_2 Jornadas de atencion' is clicked on
+
+2024-05-21 15:50:25 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_2 Jornadas de atencion' is clicked on
+
+2024-05-21 15:50:25 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:50:27 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:50:27 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/0Principal/a_2 Jornadas")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/0Principal/a_2 Jornadas' is clicked on
+
+2024-05-21 15:50:28 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/0Principal/a_2 Jornadas' is clicked on
+
+2024-05-21 15:50:28 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:50:30 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:50:30 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/input_N Funcionarios"), 2): Object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/input_N Funcionarios' is present
+
+2024-05-21 15:50:30 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/input_N Funcionarios' is present
+
+2024-05-21 15:50:30 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/textarea_Descripcion"), 2): Object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/textarea_Descripcion' is present
+
+2024-05-21 15:50:31 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/textarea_Descripcion' is present
+
+2024-05-21 15:50:31 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_Guardar"), 2): Object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_Guardar' is present
+
+2024-05-21 15:50:31 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_Guardar' is present
+
+2024-05-21 15:50:31 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 15:50:31 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 15:50:32 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\1 Calendarios\\20240521_152402\\1716324631509.png]]
+
+2024-05-21 15:50:32 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/2 Jornadas de Atencion/1 Calendarios/R71" time="24.418" classname="Test Cases/Configuracion/2 Jornadas de Atencion/1 Calendarios/R71" status="PASSED">
+         <system-out><![CDATA[2024-05-21 15:50:32 - [TEST_CASE][PASSED] - Test Cases/Configuracion/2 Jornadas de Atencion/1 Calendarios/R71: Test Cases/Configuracion/2 Jornadas de Atencion/1 Calendarios/R71
+
+2024-05-21 15:50:32 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:50:32 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 15:50:32 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:50:32 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 15:50:33 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 15:50:33 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 15:50:35 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:50:35 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 15:50:35 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 15:50:35 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:50:37 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:50:37 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:50:38 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:50:38 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:50:40 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:50:40 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:50:41 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:50:41 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:50:43 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:50:43 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:50:44 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:50:44 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 15:50:47 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 15:50:47 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:50:47 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:50:47 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:50:47 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:50:49 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:50:49 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_2 Jornadas de atencion")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_2 Jornadas de atencion' is clicked on
+
+2024-05-21 15:50:50 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_2 Jornadas de atencion' is clicked on
+
+2024-05-21 15:50:50 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:50:52 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:50:52 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/0Principal/a_1 Calendarios"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/0Principal/a_1 Calendarios' is clicked on
+
+2024-05-21 15:50:52 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/0Principal/a_1 Calendarios' is clicked on
+
+2024-05-21 15:50:52 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:50:54 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:50:54 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear"), 2): Object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear' is present
+
+2024-05-21 15:50:55 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear' is present
+
+2024-05-21 15:50:55 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/2Jornadas de atencion/1Calendarios/a_Calendario base_Borrar"), 2): Object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/a_Calendario base_Borrar' is present
+
+2024-05-21 15:50:55 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/a_Calendario base_Borrar' is present
+
+2024-05-21 15:50:55 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/2Jornadas de atencion/1Calendarios/td_Calendario base"), 2): Object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/td_Calendario base' is present
+
+2024-05-21 15:50:56 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/td_Calendario base' is present
+
+2024-05-21 15:50:56 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 15:50:56 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 15:50:56 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\1 Calendarios\\20240521_152402\\1716324656038.png]]
+
+2024-05-21 15:50:56 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/2 Jornadas de Atencion/1 Calendarios/R72" time="26.788" classname="Test Cases/Configuracion/2 Jornadas de Atencion/1 Calendarios/R72" status="PASSED">
+         <system-out><![CDATA[2024-05-21 15:50:56 - [TEST_CASE][PASSED] - Test Cases/Configuracion/2 Jornadas de Atencion/1 Calendarios/R72: Test Cases/Configuracion/2 Jornadas de Atencion/1 Calendarios/R72
+
+2024-05-21 15:50:56 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:50:56 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 15:50:56 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:50:56 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 15:50:57 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 15:50:57 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 15:50:59 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:50:59 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 15:51:00 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 15:51:00 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:51:02 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:51:02 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:51:03 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:51:03 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:51:05 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:51:05 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:51:06 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:51:06 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:51:08 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:51:08 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:51:08 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:51:08 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 15:51:11 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 15:51:11 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:51:11 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:51:11 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:51:11 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:51:13 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:51:13 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_2 Jornadas de atencion")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_2 Jornadas de atencion' is clicked on
+
+2024-05-21 15:51:14 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_2 Jornadas de atencion' is clicked on
+
+2024-05-21 15:51:14 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:51:16 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:51:16 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/0Principal/a_1 Calendarios"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/0Principal/a_1 Calendarios' is clicked on
+
+2024-05-21 15:51:17 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/0Principal/a_1 Calendarios' is clicked on
+
+2024-05-21 15:51:17 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:51:19 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:51:19 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear' is clicked on
+
+2024-05-21 15:51:19 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear' is clicked on
+
+2024-05-21 15:51:19 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:51:21 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:51:21 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/btn_Cancelar"), 2): Object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/btn_Cancelar' is present
+
+2024-05-21 15:51:21 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/btn_Cancelar' is present
+
+2024-05-21 15:51:21 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/btn_Nuevo"), 2): Object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/btn_Nuevo' is present
+
+2024-05-21 15:51:22 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/btn_Nuevo' is present
+
+2024-05-21 15:51:22 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/input_Nombre Calendario"), 2): Object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/input_Nombre Calendario' is present
+
+2024-05-21 15:51:22 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/input_Nombre Calendario' is present
+
+2024-05-21 15:51:22 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 15:51:23 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 15:51:23 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\1 Calendarios\\20240521_152402\\1716324682738.png]]
+
+2024-05-21 15:51:23 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/2 Jornadas de Atencion/1 Calendarios/R73" time="33.469" classname="Test Cases/Configuracion/2 Jornadas de Atencion/1 Calendarios/R73" status="PASSED">
+         <system-out><![CDATA[2024-05-21 15:51:23 - [TEST_CASE][PASSED] - Test Cases/Configuracion/2 Jornadas de Atencion/1 Calendarios/R73: Test Cases/Configuracion/2 Jornadas de Atencion/1 Calendarios/R73
+
+2024-05-21 15:51:23 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:51:23 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 15:51:23 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:51:23 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 15:51:24 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 15:51:24 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 15:51:26 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:51:26 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 15:51:27 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 15:51:27 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:51:29 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:51:29 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:51:30 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:51:30 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:51:32 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:51:32 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:51:33 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:51:33 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:51:35 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:51:35 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:51:35 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:51:35 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 15:51:38 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 15:51:38 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:51:38 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:51:39 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:51:39 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:51:41 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:51:41 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_2 Jornadas de atencion")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_2 Jornadas de atencion' is clicked on
+
+2024-05-21 15:51:41 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_2 Jornadas de atencion' is clicked on
+
+2024-05-21 15:51:41 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:51:43 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:51:43 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/0Principal/a_1 Calendarios"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/0Principal/a_1 Calendarios' is clicked on
+
+2024-05-21 15:51:44 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/0Principal/a_1 Calendarios' is clicked on
+
+2024-05-21 15:51:44 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:51:46 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:51:46 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear' is clicked on
+
+2024-05-21 15:51:46 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear' is clicked on
+
+2024-05-21 15:51:46 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:51:48 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:51:48 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 15:51:48 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 15:51:49 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\1 Calendarios\\20240521_152402\\1716324708631.png]]
+
+2024-05-21 15:51:49 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Domingo"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Domingo' is clicked on
+
+2024-05-21 15:51:49 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Domingo' is clicked on
+
+2024-05-21 15:51:49 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Domingo"), 2): Object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Domingo' is present
+
+2024-05-21 15:51:50 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Domingo' is present
+
+2024-05-21 15:51:50 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Lunes"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Lunes' is clicked on
+
+2024-05-21 15:51:50 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Lunes' is clicked on
+
+2024-05-21 15:51:50 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Lunes"), 2): Object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Lunes' is present
+
+2024-05-21 15:51:51 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Lunes' is present
+
+2024-05-21 15:51:51 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Martes"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Martes' is clicked on
+
+2024-05-21 15:51:51 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Martes' is clicked on
+
+2024-05-21 15:51:51 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Martes"), 2): Object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Martes' is present
+
+2024-05-21 15:51:52 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Martes' is present
+
+2024-05-21 15:51:52 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Miercoles"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Miercoles' is clicked on
+
+2024-05-21 15:51:52 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Miercoles' is clicked on
+
+2024-05-21 15:51:52 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Miercoles"), 2): Object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Miercoles' is present
+
+2024-05-21 15:51:53 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Miercoles' is present
+
+2024-05-21 15:51:53 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Jueves"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Jueves' is clicked on
+
+2024-05-21 15:51:53 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Jueves' is clicked on
+
+2024-05-21 15:51:53 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Jueves"), 2): Object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Jueves' is present
+
+2024-05-21 15:51:54 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Jueves' is present
+
+2024-05-21 15:51:54 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Viernes"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Viernes' is clicked on
+
+2024-05-21 15:51:54 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Viernes' is clicked on
+
+2024-05-21 15:51:54 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Viernes"), 2): Object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Viernes' is present
+
+2024-05-21 15:51:55 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Viernes' is present
+
+2024-05-21 15:51:55 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Sabado"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Sabado' is clicked on
+
+2024-05-21 15:51:55 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Sabado' is clicked on
+
+2024-05-21 15:51:55 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Sabado"), 2): Object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Sabado' is present
+
+2024-05-21 15:51:56 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Sabado' is present
+
+2024-05-21 15:51:56 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 15:51:56 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 15:51:56 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\1 Calendarios\\20240521_152402\\1716324716349.png]]
+
+2024-05-21 15:51:56 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/2 Jornadas de Atencion/1 Calendarios/R74" time="27.787" classname="Test Cases/Configuracion/2 Jornadas de Atencion/1 Calendarios/R74" status="PASSED">
+         <system-out><![CDATA[2024-05-21 15:51:56 - [TEST_CASE][PASSED] - Test Cases/Configuracion/2 Jornadas de Atencion/1 Calendarios/R74: Test Cases/Configuracion/2 Jornadas de Atencion/1 Calendarios/R74
+
+2024-05-21 15:51:57 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:51:57 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 15:51:57 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:51:57 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 15:51:57 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 15:51:57 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 15:52:00 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:52:00 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 15:52:00 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 15:52:00 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:52:02 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:52:02 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:52:03 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:52:03 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:52:05 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:52:05 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:52:06 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:52:06 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:52:08 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:52:08 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:52:08 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:52:08 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 15:52:11 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 15:52:11 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:52:11 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:52:12 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:52:12 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:52:14 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:52:14 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_2 Jornadas de atencion")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_2 Jornadas de atencion' is clicked on
+
+2024-05-21 15:52:14 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_2 Jornadas de atencion' is clicked on
+
+2024-05-21 15:52:14 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:52:16 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:52:16 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/0Principal/a_1 Calendarios"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/0Principal/a_1 Calendarios' is clicked on
+
+2024-05-21 15:52:17 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/0Principal/a_1 Calendarios' is clicked on
+
+2024-05-21 15:52:17 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:52:19 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:52:19 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear' is clicked on
+
+2024-05-21 15:52:19 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear' is clicked on
+
+2024-05-21 15:52:19 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:52:21 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:52:21 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 15:52:22 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 15:52:22 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\1 Calendarios\\20240521_152402\\1716324741725.png]]
+
+2024-05-21 15:52:22 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Domingo"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Domingo' is clicked on
+
+2024-05-21 15:52:22 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Domingo' is clicked on
+
+2024-05-21 15:52:22 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Domingo"), 2): Object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Domingo' is present
+
+2024-05-21 15:52:23 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Domingo' is present
+
+2024-05-21 15:52:23 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/input_Nombre Calendario"), "zzsfPrueba$%#&7658,.,-"): Text 'zzsfPrueba$%#&7658,.,-' is set on object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/input_Nombre Calendario'
+
+2024-05-21 15:52:24 - [MESSAGE][PASSED] - Text 'zzsfPrueba$%#&7658,.,-' is set on object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/input_Nombre Calendario'
+
+2024-05-21 15:52:24 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/btn_Nuevo")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/btn_Nuevo' is clicked on
+
+2024-05-21 15:52:24 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/btn_Nuevo' is clicked on
+
+2024-05-21 15:52:24 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/2 Jornadas de Atencion/1 Calendarios/R75" time="28.051" classname="Test Cases/Configuracion/2 Jornadas de Atencion/1 Calendarios/R75" status="PASSED">
+         <system-out><![CDATA[2024-05-21 15:52:24 - [TEST_CASE][PASSED] - Test Cases/Configuracion/2 Jornadas de Atencion/1 Calendarios/R75: Test Cases/Configuracion/2 Jornadas de Atencion/1 Calendarios/R75
+
+2024-05-21 15:52:24 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:52:24 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 15:52:24 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:52:24 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 15:52:25 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 15:52:25 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 15:52:28 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:52:28 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 15:52:28 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 15:52:28 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:52:30 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:52:30 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:52:31 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:52:31 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:52:33 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:52:33 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:52:34 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:52:34 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:52:36 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:52:36 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:52:36 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:52:36 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 15:52:39 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 15:52:39 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:52:39 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:52:40 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:52:40 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:52:42 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:52:42 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_2 Jornadas de atencion")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_2 Jornadas de atencion' is clicked on
+
+2024-05-21 15:52:42 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_2 Jornadas de atencion' is clicked on
+
+2024-05-21 15:52:42 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:52:44 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:52:44 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/0Principal/a_1 Calendarios"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/0Principal/a_1 Calendarios' is clicked on
+
+2024-05-21 15:52:45 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/0Principal/a_1 Calendarios' is clicked on
+
+2024-05-21 15:52:45 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:52:47 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:52:47 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear' is clicked on
+
+2024-05-21 15:52:47 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear' is clicked on
+
+2024-05-21 15:52:47 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:52:49 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:52:49 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 15:52:50 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 15:52:50 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\1 Calendarios\\20240521_152402\\1716324769802.png]]
+
+2024-05-21 15:52:50 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Domingo"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Domingo' is clicked on
+
+2024-05-21 15:52:50 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Domingo' is clicked on
+
+2024-05-21 15:52:50 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Domingo"), 2): Object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Domingo' is present
+
+2024-05-21 15:52:51 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/Dias No Laborables/label_Domingo' is present
+
+2024-05-21 15:52:51 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/input_Nombre Calendario"), "Prueba"): Text 'Prueba' is set on object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/input_Nombre Calendario'
+
+2024-05-21 15:52:52 - [MESSAGE][PASSED] - Text 'Prueba' is set on object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/input_Nombre Calendario'
+
+2024-05-21 15:52:52 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/btn_Nuevo")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/btn_Nuevo' is clicked on
+
+2024-05-21 15:52:52 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/btn_Nuevo' is clicked on
+
+2024-05-21 15:52:52 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/2 Jornadas de Atencion/1 Calendarios/R76" time="28.651" classname="Test Cases/Configuracion/2 Jornadas de Atencion/1 Calendarios/R76" status="PASSED">
+         <system-out><![CDATA[2024-05-21 15:52:52 - [TEST_CASE][PASSED] - Test Cases/Configuracion/2 Jornadas de Atencion/1 Calendarios/R76: Test Cases/Configuracion/2 Jornadas de Atencion/1 Calendarios/R76
+
+2024-05-21 15:52:52 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:52:53 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 15:52:53 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:52:53 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 15:52:53 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 15:52:53 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 15:52:56 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:52:56 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 15:52:56 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 15:52:56 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:52:58 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:52:58 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:52:59 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:52:59 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:53:01 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:53:01 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:53:02 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:53:02 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:53:04 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:53:04 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:53:04 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:53:04 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 15:53:07 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 15:53:07 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:53:07 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:53:08 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:53:08 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:53:10 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:53:10 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_2 Jornadas de atencion")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_2 Jornadas de atencion' is clicked on
+
+2024-05-21 15:53:10 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_2 Jornadas de atencion' is clicked on
+
+2024-05-21 15:53:10 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:53:12 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:53:12 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/0Principal/a_1 Calendarios"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/0Principal/a_1 Calendarios' is clicked on
+
+2024-05-21 15:53:13 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/0Principal/a_1 Calendarios' is clicked on
+
+2024-05-21 15:53:13 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:53:15 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:53:15 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear' is clicked on
+
+2024-05-21 15:53:15 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear' is clicked on
+
+2024-05-21 15:53:15 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:53:17 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:53:17 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 15:53:18 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 15:53:18 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\1 Calendarios\\20240521_152402\\1716324797914.png]]
+
+2024-05-21 15:53:18 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/btn_Cancelar"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/btn_Cancelar' is clicked on
+
+2024-05-21 15:53:18 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 btn_Crear(1)/btn_Cancelar' is clicked on
+
+2024-05-21 15:53:18 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:53:20 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:53:20 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 15:53:21 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 15:53:21 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\1 Calendarios\\20240521_152402\\1716324800786.png]]
+
+2024-05-21 15:53:21 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/2 Jornadas de Atencion/1 Calendarios/R77" time="23.332" classname="Test Cases/Configuracion/2 Jornadas de Atencion/1 Calendarios/R77" status="PASSED">
+         <system-out><![CDATA[2024-05-21 15:53:21 - [TEST_CASE][PASSED] - Test Cases/Configuracion/2 Jornadas de Atencion/1 Calendarios/R77: Test Cases/Configuracion/2 Jornadas de Atencion/1 Calendarios/R77
+
+2024-05-21 15:53:21 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:53:21 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 15:53:21 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:53:21 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 15:53:22 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 15:53:22 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 15:53:24 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:53:24 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 15:53:24 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 15:53:24 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:53:26 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:53:26 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:53:28 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:53:28 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:53:30 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:53:30 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:53:31 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:53:31 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:53:33 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:53:33 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:53:33 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:53:33 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 15:53:36 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 15:53:36 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:53:36 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:53:37 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:53:37 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:53:39 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:53:39 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_2 Jornadas de atencion")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_2 Jornadas de atencion' is clicked on
+
+2024-05-21 15:53:39 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_2 Jornadas de atencion' is clicked on
+
+2024-05-21 15:53:39 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:53:41 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:53:41 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/0Principal/a_1 Calendarios"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/0Principal/a_1 Calendarios' is clicked on
+
+2024-05-21 15:53:42 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/0Principal/a_1 Calendarios' is clicked on
+
+2024-05-21 15:53:42 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:53:44 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:53:44 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 15:53:44 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 15:53:44 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\1 Calendarios\\20240521_152402\\1716324824148.png]]
+
+2024-05-21 15:53:44 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/2 Jornadas de Atencion/1 Calendarios/R78" time="25.51" classname="Test Cases/Configuracion/2 Jornadas de Atencion/1 Calendarios/R78" status="PASSED">
+         <system-out><![CDATA[2024-05-21 15:53:44 - [TEST_CASE][PASSED] - Test Cases/Configuracion/2 Jornadas de Atencion/1 Calendarios/R78: Test Cases/Configuracion/2 Jornadas de Atencion/1 Calendarios/R78
+
+2024-05-21 15:53:45 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:53:45 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 15:53:45 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:53:45 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 15:53:45 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 15:53:45 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 15:53:48 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:53:48 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 15:53:48 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 15:53:48 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:53:50 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:53:50 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:53:51 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:53:51 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:53:53 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:53:53 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:53:54 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:53:54 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:53:56 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:53:56 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:53:56 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:53:56 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 15:53:59 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 15:53:59 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:53:59 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:54:00 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:54:00 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:54:02 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:54:02 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_2 Jornadas de atencion")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_2 Jornadas de atencion' is clicked on
+
+2024-05-21 15:54:02 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_2 Jornadas de atencion' is clicked on
+
+2024-05-21 15:54:02 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:54:04 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:54:04 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/0Principal/a_1 Calendarios"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/0Principal/a_1 Calendarios' is clicked on
+
+2024-05-21 15:54:05 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/0Principal/a_1 Calendarios' is clicked on
+
+2024-05-21 15:54:05 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:54:07 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:54:07 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 Editar/a_Prueba_Borrar"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 Editar/a_Prueba_Borrar' is clicked on
+
+2024-05-21 15:54:07 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/1Calendarios/0 Editar/a_Prueba_Borrar' is clicked on
+
+2024-05-21 15:54:07 - [TEST_STEP][PASSED] - acceptAlert(): Alert accepted
+
+2024-05-21 15:54:07 - [MESSAGE][PASSED] - Alert accepted
+
+2024-05-21 15:54:07 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:54:09 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:54:09 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 15:54:10 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 15:54:10 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\1 Calendarios\\20240521_152402\\1716324849676.png]]
+
+2024-05-21 15:54:10 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2024-05-21 15:50:05 - [TEST_SUITE][PASSED] - 1 Calendarios: Test Cases/Configuracion/2 Jornadas de Atencion/1 Calendarios/R78]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

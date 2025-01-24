@@ -1,0 +1,1454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="3 Campos Adicionales" time="272.784" tests="6" failures="4" errors="0">
+   <testsuite name="3 Campos Adicionales" tests="6" failures="4" errors="0" time="272.784" skipped="0" timestamp="2024-05-21 16:57:16" hostname="jdavila - PCPruebas101.ciel.cielingenieria.com" id="Test Suites/1 Configuracion/5 Clientes/3 Campos Adicionales">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\3 Campos Adicionales\\20240521_152434"/>
+         <property name="logFiles" value="C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\3 Campos Adicionales\\20240521_152434\\execution0.log"/>
+         <property name="attachments" value="C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\3 Campos Adicionales\\20240521_152434\\1716328664788.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\3 Campos Adicionales\\20240521_152434\\1716328729753.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\3 Campos Adicionales\\20240521_152434\\1716328755967.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\3 Campos Adicionales\\20240521_152434\\1716328756086.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\3 Campos Adicionales\\20240521_152434\\1716328781275.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\3 Campos Adicionales\\20240521_152434\\1716328786345.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\3 Campos Adicionales\\20240521_152434\\1716328819191.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\3 Campos Adicionales\\20240521_152434\\1716328852779.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\3 Campos Adicionales\\20240521_152434\\1716328875514.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\3 Campos Adicionales\\20240521_152434\\1716328909206.png"/>
+         <property name="hostName" value="jdavila - PCPruebas101.ciel.cielingenieria.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.9.208"/>
+         <property name="browser" value="Chrome 124.0.0.0"/>
+         <property name="hostAddress" value="192.168.91.13"/>
+         <property name="sessionId" value="608d1a07e8982cd30a2679c95fb474f0"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Configuracion/5 Clientes/3 Campos Adicionales/R216" time="28.569" classname="Test Cases/Configuracion/5 Clientes/3 Campos Adicionales/R216" status="PASSED">
+         <system-out><![CDATA[2024-05-21 16:57:16 - [TEST_CASE][PASSED] - Test Cases/Configuracion/5 Clientes/3 Campos Adicionales/R216: Test Cases/Configuracion/5 Clientes/3 Campos Adicionales/R216
+
+2024-05-21 16:57:17 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 16:57:17 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 16:57:17 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 16:57:18 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 16:57:18 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 16:57:21 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 16:57:21 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 16:57:21 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 16:57:21 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:57:23 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:57:23 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 16:57:24 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 16:57:24 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:57:26 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:57:26 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 16:57:27 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 16:57:27 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:57:29 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:57:29 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 16:57:29 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 16:57:29 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 16:57:32 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 16:57:32 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 16:57:32 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 16:57:33 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 16:57:33 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:57:35 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:57:35 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_5 Clientes")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_5 Clientes' is clicked on
+
+2024-05-21 16:57:35 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_5 Clientes' is clicked on
+
+2024-05-21 16:57:35 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:57:37 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:57:37 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/5Clientes/0Principal/a_3 Campos adicionales")): Object: 'Object Repository/ADM/1Configuracion/5Clientes/0Principal/a_3 Campos adicionales' is clicked on
+
+2024-05-21 16:57:38 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/5Clientes/0Principal/a_3 Campos adicionales' is clicked on
+
+2024-05-21 16:57:38 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:57:40 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:57:40 - [TEST_STEP][PASSED] - comment("Verificar elementos"): Verificar elementos
+
+2024-05-21 16:57:40 - [MESSAGE][INFO] - Verificar elementos
+
+2024-05-21 16:57:40 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/btn_Guardar"), 2): Object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/btn_Guardar' is present
+
+2024-05-21 16:57:40 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/btn_Guardar' is present
+
+2024-05-21 16:57:40 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/btn_Limpiar"), 2): Object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/btn_Limpiar' is present
+
+2024-05-21 16:57:41 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/btn_Limpiar' is present
+
+2024-05-21 16:57:41 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/input_Nombre"), 2): Object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/input_Nombre' is present
+
+2024-05-21 16:57:41 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/input_Nombre' is present
+
+2024-05-21 16:57:41 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/input_Valor por defecto"), 2): Object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/input_Valor por defecto' is present
+
+2024-05-21 16:57:42 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/input_Valor por defecto' is present
+
+2024-05-21 16:57:42 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/input_Codigo de homologacion Digiturno5"), 2): Object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/input_Codigo de homologacion Digiturno5' is present
+
+2024-05-21 16:57:42 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/input_Codigo de homologacion Digiturno5' is present
+
+2024-05-21 16:57:42 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/select_Tipo Destino Digiturno5"), 2): Object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/select_Tipo Destino Digiturno5' is present
+
+2024-05-21 16:57:42 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/select_Tipo Destino Digiturno5' is present
+
+2024-05-21 16:57:42 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/input_Orden"), 2): Object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/input_Orden' is present
+
+2024-05-21 16:57:43 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/input_Orden' is present
+
+2024-05-21 16:57:43 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/select_Tipo de Control"), 2): Object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/select_Tipo de Control' is present
+
+2024-05-21 16:57:43 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/select_Tipo de Control' is present
+
+2024-05-21 16:57:43 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/select_Tipo de dato"), 2): Object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/select_Tipo de dato' is present
+
+2024-05-21 16:57:44 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/select_Tipo de dato' is present
+
+2024-05-21 16:57:44 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/label_Habilitado"), 2): Object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/label_Habilitado' is present
+
+2024-05-21 16:57:44 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/label_Habilitado' is present
+
+2024-05-21 16:57:44 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/label_Obligatorio"), 2): Object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/label_Obligatorio' is present
+
+2024-05-21 16:57:44 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/label_Obligatorio' is present
+
+2024-05-21 16:57:44 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 16:57:45 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 16:57:45 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\3 Campos Adicionales\\20240521_152434\\1716328664788.png]]
+
+2024-05-21 16:57:45 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/5 Clientes/3 Campos Adicionales/R217" time="64.505" classname="Test Cases/Configuracion/5 Clientes/3 Campos Adicionales/R217" status="FAILED">
+         <failure type="FAILED" message="Test Cases/Configuracion/5 Clientes/3 Campos Adicionales/R217 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/Nombre Especialidad/label_Seleccionar Todos'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at R217.run(R217:63)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323074790.run(TempTestSuite1716323074790.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/Nombre Especialidad/label_Seleccionar Todos' located by '//table[@id='ctl00_ContentPlaceHolder2_grvEspecialidadesXCampo']/tbody/tr/th[3]/label' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+"/>
+         <system-out><![CDATA[2024-05-21 16:57:45 - [TEST_CASE][FAILED] - Test Cases/Configuracion/5 Clientes/3 Campos Adicionales/R217: Test Cases/Configuracion/5 Clientes/3 Campos Adicionales/R217 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/Nombre Especialidad/label_Seleccionar Todos'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at R217.run(R217:63)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323074790.run(TempTestSuite1716323074790.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/Nombre Especialidad/label_Seleccionar Todos' located by '//table[@id='ctl00_ContentPlaceHolder2_grvEspecialidadesXCampo']/tbody/tr/th[3]/label' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+
+
+2024-05-21 16:57:45 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 16:57:45 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 16:57:45 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 16:57:45 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 16:57:46 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 16:57:46 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 16:57:48 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 16:57:48 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 16:57:48 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 16:57:48 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:57:50 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:57:50 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 16:57:52 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 16:57:52 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:57:54 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:57:54 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 16:57:54 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 16:57:54 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:57:56 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:57:56 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 16:57:57 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 16:57:57 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 16:58:00 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 16:58:00 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 16:58:00 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 16:58:00 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 16:58:00 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:58:02 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:58:02 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_5 Clientes")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_5 Clientes' is clicked on
+
+2024-05-21 16:58:03 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_5 Clientes' is clicked on
+
+2024-05-21 16:58:03 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:58:05 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:58:05 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/5Clientes/0Principal/a_3 Campos adicionales")): Object: 'Object Repository/ADM/1Configuracion/5Clientes/0Principal/a_3 Campos adicionales' is clicked on
+
+2024-05-21 16:58:06 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/5Clientes/0Principal/a_3 Campos adicionales' is clicked on
+
+2024-05-21 16:58:06 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:58:08 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:58:08 - [TEST_STEP][PASSED] - comment("agregar dos campos adicionales"): agregar dos campos adicionales
+
+2024-05-21 16:58:08 - [MESSAGE][INFO] - agregar dos campos adicionales
+
+2024-05-21 16:58:08 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/input_Nombre"), findTestData("6CamposAdicionales").getValue("Nombre", 1)): Text 'Correo' is set on object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/input_Nombre'
+
+2024-05-21 16:58:09 - [MESSAGE][PASSED] - Text 'Correo' is set on object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/input_Nombre'
+
+2024-05-21 16:58:09 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/input_Valor por defecto"), findTestData("6CamposAdicionales").getValue("Valor por defecto", 1)): Text 'pruebas@gmail.com' is set on object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/input_Valor por defecto'
+
+2024-05-21 16:58:10 - [MESSAGE][PASSED] - Text 'pruebas@gmail.com' is set on object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/input_Valor por defecto'
+
+2024-05-21 16:58:10 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/input_Expresion regular"), ""): Text '' is set on object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/input_Expresion regular'
+
+2024-05-21 16:58:11 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/input_Expresion regular'
+
+2024-05-21 16:58:11 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/input_Codigo de homologacion Digiturno5"), findTestData("6CamposAdicionales").getValue("Código de homologación Digiturno5", 1)): Text '1' is set on object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/input_Codigo de homologacion Digiturno5'
+
+2024-05-21 16:58:12 - [MESSAGE][PASSED] - Text '1' is set on object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/input_Codigo de homologacion Digiturno5'
+
+2024-05-21 16:58:12 - [TEST_STEP][PASSED] - selectOptionByLabel(findTestObject("ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/select_Tipo Destino Digiturno5"), findTestData("6CamposAdicionales").getValue("Tipo destino Digiturno5", 1), false): All options with label 'Todos' are selected in object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/select_Tipo Destino Digiturno5' 
+
+2024-05-21 16:58:13 - [MESSAGE][PASSED] - All options with label 'Todos' are selected in object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/select_Tipo Destino Digiturno5' 
+
+2024-05-21 16:58:13 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/input_Orden"), findTestData("6CamposAdicionales").getValue("Orden", 1)): Text '1' is set on object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/input_Orden'
+
+2024-05-21 16:58:14 - [MESSAGE][PASSED] - Text '1' is set on object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/input_Orden'
+
+2024-05-21 16:58:14 - [TEST_STEP][PASSED] - selectOptionByLabel(findTestObject("ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/select_Tipo de Control"), findTestData("6CamposAdicionales").getValue("Tipo de control", 1), false): All options with label 'CajaTexto' are selected in object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/select_Tipo de Control' 
+
+2024-05-21 16:58:15 - [MESSAGE][PASSED] - All options with label 'CajaTexto' are selected in object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/select_Tipo de Control' 
+
+2024-05-21 16:58:15 - [TEST_STEP][PASSED] - selectOptionByLabel(findTestObject("ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/select_Tipo de dato"), findTestData("6CamposAdicionales").getValue("Tipo de dato", 1), false): All options with label 'Texto' are selected in object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/select_Tipo de dato' 
+
+2024-05-21 16:58:16 - [MESSAGE][PASSED] - All options with label 'Texto' are selected in object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/select_Tipo de dato' 
+
+2024-05-21 16:58:16 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/label_Habilitado"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/label_Habilitado' is clicked on
+
+2024-05-21 16:58:16 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/label_Habilitado' is clicked on
+
+2024-05-21 16:58:16 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:58:18 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:58:18 - [TEST_STEP][FAILED] - click(findTestObject("ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/Nombre Especialidad/label_Seleccionar Todos")): Unable to click on object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/Nombre Especialidad/label_Seleccionar Todos' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/Nombre Especialidad/label_Seleccionar Todos'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at R217.run(R217:63)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323074790.run(TempTestSuite1716323074790.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/Nombre Especialidad/label_Seleccionar Todos' located by '//table[@id='ctl00_ContentPlaceHolder2_grvEspecialidadesXCampo']/tbody/tr/th[3]/label' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Script1707310211160.run(Script1707310211160.groovy:63)
+	... 13 more
+)
+
+2024-05-21 16:58:49 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //table[@id='ctl00_ContentPlaceHolder2_grvEspecialidadesXCampo']/tbody/tr/th[3]/label'. Please recheck the objects properties to make sure the desired element is located. 
+
+2024-05-21 16:58:49 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/Nombre Especialidad/label_Seleccionar Todos' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/Nombre Especialidad/label_Seleccionar Todos'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at R217.run(R217:63)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323074790.run(TempTestSuite1716323074790.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/Nombre Especialidad/label_Seleccionar Todos' located by '//table[@id='ctl00_ContentPlaceHolder2_grvEspecialidadesXCampo']/tbody/tr/th[3]/label' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Script1707310211160.run(Script1707310211160.groovy:63)
+	... 13 more
+)
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\3 Campos Adicionales\\20240521_152434\\1716328729753.png]]
+
+2024-05-21 16:58:49 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[2024-05-21 16:57:45 - [TEST_CASE][FAILED] - Test Cases/Configuracion/5 Clientes/3 Campos Adicionales/R217: Test Cases/Configuracion/5 Clientes/3 Campos Adicionales/R217 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/Nombre Especialidad/label_Seleccionar Todos'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at R217.run(R217:63)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323074790.run(TempTestSuite1716323074790.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/Nombre Especialidad/label_Seleccionar Todos' located by '//table[@id='ctl00_ContentPlaceHolder2_grvEspecialidadesXCampo']/tbody/tr/th[3]/label' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/5 Clientes/3 Campos Adicionales/R218" time="26.327" classname="Test Cases/Configuracion/5 Clientes/3 Campos Adicionales/R218" status="FAILED">
+         <failure type="FAILED" message="Test Cases/Configuracion/5 Clientes/3 Campos Adicionales/R218 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Lista de Campos adicionales/td1_Correo' is present
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.verifyElementPresent(VerifyElementPresentKeyword.groovy:92)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.execute(VerifyElementPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementPresent(WebUiBuiltInKeywords.groovy:1464)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementPresent$3.call(Unknown Source)
+	at R218.run(R218:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323074790.run(TempTestSuite1716323074790.groovy:35)
+Caused by: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Lista de Campos adicionales/td1_Correo' located by '//table[@id='ctl00_ContentPlaceHolder2_grvCamposAdicionales']/tbody/tr[2]/td[2]' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.doCall(VerifyElementPresentKeyword.groovy:85)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.call(VerifyElementPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+"/>
+         <system-out><![CDATA[2024-05-21 16:58:49 - [TEST_CASE][FAILED] - Test Cases/Configuracion/5 Clientes/3 Campos Adicionales/R218: Test Cases/Configuracion/5 Clientes/3 Campos Adicionales/R218 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Lista de Campos adicionales/td1_Correo' is present
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.verifyElementPresent(VerifyElementPresentKeyword.groovy:92)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.execute(VerifyElementPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementPresent(WebUiBuiltInKeywords.groovy:1464)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementPresent$3.call(Unknown Source)
+	at R218.run(R218:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323074790.run(TempTestSuite1716323074790.groovy:35)
+Caused by: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Lista de Campos adicionales/td1_Correo' located by '//table[@id='ctl00_ContentPlaceHolder2_grvCamposAdicionales']/tbody/tr[2]/td[2]' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.doCall(VerifyElementPresentKeyword.groovy:85)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.call(VerifyElementPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+
+
+2024-05-21 16:58:50 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 16:58:50 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 16:58:50 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 16:58:50 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 16:58:51 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 16:58:51 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 16:58:53 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 16:58:53 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 16:58:53 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 16:58:53 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:58:55 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:58:55 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 16:58:56 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 16:58:56 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:58:58 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:58:58 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 16:58:59 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 16:58:59 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:59:01 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:59:01 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 16:59:02 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 16:59:02 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 16:59:05 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 16:59:05 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 16:59:05 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 16:59:05 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 16:59:05 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:59:07 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:59:07 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_5 Clientes")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_5 Clientes' is clicked on
+
+2024-05-21 16:59:08 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_5 Clientes' is clicked on
+
+2024-05-21 16:59:08 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:59:10 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:59:10 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/5Clientes/0Principal/a_3 Campos adicionales")): Object: 'Object Repository/ADM/1Configuracion/5Clientes/0Principal/a_3 Campos adicionales' is clicked on
+
+2024-05-21 16:59:10 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/5Clientes/0Principal/a_3 Campos adicionales' is clicked on
+
+2024-05-21 16:59:10 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:59:12 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:59:12 - [TEST_STEP][PASSED] - comment("Verificar Los campos adicionales creados"): Verificar Los campos adicionales creados
+
+2024-05-21 16:59:12 - [MESSAGE][INFO] - Verificar Los campos adicionales creados
+
+2024-05-21 16:59:12 - [TEST_STEP][FAILED] - verifyElementPresent(findTestObject("ADM/1Configuracion/5Clientes/3Campos Adicionales/Lista de Campos adicionales/td1_Correo"), 2): Unable to verify object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Lista de Campos adicionales/td1_Correo' is present (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Lista de Campos adicionales/td1_Correo' is present
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.verifyElementPresent(VerifyElementPresentKeyword.groovy:92)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.execute(VerifyElementPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementPresent(WebUiBuiltInKeywords.groovy:1464)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementPresent$3.call(Unknown Source)
+	at R218.run(R218:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323074790.run(TempTestSuite1716323074790.groovy:35)
+Caused by: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Lista de Campos adicionales/td1_Correo' located by '//table[@id='ctl00_ContentPlaceHolder2_grvCamposAdicionales']/tbody/tr[2]/td[2]' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.doCall(VerifyElementPresentKeyword.groovy:85)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.call(VerifyElementPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+)
+
+2024-05-21 16:59:15 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //table[@id='ctl00_ContentPlaceHolder2_grvCamposAdicionales']/tbody/tr[2]/td[2]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2024-05-21 16:59:16 - [MESSAGE][FAILED] - com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Lista de Campos adicionales/td1_Correo' located by '//table[@id='ctl00_ContentPlaceHolder2_grvCamposAdicionales']/tbody/tr[2]/td[2]' not found (Root cause: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Lista de Campos adicionales/td1_Correo' located by '//table[@id='ctl00_ContentPlaceHolder2_grvCamposAdicionales']/tbody/tr[2]/td[2]' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.doCall(VerifyElementPresentKeyword.groovy:85)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.call(VerifyElementPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.verifyElementPresent(VerifyElementPresentKeyword.groovy:92)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.execute(VerifyElementPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementPresent(WebUiBuiltInKeywords.groovy:1464)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementPresent$3.call(Unknown Source)
+	at R218.run(R218:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323074790.run(TempTestSuite1716323074790.groovy:35)
+)
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\3 Campos Adicionales\\20240521_152434\\1716328755967.png]]
+
+2024-05-21 16:59:16 - [MESSAGE][FAILED] - Unable to verify object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Lista de Campos adicionales/td1_Correo' is present (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Lista de Campos adicionales/td1_Correo' is present
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.verifyElementPresent(VerifyElementPresentKeyword.groovy:92)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.execute(VerifyElementPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementPresent(WebUiBuiltInKeywords.groovy:1464)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementPresent$3.call(Unknown Source)
+	at R218.run(R218:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323074790.run(TempTestSuite1716323074790.groovy:35)
+Caused by: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Lista de Campos adicionales/td1_Correo' located by '//table[@id='ctl00_ContentPlaceHolder2_grvCamposAdicionales']/tbody/tr[2]/td[2]' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.doCall(VerifyElementPresentKeyword.groovy:85)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.call(VerifyElementPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+)
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\3 Campos Adicionales\\20240521_152434\\1716328756086.png]]
+
+2024-05-21 16:59:16 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[2024-05-21 16:58:49 - [TEST_CASE][FAILED] - Test Cases/Configuracion/5 Clientes/3 Campos Adicionales/R218: Test Cases/Configuracion/5 Clientes/3 Campos Adicionales/R218 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Lista de Campos adicionales/td1_Correo' is present
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.verifyElementPresent(VerifyElementPresentKeyword.groovy:92)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.execute(VerifyElementPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementPresent(WebUiBuiltInKeywords.groovy:1464)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementPresent$3.call(Unknown Source)
+	at R218.run(R218:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323074790.run(TempTestSuite1716323074790.groovy:35)
+Caused by: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Lista de Campos adicionales/td1_Correo' located by '//table[@id='ctl00_ContentPlaceHolder2_grvCamposAdicionales']/tbody/tr[2]/td[2]' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.doCall(VerifyElementPresentKeyword.groovy:85)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.call(VerifyElementPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/5 Clientes/3 Campos Adicionales/R219" time="30.671" classname="Test Cases/Configuracion/5 Clientes/3 Campos Adicionales/R219" status="PASSED">
+         <system-out><![CDATA[2024-05-21 16:59:16 - [TEST_CASE][PASSED] - Test Cases/Configuracion/5 Clientes/3 Campos Adicionales/R219: Test Cases/Configuracion/5 Clientes/3 Campos Adicionales/R219
+
+2024-05-21 16:59:16 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 16:59:16 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 16:59:16 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 16:59:16 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 16:59:17 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 16:59:17 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 16:59:19 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 16:59:19 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 16:59:19 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 16:59:19 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:59:21 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:59:21 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 16:59:22 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 16:59:22 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:59:24 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:59:24 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 16:59:25 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 16:59:25 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:59:27 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:59:27 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 16:59:28 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 16:59:28 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 16:59:31 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 16:59:31 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 16:59:31 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 16:59:31 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 16:59:31 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:59:33 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:59:33 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_5 Clientes")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_5 Clientes' is clicked on
+
+2024-05-21 16:59:34 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_5 Clientes' is clicked on
+
+2024-05-21 16:59:34 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:59:36 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:59:36 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/5Clientes/0Principal/a_3 Campos adicionales")): Object: 'Object Repository/ADM/1Configuracion/5Clientes/0Principal/a_3 Campos adicionales' is clicked on
+
+2024-05-21 16:59:36 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/5Clientes/0Principal/a_3 Campos adicionales' is clicked on
+
+2024-05-21 16:59:36 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:59:38 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:59:38 - [TEST_STEP][PASSED] - comment("Boton Limpiar"): Boton Limpiar
+
+2024-05-21 16:59:38 - [MESSAGE][INFO] - Boton Limpiar
+
+2024-05-21 16:59:38 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/input_Nombre"), "Prueba"): Text 'Prueba' is set on object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/input_Nombre'
+
+2024-05-21 16:59:39 - [MESSAGE][PASSED] - Text 'Prueba' is set on object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/input_Nombre'
+
+2024-05-21 16:59:39 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/input_Valor por defecto"), "Prueba"): Text 'Prueba' is set on object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/input_Valor por defecto'
+
+2024-05-21 16:59:40 - [MESSAGE][PASSED] - Text 'Prueba' is set on object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/input_Valor por defecto'
+
+2024-05-21 16:59:40 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/input_Expresion regular"), "Prueba"): Text 'Prueba' is set on object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/input_Expresion regular'
+
+2024-05-21 16:59:41 - [MESSAGE][PASSED] - Text 'Prueba' is set on object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/input_Expresion regular'
+
+2024-05-21 16:59:41 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 16:59:41 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 16:59:41 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\3 Campos Adicionales\\20240521_152434\\1716328781275.png]]
+
+2024-05-21 16:59:41 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:59:43 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:59:43 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/btn_Limpiar")): Object: 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/btn_Limpiar' is clicked on
+
+2024-05-21 16:59:44 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/btn_Limpiar' is clicked on
+
+2024-05-21 16:59:44 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:59:46 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:59:46 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 16:59:46 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 16:59:46 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\3 Campos Adicionales\\20240521_152434\\1716328786345.png]]
+
+2024-05-21 16:59:46 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/5 Clientes/3 Campos Adicionales/R220" time="66.032" classname="Test Cases/Configuracion/5 Clientes/3 Campos Adicionales/R220" status="FAILED">
+         <failure type="FAILED" message="Test Cases/Configuracion/5 Clientes/3 Campos Adicionales/R220 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/Nombre Especialidad/label_Seleccionar Todos'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at R220.run(R220:67)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323074790.run(TempTestSuite1716323074790.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/Nombre Especialidad/label_Seleccionar Todos' located by '//table[@id='ctl00_ContentPlaceHolder2_grvEspecialidadesXCampo']/tbody/tr/th[3]/label' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+"/>
+         <system-out><![CDATA[2024-05-21 16:59:46 - [TEST_CASE][FAILED] - Test Cases/Configuracion/5 Clientes/3 Campos Adicionales/R220: Test Cases/Configuracion/5 Clientes/3 Campos Adicionales/R220 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/Nombre Especialidad/label_Seleccionar Todos'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at R220.run(R220:67)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323074790.run(TempTestSuite1716323074790.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/Nombre Especialidad/label_Seleccionar Todos' located by '//table[@id='ctl00_ContentPlaceHolder2_grvEspecialidadesXCampo']/tbody/tr/th[3]/label' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+
+
+2024-05-21 16:59:47 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 16:59:47 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 16:59:47 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 16:59:47 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 16:59:48 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 16:59:48 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 16:59:50 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 16:59:50 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 16:59:50 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 16:59:50 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:59:52 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:59:52 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 16:59:53 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 16:59:53 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:59:55 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:59:55 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 16:59:56 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 16:59:56 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:59:58 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:59:58 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 16:59:58 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 16:59:58 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 17:00:01 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 17:00:01 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 17:00:01 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 17:00:02 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 17:00:02 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:00:04 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:00:04 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_5 Clientes")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_5 Clientes' is clicked on
+
+2024-05-21 17:00:05 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_5 Clientes' is clicked on
+
+2024-05-21 17:00:05 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:00:07 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:00:07 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/5Clientes/0Principal/a_3 Campos adicionales")): Object: 'Object Repository/ADM/1Configuracion/5Clientes/0Principal/a_3 Campos adicionales' is clicked on
+
+2024-05-21 17:00:07 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/5Clientes/0Principal/a_3 Campos adicionales' is clicked on
+
+2024-05-21 17:00:07 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:00:09 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:00:09 - [TEST_STEP][PASSED] - comment("Boton Limpiar"): Boton Limpiar
+
+2024-05-21 17:00:09 - [MESSAGE][INFO] - Boton Limpiar
+
+2024-05-21 17:00:09 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/input_Nombre"), findTestData("6CamposAdicionales").getValue("Nombre", 3)): Text 'Prueba' is set on object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/input_Nombre'
+
+2024-05-21 17:00:10 - [MESSAGE][PASSED] - Text 'Prueba' is set on object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/input_Nombre'
+
+2024-05-21 17:00:10 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/input_Valor por defecto"), findTestData("6CamposAdicionales").getValue("Valor por defecto", 3)): Text 'prueba' is set on object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/input_Valor por defecto'
+
+2024-05-21 17:00:11 - [MESSAGE][PASSED] - Text 'prueba' is set on object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/input_Valor por defecto'
+
+2024-05-21 17:00:11 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/input_Expresion regular"), ""): Text '' is set on object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/input_Expresion regular'
+
+2024-05-21 17:00:12 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/input_Expresion regular'
+
+2024-05-21 17:00:12 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/input_Codigo de homologacion Digiturno5"), findTestData("6CamposAdicionales").getValue("Código de homologación Digiturno5", 3)): Text '3' is set on object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/input_Codigo de homologacion Digiturno5'
+
+2024-05-21 17:00:13 - [MESSAGE][PASSED] - Text '3' is set on object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/input_Codigo de homologacion Digiturno5'
+
+2024-05-21 17:00:13 - [TEST_STEP][PASSED] - selectOptionByLabel(findTestObject("ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/select_Tipo Destino Digiturno5"), findTestData("6CamposAdicionales").getValue("Tipo destino Digiturno5", 3), false): All options with label 'Cliente' are selected in object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/select_Tipo Destino Digiturno5' 
+
+2024-05-21 17:00:14 - [MESSAGE][PASSED] - All options with label 'Cliente' are selected in object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/select_Tipo Destino Digiturno5' 
+
+2024-05-21 17:00:14 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/input_Orden"), findTestData("6CamposAdicionales").getValue("Orden", 3)): Text '3' is set on object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/input_Orden'
+
+2024-05-21 17:00:14 - [MESSAGE][PASSED] - Text '3' is set on object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/input_Orden'
+
+2024-05-21 17:00:14 - [TEST_STEP][PASSED] - selectOptionByLabel(findTestObject("ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/select_Tipo de Control"), findTestData("6CamposAdicionales").getValue("Tipo de control", 1), false): All options with label 'CajaTexto' are selected in object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/select_Tipo de Control' 
+
+2024-05-21 17:00:15 - [MESSAGE][PASSED] - All options with label 'CajaTexto' are selected in object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/select_Tipo de Control' 
+
+2024-05-21 17:00:15 - [TEST_STEP][PASSED] - selectOptionByLabel(findTestObject("ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/select_Tipo de dato"), findTestData("6CamposAdicionales").getValue("Tipo de dato", 1), false): All options with label 'Texto' are selected in object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/select_Tipo de dato' 
+
+2024-05-21 17:00:16 - [MESSAGE][PASSED] - All options with label 'Texto' are selected in object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/select_Tipo de dato' 
+
+2024-05-21 17:00:16 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/label_Habilitado"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/label_Habilitado' is clicked on
+
+2024-05-21 17:00:17 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/label_Habilitado' is clicked on
+
+2024-05-21 17:00:17 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:00:19 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:00:19 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 17:00:19 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 17:00:19 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\3 Campos Adicionales\\20240521_152434\\1716328819191.png]]
+
+2024-05-21 17:00:19 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:00:21 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:00:21 - [TEST_STEP][FAILED] - click(findTestObject("ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/Nombre Especialidad/label_Seleccionar Todos")): Unable to click on object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/Nombre Especialidad/label_Seleccionar Todos' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/Nombre Especialidad/label_Seleccionar Todos'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at R220.run(R220:67)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323074790.run(TempTestSuite1716323074790.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/Nombre Especialidad/label_Seleccionar Todos' located by '//table[@id='ctl00_ContentPlaceHolder2_grvEspecialidadesXCampo']/tbody/tr/th[3]/label' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Script1709651612194.run(Script1709651612194.groovy:67)
+	... 13 more
+)
+
+2024-05-21 17:00:52 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //table[@id='ctl00_ContentPlaceHolder2_grvEspecialidadesXCampo']/tbody/tr/th[3]/label'. Please recheck the objects properties to make sure the desired element is located. 
+
+2024-05-21 17:00:52 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/Nombre Especialidad/label_Seleccionar Todos' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/Nombre Especialidad/label_Seleccionar Todos'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at R220.run(R220:67)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323074790.run(TempTestSuite1716323074790.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/Nombre Especialidad/label_Seleccionar Todos' located by '//table[@id='ctl00_ContentPlaceHolder2_grvEspecialidadesXCampo']/tbody/tr/th[3]/label' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Script1709651612194.run(Script1709651612194.groovy:67)
+	... 13 more
+)
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\3 Campos Adicionales\\20240521_152434\\1716328852779.png]]
+
+2024-05-21 17:00:52 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[2024-05-21 16:59:46 - [TEST_CASE][FAILED] - Test Cases/Configuracion/5 Clientes/3 Campos Adicionales/R220: Test Cases/Configuracion/5 Clientes/3 Campos Adicionales/R220 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/Nombre Especialidad/label_Seleccionar Todos'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at R220.run(R220:67)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323074790.run(TempTestSuite1716323074790.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/Nombre Especialidad/label_Seleccionar Todos' located by '//table[@id='ctl00_ContentPlaceHolder2_grvEspecialidadesXCampo']/tbody/tr/th[3]/label' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/5 Clientes/3 Campos Adicionales/R222" time="56.409" classname="Test Cases/Configuracion/5 Clientes/3 Campos Adicionales/R222" status="FAILED">
+         <failure type="FAILED" message="Test Cases/Configuracion/5 Clientes/3 Campos Adicionales/R222 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Lista de Campos adicionales/btn3_Borrar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at R222.run(R222:40)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323074790.run(TempTestSuite1716323074790.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Lista de Campos adicionales/btn3_Borrar' located by '//a[@id='ctl00_ContentPlaceHolder2_grvCamposAdicionales_ctl04_btnBorrar']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+"/>
+         <system-out><![CDATA[2024-05-21 17:00:52 - [TEST_CASE][FAILED] - Test Cases/Configuracion/5 Clientes/3 Campos Adicionales/R222: Test Cases/Configuracion/5 Clientes/3 Campos Adicionales/R222 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Lista de Campos adicionales/btn3_Borrar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at R222.run(R222:40)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323074790.run(TempTestSuite1716323074790.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Lista de Campos adicionales/btn3_Borrar' located by '//a[@id='ctl00_ContentPlaceHolder2_grvCamposAdicionales_ctl04_btnBorrar']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+
+
+2024-05-21 17:00:53 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 17:00:53 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 17:00:53 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 17:00:53 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 17:00:54 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 17:00:54 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 17:00:56 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 17:00:56 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 17:00:56 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 17:00:56 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:00:58 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:00:58 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 17:00:59 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 17:00:59 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:01:01 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:01:01 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 17:01:02 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 17:01:02 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:01:04 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:01:04 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 17:01:04 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 17:01:04 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 17:01:07 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 17:01:07 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 17:01:07 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 17:01:08 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 17:01:08 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:01:10 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:01:10 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_5 Clientes")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_5 Clientes' is clicked on
+
+2024-05-21 17:01:10 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_5 Clientes' is clicked on
+
+2024-05-21 17:01:10 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:01:12 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:01:12 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/5Clientes/0Principal/a_3 Campos adicionales")): Object: 'Object Repository/ADM/1Configuracion/5Clientes/0Principal/a_3 Campos adicionales' is clicked on
+
+2024-05-21 17:01:13 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/5Clientes/0Principal/a_3 Campos adicionales' is clicked on
+
+2024-05-21 17:01:13 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:01:15 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:01:15 - [TEST_STEP][PASSED] - comment("Boton Eliminar"): Boton Eliminar
+
+2024-05-21 17:01:15 - [MESSAGE][INFO] - Boton Eliminar
+
+2024-05-21 17:01:15 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 17:01:15 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 17:01:16 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\3 Campos Adicionales\\20240521_152434\\1716328875514.png]]
+
+2024-05-21 17:01:16 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 17:01:18 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 17:01:18 - [TEST_STEP][FAILED] - click(findTestObject("ADM/1Configuracion/5Clientes/3Campos Adicionales/Lista de Campos adicionales/btn3_Borrar")): Unable to click on object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Lista de Campos adicionales/btn3_Borrar' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Lista de Campos adicionales/btn3_Borrar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at R222.run(R222:40)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323074790.run(TempTestSuite1716323074790.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Lista de Campos adicionales/btn3_Borrar' located by '//a[@id='ctl00_ContentPlaceHolder2_grvCamposAdicionales_ctl04_btnBorrar']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Script1709652923090.run(Script1709652923090.groovy:40)
+	... 13 more
+)
+
+2024-05-21 17:01:49 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //a[@id='ctl00_ContentPlaceHolder2_grvCamposAdicionales_ctl04_btnBorrar']'. Please recheck the objects properties to make sure the desired element is located. 
+
+2024-05-21 17:01:49 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Lista de Campos adicionales/btn3_Borrar' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Lista de Campos adicionales/btn3_Borrar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at R222.run(R222:40)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323074790.run(TempTestSuite1716323074790.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Lista de Campos adicionales/btn3_Borrar' located by '//a[@id='ctl00_ContentPlaceHolder2_grvCamposAdicionales_ctl04_btnBorrar']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Script1709652923090.run(Script1709652923090.groovy:40)
+	... 13 more
+)
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\5 Clientes\\3 Campos Adicionales\\20240521_152434\\1716328909206.png]]
+
+2024-05-21 17:01:49 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[2024-05-21 17:00:52 - [TEST_CASE][FAILED] - Test Cases/Configuracion/5 Clientes/3 Campos Adicionales/R222: Test Cases/Configuracion/5 Clientes/3 Campos Adicionales/R222 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Lista de Campos adicionales/btn3_Borrar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at R222.run(R222:40)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323074790.run(TempTestSuite1716323074790.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Lista de Campos adicionales/btn3_Borrar' located by '//a[@id='ctl00_ContentPlaceHolder2_grvCamposAdicionales_ctl04_btnBorrar']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2024-05-21 16:57:16 - [TEST_SUITE][FAILED] - 3 Campos Adicionales: Test Cases/Configuracion/5 Clientes/3 Campos Adicionales/R217 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/Nombre Especialidad/label_Seleccionar Todos'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at R217.run(R217:63)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323074790.run(TempTestSuite1716323074790.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/Nombre Especialidad/label_Seleccionar Todos' located by '//table[@id='ctl00_ContentPlaceHolder2_grvEspecialidadesXCampo']/tbody/tr/th[3]/label' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-out>
+      <system-err><![CDATA[2024-05-21 16:57:16 - [TEST_SUITE][FAILED] - 3 Campos Adicionales: Test Cases/Configuracion/5 Clientes/3 Campos Adicionales/R217 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/Nombre Especialidad/label_Seleccionar Todos'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at R217.run(R217:63)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323074790.run(TempTestSuite1716323074790.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/5Clientes/3Campos Adicionales/Edicion/Nombre Especialidad/label_Seleccionar Todos' located by '//table[@id='ctl00_ContentPlaceHolder2_grvEspecialidadesXCampo']/tbody/tr/th[3]/label' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,0 +1,296 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+1 Maestro Clientes,Chrome 124.0.0.0,,,2024-05-21 16:43:34,2024-05-21 16:51:22,"7m - 47,519s",FAILED
+,,,,,,,
+Test Cases/Configuracion/5 Clientes/1 Maestro Clientes/R191,Chrome 124.0.0.0,Verificar elementos pagina maestro clientes,,2024-05-21 16:43:35,2024-05-21 16:44:03,"28,530s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:43:35,2024-05-21 16:43:51,"15,801s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:43:51,2024-05-21 16:43:51,"0,594s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:43:51,2024-05-21 16:43:53,"2,002s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_5 Clientes""))",Chrome 124.0.0.0,,,2024-05-21 16:43:53,2024-05-21 16:43:55,"1,234s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:43:55,2024-05-21 16:43:57,"2,012s",PASSED
+"click(findTestObject(""ADM/1Configuracion/5Clientes/0Principal/a_1 Maestro de clientes""))",Chrome 124.0.0.0,,,2024-05-21 16:43:57,2024-05-21 16:43:57,"0,698s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:43:57,2024-05-21 16:43:59,"2,003s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/0 btn_Nuevo Cliente""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:43:59,2024-05-21 16:44:00,"0,441s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Mantenimiento de Clientes/input_Nombre Usuario""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:44:00,2024-05-21 16:44:00,"0,393s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Mantenimiento de Clientes/input_Nombres""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:44:00,2024-05-21 16:44:01,"0,377s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Mantenimiento de Clientes/input_Apellidos""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:44:01,2024-05-21 16:44:01,"0,377s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Mantenimiento de Clientes/input_Identificacion""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:44:01,2024-05-21 16:44:01,"0,408s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Mantenimiento de Clientes/input_Telefono""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:44:01,2024-05-21 16:44:02,"0,392s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Mantenimiento de Clientes/input_Celular""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:44:02,2024-05-21 16:44:02,"0,409s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Mantenimiento de Clientes/input_Fecha penalizacion (ddmmaaaa)""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:44:02,2024-05-21 16:44:03,"0,377s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:44:03,2024-05-21 16:44:03,"0,674s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:44:03,2024-05-21 16:44:03,"0,016s",PASSED
+,,,,,,,
+Test Cases/Configuracion/5 Clientes/1 Maestro Clientes/R192,Chrome 124.0.0.0,Boton nuevo cliente,,2024-05-21 16:44:03,2024-05-21 16:44:33,"30,213s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:44:04,2024-05-21 16:44:18,"14,704s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:44:18,2024-05-21 16:44:19,"0,543s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:44:19,2024-05-21 16:44:21,"2,006s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_5 Clientes""))",Chrome 124.0.0.0,,,2024-05-21 16:44:21,2024-05-21 16:44:21,"0,549s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:44:21,2024-05-21 16:44:23,"2,016s",PASSED
+"click(findTestObject(""ADM/1Configuracion/5Clientes/0Principal/a_1 Maestro de clientes""))",Chrome 124.0.0.0,,,2024-05-21 16:44:23,2024-05-21 16:44:24,"0,624s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:44:24,2024-05-21 16:44:26,"2,010s",PASSED
+"click(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/0 btn_Nuevo Cliente""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:44:26,2024-05-21 16:44:27,"0,488s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:44:27,2024-05-21 16:44:27,"0,842s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:44:27,2024-05-21 16:44:29,"2,015s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Datos Cliente/select_Tipo Identificacion""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:44:29,2024-05-21 16:44:30,"0,377s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Datos Cliente/input_Nombres""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:44:30,2024-05-21 16:44:30,"0,409s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Datos Cliente/input_Apellidos""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:44:30,2024-05-21 16:44:31,"0,377s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Datos Cliente/input_Fecha Nacimiento (ddmmaaaa)""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:44:31,2024-05-21 16:44:31,"0,390s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Datos Cliente/select_Genero""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:44:31,2024-05-21 16:44:31,"0,347s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Datos Cliente/select_Pais""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:44:31,2024-05-21 16:44:32,"0,393s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Datos Cliente/select_Departamento""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:44:32,2024-05-21 16:44:32,"0,408s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Datos Cliente/select_Tipo Cliente""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:44:32,2024-05-21 16:44:32,"0,362s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Datos Cliente/select_Tipo Usuario""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:44:32,2024-05-21 16:44:33,"0,362s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Datos Cliente/input_Celular""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:44:33,2024-05-21 16:44:33,"0,351s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Datos Cliente/input_Correo Electronico""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:44:33,2024-05-21 16:44:33,"0,327s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:44:33,2024-05-21 16:44:33,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/5 Clientes/1 Maestro Clientes/R193,Chrome 124.0.0.0,,,2024-05-21 16:44:33,2024-05-21 16:45:04,"30,242s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:44:34,2024-05-21 16:44:48,"14,550s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:44:48,2024-05-21 16:44:49,"0,514s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:44:49,2024-05-21 16:44:51,"2,003s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_5 Clientes""))",Chrome 124.0.0.0,,,2024-05-21 16:44:51,2024-05-21 16:44:51,"0,568s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:44:51,2024-05-21 16:44:53,"2,014s",PASSED
+"click(findTestObject(""ADM/1Configuracion/5Clientes/0Principal/a_1 Maestro de clientes""))",Chrome 124.0.0.0,,,2024-05-21 16:44:53,2024-05-21 16:44:54,"0,604s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:44:54,2024-05-21 16:44:56,"2,012s",PASSED
+"click(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/0 btn_Nuevo Cliente""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:44:56,2024-05-21 16:44:57,"0,488s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:44:57,2024-05-21 16:44:57,"0,791s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:44:57,2024-05-21 16:44:59,"2,028s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Datos Cliente/select_Tipo Identificacion""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:44:59,2024-05-21 16:45:00,"0,394s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Datos Cliente/input_Nombres""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:45:00,2024-05-21 16:45:00,"0,377s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Datos Cliente/input_Apellidos""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:45:00,2024-05-21 16:45:01,"0,409s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Datos Cliente/input_Fecha Nacimiento (ddmmaaaa)""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:45:01,2024-05-21 16:45:01,"0,363s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Datos Cliente/select_Genero""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:45:01,2024-05-21 16:45:01,"0,395s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Datos Cliente/select_Pais""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:45:01,2024-05-21 16:45:02,"0,375s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Datos Cliente/select_Departamento""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:45:02,2024-05-21 16:45:02,"0,393s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Datos Cliente/select_Tipo Cliente""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:45:02,2024-05-21 16:45:02,"0,377s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Datos Cliente/select_Tipo Usuario""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:45:02,2024-05-21 16:45:03,"0,424s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Datos Cliente/input_Celular""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:45:03,2024-05-21 16:45:03,"0,424s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Datos Cliente/input_Correo Electronico""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:45:03,2024-05-21 16:45:04,"0,393s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:45:04,2024-05-21 16:45:04,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/5 Clientes/1 Maestro Clientes/R194 b,Chrome 124.0.0.0,Prueba de insertar con tabla excel,,2024-05-21 16:45:04,2024-05-21 16:45:32,"28,423s",FAILED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:45:04,2024-05-21 16:45:19,"14,593s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:45:19,2024-05-21 16:45:19,"0,529s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:45:19,2024-05-21 16:45:21,"2,014s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_5 Clientes""))",Chrome 124.0.0.0,,,2024-05-21 16:45:21,2024-05-21 16:45:22,"0,525s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:45:22,2024-05-21 16:45:24,"2,012s",PASSED
+"click(findTestObject(""ADM/1Configuracion/5Clientes/0Principal/a_1 Maestro de clientes""))",Chrome 124.0.0.0,,,2024-05-21 16:45:24,2024-05-21 16:45:24,"0,601s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:45:24,2024-05-21 16:45:26,"2,014s",PASSED
+"click(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/0 btn_Nuevo Cliente""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:45:26,2024-05-21 16:45:27,"0,441s",PASSED
+"comment(""Verificar numero identificacion"")",Chrome 124.0.0.0,,,2024-05-21 16:45:27,2024-05-21 16:45:27,"0,006s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:45:27,2024-05-21 16:45:28,"0,813s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:45:28,2024-05-21 16:45:30,"2,013s",PASSED
+"selectOptionByLabel(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Datos Cliente/select_Tipo Identificacion""), findTestData(""5Clientes"").getValue(""Tipo Identificacion"", 1), false)",Chrome 124.0.0.0,,,2024-05-21 16:45:30,2024-05-21 16:45:32,"2,484s",FAILED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:45:32,2024-05-21 16:45:32,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/5 Clientes/1 Maestro Clientes/R194 c,Chrome 124.0.0.0,Nombre debe aceptar sólo caracteres alfabeticos,,2024-05-21 16:45:32,2024-05-21 16:45:59,"27,300s",FAILED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:45:33,2024-05-21 16:45:47,"14,515s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:45:47,2024-05-21 16:45:48,"0,581s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:45:48,2024-05-21 16:45:50,"2,015s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_5 Clientes""))",Chrome 124.0.0.0,,,2024-05-21 16:45:50,2024-05-21 16:45:50,"0,509s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:45:50,2024-05-21 16:45:52,"2,001s",PASSED
+"click(findTestObject(""ADM/1Configuracion/5Clientes/0Principal/a_1 Maestro de clientes""))",Chrome 124.0.0.0,,,2024-05-21 16:45:52,2024-05-21 16:45:53,"0,627s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:45:53,2024-05-21 16:45:55,"2,010s",PASSED
+"click(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/0 btn_Nuevo Cliente""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:45:55,2024-05-21 16:45:55,"0,463s",PASSED
+"comment(""Verificar nombre y apellido"")",Chrome 124.0.0.0,,,2024-05-21 16:45:55,2024-05-21 16:45:55,"0,002s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:45:55,2024-05-21 16:45:56,"0,850s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:45:56,2024-05-21 16:45:58,"2,009s",PASSED
+"selectOptionByLabel(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Datos Cliente/select_Tipo Identificacion""), findTestData(""5Clientes"").getValue(""Tipo Identificacion"", 1), false)",Chrome 124.0.0.0,,,2024-05-21 16:45:58,2024-05-21 16:45:59,"1,321s",FAILED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:45:59,2024-05-21 16:45:59,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/5 Clientes/1 Maestro Clientes/R194 e,Chrome 124.0.0.0,Telefono fijo validacion,,2024-05-21 16:45:59,2024-05-21 16:46:27,"27,397s",FAILED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:46:00,2024-05-21 16:46:15,"14,599s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:46:15,2024-05-21 16:46:15,"0,597s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:46:15,2024-05-21 16:46:17,"2,003s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_5 Clientes""))",Chrome 124.0.0.0,,,2024-05-21 16:46:17,2024-05-21 16:46:18,"0,539s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:46:18,2024-05-21 16:46:20,"2,006s",PASSED
+"click(findTestObject(""ADM/1Configuracion/5Clientes/0Principal/a_1 Maestro de clientes""))",Chrome 124.0.0.0,,,2024-05-21 16:46:20,2024-05-21 16:46:20,"0,589s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:46:20,2024-05-21 16:46:22,"2,012s",PASSED
+"click(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/0 btn_Nuevo Cliente""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:46:22,2024-05-21 16:46:23,"0,461s",PASSED
+"comment(""Verificar numero fijo"")",Chrome 124.0.0.0,,,2024-05-21 16:46:23,2024-05-21 16:46:23,"0,003s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:46:23,2024-05-21 16:46:24,"0,813s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:46:24,2024-05-21 16:46:26,"2,012s",PASSED
+"selectOptionByLabel(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Datos Cliente/select_Tipo Identificacion""), findTestData(""5Clientes"").getValue(""Tipo Identificacion"", 1), false)",Chrome 124.0.0.0,,,2024-05-21 16:46:26,2024-05-21 16:46:27,"1,295s",FAILED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:46:27,2024-05-21 16:46:27,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/5 Clientes/1 Maestro Clientes/R194 f,Chrome 124.0.0.0,validación campo celular,,2024-05-21 16:46:27,2024-05-21 16:46:54,"27,197s",FAILED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:46:27,2024-05-21 16:46:42,"14,740s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:46:42,2024-05-21 16:46:42,"0,549s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:46:42,2024-05-21 16:46:44,"2,012s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_5 Clientes""))",Chrome 124.0.0.0,,,2024-05-21 16:46:44,2024-05-21 16:46:45,"0,570s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:46:45,2024-05-21 16:46:47,"2,012s",PASSED
+"click(findTestObject(""ADM/1Configuracion/5Clientes/0Principal/a_1 Maestro de clientes""))",Chrome 124.0.0.0,,,2024-05-21 16:46:47,2024-05-21 16:46:48,"0,570s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:46:48,2024-05-21 16:46:50,"2,011s",PASSED
+"click(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/0 btn_Nuevo Cliente""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:46:50,2024-05-21 16:46:50,"0,400s",PASSED
+"comment(""Verificar numero celular"")",Chrome 124.0.0.0,,,2024-05-21 16:46:50,2024-05-21 16:46:50,"0,000s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:46:50,2024-05-21 16:46:51,"0,763s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:46:51,2024-05-21 16:46:53,"2,000s",PASSED
+"selectOptionByLabel(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Datos Cliente/select_Tipo Identificacion""), findTestData(""5Clientes"").getValue(""Tipo Identificacion"", 1), false)",Chrome 124.0.0.0,,,2024-05-21 16:46:53,2024-05-21 16:46:54,"1,281s",FAILED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:46:54,2024-05-21 16:46:54,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/5 Clientes/1 Maestro Clientes/R194 g,Chrome 124.0.0.0,Validar correo,,2024-05-21 16:46:54,2024-05-21 16:47:21,"27,395s",FAILED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:46:54,2024-05-21 16:47:09,"14,758s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:47:09,2024-05-21 16:47:10,"0,592s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:47:10,2024-05-21 16:47:12,"2,005s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_5 Clientes""))",Chrome 124.0.0.0,,,2024-05-21 16:47:12,2024-05-21 16:47:12,"0,531s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:47:12,2024-05-21 16:47:14,"2,004s",PASSED
+"click(findTestObject(""ADM/1Configuracion/5Clientes/0Principal/a_1 Maestro de clientes""))",Chrome 124.0.0.0,,,2024-05-21 16:47:14,2024-05-21 16:47:15,"0,561s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:47:15,2024-05-21 16:47:17,"2,005s",PASSED
+"click(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/0 btn_Nuevo Cliente""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:47:17,2024-05-21 16:47:17,"0,432s",PASSED
+"comment(""Validar correo"")",Chrome 124.0.0.0,,,2024-05-21 16:47:17,2024-05-21 16:47:17,"0,002s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:47:17,2024-05-21 16:47:18,"0,792s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:47:18,2024-05-21 16:47:20,"2,014s",PASSED
+"selectOptionByLabel(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Datos Cliente/select_Tipo Identificacion""), findTestData(""5Clientes"").getValue(""Tipo Identificacion"", 1), false)",Chrome 124.0.0.0,,,2024-05-21 16:47:20,2024-05-21 16:47:21,"1,283s",FAILED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:47:21,2024-05-21 16:47:21,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/5 Clientes/1 Maestro Clientes/R194 h,Chrome 124.0.0.0,Creacion correcta,,2024-05-21 16:47:21,2024-05-21 16:47:49,"27,355s",FAILED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:47:22,2024-05-21 16:47:37,"14,729s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:47:37,2024-05-21 16:47:37,"0,523s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:47:37,2024-05-21 16:47:39,"2,002s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_5 Clientes""))",Chrome 124.0.0.0,,,2024-05-21 16:47:39,2024-05-21 16:47:40,"0,546s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:47:40,2024-05-21 16:47:42,"2,002s",PASSED
+"click(findTestObject(""ADM/1Configuracion/5Clientes/0Principal/a_1 Maestro de clientes""))",Chrome 124.0.0.0,,,2024-05-21 16:47:42,2024-05-21 16:47:42,"0,584s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:47:42,2024-05-21 16:47:44,"2,001s",PASSED
+"click(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/0 btn_Nuevo Cliente""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:47:44,2024-05-21 16:47:45,"0,475s",PASSED
+"comment(""creacion normal"")",Chrome 124.0.0.0,,,2024-05-21 16:47:45,2024-05-21 16:47:45,"0,002s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:47:45,2024-05-21 16:47:46,"0,749s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:47:46,2024-05-21 16:47:48,"2,001s",PASSED
+"selectOptionByLabel(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Datos Cliente/select_Tipo Identificacion""), findTestData(""5Clientes"").getValue(""Tipo Identificacion"", 1), false)",Chrome 124.0.0.0,,,2024-05-21 16:47:48,2024-05-21 16:47:49,"1,297s",FAILED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:47:49,2024-05-21 16:47:49,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/5 Clientes/1 Maestro Clientes/R194,Chrome 124.0.0.0,Boton Insertar,,2024-05-21 16:47:49,2024-05-21 16:48:24,"34,920s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:47:49,2024-05-21 16:48:04,"14,775s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:48:04,2024-05-21 16:48:05,"0,584s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:48:05,2024-05-21 16:48:07,"2,009s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_5 Clientes""))",Chrome 124.0.0.0,,,2024-05-21 16:48:07,2024-05-21 16:48:07,"0,576s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:48:07,2024-05-21 16:48:09,"2,008s",PASSED
+"click(findTestObject(""ADM/1Configuracion/5Clientes/0Principal/a_1 Maestro de clientes""))",Chrome 124.0.0.0,,,2024-05-21 16:48:09,2024-05-21 16:48:10,"0,638s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:48:10,2024-05-21 16:48:12,"2,010s",PASSED
+"click(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/0 btn_Nuevo Cliente""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:48:12,2024-05-21 16:48:12,"0,456s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:48:12,2024-05-21 16:48:13,"0,780s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:48:13,2024-05-21 16:48:15,"2,008s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Datos Cliente/input_Identificacion""), ClienteIdentificacion)",Chrome 124.0.0.0,,,2024-05-21 16:48:15,2024-05-21 16:48:16,"0,838s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Datos Cliente/input_Nombres""), ClienteNombre)",Chrome 124.0.0.0,,,2024-05-21 16:48:16,2024-05-21 16:48:17,"0,817s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Datos Cliente/input_Apellidos""), ClienteApellido)",Chrome 124.0.0.0,,,2024-05-21 16:48:17,2024-05-21 16:48:18,"0,788s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Datos Cliente/input_Fecha Nacimiento (ddmmaaaa)""), ClienteFechaNac)",Chrome 124.0.0.0,,,2024-05-21 16:48:18,2024-05-21 16:48:18,"0,875s",PASSED
+"selectOptionByLabel(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Datos Cliente/select_Genero""), ""Masculino"", false)",Chrome 124.0.0.0,,,2024-05-21 16:48:18,2024-05-21 16:48:19,"0,887s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Datos Cliente/input_Direccion""), ClienteDireccion)",Chrome 124.0.0.0,,,2024-05-21 16:48:19,2024-05-21 16:48:20,"0,999s",PASSED
+"selectOptionByLabel(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Datos Cliente/select_Departamento""), ""Cundinamarca"", false)",Chrome 124.0.0.0,,,2024-05-21 16:48:20,2024-05-21 16:48:21,"0,788s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Datos Cliente/input_Telefono""), ClienteTelefono)",Chrome 124.0.0.0,,,2024-05-21 16:48:21,2024-05-21 16:48:22,"1,041s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Datos Cliente/input_Celular""), ClienteCelular)",Chrome 124.0.0.0,,,2024-05-21 16:48:22,2024-05-21 16:48:23,"0,802s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Datos Cliente/input_Correo Electronico""), ClienteCelular)",Chrome 124.0.0.0,,,2024-05-21 16:48:23,2024-05-21 16:48:24,"0,807s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:48:24,2024-05-21 16:48:24,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/5 Clientes/1 Maestro Clientes/R195,Chrome 124.0.0.0,Boton cancelar,,2024-05-21 16:48:24,2024-05-21 16:48:51,"27,185s",FAILED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:48:24,2024-05-21 16:48:39,"14,539s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:48:39,2024-05-21 16:48:39,"0,529s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:48:39,2024-05-21 16:48:41,"2,016s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_5 Clientes""))",Chrome 124.0.0.0,,,2024-05-21 16:48:41,2024-05-21 16:48:42,"0,584s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:48:42,2024-05-21 16:48:44,"2,004s",PASSED
+"click(findTestObject(""ADM/1Configuracion/5Clientes/0Principal/a_1 Maestro de clientes""))",Chrome 124.0.0.0,,,2024-05-21 16:48:44,2024-05-21 16:48:44,"0,581s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:48:44,2024-05-21 16:48:46,"2,013s",PASSED
+"click(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/0 btn_Nuevo Cliente""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:48:46,2024-05-21 16:48:47,"0,491s",PASSED
+"comment(""Boton Cancelar"")",Chrome 124.0.0.0,,,2024-05-21 16:48:47,2024-05-21 16:48:47,"0,000s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:48:47,2024-05-21 16:48:48,"0,837s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:48:48,2024-05-21 16:48:50,"2,010s",PASSED
+"selectOptionByLabel(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Datos Cliente/select_Tipo Identificacion""), findTestData(""5Clientes"").getValue(""Tipo Identificacion"", 1), false)",Chrome 124.0.0.0,,,2024-05-21 16:48:50,2024-05-21 16:48:51,"1,239s",FAILED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:48:51,2024-05-21 16:48:51,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/5 Clientes/1 Maestro Clientes/R196,Chrome 124.0.0.0,Actualizar desde Digiturno,,2024-05-21 16:48:51,2024-05-21 16:49:18,"27,343s",FAILED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:48:51,2024-05-21 16:49:06,"14,671s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:49:06,2024-05-21 16:49:07,"0,565s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:49:07,2024-05-21 16:49:09,"2,012s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_5 Clientes""))",Chrome 124.0.0.0,,,2024-05-21 16:49:09,2024-05-21 16:49:09,"0,553s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:49:09,2024-05-21 16:49:11,"2,015s",PASSED
+"click(findTestObject(""ADM/1Configuracion/5Clientes/0Principal/a_1 Maestro de clientes""))",Chrome 124.0.0.0,,,2024-05-21 16:49:11,2024-05-21 16:49:12,"0,626s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:49:12,2024-05-21 16:49:14,"2,008s",PASSED
+"click(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/0 btn_Nuevo Cliente""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:49:14,2024-05-21 16:49:14,"0,483s",PASSED
+"comment(""Actualizar datos desde Digiturno"")",Chrome 124.0.0.0,,,2024-05-21 16:49:14,2024-05-21 16:49:14,"0,001s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:49:14,2024-05-21 16:49:15,"0,826s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:49:15,2024-05-21 16:49:17,"2,014s",PASSED
+"selectOptionByLabel(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Datos Cliente/select_Tipo Identificacion""), findTestData(""5Clientes"").getValue(""Tipo Identificacion"", 2), false)",Chrome 124.0.0.0,,,2024-05-21 16:49:17,2024-05-21 16:49:18,"1,251s",FAILED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:49:18,2024-05-21 16:49:18,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/5 Clientes/1 Maestro Clientes/R197,Chrome 124.0.0.0,Boton refrescar,,2024-05-21 16:49:18,2024-05-21 16:49:51,"32,537s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:49:19,2024-05-21 16:49:33,"14,636s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:49:33,2024-05-21 16:49:34,"0,567s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:49:34,2024-05-21 16:49:36,"2,011s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_5 Clientes""))",Chrome 124.0.0.0,,,2024-05-21 16:49:36,2024-05-21 16:49:36,"0,499s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:49:36,2024-05-21 16:49:38,"2,017s",PASSED
+"click(findTestObject(""ADM/1Configuracion/5Clientes/0Principal/a_1 Maestro de clientes""))",Chrome 124.0.0.0,,,2024-05-21 16:49:38,2024-05-21 16:49:39,"0,597s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:49:39,2024-05-21 16:49:41,"2,003s",PASSED
+"comment(""Boton Refrescar"")",Chrome 124.0.0.0,,,2024-05-21 16:49:41,2024-05-21 16:49:41,"0,000s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:49:41,2024-05-21 16:49:42,"0,584s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:49:42,2024-05-21 16:49:44,"2,009s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Mantenimiento de Clientes/input_Identificacion""), findTestData(""5Clientes"").getValue(""Identificacion"", 1))",Chrome 124.0.0.0,,,2024-05-21 16:49:44,2024-05-21 16:49:45,"0,930s",PASSED
+"selectOptionByLabel(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Mantenimiento de Clientes/select_Identificacion""), findTestData(""5Clientes"").getValue(""Seleccionar"", 6), false)",Chrome 124.0.0.0,,,2024-05-21 16:49:45,2024-05-21 16:49:45,"0,911s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:49:45,2024-05-21 16:49:47,"2,002s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:49:47,2024-05-21 16:49:48,"0,485s",PASSED
+"click(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/btn_Refrescar""))",Chrome 124.0.0.0,,,2024-05-21 16:49:48,2024-05-21 16:49:48,"0,420s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:49:48,2024-05-21 16:49:50,"2,018s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:49:50,2024-05-21 16:49:51,"0,524s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:49:51,2024-05-21 16:49:51,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/5 Clientes/1 Maestro Clientes/R198,Chrome 124.0.0.0,Mantenimeinto clientes verificar elementos,,2024-05-21 16:49:51,2024-05-21 16:50:22,"30,880s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:49:51,2024-05-21 16:50:06,"14,542s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:50:06,2024-05-21 16:50:06,"0,536s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:50:06,2024-05-21 16:50:08,"2,017s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_5 Clientes""))",Chrome 124.0.0.0,,,2024-05-21 16:50:08,2024-05-21 16:50:09,"0,561s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:50:09,2024-05-21 16:50:11,"2,004s",PASSED
+"click(findTestObject(""ADM/1Configuracion/5Clientes/0Principal/a_1 Maestro de clientes""))",Chrome 124.0.0.0,,,2024-05-21 16:50:11,2024-05-21 16:50:11,"0,600s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:50:11,2024-05-21 16:50:13,"2,015s",PASSED
+"comment(""Verificar elementos"")",Chrome 124.0.0.0,,,2024-05-21 16:50:13,2024-05-21 16:50:13,"0,000s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/0 btn_Nuevo Cliente""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:50:13,2024-05-21 16:50:14,"0,392s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/btn_Refrescar""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:50:14,2024-05-21 16:50:14,"0,377s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Mantenimiento de Clientes/btn_1 Borrar""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:50:14,2024-05-21 16:50:15,"0,377s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Mantenimiento de Clientes/btn_1 Editar""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:50:15,2024-05-21 16:50:15,"0,408s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Mantenimiento de Clientes/input_Apellidos""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:50:15,2024-05-21 16:50:15,"0,377s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Mantenimiento de Clientes/input_Celular""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:50:15,2024-05-21 16:50:16,"0,392s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Mantenimiento de Clientes/input_Fecha creacion (ddmmaaaa)""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:50:16,2024-05-21 16:50:16,"0,377s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Mantenimiento de Clientes/input_Fecha penalizacion (ddmmaaaa)""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:50:16,2024-05-21 16:50:17,"0,377s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/0 btn_Nuevo Cliente""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:50:17,2024-05-21 16:50:17,"0,361s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Mantenimiento de Clientes/input_Identificacion""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:50:17,2024-05-21 16:50:17,"0,408s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Mantenimiento de Clientes/input_Nombre Usuario""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:50:17,2024-05-21 16:50:18,"0,424s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Mantenimiento de Clientes/input_Nombres""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:50:18,2024-05-21 16:50:18,"0,409s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Mantenimiento de Clientes/input_Telefono""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:50:18,2024-05-21 16:50:18,"0,377s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Mantenimiento de Clientes/label_Activo""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:50:18,2024-05-21 16:50:19,"0,377s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Mantenimiento de Clientes/label_Penalizado""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:50:19,2024-05-21 16:50:19,"0,393s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:50:19,2024-05-21 16:50:21,"2,005s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:50:21,2024-05-21 16:50:22,"0,491s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:50:22,2024-05-21 16:50:22,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/5 Clientes/1 Maestro Clientes/R199,Chrome 124.0.0.0,Boton editar,,2024-05-21 16:50:22,2024-05-21 16:50:52,"30,133s",FAILED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:50:22,2024-05-21 16:50:37,"14,667s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:50:37,2024-05-21 16:50:37,"0,559s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:50:37,2024-05-21 16:50:39,"2,005s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_5 Clientes""))",Chrome 124.0.0.0,,,2024-05-21 16:50:39,2024-05-21 16:50:40,"0,585s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:50:40,2024-05-21 16:50:42,"2,013s",PASSED
+"click(findTestObject(""ADM/1Configuracion/5Clientes/0Principal/a_1 Maestro de clientes""))",Chrome 124.0.0.0,,,2024-05-21 16:50:42,2024-05-21 16:50:43,"0,627s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:50:43,2024-05-21 16:50:45,"2,004s",PASSED
+"comment(""Boton Editar"")",Chrome 124.0.0.0,,,2024-05-21 16:50:45,2024-05-21 16:50:45,"0,000s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:50:45,2024-05-21 16:50:45,"0,459s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:50:45,2024-05-21 16:50:47,"2,023s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Mantenimiento de Clientes/input_Identificacion""), findTestData(""5Clientes"").getValue(""Identificacion"", 1))",Chrome 124.0.0.0,,,2024-05-21 16:50:47,2024-05-21 16:50:48,"0,953s",PASSED
+"selectOptionByLabel(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Mantenimiento de Clientes/select_Identificacion""), findTestData(""5Clientes"").getValue(""Seleccionar"", 6), false)",Chrome 124.0.0.0,,,2024-05-21 16:50:48,2024-05-21 16:50:49,"0,867s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:50:49,2024-05-21 16:50:51,"2,016s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:50:51,2024-05-21 16:50:51,"0,440s",PASSED
+"click(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Mantenimiento de Clientes/btn_1 Editar""))",Chrome 124.0.0.0,,,2024-05-21 16:50:51,2024-05-21 16:50:52,"0,522s",FAILED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:50:52,2024-05-21 16:50:52,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/5 Clientes/1 Maestro Clientes/R200,Chrome 124.0.0.0,Boton eliminar,,2024-05-21 16:50:52,2024-05-21 16:51:22,"30,127s",FAILED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:50:52,2024-05-21 16:51:07,"14,792s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:51:07,2024-05-21 16:51:07,"0,511s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:51:07,2024-05-21 16:51:09,"2,002s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_5 Clientes""))",Chrome 124.0.0.0,,,2024-05-21 16:51:09,2024-05-21 16:51:10,"0,502s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:51:10,2024-05-21 16:51:12,"2,011s",PASSED
+"click(findTestObject(""ADM/1Configuracion/5Clientes/0Principal/a_1 Maestro de clientes""))",Chrome 124.0.0.0,,,2024-05-21 16:51:12,2024-05-21 16:51:13,"0,557s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:51:13,2024-05-21 16:51:15,"2,013s",PASSED
+"comment(""Boton Eliminar"")",Chrome 124.0.0.0,,,2024-05-21 16:51:15,2024-05-21 16:51:15,"0,000s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:51:15,2024-05-21 16:51:15,"0,549s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:51:15,2024-05-21 16:51:17,"2,008s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Mantenimiento de Clientes/input_Identificacion""), findTestData(""5Clientes"").getValue(""Identificacion"", 1))",Chrome 124.0.0.0,,,2024-05-21 16:51:17,2024-05-21 16:51:18,"0,888s",PASSED
+"selectOptionByLabel(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Mantenimiento de Clientes/select_Identificacion""), findTestData(""5Clientes"").getValue(""Seleccionar"", 6), false)",Chrome 124.0.0.0,,,2024-05-21 16:51:18,2024-05-21 16:51:19,"0,912s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:51:19,2024-05-21 16:51:21,"2,012s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:51:21,2024-05-21 16:51:21,"0,529s",PASSED
+"click(findTestObject(""ADM/1Configuracion/5Clientes/1Maestro de Clientes/Mantenimiento de Clientes/btn_1 Borrar""))",Chrome 124.0.0.0,,,2024-05-21 16:51:21,2024-05-21 16:51:22,"0,531s",FAILED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:51:22,2024-05-21 16:51:22,"0,000s",PASSED

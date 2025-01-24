@@ -1,0 +1,139 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+2 Jornadas,Chrome 124.0.0.0,,,2024-05-21 15:54:19,2024-05-21 15:59:12,"4m - 53,011s",FAILED
+,,,,,,,
+Test Cases/Configuracion/2 Jornadas de Atencion/2 Jornadas/R81,Chrome 124.0.0.0,"Jornadas, veririfcar que los elementos se encuentren presentes.",,2024-05-21 15:54:19,2024-05-21 15:54:45,"25,841s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:54:19,2024-05-21 15:54:35,"15,876s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 15:54:35,2024-05-21 15:54:36,"0,573s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:54:36,2024-05-21 15:54:38,"2,004s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_2 Jornadas de atencion""))",Chrome 124.0.0.0,,,2024-05-21 15:54:38,2024-05-21 15:54:38,"0,561s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:54:38,2024-05-21 15:54:40,"2,007s",PASSED
+"click(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/0Principal/a_2 Jornadas""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:54:40,2024-05-21 15:54:41,"0,598s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:54:41,2024-05-21 15:54:43,"2,015s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/input_N Funcionarios""), 2)",Chrome 124.0.0.0,,,2024-05-21 15:54:43,2024-05-21 15:54:43,"0,378s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/textarea_Descripcion""), 2)",Chrome 124.0.0.0,,,2024-05-21 15:54:43,2024-05-21 15:54:44,"0,407s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_Guardar""), 2)",Chrome 124.0.0.0,,,2024-05-21 15:54:44,2024-05-21 15:54:44,"0,393s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 15:54:44,2024-05-21 15:54:45,"0,678s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 15:54:45,2024-05-21 15:54:45,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/2 Jornadas de Atencion/2 Jornadas/R82,Chrome 124.0.0.0,Campo texto,,2024-05-21 15:54:45,2024-05-21 15:55:09,"24,638s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:54:45,2024-05-21 15:55:00,"14,611s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 15:55:00,2024-05-21 15:55:00,"0,544s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:55:00,2024-05-21 15:55:02,"2,018s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_2 Jornadas de atencion""))",Chrome 124.0.0.0,,,2024-05-21 15:55:02,2024-05-21 15:55:03,"0,555s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:55:03,2024-05-21 15:55:05,"2,010s",PASSED
+"click(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/0Principal/a_2 Jornadas""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:55:05,2024-05-21 15:55:06,"0,564s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:55:06,2024-05-21 15:55:08,"2,003s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Jornadas/input_Busqueda""), ""Bogota"")",Chrome 124.0.0.0,,,2024-05-21 15:55:08,2024-05-21 15:55:08,"0,859s",PASSED
+"click(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Jornadas/btn_Buscar""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:55:08,2024-05-21 15:55:09,"0,434s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_Guardar""), 2)",Chrome 124.0.0.0,,,2024-05-21 15:55:09,2024-05-21 15:55:09,"0,140s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 15:55:09,2024-05-21 15:55:09,"0,507s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 15:55:09,2024-05-21 15:55:09,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/2 Jornadas de Atencion/2 Jornadas/R83,Chrome 124.0.0.0,"Buscar, validar con datos como 1, 11,",,2024-05-21 15:55:09,2024-05-21 15:55:33,"23,988s",FAILED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:55:10,2024-05-21 15:55:24,"14,495s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 15:55:24,2024-05-21 15:55:25,"0,660s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:55:25,2024-05-21 15:55:27,"2,003s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_2 Jornadas de atencion""))",Chrome 124.0.0.0,,,2024-05-21 15:55:27,2024-05-21 15:55:27,"0,564s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:55:27,2024-05-21 15:55:29,"2,004s",PASSED
+"click(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/0Principal/a_2 Jornadas""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:55:29,2024-05-21 15:55:30,"0,542s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:55:30,2024-05-21 15:55:32,"2,002s",PASSED
+"comment(""La aplicación hace una busqueda en todos los campos incluidos los de hora y funcionarios"")",Chrome 124.0.0.0,,,2024-05-21 15:55:32,2024-05-21 15:55:32,"0,016s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Jornadas/input_Busqueda""), ""1"")",Chrome 124.0.0.0,,,2024-05-21 15:55:32,2024-05-21 15:55:33,"0,832s",PASSED
+"click(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Jornadas/btn_Buscar""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:55:33,2024-05-21 15:55:33,"0,429s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 15:55:33,2024-05-21 15:55:33,"0,104s",FAILED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 15:55:33,2024-05-21 15:55:33,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/2 Jornadas de Atencion/2 Jornadas/R84,Chrome 124.0.0.0,Boton Limpiar en oficinas,,2024-05-21 15:55:33,2024-05-21 15:55:58,"24,764s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:55:34,2024-05-21 15:55:49,"14,729s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 15:55:49,2024-05-21 15:55:49,"0,611s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:55:49,2024-05-21 15:55:51,"2,001s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_2 Jornadas de atencion""))",Chrome 124.0.0.0,,,2024-05-21 15:55:51,2024-05-21 15:55:52,"0,563s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:55:52,2024-05-21 15:55:54,"2,006s",PASSED
+"click(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/0Principal/a_2 Jornadas""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:55:54,2024-05-21 15:55:54,"0,580s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:55:54,2024-05-21 15:55:56,"2,001s",PASSED
+"comment(""Se utiliza el boton limpiar, para borrar el campo de busqueda"")",Chrome 124.0.0.0,,,2024-05-21 15:55:56,2024-05-21 15:55:56,"0,000s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Jornadas/input_Busqueda""), ""Limpiar"")",Chrome 124.0.0.0,,,2024-05-21 15:55:56,2024-05-21 15:55:57,"0,845s",PASSED
+"click(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Jornadas/btn_Limpiar""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:55:57,2024-05-21 15:55:58,"0,426s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 15:55:58,2024-05-21 15:55:58,"0,548s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 15:55:58,2024-05-21 15:55:58,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/2 Jornadas de Atencion/2 Jornadas/R85,Chrome 124.0.0.0,Se  debe verificar si crea ID correlativo,,2024-05-21 15:55:58,2024-05-21 15:56:38,"39,698s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:55:59,2024-05-21 15:56:13,"14,458s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 15:56:13,2024-05-21 15:56:14,"0,560s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:56:14,2024-05-21 15:56:16,"2,001s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_2 Jornadas de atencion""))",Chrome 124.0.0.0,,,2024-05-21 15:56:16,2024-05-21 15:56:16,"0,576s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:56:16,2024-05-21 15:56:18,"2,005s",PASSED
+"click(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/0Principal/a_2 Jornadas""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:56:18,2024-05-21 15:56:19,"0,602s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:56:19,2024-05-21 15:56:21,"2,014s",PASSED
+"comment(""Se verificará si el Id se crea de manera correlativa y correcta con la captura de pantalla"")",Chrome 124.0.0.0,,,2024-05-21 15:56:21,2024-05-21 15:56:21,"0,000s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/textarea_Descripcion""), ""Jornada Prueba"")",Chrome 124.0.0.0,,,2024-05-21 15:56:21,2024-05-21 15:56:22,"0,846s",PASSED
+for (def index : (1..8)),Chrome 124.0.0.0,,,2024-05-21 15:56:22,2024-05-21 15:56:25,"3,369s",PASSED
+for (def index : (1..17)),Chrome 124.0.0.0,,,2024-05-21 15:56:25,2024-05-21 15:56:32,"7,063s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/input_N Funcionarios""), ""2"")",Chrome 124.0.0.0,,,2024-05-21 15:56:32,2024-05-21 15:56:33,"0,820s",PASSED
+"click(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_Guardar""))",Chrome 124.0.0.0,,,2024-05-21 15:56:33,2024-05-21 15:56:33,"0,439s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:56:33,2024-05-21 15:56:35,"2,019s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 15:56:35,2024-05-21 15:56:36,"0,543s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:56:36,2024-05-21 15:56:38,"2,006s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 15:56:38,2024-05-21 15:56:38,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/2 Jornadas de Atencion/2 Jornadas/R86,Chrome 124.0.0.0,Boton Limpiar en Edicion,,2024-05-21 15:56:38,2024-05-21 15:57:14,"36,516s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:56:38,2024-05-21 15:56:53,"14,647s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 15:56:53,2024-05-21 15:56:53,"0,565s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:56:53,2024-05-21 15:56:55,"2,013s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_2 Jornadas de atencion""))",Chrome 124.0.0.0,,,2024-05-21 15:56:55,2024-05-21 15:56:56,"0,564s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:56:56,2024-05-21 15:56:58,"2,002s",PASSED
+"click(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/0Principal/a_2 Jornadas""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:56:58,2024-05-21 15:56:59,"0,598s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:56:59,2024-05-21 15:57:01,"2,017s",PASSED
+"comment(""Se utiliza el boton limpiar, en la parte de edición"")",Chrome 124.0.0.0,,,2024-05-21 15:57:01,2024-05-21 15:57:01,"0,000s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/textarea_Descripcion""), ""Jornada Prueba"")",Chrome 124.0.0.0,,,2024-05-21 15:57:01,2024-05-21 15:57:02,"0,884s",PASSED
+for (def index : (1..8)),Chrome 124.0.0.0,,,2024-05-21 15:57:02,2024-05-21 15:57:05,"3,456s",PASSED
+for (def index : (1..10)),Chrome 124.0.0.0,,,2024-05-21 15:57:05,2024-05-21 15:57:09,"4,079s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 15:57:09,2024-05-21 15:57:10,"0,453s",PASSED
+"click(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_Limpiar""))",Chrome 124.0.0.0,,,2024-05-21 15:57:10,2024-05-21 15:57:10,"0,386s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:57:10,2024-05-21 15:57:12,"2,001s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 15:57:12,2024-05-21 15:57:12,"0,494s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:57:12,2024-05-21 15:57:14,"2,027s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 15:57:14,2024-05-21 15:57:14,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/2 Jornadas de Atencion/2 Jornadas/R87,Chrome 124.0.0.0,Boton Guardar,,2024-05-21 15:57:14,2024-05-21 15:57:54,"39,976s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:57:15,2024-05-21 15:57:29,"14,659s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 15:57:29,2024-05-21 15:57:30,"0,556s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:57:30,2024-05-21 15:57:32,"2,004s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_2 Jornadas de atencion""))",Chrome 124.0.0.0,,,2024-05-21 15:57:32,2024-05-21 15:57:32,"0,444s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:57:32,2024-05-21 15:57:34,"2,015s",PASSED
+"click(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/0Principal/a_2 Jornadas""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:57:34,2024-05-21 15:57:35,"0,596s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:57:35,2024-05-21 15:57:37,"2,010s",PASSED
+"comment(""Se verificará si funciona el boton guardar"")",Chrome 124.0.0.0,,,2024-05-21 15:57:37,2024-05-21 15:57:37,"0,000s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/textarea_Descripcion""), ""Jornada Prueba3"")",Chrome 124.0.0.0,,,2024-05-21 15:57:37,2024-05-21 15:57:38,"0,764s",PASSED
+for (def index : (1..8)),Chrome 124.0.0.0,,,2024-05-21 15:57:38,2024-05-21 15:57:41,"3,441s",PASSED
+for (def index : (1..17)),Chrome 124.0.0.0,,,2024-05-21 15:57:41,2024-05-21 15:57:49,"7,411s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/input_N Funcionarios""), ""2"")",Chrome 124.0.0.0,,,2024-05-21 15:57:49,2024-05-21 15:57:49,"0,797s",PASSED
+"click(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_Guardar""))",Chrome 124.0.0.0,,,2024-05-21 15:57:49,2024-05-21 15:57:50,"0,424s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:57:50,2024-05-21 15:57:52,"2,002s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 15:57:52,2024-05-21 15:57:52,"0,528s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:57:52,2024-05-21 15:57:54,"2,011s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 15:57:54,2024-05-21 15:57:54,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/2 Jornadas de Atencion/2 Jornadas/R88,Chrome 124.0.0.0,Captura de pantalla para mostrar los datos de la tabla,,2024-05-21 15:57:54,2024-05-21 15:58:18,"23,169s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:57:55,2024-05-21 15:58:09,"14,675s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 15:58:09,2024-05-21 15:58:10,"0,577s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:58:10,2024-05-21 15:58:12,"2,018s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_2 Jornadas de atencion""))",Chrome 124.0.0.0,,,2024-05-21 15:58:12,2024-05-21 15:58:13,"0,502s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:58:13,2024-05-21 15:58:15,"2,014s",PASSED
+"click(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/0Principal/a_2 Jornadas""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:58:15,2024-05-21 15:58:15,"0,557s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:58:15,2024-05-21 15:58:17,"2,012s",PASSED
+"comment(""Captura para mostrar los datos d ela tabla y ver si salen correctos."")",Chrome 124.0.0.0,,,2024-05-21 15:58:17,2024-05-21 15:58:17,"0,000s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 15:58:17,2024-05-21 15:58:18,"0,452s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 15:58:18,2024-05-21 15:58:18,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/2 Jornadas de Atencion/2 Jornadas/R89,Chrome 124.0.0.0,Eliminar una jornada,,2024-05-21 15:58:18,2024-05-21 15:59:12,"54,146s",FAILED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:58:18,2024-05-21 15:58:33,"14,734s",PASSED
+"comment(""Se eliminará una jornada"")",Chrome 124.0.0.0,,,2024-05-21 15:58:33,2024-05-21 15:58:33,"0,000s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 15:58:33,2024-05-21 15:58:33,"0,556s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:58:33,2024-05-21 15:58:35,"2,005s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_2 Jornadas de atencion""))",Chrome 124.0.0.0,,,2024-05-21 15:58:35,2024-05-21 15:58:36,"0,530s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:58:36,2024-05-21 15:58:38,"2,020s",PASSED
+"click(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/0Principal/a_2 Jornadas""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:58:38,2024-05-21 15:58:38,"0,571s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:58:38,2024-05-21 15:58:40,"2,013s",PASSED
+"click(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Jornadas/Lista Jornadas/a_8 Prueba_Borrar""))",Chrome 124.0.0.0,,,2024-05-21 15:58:40,2024-05-21 15:59:12,"31,387s",FAILED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 15:59:12,2024-05-21 15:59:12,"0,000s",PASSED

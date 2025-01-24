@@ -1,0 +1,134 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+4 Mensajes de Inicio,Chrome 124.0.0.0,,,2024-05-21 16:28:45,2024-05-21 16:32:46,"4m - 0,278s",PASSED
+,,,,,,,
+Test Cases/Configuracion/4 Sistema/4 Mensaje de Inicio/R155,Chrome 124.0.0.0,Verificar elementos en pantalla mensaje de inicio,,2024-05-21 16:28:45,2024-05-21 16:29:16,"30,305s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:28:46,2024-05-21 16:29:01,"15,664s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:29:01,2024-05-21 16:29:02,"0,542s",PASSED
+delay(3),Chrome 124.0.0.0,,,2024-05-21 16:29:02,2024-05-21 16:29:05,"3,007s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_4 Sistema""))",Chrome 124.0.0.0,,,2024-05-21 16:29:05,2024-05-21 16:29:06,"0,599s",PASSED
+delay(3),Chrome 124.0.0.0,,,2024-05-21 16:29:06,2024-05-21 16:29:09,"3,013s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/0Principal/a_4 Mensajes de inicio""))",Chrome 124.0.0.0,,,2024-05-21 16:29:09,2024-05-21 16:29:10,"0,911s",PASSED
+delay(3),Chrome 124.0.0.0,,,2024-05-21 16:29:10,2024-05-21 16:29:13,"3,011s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/4Sistema/4Mensajes de Inicio/Ventana Modal Clientes/btn_VistaPreviaUsuario""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:29:13,2024-05-21 16:29:13,"0,427s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/4Sistema/4Mensajes de Inicio/Ventana Modal Clientes/label_Habilitado""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:29:13,2024-05-21 16:29:13,"0,388s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/4Sistema/4Mensajes de Inicio/Ventana Modal Clientes/a_ModalVistaPrevia_Cerrar""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:29:13,2024-05-21 16:29:14,"0,397s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/4Sistema/4Mensajes de Inicio/Ventana Modal Administradores/btn_Guardar""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:29:14,2024-05-21 16:29:14,"0,340s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/4Sistema/4Mensajes de Inicio/Ventana Modal Administradores/label_Habilitado""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:29:14,2024-05-21 16:29:14,"0,360s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/4Sistema/4Mensajes de Inicio/Ventana Modal Administradores/btn_VistaPreviaAdmin""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:29:14,2024-05-21 16:29:15,"0,389s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:29:15,2024-05-21 16:29:16,"0,921s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:29:16,2024-05-21 16:29:16,"0,007s",PASSED
+,,,,,,,
+Test Cases/Configuracion/4 Sistema/4 Mensaje de Inicio/R156,Chrome 124.0.0.0,Ventana Modal cliente,,2024-05-21 16:29:16,2024-05-21 16:29:51,"35,295s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:29:16,2024-05-21 16:29:31,"14,685s",PASSED
+"comment(""Ventana Modal Cliente Ingresar texto distinto"")",Chrome 124.0.0.0,,,2024-05-21 16:29:31,2024-05-21 16:29:31,"0,016s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:29:31,2024-05-21 16:29:31,"0,612s",PASSED
+delay(3),Chrome 124.0.0.0,,,2024-05-21 16:29:31,2024-05-21 16:29:34,"3,007s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_4 Sistema""))",Chrome 124.0.0.0,,,2024-05-21 16:29:34,2024-05-21 16:29:35,"0,551s",PASSED
+delay(3),Chrome 124.0.0.0,,,2024-05-21 16:29:35,2024-05-21 16:29:38,"3,012s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/0Principal/a_4 Mensajes de inicio""))",Chrome 124.0.0.0,,,2024-05-21 16:29:38,2024-05-21 16:29:39,"0,768s",PASSED
+delay(3),Chrome 124.0.0.0,,,2024-05-21 16:29:39,2024-05-21 16:29:42,"3,005s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/4Mensajes de Inicio/Ventana Modal Clientes/Mensaje Principal/img_Modo HTML MenPrincipal""))",Chrome 124.0.0.0,,,2024-05-21 16:29:42,2024-05-21 16:29:42,"0,482s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/4Sistema/4Mensajes de Inicio/Ventana Modal Clientes/Mensaje Principal/textarea_Modo HTML Mensaje Principal""), TextoPrueba)",Chrome 124.0.0.0,,,2024-05-21 16:29:42,2024-05-21 16:29:43,"0,864s",PASSED
+delay(3),Chrome 124.0.0.0,,,2024-05-21 16:29:43,2024-05-21 16:29:46,"3,003s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/4Mensajes de Inicio/Ventana Modal Clientes/Mensaje Adicional/img_Modo HTML MenAdicional""))",Chrome 124.0.0.0,,,2024-05-21 16:29:46,2024-05-21 16:29:47,"0,463s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/4Sistema/4Mensajes de Inicio/Ventana Modal Clientes/Mensaje Adicional/textarea_Modo HTML MenAdicional""), TextoPrueba)",Chrome 124.0.0.0,,,2024-05-21 16:29:47,2024-05-21 16:29:47,"0,856s",PASSED
+delay(3),Chrome 124.0.0.0,,,2024-05-21 16:29:47,2024-05-21 16:29:51,"3,011s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:29:51,2024-05-21 16:29:51,"0,593s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:29:51,2024-05-21 16:29:51,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/4 Sistema/4 Mensaje de Inicio/R157,Chrome 124.0.0.0,Ventana Modal Cliente Vista Previa,,2024-05-21 16:29:51,2024-05-21 16:30:30,"38,905s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:29:51,2024-05-21 16:30:06,"14,571s",PASSED
+"comment(""Ventana Modal Cliente Vista Previa"")",Chrome 124.0.0.0,,,2024-05-21 16:30:06,2024-05-21 16:30:06,"0,000s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:30:06,2024-05-21 16:30:07,"0,581s",PASSED
+delay(3),Chrome 124.0.0.0,,,2024-05-21 16:30:07,2024-05-21 16:30:10,"3,016s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_4 Sistema""))",Chrome 124.0.0.0,,,2024-05-21 16:30:10,2024-05-21 16:30:10,"0,533s",PASSED
+delay(3),Chrome 124.0.0.0,,,2024-05-21 16:30:10,2024-05-21 16:30:13,"3,015s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/0Principal/a_4 Mensajes de inicio""))",Chrome 124.0.0.0,,,2024-05-21 16:30:13,2024-05-21 16:30:14,"0,745s",PASSED
+delay(3),Chrome 124.0.0.0,,,2024-05-21 16:30:14,2024-05-21 16:30:17,"3,010s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/4Mensajes de Inicio/Ventana Modal Clientes/Mensaje Principal/img_Modo HTML MenPrincipal""))",Chrome 124.0.0.0,,,2024-05-21 16:30:17,2024-05-21 16:30:17,"0,473s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/4Sistema/4Mensajes de Inicio/Ventana Modal Clientes/Mensaje Principal/textarea_Modo HTML Mensaje Principal""), TextoPrueba)",Chrome 124.0.0.0,,,2024-05-21 16:30:17,2024-05-21 16:30:18,"0,841s",PASSED
+delay(3),Chrome 124.0.0.0,,,2024-05-21 16:30:18,2024-05-21 16:30:21,"3,017s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/4Mensajes de Inicio/Ventana Modal Clientes/Mensaje Adicional/img_Modo HTML MenAdicional""))",Chrome 124.0.0.0,,,2024-05-21 16:30:21,2024-05-21 16:30:22,"0,374s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/4Sistema/4Mensajes de Inicio/Ventana Modal Clientes/Mensaje Adicional/textarea_Modo HTML MenAdicional""), TextoPrueba)",Chrome 124.0.0.0,,,2024-05-21 16:30:22,2024-05-21 16:30:22,"0,756s",PASSED
+delay(3),Chrome 124.0.0.0,,,2024-05-21 16:30:22,2024-05-21 16:30:25,"3,003s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:30:25,2024-05-21 16:30:26,"0,576s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/4Mensajes de Inicio/Ventana Modal Clientes/btn_VistaPreviaUsuario""))",Chrome 124.0.0.0,,,2024-05-21 16:30:26,2024-05-21 16:30:26,"0,459s",PASSED
+delay(3),Chrome 124.0.0.0,,,2024-05-21 16:30:26,2024-05-21 16:30:29,"3,006s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:30:29,2024-05-21 16:30:30,"0,623s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:30:30,2024-05-21 16:30:30,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/4 Sistema/4 Mensaje de Inicio/R158,Chrome 124.0.0.0,Texto de prueba en Campo de Mensaje Principal,,2024-05-21 16:30:30,2024-05-21 16:31:01,"31,380s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:30:31,2024-05-21 16:30:45,"14,636s",PASSED
+"comment(""Ventana Modal Administrador Texto De Prueba"")",Chrome 124.0.0.0,,,2024-05-21 16:30:45,2024-05-21 16:30:45,"0,000s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:30:45,2024-05-21 16:30:46,"0,541s",PASSED
+delay(3),Chrome 124.0.0.0,,,2024-05-21 16:30:46,2024-05-21 16:30:49,"3,011s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_4 Sistema""))",Chrome 124.0.0.0,,,2024-05-21 16:30:49,2024-05-21 16:30:50,"0,583s",PASSED
+delay(3),Chrome 124.0.0.0,,,2024-05-21 16:30:50,2024-05-21 16:30:53,"3,011s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/0Principal/a_4 Mensajes de inicio""))",Chrome 124.0.0.0,,,2024-05-21 16:30:53,2024-05-21 16:30:53,"0,743s",PASSED
+delay(3),Chrome 124.0.0.0,,,2024-05-21 16:30:53,2024-05-21 16:30:56,"3,013s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/4Mensajes de Inicio/Ventana Modal Administradores/Mensaje Principal/img_Modo HTML MenPrincipal""))",Chrome 124.0.0.0,,,2024-05-21 16:30:56,2024-05-21 16:30:57,"0,444s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/4Sistema/4Mensajes de Inicio/Ventana Modal Administradores/Mensaje Principal/textarea_Modo HTML MenPrincipal""), TextoPrueba)",Chrome 124.0.0.0,,,2024-05-21 16:30:57,2024-05-21 16:30:58,"0,886s",PASSED
+delay(3),Chrome 124.0.0.0,,,2024-05-21 16:30:58,2024-05-21 16:31:01,"3,002s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:31:01,2024-05-21 16:31:01,"0,680s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:31:01,2024-05-21 16:31:01,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/4 Sistema/4 Mensaje de Inicio/R159,Chrome 124.0.0.0,Modal Administrador Mensaje Principal Vista previa,,2024-05-21 16:31:01,2024-05-21 16:31:40,"38,151s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:31:02,2024-05-21 16:31:16,"14,687s",PASSED
+"comment(""Ventana Modal Administrador vista Previa"")",Chrome 124.0.0.0,,,2024-05-21 16:31:16,2024-05-21 16:31:16,"0,000s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:31:16,2024-05-21 16:31:17,"0,579s",PASSED
+delay(3),Chrome 124.0.0.0,,,2024-05-21 16:31:17,2024-05-21 16:31:20,"3,008s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_4 Sistema""))",Chrome 124.0.0.0,,,2024-05-21 16:31:20,2024-05-21 16:31:21,"0,608s",PASSED
+delay(3),Chrome 124.0.0.0,,,2024-05-21 16:31:21,2024-05-21 16:31:24,"3,007s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/0Principal/a_4 Mensajes de inicio""))",Chrome 124.0.0.0,,,2024-05-21 16:31:24,2024-05-21 16:31:24,"0,735s",PASSED
+delay(3),Chrome 124.0.0.0,,,2024-05-21 16:31:24,2024-05-21 16:31:27,"3,019s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/4Mensajes de Inicio/Ventana Modal Administradores/Mensaje Principal/img_Modo HTML MenPrincipal""))",Chrome 124.0.0.0,,,2024-05-21 16:31:27,2024-05-21 16:31:28,"0,417s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/4Sistema/4Mensajes de Inicio/Ventana Modal Administradores/Mensaje Principal/textarea_Modo HTML MenPrincipal""), TextoPrueba)",Chrome 124.0.0.0,,,2024-05-21 16:31:28,2024-05-21 16:31:29,"0,733s",PASSED
+delay(3),Chrome 124.0.0.0,,,2024-05-21 16:31:29,2024-05-21 16:31:32,"3,013s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:31:32,2024-05-21 16:31:32,"0,785s",PASSED
+delay(3),Chrome 124.0.0.0,,,2024-05-21 16:31:32,2024-05-21 16:31:35,"3,026s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/4Mensajes de Inicio/Ventana Modal Administradores/btn_VistaPreviaAdmin""))",Chrome 124.0.0.0,,,2024-05-21 16:31:35,2024-05-21 16:31:36,"0,471s",PASSED
+delay(3),Chrome 124.0.0.0,,,2024-05-21 16:31:36,2024-05-21 16:31:39,"3,011s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:31:39,2024-05-21 16:31:40,"0,720s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:31:40,2024-05-21 16:31:40,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/4 Sistema/4 Mensaje de Inicio/R160,Chrome 124.0.0.0,Guardar Cambios,,2024-05-21 16:31:40,2024-05-21 16:32:46,"1m - 5,961s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:31:40,2024-05-21 16:31:55,"14,854s",PASSED
+"comment(""Ventana Modal Administrador Guardar Cambios"")",Chrome 124.0.0.0,,,2024-05-21 16:31:55,2024-05-21 16:31:55,"0,000s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:31:55,2024-05-21 16:31:55,"0,575s",PASSED
+delay(3),Chrome 124.0.0.0,,,2024-05-21 16:31:55,2024-05-21 16:31:58,"3,008s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_4 Sistema""))",Chrome 124.0.0.0,,,2024-05-21 16:31:58,2024-05-21 16:31:59,"0,588s",PASSED
+delay(3),Chrome 124.0.0.0,,,2024-05-21 16:31:59,2024-05-21 16:32:02,"3,010s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/0Principal/a_4 Mensajes de inicio""))",Chrome 124.0.0.0,,,2024-05-21 16:32:02,2024-05-21 16:32:03,"0,723s",PASSED
+delay(3),Chrome 124.0.0.0,,,2024-05-21 16:32:03,2024-05-21 16:32:06,"3,018s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/4Mensajes de Inicio/Ventana Modal Administradores/Mensaje Principal/img_Modo HTML MenPrincipal""))",Chrome 124.0.0.0,,,2024-05-21 16:32:06,2024-05-21 16:32:06,"0,450s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/4Sistema/4Mensajes de Inicio/Ventana Modal Administradores/Mensaje Principal/textarea_Modo HTML MenPrincipal""), TextoPrueba)",Chrome 124.0.0.0,,,2024-05-21 16:32:06,2024-05-21 16:32:07,"0,845s",PASSED
+delay(3),Chrome 124.0.0.0,,,2024-05-21 16:32:07,2024-05-21 16:32:10,"3,014s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:32:10,2024-05-21 16:32:11,"0,767s",PASSED
+delay(3),Chrome 124.0.0.0,,,2024-05-21 16:32:11,2024-05-21 16:32:14,"3,011s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/4Mensajes de Inicio/Ventana Modal Administradores/label_Habilitado""))",Chrome 124.0.0.0,,,2024-05-21 16:32:14,2024-05-21 16:32:14,"0,408s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/4Mensajes de Inicio/Ventana Modal Administradores/btn_Guardar""))",Chrome 124.0.0.0,,,2024-05-21 16:32:14,2024-05-21 16:32:15,"0,411s",PASSED
+delay(3),Chrome 124.0.0.0,,,2024-05-21 16:32:15,2024-05-21 16:32:18,"3,013s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:32:18,2024-05-21 16:32:18,"0,670s",PASSED
+"click(findTestObject(""ADM/0Inicio Sesion/Boton Ciel/a_Ciel""))",Chrome 124.0.0.0,,,2024-05-21 16:32:18,2024-05-21 16:32:19,"0,513s",PASSED
+"click(findTestObject(""ADM/0Inicio Sesion/Boton Ciel/a_Cerrar sesion""))",Chrome 124.0.0.0,,,2024-05-21 16:32:19,2024-05-21 16:32:19,"0,644s",PASSED
+delay(3),Chrome 124.0.0.0,,,2024-05-21 16:32:19,2024-05-21 16:32:22,"3,016s",PASSED
+"click(findTestObject(""ADM/0Inicio Sesion/a_Cerrar Modal""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:32:22,2024-05-21 16:32:23,"0,417s",PASSED
+"setText(findTestObject(""ADM/0Inicio Sesion/input_Usuario""), Usuario)",Chrome 124.0.0.0,,,2024-05-21 16:32:23,2024-05-21 16:32:24,"1,152s",PASSED
+"setText(findTestObject(""ADM/0Inicio Sesion/input_Clave""), Clave)",Chrome 124.0.0.0,,,2024-05-21 16:32:24,2024-05-21 16:32:25,"0,839s",PASSED
+"click(findTestObject(""ADM/0Inicio Sesion/btn_IniciarSesion""))",Chrome 124.0.0.0,,,2024-05-21 16:32:25,2024-05-21 16:32:25,"0,417s",PASSED
+"comment(""Deshabilitar mensaje Administrador"")",Chrome 124.0.0.0,,,2024-05-21 16:32:25,2024-05-21 16:32:25,"0,000s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:32:25,2024-05-21 16:32:26,"0,848s",PASSED
+delay(3),Chrome 124.0.0.0,,,2024-05-21 16:32:26,2024-05-21 16:32:29,"3,016s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_4 Sistema""))",Chrome 124.0.0.0,,,2024-05-21 16:32:29,2024-05-21 16:32:30,"0,545s",PASSED
+delay(3),Chrome 124.0.0.0,,,2024-05-21 16:32:30,2024-05-21 16:32:33,"3,006s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/0Principal/a_4 Mensajes de inicio""))",Chrome 124.0.0.0,,,2024-05-21 16:32:33,2024-05-21 16:32:33,"0,666s",PASSED
+delay(3),Chrome 124.0.0.0,,,2024-05-21 16:32:33,2024-05-21 16:32:36,"3,004s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/4Mensajes de Inicio/Ventana Modal Administradores/label_Habilitado""))",Chrome 124.0.0.0,,,2024-05-21 16:32:36,2024-05-21 16:32:37,"0,445s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/4Mensajes de Inicio/Ventana Modal Administradores/btn_Guardar""))",Chrome 124.0.0.0,,,2024-05-21 16:32:37,2024-05-21 16:32:37,"0,409s",PASSED
+delay(3),Chrome 124.0.0.0,,,2024-05-21 16:32:37,2024-05-21 16:32:40,"3,005s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:32:40,2024-05-21 16:32:41,"0,686s",PASSED
+"click(findTestObject(""ADM/0Inicio Sesion/Boton Ciel/a_Ciel""))",Chrome 124.0.0.0,,,2024-05-21 16:32:41,2024-05-21 16:32:41,"0,459s",PASSED
+"click(findTestObject(""ADM/0Inicio Sesion/Boton Ciel/a_Cerrar sesion""))",Chrome 124.0.0.0,,,2024-05-21 16:32:41,2024-05-21 16:32:42,"0,601s",PASSED
+delay(3),Chrome 124.0.0.0,,,2024-05-21 16:32:42,2024-05-21 16:32:45,"3,014s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:32:45,2024-05-21 16:32:46,"0,482s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:32:46,2024-05-21 16:32:46,"0,000s",PASSED

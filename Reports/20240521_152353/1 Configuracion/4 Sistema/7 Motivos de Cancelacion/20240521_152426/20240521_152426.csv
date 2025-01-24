@@ -1,0 +1,83 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+7 Motivos de Cancelacion,Chrome 124.0.0.0,,,2024-05-21 16:37:26,2024-05-21 16:40:20,"2m - 53,657s",FAILED
+,,,,,,,
+Test Cases/Configuracion/4 Sistema/7 Motivos de Cancelacion/R175,Chrome 124.0.0.0,Verfificacion elementos en pagina motivos de cancelacion,,2024-05-21 16:37:27,2024-05-21 16:37:54,"27,005s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:37:27,2024-05-21 16:37:43,"16,216s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:37:43,2024-05-21 16:37:44,"0,600s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:37:44,2024-05-21 16:37:46,"2,011s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_4 Sistema""))",Chrome 124.0.0.0,,,2024-05-21 16:37:46,2024-05-21 16:37:46,"0,541s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:37:46,2024-05-21 16:37:48,"2,009s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/0Principal/a_7 Motivos de cancelacion""))",Chrome 124.0.0.0,,,2024-05-21 16:37:48,2024-05-21 16:37:49,"0,598s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:37:49,2024-05-21 16:37:51,"2,018s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/4Sistema/7Motivos de Cancelacion/Edicion/btn_Guardar""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:37:51,2024-05-21 16:37:51,"0,407s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/4Sistema/7Motivos de Cancelacion/Edicion/btn_Limpiar""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:37:51,2024-05-21 16:37:52,"0,392s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/4Sistema/7Motivos de Cancelacion/Edicion/input_Nombre""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:37:52,2024-05-21 16:37:52,"0,407s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/4Sistema/7Motivos de Cancelacion/Edicion/select_Tipo de Motivo""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:37:52,2024-05-21 16:37:52,"0,361s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/4Sistema/7Motivos de Cancelacion/Edicion/textarea_Descripcion""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:37:52,2024-05-21 16:37:53,"0,377s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:37:53,2024-05-21 16:37:54,"0,735s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:37:54,2024-05-21 16:37:54,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/4 Sistema/7 Motivos de Cancelacion/R176,Chrome 124.0.0.0,Campo nombre caracteres alfabeticos,,2024-05-21 16:37:54,2024-05-21 16:38:18,"24,786s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:37:54,2024-05-21 16:38:09,"14,641s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:38:09,2024-05-21 16:38:09,"0,533s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:38:09,2024-05-21 16:38:11,"2,013s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_4 Sistema""))",Chrome 124.0.0.0,,,2024-05-21 16:38:11,2024-05-21 16:38:12,"0,532s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:38:12,2024-05-21 16:38:14,"2,016s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/0Principal/a_7 Motivos de cancelacion""))",Chrome 124.0.0.0,,,2024-05-21 16:38:14,2024-05-21 16:38:14,"0,566s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:38:14,2024-05-21 16:38:16,"2,016s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/4Sistema/7Motivos de Cancelacion/Edicion/input_Nombre""), CampoPrueba)",Chrome 124.0.0.0,,,2024-05-21 16:38:16,2024-05-21 16:38:17,"0,830s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/4Sistema/7Motivos de Cancelacion/Edicion/textarea_Descripcion""), CampoPrueba)",Chrome 124.0.0.0,,,2024-05-21 16:38:17,2024-05-21 16:38:18,"0,811s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:38:18,2024-05-21 16:38:18,"0,525s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:38:18,2024-05-21 16:38:18,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/4 Sistema/7 Motivos de Cancelacion/R177,Chrome 124.0.0.0,Boton Limpiar,,2024-05-21 16:38:18,2024-05-21 16:38:46,"27,909s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:38:19,2024-05-21 16:38:33,"14,610s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:38:33,2024-05-21 16:38:34,"0,552s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:38:34,2024-05-21 16:38:36,"2,001s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_4 Sistema""))",Chrome 124.0.0.0,,,2024-05-21 16:38:36,2024-05-21 16:38:36,"0,550s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:38:36,2024-05-21 16:38:38,"2,003s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/0Principal/a_7 Motivos de cancelacion""))",Chrome 124.0.0.0,,,2024-05-21 16:38:38,2024-05-21 16:38:39,"0,573s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:38:39,2024-05-21 16:38:41,"2,008s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/4Sistema/7Motivos de Cancelacion/Edicion/input_Nombre""), CampoPrueba)",Chrome 124.0.0.0,,,2024-05-21 16:38:41,2024-05-21 16:38:42,"0,865s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/4Sistema/7Motivos de Cancelacion/Edicion/textarea_Descripcion""), CampoPrueba)",Chrome 124.0.0.0,,,2024-05-21 16:38:42,2024-05-21 16:38:43,"0,815s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:38:43,2024-05-21 16:38:43,"0,615s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:38:43,2024-05-21 16:38:45,"2,006s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/7Motivos de Cancelacion/Edicion/btn_Limpiar""))",Chrome 124.0.0.0,,,2024-05-21 16:38:45,2024-05-21 16:38:46,"0,453s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:38:46,2024-05-21 16:38:46,"0,580s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:38:46,2024-05-21 16:38:46,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/4 Sistema/7 Motivos de Cancelacion/R178,Chrome 124.0.0.0,Boton Guardar elemento prueba,,2024-05-21 16:38:46,2024-05-21 16:39:17,"30,681s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:38:47,2024-05-21 16:39:01,"14,658s",PASSED
+"comment(""Boton Guardar"")",Chrome 124.0.0.0,,,2024-05-21 16:39:01,2024-05-21 16:39:01,"0,000s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:39:01,2024-05-21 16:39:02,"0,506s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:39:02,2024-05-21 16:39:04,"2,004s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_4 Sistema""))",Chrome 124.0.0.0,,,2024-05-21 16:39:04,2024-05-21 16:39:04,"0,548s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:39:04,2024-05-21 16:39:06,"2,002s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/0Principal/a_7 Motivos de cancelacion""))",Chrome 124.0.0.0,,,2024-05-21 16:39:06,2024-05-21 16:39:07,"0,529s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:39:07,2024-05-21 16:39:09,"2,002s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/4Sistema/7Motivos de Cancelacion/Edicion/input_Nombre""), ""Prueba"")",Chrome 124.0.0.0,,,2024-05-21 16:39:09,2024-05-21 16:39:10,"0,708s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/4Sistema/7Motivos de Cancelacion/Edicion/textarea_Descripcion""), ""Prueba"")",Chrome 124.0.0.0,,,2024-05-21 16:39:10,2024-05-21 16:39:10,"0,763s",PASSED
+"selectOptionByIndex(findTestObject(""ADM/1Configuracion/4Sistema/7Motivos de Cancelacion/Edicion/select_Tipo de Motivo""), 1)",Chrome 124.0.0.0,,,2024-05-21 16:39:10,2024-05-21 16:39:12,"1,140s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:39:12,2024-05-21 16:39:12,"0,476s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:39:12,2024-05-21 16:39:14,"2,009s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/7Motivos de Cancelacion/Edicion/btn_Guardar""))",Chrome 124.0.0.0,,,2024-05-21 16:39:14,2024-05-21 16:39:14,"0,457s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:39:14,2024-05-21 16:39:16,"2,003s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:39:16,2024-05-21 16:39:17,"0,513s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:39:17,2024-05-21 16:39:17,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/4 Sistema/7 Motivos de Cancelacion/R179,Chrome 124.0.0.0,Verificar listado,,2024-05-21 16:39:17,2024-05-21 16:39:23,"6,342s",FAILED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:39:17,2024-05-21 16:39:23,"5,915s",FAILED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:39:23,2024-05-21 16:39:23,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/4 Sistema/7 Motivos de Cancelacion/R180,Chrome 124.0.0.0,Boton Eliminar,,2024-05-21 16:39:23,2024-05-21 16:40:20,"56,671s",FAILED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:39:24,2024-05-21 16:39:39,"14,772s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:39:39,2024-05-21 16:39:39,"0,564s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:39:39,2024-05-21 16:39:41,"2,007s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_4 Sistema""))",Chrome 124.0.0.0,,,2024-05-21 16:39:41,2024-05-21 16:39:42,"0,542s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:39:42,2024-05-21 16:39:44,"2,012s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/0Principal/a_7 Motivos de cancelacion""))",Chrome 124.0.0.0,,,2024-05-21 16:39:44,2024-05-21 16:39:44,"0,572s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:39:44,2024-05-21 16:39:46,"2,002s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:39:46,2024-05-21 16:39:47,"0,567s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:39:47,2024-05-21 16:39:49,"2,008s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/7Motivos de Cancelacion/Lista de Motivos de Cancelacion/a_3 Prueba_Borrar""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:39:49,2024-05-21 16:40:20,"31,210s",FAILED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:40:20,2024-05-21 16:40:20,"0,001s",PASSED

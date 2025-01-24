@@ -1,0 +1,112 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+1 Roles,Chrome 124.0.0.0,,,2024-05-21 16:03:44,2024-05-21 16:06:52,"3m - 7,571s",PASSED
+,,,,,,,
+Test Cases/Configuracion/3 Seguridad/1 Roles/R101,Chrome 124.0.0.0,Seguridad,,2024-05-21 16:03:45,2024-05-21 16:04:09,"24,056s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:03:45,2024-05-21 16:04:01,"15,729s",PASSED
+"comment(""Verificar que los iconos de Seguridad estén presentes"")",Chrome 124.0.0.0,,,2024-05-21 16:04:01,2024-05-21 16:04:01,"0,000s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:04:01,2024-05-21 16:04:01,"0,560s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:04:01,2024-05-21 16:04:03,"2,002s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_3 Seguridad""))",Chrome 124.0.0.0,,,2024-05-21 16:04:03,2024-05-21 16:04:05,"1,680s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:04:05,2024-05-21 16:04:07,"2,004s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/3Seguridad/0Principal/a_1 Roles""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:04:07,2024-05-21 16:04:07,"0,361s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/3Seguridad/0Principal/a_2 Paginas por rol""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:04:07,2024-05-21 16:04:08,"0,361s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/3Seguridad/0Principal/a_3 Funcionarios""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:04:08,2024-05-21 16:04:08,"0,360s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:04:08,2024-05-21 16:04:09,"0,635s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:04:09,2024-05-21 16:04:09,"0,015s",PASSED
+,,,,,,,
+Test Cases/Configuracion/3 Seguridad/1 Roles/R102,Chrome 124.0.0.0,Roles,,2024-05-21 16:04:09,2024-05-21 16:04:34,"24,935s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:04:09,2024-05-21 16:04:24,"14,792s",PASSED
+"comment(""Vderificar los elementos que aparecen en roles"")",Chrome 124.0.0.0,,,2024-05-21 16:04:24,2024-05-21 16:04:24,"0,000s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:04:24,2024-05-21 16:04:24,"0,616s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:04:24,2024-05-21 16:04:26,"2,012s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_3 Seguridad""))",Chrome 124.0.0.0,,,2024-05-21 16:04:26,2024-05-21 16:04:27,"0,547s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:04:27,2024-05-21 16:04:29,"2,019s",PASSED
+"click(findTestObject(""ADM/1Configuracion/3Seguridad/0Principal/a_1 Roles""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:04:29,2024-05-21 16:04:30,"0,562s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:04:30,2024-05-21 16:04:32,"2,005s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/3Seguridad/1Roles/Edicion/input_Nombre""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:04:32,2024-05-21 16:04:32,"0,377s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/3Seguridad/1Roles/Edicion/textarea_Descripcion""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:04:32,2024-05-21 16:04:32,"0,361s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/3Seguridad/1Roles/Edicion/btn_Guardar""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:04:32,2024-05-21 16:04:33,"0,409s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/3Seguridad/1Roles/Edicion/btn_Limpiar""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:04:33,2024-05-21 16:04:33,"0,393s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:04:33,2024-05-21 16:04:34,"0,531s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:04:34,2024-05-21 16:04:34,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/3 Seguridad/1 Roles/R103,Chrome 124.0.0.0,"Campo nombre recibe mayusculas o minúsculas, pero convertirá el nombre en minúsculas al guardar",,2024-05-21 16:04:34,2024-05-21 16:05:03,"29,860s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:04:34,2024-05-21 16:04:49,"14,651s",PASSED
+"comment(""Al crear un nombre en mayúsculas y guardar, este se guardará en minúsculas"")",Chrome 124.0.0.0,,,2024-05-21 16:04:49,2024-05-21 16:04:49,"0,006s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:04:49,2024-05-21 16:04:49,"0,550s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:04:49,2024-05-21 16:04:51,"2,021s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_3 Seguridad""))",Chrome 124.0.0.0,,,2024-05-21 16:04:51,2024-05-21 16:04:52,"0,505s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:04:52,2024-05-21 16:04:54,"2,009s",PASSED
+"click(findTestObject(""ADM/1Configuracion/3Seguridad/0Principal/a_1 Roles""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:04:54,2024-05-21 16:04:54,"0,575s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:04:54,2024-05-21 16:04:56,"2,009s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/3Seguridad/1Roles/Edicion/input_Nombre""), ""MINUSCULAS"")",Chrome 124.0.0.0,,,2024-05-21 16:04:56,2024-05-21 16:04:57,"0,877s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/3Seguridad/1Roles/Edicion/textarea_Descripcion""), ""Se guardará en minúsculas"")",Chrome 124.0.0.0,,,2024-05-21 16:04:57,2024-05-21 16:04:58,"0,851s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:04:58,2024-05-21 16:04:58,"0,493s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:04:58,2024-05-21 16:05:00,"2,002s",PASSED
+"click(findTestObject(""ADM/1Configuracion/3Seguridad/1Roles/Edicion/btn_Guardar""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:05:00,2024-05-21 16:05:01,"0,500s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:05:01,2024-05-21 16:05:03,"2,020s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:05:03,2024-05-21 16:05:03,"0,492s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:05:03,2024-05-21 16:05:03,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/3 Seguridad/1 Roles/R104,Chrome 124.0.0.0,Botón Limpiar,,2024-05-21 16:05:03,2024-05-21 16:05:33,"30,026s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:05:04,2024-05-21 16:05:19,"14,771s",PASSED
+"comment(""Al hacer click en limpiar, los datos ingresados se borrarán"")",Chrome 124.0.0.0,,,2024-05-21 16:05:19,2024-05-21 16:05:19,"0,000s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:05:19,2024-05-21 16:05:19,"0,561s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:05:19,2024-05-21 16:05:21,"2,015s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_3 Seguridad""))",Chrome 124.0.0.0,,,2024-05-21 16:05:21,2024-05-21 16:05:22,"0,496s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:05:22,2024-05-21 16:05:24,"2,006s",PASSED
+"click(findTestObject(""ADM/1Configuracion/3Seguridad/0Principal/a_1 Roles""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:05:24,2024-05-21 16:05:24,"0,559s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:05:24,2024-05-21 16:05:26,"2,004s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/3Seguridad/1Roles/Edicion/input_Nombre""), ""Prueba Limpiar"")",Chrome 124.0.0.0,,,2024-05-21 16:05:26,2024-05-21 16:05:27,"0,856s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/3Seguridad/1Roles/Edicion/textarea_Descripcion""), ""Prueba Botón Limpiar"")",Chrome 124.0.0.0,,,2024-05-21 16:05:27,2024-05-21 16:05:28,"0,842s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:05:28,2024-05-21 16:05:28,"0,565s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:05:28,2024-05-21 16:05:30,"2,007s",PASSED
+"click(findTestObject(""ADM/1Configuracion/3Seguridad/1Roles/Edicion/btn_Limpiar""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:05:30,2024-05-21 16:05:31,"0,472s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:05:31,2024-05-21 16:05:33,"2,005s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:05:33,2024-05-21 16:05:33,"0,506s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:05:33,2024-05-21 16:05:33,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/3 Seguridad/1 Roles/R105,Chrome 124.0.0.0,Boton Guardar,,2024-05-21 16:05:33,2024-05-21 16:06:01,"27,176s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:05:34,2024-05-21 16:05:48,"14,643s",PASSED
+"comment(""Boton Guardar"")",Chrome 124.0.0.0,,,2024-05-21 16:05:49,2024-05-21 16:05:49,"0,000s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:05:49,2024-05-21 16:05:49,"0,551s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:05:49,2024-05-21 16:05:51,"2,002s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_3 Seguridad""))",Chrome 124.0.0.0,,,2024-05-21 16:05:51,2024-05-21 16:05:52,"0,585s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:05:52,2024-05-21 16:05:54,"2,014s",PASSED
+"click(findTestObject(""ADM/1Configuracion/3Seguridad/0Principal/a_1 Roles""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:05:54,2024-05-21 16:05:54,"0,535s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:05:54,2024-05-21 16:05:56,"2,000s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/3Seguridad/1Roles/Edicion/input_Nombre""), ""Prueba2"")",Chrome 124.0.0.0,,,2024-05-21 16:05:56,2024-05-21 16:05:57,"0,770s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/3Seguridad/1Roles/Edicion/textarea_Descripcion""), ""Prueba2"")",Chrome 124.0.0.0,,,2024-05-21 16:05:57,2024-05-21 16:05:58,"0,735s",PASSED
+"click(findTestObject(""ADM/1Configuracion/3Seguridad/1Roles/Edicion/btn_Guardar""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:05:58,2024-05-21 16:05:58,"0,416s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:05:58,2024-05-21 16:06:00,"2,000s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:06:00,2024-05-21 16:06:01,"0,529s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:06:01,2024-05-21 16:06:01,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/3 Seguridad/1 Roles/R106,Chrome 124.0.0.0,Lista de Roles,,2024-05-21 16:06:01,2024-05-21 16:06:24,"23,193s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:06:01,2024-05-21 16:06:16,"14,737s",PASSED
+"comment(""Se verifica la lista de roles, mediante una captura"")",Chrome 124.0.0.0,,,2024-05-21 16:06:16,2024-05-21 16:06:16,"0,000s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:06:16,2024-05-21 16:06:16,"0,523s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:06:16,2024-05-21 16:06:18,"2,003s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_3 Seguridad""))",Chrome 124.0.0.0,,,2024-05-21 16:06:18,2024-05-21 16:06:19,"0,495s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:06:19,2024-05-21 16:06:21,"2,004s",PASSED
+"click(findTestObject(""ADM/1Configuracion/3Seguridad/0Principal/a_1 Roles""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:06:21,2024-05-21 16:06:21,"0,573s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:06:21,2024-05-21 16:06:23,"2,007s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:06:23,2024-05-21 16:06:24,"0,584s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:06:24,2024-05-21 16:06:24,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/3 Seguridad/1 Roles/R107,Chrome 124.0.0.0,Eliminar Un rol,,2024-05-21 16:06:24,2024-05-21 16:06:52,"28,064s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:06:24,2024-05-21 16:06:39,"14,535s",PASSED
+"comment(""Eliminar un rol"")",Chrome 124.0.0.0,,,2024-05-21 16:06:39,2024-05-21 16:06:39,"0,000s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:06:39,2024-05-21 16:06:39,"0,577s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:06:39,2024-05-21 16:06:41,"2,002s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_3 Seguridad""))",Chrome 124.0.0.0,,,2024-05-21 16:06:41,2024-05-21 16:06:42,"0,547s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:06:42,2024-05-21 16:06:44,"2,003s",PASSED
+"click(findTestObject(""ADM/1Configuracion/3Seguridad/0Principal/a_1 Roles""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:06:44,2024-05-21 16:06:44,"0,579s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:06:44,2024-05-21 16:06:46,"2,003s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:06:46,2024-05-21 16:06:47,"0,455s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:06:47,2024-05-21 16:06:49,"2,026s",PASSED
+"click(findTestObject(""ADM/1Configuracion/3Seguridad/1Roles/Lista de Roles/a_4 MINUSCULAS Borrar""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:06:49,2024-05-21 16:06:49,"0,468s",PASSED
+acceptAlert(),Chrome 124.0.0.0,,,2024-05-21 16:06:49,2024-05-21 16:06:49,"0,042s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:06:49,2024-05-21 16:06:51,"2,003s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:06:51,2024-05-21 16:06:52,"0,507s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:06:52,2024-05-21 16:06:52,"0,000s",PASSED

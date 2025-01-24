@@ -1,0 +1,84 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+2 Tipos de Documento,Chrome 124.0.0.0,,,2024-05-21 16:20:35,2024-05-21 16:23:53,"3m - 17,655s",FAILED
+,,,,,,,
+Test Cases/Configuracion/4 Sistema/2 Tipos de Documento/R138,Chrome 124.0.0.0,Verificar elementos en tipos de documento,,2024-05-21 16:20:35,2024-05-21 16:21:03,"27,819s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:20:35,2024-05-21 16:20:51,"15,736s",PASSED
+"comment(""Verificar elementos presentes"")",Chrome 124.0.0.0,,,2024-05-21 16:20:51,2024-05-21 16:20:51,"0,016s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:20:51,2024-05-21 16:20:52,"0,594s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:20:52,2024-05-21 16:20:54,"2,003s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_4 Sistema""))",Chrome 124.0.0.0,,,2024-05-21 16:20:54,2024-05-21 16:20:54,"0,597s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:20:54,2024-05-21 16:20:56,"2,016s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/0Principal/a_2 Tipos de documento""))",Chrome 124.0.0.0,,,2024-05-21 16:20:56,2024-05-21 16:20:57,"0,600s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:20:57,2024-05-21 16:20:59,"2,003s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/4Sistema/2Tipos de Documento/Edicion/input_Codigo""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:20:59,2024-05-21 16:20:59,"0,440s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/4Sistema/2Tipos de Documento/Edicion/input_Nombre""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:20:59,2024-05-21 16:21:00,"0,439s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/4Sistema/2Tipos de Documento/Edicion/input_Abreviatura""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:21:00,2024-05-21 16:21:00,"0,387s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/4Sistema/2Tipos de Documento/Edicion/input_Expresion Regular""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:21:00,2024-05-21 16:21:01,"0,367s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/4Sistema/2Tipos de Documento/Edicion/label_Activo""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:21:01,2024-05-21 16:21:01,"0,392s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/4Sistema/2Tipos de Documento/Edicion/label_Aplica Nombres y Apellidos""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:21:01,2024-05-21 16:21:01,"0,377s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/4Sistema/2Tipos de Documento/Edicion/btn_Limpiar""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:21:01,2024-05-21 16:21:02,"0,393s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/4Sistema/2Tipos de Documento/Edicion/btn_Guardar""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:21:02,2024-05-21 16:21:02,"0,425s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:21:02,2024-05-21 16:21:03,"0,725s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:21:03,2024-05-21 16:21:03,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/4 Sistema/2 Tipos de Documento/R140,Chrome 124.0.0.0,Boton Limpiar,,2024-05-21 16:21:03,2024-05-21 16:21:33,"30,521s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:21:03,2024-05-21 16:21:18,"14,632s",PASSED
+"comment(""Boton Limpiar"")",Chrome 124.0.0.0,,,2024-05-21 16:21:18,2024-05-21 16:21:18,"0,002s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:21:18,2024-05-21 16:21:18,"0,533s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:21:18,2024-05-21 16:21:20,"2,004s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_4 Sistema""))",Chrome 124.0.0.0,,,2024-05-21 16:21:20,2024-05-21 16:21:21,"0,567s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:21:21,2024-05-21 16:21:23,"2,015s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/0Principal/a_2 Tipos de documento""))",Chrome 124.0.0.0,,,2024-05-21 16:21:23,2024-05-21 16:21:24,"0,513s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:21:24,2024-05-21 16:21:26,"2,005s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/4Sistema/2Tipos de Documento/Edicion/input_Codigo""), ""6"")",Chrome 124.0.0.0,,,2024-05-21 16:21:26,2024-05-21 16:21:26,"0,827s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/4Sistema/2Tipos de Documento/Edicion/input_Nombre""), ""Prueba"")",Chrome 124.0.0.0,,,2024-05-21 16:21:26,2024-05-21 16:21:27,"0,823s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/4Sistema/2Tipos de Documento/Edicion/input_Abreviatura""), ""PP"")",Chrome 124.0.0.0,,,2024-05-21 16:21:27,2024-05-21 16:21:28,"0,830s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:21:28,2024-05-21 16:21:30,"2,008s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:21:30,2024-05-21 16:21:31,"0,480s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/2Tipos de Documento/Edicion/btn_Limpiar""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:21:31,2024-05-21 16:21:31,"0,449s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:21:31,2024-05-21 16:21:33,"2,010s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:21:33,2024-05-21 16:21:33,"0,476s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:21:33,2024-05-21 16:21:33,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/4 Sistema/2 Tipos de Documento/R141,Chrome 124.0.0.0,Boton Guardar,,2024-05-21 16:21:33,2024-05-21 16:22:04,"30,873s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:21:34,2024-05-21 16:21:49,"14,832s",PASSED
+"comment(""Boton Guardar"")",Chrome 124.0.0.0,,,2024-05-21 16:21:49,2024-05-21 16:21:49,"0,000s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:21:49,2024-05-21 16:21:49,"0,530s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:21:49,2024-05-21 16:21:51,"2,003s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_4 Sistema""))",Chrome 124.0.0.0,,,2024-05-21 16:21:51,2024-05-21 16:21:52,"0,520s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:21:52,2024-05-21 16:21:54,"2,010s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/0Principal/a_2 Tipos de documento""))",Chrome 124.0.0.0,,,2024-05-21 16:21:54,2024-05-21 16:21:54,"0,587s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:21:54,2024-05-21 16:21:56,"2,012s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/4Sistema/2Tipos de Documento/Edicion/input_Codigo""), ""6"")",Chrome 124.0.0.0,,,2024-05-21 16:21:56,2024-05-21 16:21:57,"0,921s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/4Sistema/2Tipos de Documento/Edicion/input_Nombre""), ""Prueba"")",Chrome 124.0.0.0,,,2024-05-21 16:21:57,2024-05-21 16:21:58,"0,809s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/4Sistema/2Tipos de Documento/Edicion/input_Abreviatura""), ""PP"")",Chrome 124.0.0.0,,,2024-05-21 16:21:58,2024-05-21 16:21:59,"0,787s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:21:59,2024-05-21 16:22:01,"2,008s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:22:01,2024-05-21 16:22:01,"0,496s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/2Tipos de Documento/Edicion/btn_Guardar""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:22:01,2024-05-21 16:22:02,"0,458s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:22:02,2024-05-21 16:22:04,"2,012s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:22:04,2024-05-21 16:22:04,"0,543s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:22:04,2024-05-21 16:22:04,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/4 Sistema/2 Tipos de Documento/R142,Chrome 124.0.0.0,Modificar Documento Prueba,,2024-05-21 16:22:04,2024-05-21 16:22:58,"53,982s",FAILED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:22:05,2024-05-21 16:22:19,"14,663s",PASSED
+"comment(""Actualizar Documento prueba"")",Chrome 124.0.0.0,,,2024-05-21 16:22:19,2024-05-21 16:22:19,"0,000s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:22:19,2024-05-21 16:22:20,"0,589s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:22:20,2024-05-21 16:22:22,"2,015s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_4 Sistema""))",Chrome 124.0.0.0,,,2024-05-21 16:22:22,2024-05-21 16:22:22,"0,541s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:22:22,2024-05-21 16:22:24,"2,006s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/0Principal/a_2 Tipos de documento""))",Chrome 124.0.0.0,,,2024-05-21 16:22:24,2024-05-21 16:22:25,"0,532s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:22:25,2024-05-21 16:22:27,"2,017s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/2Tipos de Documento/Listado de Tipos Documento/td_6 Prueba""))",Chrome 124.0.0.0,,,2024-05-21 16:22:27,2024-05-21 16:22:58,"31,289s",FAILED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:22:58,2024-05-21 16:22:58,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/4 Sistema/2 Tipos de Documento/R143,Chrome 124.0.0.0,Boton Eliminar,,2024-05-21 16:22:58,2024-05-21 16:23:53,"54,190s",FAILED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:22:59,2024-05-21 16:23:13,"14,621s",PASSED
+"comment(""Boton Eliminar"")",Chrome 124.0.0.0,,,2024-05-21 16:23:13,2024-05-21 16:23:13,"0,000s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:23:13,2024-05-21 16:23:14,"0,550s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:23:14,2024-05-21 16:23:16,"2,009s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_4 Sistema""))",Chrome 124.0.0.0,,,2024-05-21 16:23:16,2024-05-21 16:23:16,"0,578s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:23:16,2024-05-21 16:23:19,"2,022s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/0Principal/a_2 Tipos de documento""))",Chrome 124.0.0.0,,,2024-05-21 16:23:19,2024-05-21 16:23:19,"0,551s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:23:19,2024-05-21 16:23:21,"2,015s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/2Tipos de Documento/Listado de Tipos Documento/a_6 Prueba_Borrar""))",Chrome 124.0.0.0,,,2024-05-21 16:23:21,2024-05-21 16:23:53,"31,455s",FAILED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:23:53,2024-05-21 16:23:53,"0,000s",PASSED

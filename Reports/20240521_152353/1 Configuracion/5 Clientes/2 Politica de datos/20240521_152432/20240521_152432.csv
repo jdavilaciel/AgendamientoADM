@@ -1,0 +1,188 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+2 Politica de datos,Chrome 124.0.0.0,,,2024-05-21 16:51:31,2024-05-21 16:57:07,"5m - 36,496s",FAILED
+,,,,,,,
+Test Cases/Configuracion/5 Clientes/2 Politica de Tratamiento de datos/R204,Chrome 124.0.0.0,Verificar elementos de página de tratamiento de datos,,2024-05-21 16:51:31,2024-05-21 16:51:57,"26,187s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:51:31,2024-05-21 16:51:47,"15,732s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:51:47,2024-05-21 16:51:47,"0,570s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:51:47,2024-05-21 16:51:49,"2,008s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_5 Clientes""))",Chrome 124.0.0.0,,,2024-05-21 16:51:49,2024-05-21 16:51:50,"0,590s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:51:50,2024-05-21 16:51:52,"2,011s",PASSED
+"click(findTestObject(""ADM/1Configuracion/5Clientes/0Principal/a_2 Politica de tratamiento de datos""))",Chrome 124.0.0.0,,,2024-05-21 16:51:52,2024-05-21 16:51:53,"0,587s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:51:53,2024-05-21 16:51:55,"2,012s",PASSED
+"comment(""Verificar elementos"")",Chrome 124.0.0.0,,,2024-05-21 16:51:55,2024-05-21 16:51:55,"0,015s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/5Clientes/2Politica de Datos/Poltica de tratamiento de datos personales/label_Ninguno""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:51:55,2024-05-21 16:51:55,"0,442s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/5Clientes/2Politica de Datos/Poltica de tratamiento de datos personales/label_General""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:51:55,2024-05-21 16:51:55,"0,375s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/5Clientes/2Politica de Datos/Poltica de tratamiento de datos personales/label_Por oficina""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:51:55,2024-05-21 16:51:56,"0,427s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/btn_Crear Politica""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:51:56,2024-05-21 16:51:56,"0,390s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:51:56,2024-05-21 16:51:57,"0,682s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:51:57,2024-05-21 16:51:57,"0,016s",PASSED
+,,,,,,,
+Test Cases/Configuracion/5 Clientes/2 Politica de Tratamiento de datos/R205,Chrome 124.0.0.0,Boton Ninguno,,2024-05-21 16:51:57,2024-05-21 16:52:25,"28,188s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:51:57,2024-05-21 16:52:12,"14,642s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:52:12,2024-05-21 16:52:13,"0,528s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:52:13,2024-05-21 16:52:15,"2,003s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_5 Clientes""))",Chrome 124.0.0.0,,,2024-05-21 16:52:15,2024-05-21 16:52:15,"0,564s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:52:15,2024-05-21 16:52:17,"2,013s",PASSED
+"click(findTestObject(""ADM/1Configuracion/5Clientes/0Principal/a_2 Politica de tratamiento de datos""))",Chrome 124.0.0.0,,,2024-05-21 16:52:17,2024-05-21 16:52:18,"0,517s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:52:18,2024-05-21 16:52:20,"2,002s",PASSED
+"comment(""Boton Ninguno"")",Chrome 124.0.0.0,,,2024-05-21 16:52:20,2024-05-21 16:52:20,"0,004s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:52:20,2024-05-21 16:52:20,"0,580s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:52:20,2024-05-21 16:52:22,"2,012s",PASSED
+"click(findTestObject(""ADM/1Configuracion/5Clientes/2Politica de Datos/Poltica de tratamiento de datos personales/label_Ninguno""), STOP_ON_FAILURE)",Chrome 124.0.0.0,No mostrará nada en la tabla,,2024-05-21 16:52:22,2024-05-21 16:52:23,"0,485s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:52:23,2024-05-21 16:52:25,"2,006s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:52:25,2024-05-21 16:52:25,"0,450s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:52:25,2024-05-21 16:52:25,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/5 Clientes/2 Politica de Tratamiento de datos/R206,Chrome 124.0.0.0,Boton General,,2024-05-21 16:52:25,2024-05-21 16:52:53,"28,258s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:52:26,2024-05-21 16:52:40,"14,630s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:52:40,2024-05-21 16:52:41,"0,562s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:52:41,2024-05-21 16:52:43,"2,005s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_5 Clientes""))",Chrome 124.0.0.0,,,2024-05-21 16:52:43,2024-05-21 16:52:43,"0,559s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:52:43,2024-05-21 16:52:45,"2,006s",PASSED
+"click(findTestObject(""ADM/1Configuracion/5Clientes/0Principal/a_2 Politica de tratamiento de datos""))",Chrome 124.0.0.0,,,2024-05-21 16:52:45,2024-05-21 16:52:46,"0,550s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:52:46,2024-05-21 16:52:48,"2,016s",PASSED
+"comment(""Boton General"")",Chrome 124.0.0.0,,,2024-05-21 16:52:48,2024-05-21 16:52:48,"0,006s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:52:48,2024-05-21 16:52:48,"0,532s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:52:48,2024-05-21 16:52:50,"2,010s",PASSED
+"click(findTestObject(""ADM/1Configuracion/5Clientes/2Politica de Datos/Poltica de tratamiento de datos personales/label_General""), STOP_ON_FAILURE)",Chrome 124.0.0.0,No mostrará nada en la tabla,,2024-05-21 16:52:50,2024-05-21 16:52:51,"0,464s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:52:51,2024-05-21 16:52:53,"2,008s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:52:53,2024-05-21 16:52:53,"0,517s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:52:53,2024-05-21 16:52:53,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/5 Clientes/2 Politica de Tratamiento de datos/R207,Chrome 124.0.0.0,Boton Por oficina,,2024-05-21 16:52:53,2024-05-21 16:53:22,"28,861s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:52:54,2024-05-21 16:53:08,"14,685s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:53:08,2024-05-21 16:53:09,"0,551s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:53:09,2024-05-21 16:53:11,"2,012s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_5 Clientes""))",Chrome 124.0.0.0,,,2024-05-21 16:53:11,2024-05-21 16:53:12,"0,567s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:53:12,2024-05-21 16:53:14,"2,014s",PASSED
+"click(findTestObject(""ADM/1Configuracion/5Clientes/0Principal/a_2 Politica de tratamiento de datos""))",Chrome 124.0.0.0,,,2024-05-21 16:53:14,2024-05-21 16:53:15,"1,068s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:53:15,2024-05-21 16:53:17,"2,015s",PASSED
+"comment(""Boton por oficina"")",Chrome 124.0.0.0,,,2024-05-21 16:53:17,2024-05-21 16:53:17,"0,000s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:53:17,2024-05-21 16:53:17,"0,602s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:53:17,2024-05-21 16:53:19,"2,009s",PASSED
+"click(findTestObject(""ADM/1Configuracion/5Clientes/2Politica de Datos/Poltica de tratamiento de datos personales/label_Por oficina""), STOP_ON_FAILURE)",Chrome 124.0.0.0,No mostrará nada en la tabla,,2024-05-21 16:53:19,2024-05-21 16:53:20,"0,459s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:53:20,2024-05-21 16:53:22,"2,015s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:53:22,2024-05-21 16:53:22,"0,511s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:53:22,2024-05-21 16:53:22,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/5 Clientes/2 Politica de Tratamiento de datos/R208,Chrome 124.0.0.0,Boton crear redirige correctamente,,2024-05-21 16:53:22,2024-05-21 16:53:52,"29,578s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:53:23,2024-05-21 16:53:37,"14,699s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:53:37,2024-05-21 16:53:38,"0,548s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:53:38,2024-05-21 16:53:40,"2,014s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_5 Clientes""))",Chrome 124.0.0.0,,,2024-05-21 16:53:40,2024-05-21 16:53:40,"0,573s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:53:40,2024-05-21 16:53:42,"2,007s",PASSED
+"click(findTestObject(""ADM/1Configuracion/5Clientes/0Principal/a_2 Politica de tratamiento de datos""))",Chrome 124.0.0.0,,,2024-05-21 16:53:42,2024-05-21 16:53:43,"0,548s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:53:43,2024-05-21 16:53:45,"2,005s",PASSED
+"comment(""Boton Crear Redirige correctamente"")",Chrome 124.0.0.0,,,2024-05-21 16:53:45,2024-05-21 16:53:45,"0,000s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:53:45,2024-05-21 16:53:47,"2,009s",PASSED
+"click(findTestObject(""ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/btn_Crear Politica""), STOP_ON_FAILURE)",Chrome 124.0.0.0,No mostrará nada en la tabla,,2024-05-21 16:53:47,2024-05-21 16:53:47,"0,459s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:53:47,2024-05-21 16:53:49,"2,008s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/input_Texto aceptar poltica""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:53:49,2024-05-21 16:53:50,"0,362s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/input_Nombre""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:53:50,2024-05-21 16:53:50,"0,376s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/select_Tipo""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:53:50,2024-05-21 16:53:51,"0,376s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/btn_Guardar""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:53:51,2024-05-21 16:53:51,"0,377s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/btn_Volver""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:53:51,2024-05-21 16:53:51,"0,378s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:53:51,2024-05-21 16:53:52,"0,523s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:53:52,2024-05-21 16:53:52,"0,016s",PASSED
+,,,,,,,
+Test Cases/Configuracion/5 Clientes/2 Politica de Tratamiento de datos/R209,Chrome 124.0.0.0,Validación Campos,,2024-05-21 16:53:52,2024-05-21 16:54:27,"35,419s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:53:52,2024-05-21 16:54:07,"14,634s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:54:07,2024-05-21 16:54:07,"0,564s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:54:07,2024-05-21 16:54:09,"2,004s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_5 Clientes""))",Chrome 124.0.0.0,,,2024-05-21 16:54:09,2024-05-21 16:54:10,"0,494s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:54:10,2024-05-21 16:54:12,"2,003s",PASSED
+"click(findTestObject(""ADM/1Configuracion/5Clientes/0Principal/a_2 Politica de tratamiento de datos""))",Chrome 124.0.0.0,,,2024-05-21 16:54:12,2024-05-21 16:54:12,"0,537s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:54:12,2024-05-21 16:54:15,"2,013s",PASSED
+"comment(""Boton crear nombre con simbolos"")",Chrome 124.0.0.0,,,2024-05-21 16:54:15,2024-05-21 16:54:15,"0,000s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:54:15,2024-05-21 16:54:17,"2,007s",PASSED
+"click(findTestObject(""ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/btn_Crear Politica""), STOP_ON_FAILURE)",Chrome 124.0.0.0,No mostrará nada en la tabla,,2024-05-21 16:54:17,2024-05-21 16:54:17,"0,439s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:54:17,2024-05-21 16:54:19,"2,017s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/input_Texto aceptar poltica""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:54:19,2024-05-21 16:54:19,"0,377s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/input_Nombre""), findTestData(""5Clientes"").getValue(""Nombre"", 6))",Chrome 124.0.0.0,,,2024-05-21 16:54:19,2024-05-21 16:54:21,"1,655s",PASSED
+"selectOptionByLabel(findTestObject(""ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/select_Tipo""), findTestData(""5Clientes"").getValue(""Tipo"", 1), false)",Chrome 124.0.0.0,,,2024-05-21 16:54:21,2024-05-21 16:54:22,"0,960s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/input_Texto aceptar poltica""), findTestData(""5Clientes"").getValue(""Nombre"", 6))",Chrome 124.0.0.0,,,2024-05-21 16:54:22,2024-05-21 16:54:23,"0,956s",PASSED
+"uploadFile(findTestObject(""ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/upload_ArchivoPDF""), UploadFile)",Chrome 124.0.0.0,,,2024-05-21 16:54:23,2024-05-21 16:54:23,"0,409s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:54:23,2024-05-21 16:54:24,"0,529s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:54:24,2024-05-21 16:54:26,"2,011s",PASSED
+"click(findTestObject(""ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/btn_Guardar""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:54:26,2024-05-21 16:54:27,"0,821s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:54:27,2024-05-21 16:54:27,"0,595s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:54:27,2024-05-21 16:54:27,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/5 Clientes/2 Politica de Tratamiento de datos/R210,Chrome 124.0.0.0,Boton Guardar,,2024-05-21 16:54:27,2024-05-21 16:55:02,"34,743s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:54:28,2024-05-21 16:54:42,"14,716s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:54:42,2024-05-21 16:54:43,"0,506s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:54:43,2024-05-21 16:54:45,"2,004s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_5 Clientes""))",Chrome 124.0.0.0,,,2024-05-21 16:54:45,2024-05-21 16:54:46,"0,554s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:54:46,2024-05-21 16:54:48,"2,011s",PASSED
+"click(findTestObject(""ADM/1Configuracion/5Clientes/0Principal/a_2 Politica de tratamiento de datos""))",Chrome 124.0.0.0,,,2024-05-21 16:54:48,2024-05-21 16:54:48,"0,574s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:54:48,2024-05-21 16:54:50,"2,011s",PASSED
+"comment(""Boton Guardar"")",Chrome 124.0.0.0,,,2024-05-21 16:54:50,2024-05-21 16:54:50,"0,000s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:54:50,2024-05-21 16:54:52,"2,008s",PASSED
+"click(findTestObject(""ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/btn_Crear Politica""), STOP_ON_FAILURE)",Chrome 124.0.0.0,No mostrará nada en la tabla,,2024-05-21 16:54:52,2024-05-21 16:54:53,"0,470s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:54:53,2024-05-21 16:54:55,"2,012s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/input_Texto aceptar poltica""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:54:55,2024-05-21 16:54:55,"0,346s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/input_Nombre""), findTestData(""5Clientes"").getValue(""Nombre"", 1))",Chrome 124.0.0.0,,,2024-05-21 16:54:55,2024-05-21 16:54:56,"0,953s",PASSED
+"selectOptionByLabel(findTestObject(""ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/select_Tipo""), findTestData(""5Clientes"").getValue(""Tipo"", 1), false)",Chrome 124.0.0.0,,,2024-05-21 16:54:56,2024-05-21 16:54:57,"0,853s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/input_Texto aceptar poltica""), ""Politica"")",Chrome 124.0.0.0,,,2024-05-21 16:54:57,2024-05-21 16:54:58,"1,033s",PASSED
+"uploadFile(findTestObject(""ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/upload_ArchivoPDF""), UploadFile)",Chrome 124.0.0.0,,,2024-05-21 16:54:58,2024-05-21 16:54:58,"0,408s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:54:58,2024-05-21 16:54:59,"0,517s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:54:59,2024-05-21 16:55:01,"2,010s",PASSED
+"click(findTestObject(""ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/btn_Guardar""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:55:01,2024-05-21 16:55:01,"0,665s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:55:01,2024-05-21 16:55:02,"0,615s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:55:02,2024-05-21 16:55:02,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/5 Clientes/2 Politica de Tratamiento de datos/R211,Chrome 124.0.0.0,Boton Volver,,2024-05-21 16:55:02,2024-05-21 16:55:33,"30,484s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:55:02,2024-05-21 16:55:17,"14,518s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:55:17,2024-05-21 16:55:17,"0,495s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:55:17,2024-05-21 16:55:19,"2,005s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_5 Clientes""))",Chrome 124.0.0.0,,,2024-05-21 16:55:19,2024-05-21 16:55:20,"0,502s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:55:20,2024-05-21 16:55:22,"2,005s",PASSED
+"click(findTestObject(""ADM/1Configuracion/5Clientes/0Principal/a_2 Politica de tratamiento de datos""))",Chrome 124.0.0.0,,,2024-05-21 16:55:22,2024-05-21 16:55:23,"0,618s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:55:23,2024-05-21 16:55:25,"2,015s",PASSED
+"comment(""Boton Volver"")",Chrome 124.0.0.0,,,2024-05-21 16:55:25,2024-05-21 16:55:25,"0,000s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:55:25,2024-05-21 16:55:27,"2,012s",PASSED
+"click(findTestObject(""ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/btn_Crear Politica""), STOP_ON_FAILURE)",Chrome 124.0.0.0,No mostrará nada en la tabla,,2024-05-21 16:55:27,2024-05-21 16:55:27,"0,458s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:55:27,2024-05-21 16:55:29,"2,008s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:55:29,2024-05-21 16:55:30,"0,476s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:55:30,2024-05-21 16:55:32,"2,008s",PASSED
+"click(findTestObject(""ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Nueva Politica de Datos/btn_Volver""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:55:32,2024-05-21 16:55:32,"0,420s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:55:32,2024-05-21 16:55:33,"0,552s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:55:33,2024-05-21 16:55:33,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/5 Clientes/2 Politica de Tratamiento de datos/R212,Chrome 124.0.0.0,Mostrar Tabla de politica de datos,,2024-05-21 16:55:33,2024-05-21 16:56:06,"33,714s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:55:33,2024-05-21 16:55:48,"14,777s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:55:48,2024-05-21 16:55:48,"0,555s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:55:48,2024-05-21 16:55:50,"2,005s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_5 Clientes""))",Chrome 124.0.0.0,,,2024-05-21 16:55:50,2024-05-21 16:55:51,"0,551s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:55:51,2024-05-21 16:55:53,"2,013s",PASSED
+"click(findTestObject(""ADM/1Configuracion/5Clientes/0Principal/a_2 Politica de tratamiento de datos""))",Chrome 124.0.0.0,,,2024-05-21 16:55:53,2024-05-21 16:55:53,"0,592s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:55:53,2024-05-21 16:55:55,"2,009s",PASSED
+"comment(""Verificar tabla datos"")",Chrome 124.0.0.0,,,2024-05-21 16:55:55,2024-05-21 16:55:55,"0,000s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:55:55,2024-05-21 16:55:57,"2,014s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/btn_Crear Politica""), 0)",Chrome 124.0.0.0,No mostrará nada en la tabla,,2024-05-21 16:55:57,2024-05-21 16:55:58,"0,376s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:55:58,2024-05-21 16:56:00,"2,011s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:56:00,2024-05-21 16:56:00,"0,537s",PASSED
+"click(findTestObject(""ADM/1Configuracion/5Clientes/2Politica de Datos/Poltica de tratamiento de datos personales/label_General""))",Chrome 124.0.0.0,,,2024-05-21 16:56:00,2024-05-21 16:56:01,"0,442s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:56:01,2024-05-21 16:56:03,"2,008s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:56:03,2024-05-21 16:56:03,"0,497s",PASSED
+"click(findTestObject(""ADM/1Configuracion/5Clientes/2Politica de Datos/Poltica de tratamiento de datos personales/label_Ninguno""))",Chrome 124.0.0.0,,,2024-05-21 16:56:03,2024-05-21 16:56:04,"0,465s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:56:04,2024-05-21 16:56:06,"2,003s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:56:06,2024-05-21 16:56:06,"0,466s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:56:06,2024-05-21 16:56:06,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/5 Clientes/2 Politica de Tratamiento de datos/R213,Chrome 124.0.0.0,Boton eliminar,,2024-05-21 16:56:06,2024-05-21 16:57:07,"1m - 0,782s",FAILED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:56:07,2024-05-21 16:56:21,"14,488s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:56:21,2024-05-21 16:56:22,"0,523s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:56:22,2024-05-21 16:56:24,"2,022s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_5 Clientes""))",Chrome 124.0.0.0,,,2024-05-21 16:56:24,2024-05-21 16:56:24,"0,476s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:56:24,2024-05-21 16:56:26,"2,002s",PASSED
+"click(findTestObject(""ADM/1Configuracion/5Clientes/0Principal/a_2 Politica de tratamiento de datos""))",Chrome 124.0.0.0,,,2024-05-21 16:56:26,2024-05-21 16:56:27,"0,602s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:56:27,2024-05-21 16:56:29,"2,014s",PASSED
+"comment(""Boton Eliminar"")",Chrome 124.0.0.0,,,2024-05-21 16:56:29,2024-05-21 16:56:29,"0,000s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:56:29,2024-05-21 16:56:31,"2,009s",PASSED
+"click(findTestObject(""ADM/1Configuracion/5Clientes/2Politica de Datos/Poltica de tratamiento de datos personales/label_General""))",Chrome 124.0.0.0,,,2024-05-21 16:56:31,2024-05-21 16:56:31,"0,447s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:56:31,2024-05-21 16:56:33,"2,014s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:56:33,2024-05-21 16:56:34,"0,500s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:56:34,2024-05-21 16:56:36,"2,009s",PASSED
+"click(findTestObject(""ADM/1Configuracion/5Clientes/2Politica de Datos/Maestro de Poltica de tratamiento de datos personales/Tabla datos/a4_btnBorrar""))",Chrome 124.0.0.0,,,2024-05-21 16:56:36,2024-05-21 16:57:07,"31,297s",FAILED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:57:07,2024-05-21 16:57:07,"0,000s",PASSED

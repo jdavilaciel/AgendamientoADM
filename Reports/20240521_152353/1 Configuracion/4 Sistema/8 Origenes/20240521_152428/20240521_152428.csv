@@ -1,0 +1,88 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+8 Origenes,Chrome 124.0.0.0,,,2024-05-21 16:40:28,2024-05-21 16:43:25,"2m - 56,601s",FAILED
+,,,,,,,
+Test Cases/Configuracion/4 Sistema/8 Origenes/R183,Chrome 124.0.0.0,Verificar elementos pagina Origenes,,2024-05-21 16:40:29,2024-05-21 16:40:56,"26,946s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:40:29,2024-05-21 16:40:45,"15,777s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:40:45,2024-05-21 16:40:45,"0,558s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:40:45,2024-05-21 16:40:47,"2,016s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_4 Sistema""))",Chrome 124.0.0.0,,,2024-05-21 16:40:47,2024-05-21 16:40:48,"0,591s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:40:48,2024-05-21 16:40:50,"2,011s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/0Principal/a_8 Origenes""))",Chrome 124.0.0.0,,,2024-05-21 16:40:50,2024-05-21 16:40:51,"0,630s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:40:51,2024-05-21 16:40:53,"2,005s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/4Sistema/8Origenes/Edicion/btn_Guardar""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:40:53,2024-05-21 16:40:53,"0,409s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/4Sistema/8Origenes/Edicion/btn_Limpiar""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:40:53,2024-05-21 16:40:53,"0,423s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/4Sistema/8Origenes/Edicion/input_Codigo""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:40:53,2024-05-21 16:40:54,"0,392s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/4Sistema/8Origenes/Edicion/input_Nombre Origen""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:40:54,2024-05-21 16:40:54,"0,393s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/4Sistema/8Origenes/Edicion/select_Tipo Origen""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:40:54,2024-05-21 16:40:55,"0,376s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/4Sistema/8Origenes/Edicion/textarea_Descripcion""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:40:55,2024-05-21 16:40:55,"0,376s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:40:55,2024-05-21 16:40:56,"0,675s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:40:56,2024-05-21 16:40:56,"0,016s",PASSED
+,,,,,,,
+Test Cases/Configuracion/4 Sistema/8 Origenes/R184,Chrome 124.0.0.0,Campo nombre debe aceptar solo caracteres alfabeticos,,2024-05-21 16:40:56,2024-05-21 16:41:22,"26,770s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:40:56,2024-05-21 16:41:11,"14,789s",PASSED
+"comment(""Campo nombre solo debe recibir caracteres alfabeticos"")",Chrome 124.0.0.0,,,2024-05-21 16:41:11,2024-05-21 16:41:11,"0,016s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:41:11,2024-05-21 16:41:11,"0,595s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:41:11,2024-05-21 16:41:13,"2,019s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_4 Sistema""))",Chrome 124.0.0.0,,,2024-05-21 16:41:13,2024-05-21 16:41:14,"0,513s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:41:14,2024-05-21 16:41:16,"2,018s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/0Principal/a_8 Origenes""))",Chrome 124.0.0.0,,,2024-05-21 16:41:16,2024-05-21 16:41:16,"0,516s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:41:16,2024-05-21 16:41:18,"2,016s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/4Sistema/8Origenes/Edicion/input_Codigo""), ""gdf"")",Chrome 124.0.0.0,,,2024-05-21 16:41:18,2024-05-21 16:41:19,"0,723s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/4Sistema/8Origenes/Edicion/input_Nombre Origen""), CampoPrueba)",Chrome 124.0.0.0,,,2024-05-21 16:41:19,2024-05-21 16:41:20,"0,733s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:41:20,2024-05-21 16:41:22,"2,000s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:41:22,2024-05-21 16:41:22,"0,500s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:41:22,2024-05-21 16:41:22,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/4 Sistema/8 Origenes/R185,Chrome 124.0.0.0,Boton Limpiar,,2024-05-21 16:41:22,2024-05-21 16:41:54,"32,109s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:41:23,2024-05-21 16:41:37,"14,692s",PASSED
+"comment(""Boton Limpiar"")",Chrome 124.0.0.0,,,2024-05-21 16:41:37,2024-05-21 16:41:37,"0,000s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:41:37,2024-05-21 16:41:38,"0,601s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:41:38,2024-05-21 16:41:40,"2,001s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_4 Sistema""))",Chrome 124.0.0.0,,,2024-05-21 16:41:40,2024-05-21 16:41:41,"0,668s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:41:41,2024-05-21 16:41:43,"2,011s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/0Principal/a_8 Origenes""))",Chrome 124.0.0.0,,,2024-05-21 16:41:43,2024-05-21 16:41:43,"0,567s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:41:43,2024-05-21 16:41:45,"2,015s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/4Sistema/8Origenes/Edicion/input_Codigo""), ""gdf"")",Chrome 124.0.0.0,,,2024-05-21 16:41:45,2024-05-21 16:41:46,"0,884s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/4Sistema/8Origenes/Edicion/input_Nombre Origen""), CampoPrueba)",Chrome 124.0.0.0,,,2024-05-21 16:41:46,2024-05-21 16:41:47,"0,847s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:41:47,2024-05-21 16:41:49,"2,009s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:41:49,2024-05-21 16:41:50,"0,569s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:41:50,2024-05-21 16:41:52,"2,004s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/8Origenes/Edicion/btn_Limpiar""))",Chrome 124.0.0.0,,,2024-05-21 16:41:52,2024-05-21 16:41:52,"0,424s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:41:52,2024-05-21 16:41:54,"2,005s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:41:54,2024-05-21 16:41:54,"0,512s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:41:54,2024-05-21 16:41:54,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/4 Sistema/8 Origenes/R186,Chrome 124.0.0.0,Boton Guardar,,2024-05-21 16:41:54,2024-05-21 16:42:28,"33,793s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:41:55,2024-05-21 16:42:10,"14,700s",PASSED
+"comment(""Boton Guardar"")",Chrome 124.0.0.0,,,2024-05-21 16:42:10,2024-05-21 16:42:10,"0,000s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:42:10,2024-05-21 16:42:10,"0,580s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:42:10,2024-05-21 16:42:12,"2,002s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_4 Sistema""))",Chrome 124.0.0.0,,,2024-05-21 16:42:12,2024-05-21 16:42:13,"0,565s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:42:13,2024-05-21 16:42:15,"2,017s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/0Principal/a_8 Origenes""))",Chrome 124.0.0.0,,,2024-05-21 16:42:15,2024-05-21 16:42:15,"0,534s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:42:15,2024-05-21 16:42:17,"2,000s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/4Sistema/8Origenes/Edicion/input_Nombre Origen""), ""Prueba"")",Chrome 124.0.0.0,,,2024-05-21 16:42:17,2024-05-21 16:42:18,"0,860s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/4Sistema/8Origenes/Edicion/textarea_Descripcion""), ""Prueba"")",Chrome 124.0.0.0,,,2024-05-21 16:42:18,2024-05-21 16:42:19,"0,768s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/4Sistema/8Origenes/Edicion/input_Codigo""), ""4"")",Chrome 124.0.0.0,,,2024-05-21 16:42:19,2024-05-21 16:42:20,"0,790s",PASSED
+"selectOptionByIndex(findTestObject(""ADM/1Configuracion/4Sistema/8Origenes/Edicion/select_Tipo Origen""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:42:20,2024-05-21 16:42:21,"1,185s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:42:21,2024-05-21 16:42:23,"2,002s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:42:23,2024-05-21 16:42:23,"0,480s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:42:23,2024-05-21 16:42:25,"2,010s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/8Origenes/Edicion/btn_Guardar""))",Chrome 124.0.0.0,,,2024-05-21 16:42:25,2024-05-21 16:42:26,"0,399s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:42:26,2024-05-21 16:42:28,"2,012s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:42:28,2024-05-21 16:42:28,"0,512s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:42:28,2024-05-21 16:42:28,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/4 Sistema/8 Origenes/R188,Chrome 124.0.0.0,Boton Eliminar,,2024-05-21 16:42:28,2024-05-21 16:43:25,"56,712s",FAILED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:42:29,2024-05-21 16:42:43,"14,581s",PASSED
+"comment(""Boton Guardar"")",Chrome 124.0.0.0,,,2024-05-21 16:42:43,2024-05-21 16:42:43,"0,000s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:42:43,2024-05-21 16:42:44,"0,536s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:42:44,2024-05-21 16:42:46,"2,004s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_4 Sistema""))",Chrome 124.0.0.0,,,2024-05-21 16:42:46,2024-05-21 16:42:46,"0,543s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:42:46,2024-05-21 16:42:48,"2,005s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/0Principal/a_8 Origenes""))",Chrome 124.0.0.0,,,2024-05-21 16:42:48,2024-05-21 16:42:49,"0,555s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:42:49,2024-05-21 16:42:51,"2,015s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:42:51,2024-05-21 16:42:52,"0,544s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:42:52,2024-05-21 16:42:54,"2,015s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/8Origenes/Lista de Origenes/a_4 Prueba_Borrar""))",Chrome 124.0.0.0,,,2024-05-21 16:42:54,2024-05-21 16:43:25,"31,425s",FAILED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:43:25,2024-05-21 16:43:25,"0,000s",PASSED

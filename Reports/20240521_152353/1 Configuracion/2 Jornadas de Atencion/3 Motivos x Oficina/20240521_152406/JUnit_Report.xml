@@ -1,0 +1,1357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="3 Motivos x Oficina" time="254.741" tests="7" failures="3" errors="0">
+   <testsuite name="3 Motivos x Oficina" tests="7" failures="3" errors="0" time="254.741" skipped="0" timestamp="2024-05-21 15:59:20" hostname="jdavila - PCPruebas101.ciel.cielingenieria.com" id="Test Suites/1 Configuracion/2 Jornadas de Atencion/3 Motivos x Oficina">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\3 Motivos x Oficina\\20240521_152406"/>
+         <property name="logFiles" value="C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\3 Motivos x Oficina\\20240521_152406\\execution0.log"/>
+         <property name="attachments" value="C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\3 Motivos x Oficina\\20240521_152406\\1716325185241.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\3 Motivos x Oficina\\20240521_152406\\1716325210672.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\3 Motivos x Oficina\\20240521_152406\\1716325236813.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\3 Motivos x Oficina\\20240521_152406\\1716325241825.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\3 Motivos x Oficina\\20240521_152406\\1716325280682.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\3 Motivos x Oficina\\20240521_152406\\1716325304542.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\3 Motivos x Oficina\\20240521_152406\\1716325358642.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\3 Motivos x Oficina\\20240521_152406\\1716325381739.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\3 Motivos x Oficina\\20240521_152406\\1716325415590.png"/>
+         <property name="hostName" value="jdavila - PCPruebas101.ciel.cielingenieria.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.9.208"/>
+         <property name="browser" value="Chrome 124.0.0.0"/>
+         <property name="hostAddress" value="192.168.91.13"/>
+         <property name="sessionId" value="883187c252c32f7dbe40d3ad522df74e"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Configuracion/2 Jornadas de Atencion/3 Motivos x Oficina/R92" time="26.545" classname="Test Cases/Configuracion/2 Jornadas de Atencion/3 Motivos x Oficina/R92" status="PASSED">
+         <system-out><![CDATA[2024-05-21 15:59:21 - [TEST_CASE][PASSED] - Test Cases/Configuracion/2 Jornadas de Atencion/3 Motivos x Oficina/R92: Test Cases/Configuracion/2 Jornadas de Atencion/3 Motivos x Oficina/R92
+
+2024-05-21 15:59:21 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:59:21 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 15:59:21 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:59:22 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 15:59:22 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 15:59:25 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:59:25 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 15:59:25 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 15:59:25 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:59:27 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:59:27 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:59:28 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:59:28 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:59:30 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:59:30 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:59:31 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:59:31 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:59:33 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:59:33 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:59:34 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:59:34 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 15:59:37 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 15:59:37 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:59:37 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:59:37 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:59:37 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:59:39 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:59:39 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_2 Jornadas de atencion")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_2 Jornadas de atencion' is clicked on
+
+2024-05-21 15:59:40 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_2 Jornadas de atencion' is clicked on
+
+2024-05-21 15:59:40 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:59:42 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:59:42 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/0Principal/a_3 Motivos por oficina"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/0Principal/a_3 Motivos por oficina' is clicked on
+
+2024-05-21 15:59:43 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/0Principal/a_3 Motivos por oficina' is clicked on
+
+2024-05-21 15:59:43 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:59:45 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:59:45 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 15:59:45 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 15:59:45 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\3 Motivos x Oficina\\20240521_152406\\1716325185241.png]]
+
+2024-05-21 15:59:45 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/textarea_Descripcion"), 2): Object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/textarea_Descripcion' is present
+
+2024-05-21 15:59:46 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/textarea_Descripcion' is present
+
+2024-05-21 15:59:46 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_Guardar"), 2): Object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_Guardar' is present
+
+2024-05-21 15:59:46 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_Guardar' is present
+
+2024-05-21 15:59:46 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_Limpiar"), 2): Object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_Limpiar' is present
+
+2024-05-21 15:59:46 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_Limpiar' is present
+
+2024-05-21 15:59:46 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Inicio"), 2): Object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Inicio' is present
+
+2024-05-21 15:59:47 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Inicio' is present
+
+2024-05-21 15:59:47 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Fin"), 2): Object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Fin' is present
+
+2024-05-21 15:59:47 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Fin' is present
+
+2024-05-21 15:59:47 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/2 Jornadas de Atencion/3 Motivos x Oficina/R93" time="23.456" classname="Test Cases/Configuracion/2 Jornadas de Atencion/3 Motivos x Oficina/R93" status="PASSED">
+         <system-out><![CDATA[2024-05-21 15:59:47 - [TEST_CASE][PASSED] - Test Cases/Configuracion/2 Jornadas de Atencion/3 Motivos x Oficina/R93: Test Cases/Configuracion/2 Jornadas de Atencion/3 Motivos x Oficina/R93
+
+2024-05-21 15:59:48 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:59:48 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 15:59:48 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:59:48 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 15:59:48 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 15:59:48 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 15:59:51 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:59:51 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 15:59:51 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 15:59:51 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:59:53 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:59:53 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:59:54 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:59:54 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:59:56 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:59:56 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:59:57 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:59:57 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:59:59 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:59:59 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:59:59 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:59:59 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 16:00:02 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 16:00:02 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 16:00:02 - [TEST_STEP][PASSED] - comment("Mostrar captura para verificar los ID correlativos"): Mostrar captura para verificar los ID correlativos
+
+2024-05-21 16:00:02 - [MESSAGE][INFO] - Mostrar captura para verificar los ID correlativos
+
+2024-05-21 16:00:02 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 16:00:03 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 16:00:03 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:00:05 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:00:05 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_2 Jornadas de atencion")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_2 Jornadas de atencion' is clicked on
+
+2024-05-21 16:00:06 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_2 Jornadas de atencion' is clicked on
+
+2024-05-21 16:00:06 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:00:08 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:00:08 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/0Principal/a_3 Motivos por oficina"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/0Principal/a_3 Motivos por oficina' is clicked on
+
+2024-05-21 16:00:08 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/0Principal/a_3 Motivos por oficina' is clicked on
+
+2024-05-21 16:00:08 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:00:10 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:00:10 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 16:00:11 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 16:00:11 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\3 Motivos x Oficina\\20240521_152406\\1716325210672.png]]
+
+2024-05-21 16:00:11 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/2 Jornadas de Atencion/3 Motivos x Oficina/R94" time="31.157" classname="Test Cases/Configuracion/2 Jornadas de Atencion/3 Motivos x Oficina/R94" status="PASSED">
+         <system-out><![CDATA[2024-05-21 16:00:11 - [TEST_CASE][PASSED] - Test Cases/Configuracion/2 Jornadas de Atencion/3 Motivos x Oficina/R94: Test Cases/Configuracion/2 Jornadas de Atencion/3 Motivos x Oficina/R94
+
+2024-05-21 16:00:11 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 16:00:11 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 16:00:11 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 16:00:11 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 16:00:12 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 16:00:12 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 16:00:14 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 16:00:14 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 16:00:14 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 16:00:14 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:00:16 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:00:16 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 16:00:18 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 16:00:18 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:00:20 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:00:20 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 16:00:20 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 16:00:20 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:00:22 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:00:22 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 16:00:23 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 16:00:23 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 16:00:26 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 16:00:26 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 16:00:26 - [TEST_STEP][PASSED] - comment("Boton Limpiar"): Boton Limpiar
+
+2024-05-21 16:00:26 - [MESSAGE][INFO] - Boton Limpiar
+
+2024-05-21 16:00:26 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 16:00:26 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 16:00:26 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:00:28 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:00:28 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_2 Jornadas de atencion")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_2 Jornadas de atencion' is clicked on
+
+2024-05-21 16:00:29 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_2 Jornadas de atencion' is clicked on
+
+2024-05-21 16:00:29 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:00:31 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:00:31 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/0Principal/a_3 Motivos por oficina"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/0Principal/a_3 Motivos por oficina' is clicked on
+
+2024-05-21 16:00:31 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/0Principal/a_3 Motivos por oficina' is clicked on
+
+2024-05-21 16:00:31 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:00:33 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:00:33 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/textarea_Descripcion"), "Esto es una prueba del Boton Limpiar"): Text 'Esto es una prueba del Boton Limpiar' is set on object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/textarea_Descripcion'
+
+2024-05-21 16:00:34 - [MESSAGE][PASSED] - Text 'Esto es una prueba del Boton Limpiar' is set on object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/textarea_Descripcion'
+
+2024-05-21 16:00:34 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:00:36 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:00:36 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 16:00:37 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 16:00:37 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\3 Motivos x Oficina\\20240521_152406\\1716325236813.png]]
+
+2024-05-21 16:00:37 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:00:39 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:00:39 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_Limpiar"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_Limpiar' is clicked on
+
+2024-05-21 16:00:39 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_Limpiar' is clicked on
+
+2024-05-21 16:00:39 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:00:41 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:00:41 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 16:00:42 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 16:00:42 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\3 Motivos x Oficina\\20240521_152406\\1716325241825.png]]
+
+2024-05-21 16:00:42 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/2 Jornadas de Atencion/3 Motivos x Oficina/R95" time="38.811" classname="Test Cases/Configuracion/2 Jornadas de Atencion/3 Motivos x Oficina/R95" status="PASSED">
+         <system-out><![CDATA[2024-05-21 16:00:42 - [TEST_CASE][PASSED] - Test Cases/Configuracion/2 Jornadas de Atencion/3 Motivos x Oficina/R95: Test Cases/Configuracion/2 Jornadas de Atencion/3 Motivos x Oficina/R95
+
+2024-05-21 16:00:42 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 16:00:42 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 16:00:42 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 16:00:42 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 16:00:43 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 16:00:43 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 16:00:45 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 16:00:45 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 16:00:46 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 16:00:46 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:00:48 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:00:48 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 16:00:49 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 16:00:49 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:00:51 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:00:51 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 16:00:52 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 16:00:52 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:00:54 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:00:54 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 16:00:54 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 16:00:54 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 16:00:57 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 16:00:57 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 16:00:57 - [TEST_STEP][PASSED] - comment("Boton Guardar verificar si guarda un nuevo motivo"): Boton Guardar verificar si guarda un nuevo motivo
+
+2024-05-21 16:00:57 - [MESSAGE][INFO] - Boton Guardar verificar si guarda un nuevo motivo
+
+2024-05-21 16:00:57 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 16:00:58 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 16:00:58 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:01:00 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:01:00 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_2 Jornadas de atencion")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_2 Jornadas de atencion' is clicked on
+
+2024-05-21 16:01:00 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_2 Jornadas de atencion' is clicked on
+
+2024-05-21 16:01:00 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:01:02 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:01:02 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/0Principal/a_3 Motivos por oficina"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/0Principal/a_3 Motivos por oficina' is clicked on
+
+2024-05-21 16:01:03 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/0Principal/a_3 Motivos por oficina' is clicked on
+
+2024-05-21 16:01:03 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:01:05 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:01:05 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/textarea_Descripcion"), "Prueba"): Text 'Prueba' is set on object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/textarea_Descripcion'
+
+2024-05-21 16:01:06 - [MESSAGE][PASSED] - Text 'Prueba' is set on object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/textarea_Descripcion'
+
+2024-05-21 16:01:06 - [TEST_STEP][PASSED] - for (def index : (1..11)): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Inicio' is clicked on
+
+2024-05-21 16:01:06 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Inicio")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Inicio' is clicked on
+
+2024-05-21 16:01:06 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Inicio' is clicked on
+
+2024-05-21 16:01:06 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Inicio")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Inicio' is clicked on
+
+2024-05-21 16:01:07 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Inicio' is clicked on
+
+2024-05-21 16:01:07 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Inicio")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Inicio' is clicked on
+
+2024-05-21 16:01:07 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Inicio' is clicked on
+
+2024-05-21 16:01:07 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Inicio")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Inicio' is clicked on
+
+2024-05-21 16:01:07 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Inicio' is clicked on
+
+2024-05-21 16:01:07 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Inicio")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Inicio' is clicked on
+
+2024-05-21 16:01:08 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Inicio' is clicked on
+
+2024-05-21 16:01:08 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Inicio")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Inicio' is clicked on
+
+2024-05-21 16:01:08 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Inicio' is clicked on
+
+2024-05-21 16:01:08 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Inicio")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Inicio' is clicked on
+
+2024-05-21 16:01:09 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Inicio' is clicked on
+
+2024-05-21 16:01:09 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Inicio")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Inicio' is clicked on
+
+2024-05-21 16:01:09 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Inicio' is clicked on
+
+2024-05-21 16:01:09 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Inicio")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Inicio' is clicked on
+
+2024-05-21 16:01:10 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Inicio' is clicked on
+
+2024-05-21 16:01:10 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Inicio")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Inicio' is clicked on
+
+2024-05-21 16:01:10 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Inicio' is clicked on
+
+2024-05-21 16:01:10 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Inicio")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Inicio' is clicked on
+
+2024-05-21 16:01:11 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Inicio' is clicked on
+
+2024-05-21 16:01:11 - [TEST_STEP][PASSED] - for (def index : (1..12)): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Fin' is clicked on
+
+2024-05-21 16:01:11 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Fin")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Fin' is clicked on
+
+2024-05-21 16:01:11 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Fin' is clicked on
+
+2024-05-21 16:01:11 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Fin")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Fin' is clicked on
+
+2024-05-21 16:01:11 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Fin' is clicked on
+
+2024-05-21 16:01:11 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Fin")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Fin' is clicked on
+
+2024-05-21 16:01:12 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Fin' is clicked on
+
+2024-05-21 16:01:12 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Fin")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Fin' is clicked on
+
+2024-05-21 16:01:12 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Fin' is clicked on
+
+2024-05-21 16:01:12 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Fin")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Fin' is clicked on
+
+2024-05-21 16:01:13 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Fin' is clicked on
+
+2024-05-21 16:01:13 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Fin")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Fin' is clicked on
+
+2024-05-21 16:01:13 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Fin' is clicked on
+
+2024-05-21 16:01:13 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Fin")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Fin' is clicked on
+
+2024-05-21 16:01:14 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Fin' is clicked on
+
+2024-05-21 16:01:14 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Fin")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Fin' is clicked on
+
+2024-05-21 16:01:14 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Fin' is clicked on
+
+2024-05-21 16:01:14 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Fin")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Fin' is clicked on
+
+2024-05-21 16:01:14 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Fin' is clicked on
+
+2024-05-21 16:01:14 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Fin")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Fin' is clicked on
+
+2024-05-21 16:01:15 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Fin' is clicked on
+
+2024-05-21 16:01:15 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Fin")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Fin' is clicked on
+
+2024-05-21 16:01:15 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Fin' is clicked on
+
+2024-05-21 16:01:15 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Fin")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Fin' is clicked on
+
+2024-05-21 16:01:16 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Fin' is clicked on
+
+2024-05-21 16:01:16 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:01:18 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:01:18 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_Guardar"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_Guardar' is clicked on
+
+2024-05-21 16:01:18 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_Guardar' is clicked on
+
+2024-05-21 16:01:18 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:01:20 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:01:20 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 16:01:21 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 16:01:21 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\3 Motivos x Oficina\\20240521_152406\\1716325280682.png]]
+
+2024-05-21 16:01:21 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/2 Jornadas de Atencion/3 Motivos x Oficina/R96" time="23.486" classname="Test Cases/Configuracion/2 Jornadas de Atencion/3 Motivos x Oficina/R96" status="FAILED">
+         <failure type="FAILED" message="Test Cases/Configuracion/2 Jornadas de Atencion/3 Motivos x Oficina/R96 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to select option by index '1' of object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos de cierre por oficina/select_Oficina'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByIndexKeyword.selectOptionByIndex(SelectOptionByIndexKeyword.groovy:93)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByIndexKeyword.execute(SelectOptionByIndexKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByIndex(WebUiBuiltInKeywords.groovy:1133)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$selectOptionByIndex$6.call(Unknown Source)
+	at R96.run(R96:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323046788.run(TempTestSuite1716323046788.groovy:35)
+Caused by: java.lang.IllegalArgumentException: Index '1' is invalid (valid indexes are: [0..0])
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.checkSelectIndex(WebUiCommonHelper.java:206)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.selectOrDeselectOptionsByIndex(WebUiCommonHelper.java:234)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByIndexKeyword$_selectOptionByIndex_closure1.doCall(SelectOptionByIndexKeyword.groovy:85)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByIndexKeyword$_selectOptionByIndex_closure1.call(SelectOptionByIndexKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+"/>
+         <system-out><![CDATA[2024-05-21 16:01:21 - [TEST_CASE][FAILED] - Test Cases/Configuracion/2 Jornadas de Atencion/3 Motivos x Oficina/R96: Test Cases/Configuracion/2 Jornadas de Atencion/3 Motivos x Oficina/R96 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to select option by index '1' of object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos de cierre por oficina/select_Oficina'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByIndexKeyword.selectOptionByIndex(SelectOptionByIndexKeyword.groovy:93)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByIndexKeyword.execute(SelectOptionByIndexKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByIndex(WebUiBuiltInKeywords.groovy:1133)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$selectOptionByIndex$6.call(Unknown Source)
+	at R96.run(R96:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323046788.run(TempTestSuite1716323046788.groovy:35)
+Caused by: java.lang.IllegalArgumentException: Index '1' is invalid (valid indexes are: [0..0])
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.checkSelectIndex(WebUiCommonHelper.java:206)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.selectOrDeselectOptionsByIndex(WebUiCommonHelper.java:234)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByIndexKeyword$_selectOptionByIndex_closure1.doCall(SelectOptionByIndexKeyword.groovy:85)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByIndexKeyword$_selectOptionByIndex_closure1.call(SelectOptionByIndexKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+
+
+2024-05-21 16:01:21 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 16:01:21 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 16:01:21 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 16:01:21 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 16:01:22 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 16:01:22 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 16:01:24 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 16:01:24 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 16:01:24 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 16:01:24 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:01:26 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:01:26 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 16:01:27 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 16:01:27 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:01:29 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:01:29 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 16:01:30 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 16:01:30 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:01:32 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:01:32 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 16:01:33 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 16:01:33 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 16:01:36 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 16:01:36 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 16:01:36 - [TEST_STEP][PASSED] - comment("Seleccionar una oficina y Habilitar los Motivos Creados"): Seleccionar una oficina y Habilitar los Motivos Creados
+
+2024-05-21 16:01:36 - [MESSAGE][INFO] - Seleccionar una oficina y Habilitar los Motivos Creados
+
+2024-05-21 16:01:36 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 16:01:36 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 16:01:36 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:01:38 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:01:38 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_2 Jornadas de atencion")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_2 Jornadas de atencion' is clicked on
+
+2024-05-21 16:01:39 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_2 Jornadas de atencion' is clicked on
+
+2024-05-21 16:01:39 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:01:41 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:01:41 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/0Principal/a_3 Motivos por oficina"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/0Principal/a_3 Motivos por oficina' is clicked on
+
+2024-05-21 16:01:41 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/0Principal/a_3 Motivos por oficina' is clicked on
+
+2024-05-21 16:01:41 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:01:43 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:01:43 - [TEST_STEP][FAILED] - selectOptionByIndex(findTestObject("ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos de cierre por oficina/select_Oficina"), 1): Unable to select option by index '1' of object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos de cierre por oficina/select_Oficina' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to select option by index '1' of object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos de cierre por oficina/select_Oficina'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByIndexKeyword.selectOptionByIndex(SelectOptionByIndexKeyword.groovy:93)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByIndexKeyword.execute(SelectOptionByIndexKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByIndex(WebUiBuiltInKeywords.groovy:1133)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$selectOptionByIndex$6.call(Unknown Source)
+	at R96.run(R96:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323046788.run(TempTestSuite1716323046788.groovy:35)
+Caused by: java.lang.IllegalArgumentException: Index '1' is invalid (valid indexes are: [0..0])
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.checkSelectIndex(WebUiCommonHelper.java:206)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.selectOrDeselectOptionsByIndex(WebUiCommonHelper.java:234)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByIndexKeyword$_selectOptionByIndex_closure1.doCall(SelectOptionByIndexKeyword.groovy:85)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByIndexKeyword$_selectOptionByIndex_closure1.call(SelectOptionByIndexKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByIndexKeyword.selectOptionByIndex(SelectOptionByIndexKeyword.groovy:93)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByIndexKeyword.execute(SelectOptionByIndexKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByIndex(WebUiBuiltInKeywords.groovy:1133)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$selectOptionByIndex$6.call(Unknown Source)
+	at Script1700675686879.run(Script1700675686879.groovy:36)
+	... 13 more
+)
+
+2024-05-21 16:01:44 - [MESSAGE][FAILED] - Unable to select option by index '1' of object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos de cierre por oficina/select_Oficina' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to select option by index '1' of object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos de cierre por oficina/select_Oficina'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByIndexKeyword.selectOptionByIndex(SelectOptionByIndexKeyword.groovy:93)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByIndexKeyword.execute(SelectOptionByIndexKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByIndex(WebUiBuiltInKeywords.groovy:1133)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$selectOptionByIndex$6.call(Unknown Source)
+	at R96.run(R96:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323046788.run(TempTestSuite1716323046788.groovy:35)
+Caused by: java.lang.IllegalArgumentException: Index '1' is invalid (valid indexes are: [0..0])
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.checkSelectIndex(WebUiCommonHelper.java:206)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.selectOrDeselectOptionsByIndex(WebUiCommonHelper.java:234)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByIndexKeyword$_selectOptionByIndex_closure1.doCall(SelectOptionByIndexKeyword.groovy:85)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByIndexKeyword$_selectOptionByIndex_closure1.call(SelectOptionByIndexKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByIndexKeyword.selectOptionByIndex(SelectOptionByIndexKeyword.groovy:93)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByIndexKeyword.execute(SelectOptionByIndexKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByIndex(WebUiBuiltInKeywords.groovy:1133)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$selectOptionByIndex$6.call(Unknown Source)
+	at Script1700675686879.run(Script1700675686879.groovy:36)
+	... 13 more
+)
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\3 Motivos x Oficina\\20240521_152406\\1716325304542.png]]
+
+2024-05-21 16:01:44 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[2024-05-21 16:01:21 - [TEST_CASE][FAILED] - Test Cases/Configuracion/2 Jornadas de Atencion/3 Motivos x Oficina/R96: Test Cases/Configuracion/2 Jornadas de Atencion/3 Motivos x Oficina/R96 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to select option by index '1' of object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos de cierre por oficina/select_Oficina'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByIndexKeyword.selectOptionByIndex(SelectOptionByIndexKeyword.groovy:93)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByIndexKeyword.execute(SelectOptionByIndexKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByIndex(WebUiBuiltInKeywords.groovy:1133)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$selectOptionByIndex$6.call(Unknown Source)
+	at R96.run(R96:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323046788.run(TempTestSuite1716323046788.groovy:35)
+Caused by: java.lang.IllegalArgumentException: Index '1' is invalid (valid indexes are: [0..0])
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.checkSelectIndex(WebUiCommonHelper.java:206)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.selectOrDeselectOptionsByIndex(WebUiCommonHelper.java:234)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByIndexKeyword$_selectOptionByIndex_closure1.doCall(SelectOptionByIndexKeyword.groovy:85)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByIndexKeyword$_selectOptionByIndex_closure1.call(SelectOptionByIndexKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/2 Jornadas de Atencion/3 Motivos x Oficina/R98" time="54.041" classname="Test Cases/Configuracion/2 Jornadas de Atencion/3 Motivos x Oficina/R98" status="FAILED">
+         <failure type="FAILED" message="Test Cases/Configuracion/2 Jornadas de Atencion/3 Motivos x Oficina/R98 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Lista de Motivos/td3_Prueba'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at R98.run(R98:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323046788.run(TempTestSuite1716323046788.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Lista de Motivos/td3_Prueba' located by '//table[@id='ctl00_ContentPlaceHolder2_mcMotivos_gvMotivos']/tbody/tr[4]/td[2]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+"/>
+         <system-out><![CDATA[2024-05-21 16:01:44 - [TEST_CASE][FAILED] - Test Cases/Configuracion/2 Jornadas de Atencion/3 Motivos x Oficina/R98: Test Cases/Configuracion/2 Jornadas de Atencion/3 Motivos x Oficina/R98 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Lista de Motivos/td3_Prueba'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at R98.run(R98:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323046788.run(TempTestSuite1716323046788.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Lista de Motivos/td3_Prueba' located by '//table[@id='ctl00_ContentPlaceHolder2_mcMotivos_gvMotivos']/tbody/tr[4]/td[2]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+
+
+2024-05-21 16:01:44 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 16:01:45 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 16:01:45 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 16:01:45 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 16:01:45 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 16:01:45 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 16:01:48 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 16:01:48 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 16:01:48 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 16:01:48 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:01:50 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:01:50 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 16:01:51 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 16:01:51 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:01:53 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:01:53 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 16:01:54 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 16:01:54 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:01:56 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:01:56 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 16:01:56 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 16:01:56 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 16:01:59 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 16:01:59 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 16:01:59 - [TEST_STEP][PASSED] - comment("Boton Guardar verificar si guarda un nuevo motivo"): Boton Guardar verificar si guarda un nuevo motivo
+
+2024-05-21 16:01:59 - [MESSAGE][INFO] - Boton Guardar verificar si guarda un nuevo motivo
+
+2024-05-21 16:01:59 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 16:02:00 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 16:02:00 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:02:02 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:02:02 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_2 Jornadas de atencion")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_2 Jornadas de atencion' is clicked on
+
+2024-05-21 16:02:02 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_2 Jornadas de atencion' is clicked on
+
+2024-05-21 16:02:02 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:02:04 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:02:04 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/0Principal/a_3 Motivos por oficina"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/0Principal/a_3 Motivos por oficina' is clicked on
+
+2024-05-21 16:02:05 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/0Principal/a_3 Motivos por oficina' is clicked on
+
+2024-05-21 16:02:05 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:02:07 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:02:07 - [TEST_STEP][FAILED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Lista de Motivos/td3_Prueba")): Unable to click on object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Lista de Motivos/td3_Prueba' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Lista de Motivos/td3_Prueba'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at R98.run(R98:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323046788.run(TempTestSuite1716323046788.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Lista de Motivos/td3_Prueba' located by '//table[@id='ctl00_ContentPlaceHolder2_mcMotivos_gvMotivos']/tbody/tr[4]/td[2]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Script1700676659614.run(Script1700676659614.groovy:36)
+	... 13 more
+)
+
+2024-05-21 16:02:38 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //table[@id='ctl00_ContentPlaceHolder2_mcMotivos_gvMotivos']/tbody/tr[4]/td[2]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2024-05-21 16:02:38 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Lista de Motivos/td3_Prueba' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Lista de Motivos/td3_Prueba'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at R98.run(R98:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323046788.run(TempTestSuite1716323046788.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Lista de Motivos/td3_Prueba' located by '//table[@id='ctl00_ContentPlaceHolder2_mcMotivos_gvMotivos']/tbody/tr[4]/td[2]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Script1700676659614.run(Script1700676659614.groovy:36)
+	... 13 more
+)
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\3 Motivos x Oficina\\20240521_152406\\1716325358642.png]]
+
+2024-05-21 16:02:38 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[2024-05-21 16:01:44 - [TEST_CASE][FAILED] - Test Cases/Configuracion/2 Jornadas de Atencion/3 Motivos x Oficina/R98: Test Cases/Configuracion/2 Jornadas de Atencion/3 Motivos x Oficina/R98 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Lista de Motivos/td3_Prueba'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at R98.run(R98:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323046788.run(TempTestSuite1716323046788.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Lista de Motivos/td3_Prueba' located by '//table[@id='ctl00_ContentPlaceHolder2_mcMotivos_gvMotivos']/tbody/tr[4]/td[2]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/2 Jornadas de Atencion/3 Motivos x Oficina/R99" time="56.956" classname="Test Cases/Configuracion/2 Jornadas de Atencion/3 Motivos x Oficina/R99" status="FAILED">
+         <failure type="FAILED" message="Test Cases/Configuracion/2 Jornadas de Atencion/3 Motivos x Oficina/R99 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Lista de Motivos/a3_Prueba_btnBorrar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:608)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at R99.run(R99:40)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323046788.run(TempTestSuite1716323046788.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Lista de Motivos/a3_Prueba_btnBorrar' located by '//a[@id='ctl00_ContentPlaceHolder2_mcMotivos_gvMotivos_ctl04_btnBorrar']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+"/>
+         <system-out><![CDATA[2024-05-21 16:02:38 - [TEST_CASE][FAILED] - Test Cases/Configuracion/2 Jornadas de Atencion/3 Motivos x Oficina/R99: Test Cases/Configuracion/2 Jornadas de Atencion/3 Motivos x Oficina/R99 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Lista de Motivos/a3_Prueba_btnBorrar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:608)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at R99.run(R99:40)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323046788.run(TempTestSuite1716323046788.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Lista de Motivos/a3_Prueba_btnBorrar' located by '//a[@id='ctl00_ContentPlaceHolder2_mcMotivos_gvMotivos_ctl04_btnBorrar']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+
+
+2024-05-21 16:02:39 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 16:02:39 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 16:02:39 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 16:02:39 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 16:02:39 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 16:02:39 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 16:02:42 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 16:02:42 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 16:02:42 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 16:02:42 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:02:44 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:02:44 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 16:02:45 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 16:02:45 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:02:47 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:02:47 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 16:02:48 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 16:02:48 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:02:50 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:02:50 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 16:02:51 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 16:02:51 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 16:02:54 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 16:02:54 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 16:02:54 - [TEST_STEP][PASSED] - comment("Boton Eliminar Prueba"): Boton Eliminar Prueba
+
+2024-05-21 16:02:54 - [MESSAGE][INFO] - Boton Eliminar Prueba
+
+2024-05-21 16:02:54 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 16:02:54 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 16:02:54 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:02:56 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:02:56 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_2 Jornadas de atencion")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_2 Jornadas de atencion' is clicked on
+
+2024-05-21 16:02:57 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_2 Jornadas de atencion' is clicked on
+
+2024-05-21 16:02:57 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:02:59 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:02:59 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/0Principal/a_3 Motivos por oficina"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/0Principal/a_3 Motivos por oficina' is clicked on
+
+2024-05-21 16:02:59 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/0Principal/a_3 Motivos por oficina' is clicked on
+
+2024-05-21 16:02:59 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:03:01 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:03:01 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 16:03:02 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 16:03:02 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\3 Motivos x Oficina\\20240521_152406\\1716325381739.png]]
+
+2024-05-21 16:03:02 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:03:04 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:03:04 - [TEST_STEP][FAILED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Lista de Motivos/a3_Prueba_btnBorrar"), STOP_ON_FAILURE): Unable to click on object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Lista de Motivos/a3_Prueba_btnBorrar' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Lista de Motivos/a3_Prueba_btnBorrar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:608)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at R99.run(R99:40)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323046788.run(TempTestSuite1716323046788.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Lista de Motivos/a3_Prueba_btnBorrar' located by '//a[@id='ctl00_ContentPlaceHolder2_mcMotivos_gvMotivos_ctl04_btnBorrar']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:608)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at Script1700681562297.run(Script1700681562297.groovy:40)
+	... 13 more
+)
+
+2024-05-21 16:03:35 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //a[@id='ctl00_ContentPlaceHolder2_mcMotivos_gvMotivos_ctl04_btnBorrar']'. Please recheck the objects properties to make sure the desired element is located. 
+
+2024-05-21 16:03:35 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Lista de Motivos/a3_Prueba_btnBorrar' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Lista de Motivos/a3_Prueba_btnBorrar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:608)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at R99.run(R99:40)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323046788.run(TempTestSuite1716323046788.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Lista de Motivos/a3_Prueba_btnBorrar' located by '//a[@id='ctl00_ContentPlaceHolder2_mcMotivos_gvMotivos_ctl04_btnBorrar']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:608)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at Script1700681562297.run(Script1700681562297.groovy:40)
+	... 13 more
+)
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\3 Motivos x Oficina\\20240521_152406\\1716325415590.png]]
+
+2024-05-21 16:03:35 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[2024-05-21 16:02:38 - [TEST_CASE][FAILED] - Test Cases/Configuracion/2 Jornadas de Atencion/3 Motivos x Oficina/R99: Test Cases/Configuracion/2 Jornadas de Atencion/3 Motivos x Oficina/R99 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Lista de Motivos/a3_Prueba_btnBorrar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:608)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at R99.run(R99:40)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323046788.run(TempTestSuite1716323046788.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Lista de Motivos/a3_Prueba_btnBorrar' located by '//a[@id='ctl00_ContentPlaceHolder2_mcMotivos_gvMotivos_ctl04_btnBorrar']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2024-05-21 15:59:20 - [TEST_SUITE][FAILED] - 3 Motivos x Oficina: Test Cases/Configuracion/2 Jornadas de Atencion/3 Motivos x Oficina/R96 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to select option by index '1' of object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos de cierre por oficina/select_Oficina'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByIndexKeyword.selectOptionByIndex(SelectOptionByIndexKeyword.groovy:93)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByIndexKeyword.execute(SelectOptionByIndexKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByIndex(WebUiBuiltInKeywords.groovy:1133)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$selectOptionByIndex$6.call(Unknown Source)
+	at R96.run(R96:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323046788.run(TempTestSuite1716323046788.groovy:35)
+Caused by: java.lang.IllegalArgumentException: Index '1' is invalid (valid indexes are: [0..0])
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.checkSelectIndex(WebUiCommonHelper.java:206)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.selectOrDeselectOptionsByIndex(WebUiCommonHelper.java:234)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByIndexKeyword$_selectOptionByIndex_closure1.doCall(SelectOptionByIndexKeyword.groovy:85)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByIndexKeyword$_selectOptionByIndex_closure1.call(SelectOptionByIndexKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-out>
+      <system-err><![CDATA[2024-05-21 15:59:20 - [TEST_SUITE][FAILED] - 3 Motivos x Oficina: Test Cases/Configuracion/2 Jornadas de Atencion/3 Motivos x Oficina/R96 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to select option by index '1' of object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos de cierre por oficina/select_Oficina'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByIndexKeyword.selectOptionByIndex(SelectOptionByIndexKeyword.groovy:93)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByIndexKeyword.execute(SelectOptionByIndexKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByIndex(WebUiBuiltInKeywords.groovy:1133)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$selectOptionByIndex$6.call(Unknown Source)
+	at R96.run(R96:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323046788.run(TempTestSuite1716323046788.groovy:35)
+Caused by: java.lang.IllegalArgumentException: Index '1' is invalid (valid indexes are: [0..0])
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.checkSelectIndex(WebUiCommonHelper.java:206)
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.selectOrDeselectOptionsByIndex(WebUiCommonHelper.java:234)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByIndexKeyword$_selectOptionByIndex_closure1.doCall(SelectOptionByIndexKeyword.groovy:85)
+	at com.kms.katalon.core.webui.keyword.builtin.SelectOptionByIndexKeyword$_selectOptionByIndex_closure1.call(SelectOptionByIndexKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+   </testsuite>
+</testsuites>

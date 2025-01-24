@@ -33,14 +33,13 @@ WebUI.click(findTestObject('ADM/1Configuracion/4Sistema/0Principal/a_5 Mensajes 
 
 WebUI.delay(2)
 
-WebUI.setText(findTestObject('ADM/1Configuracion/4Sistema/5Mensajes Notificacion/Edicion/input_Nombre mensaje'), GlobalVariable.CampoPrueba)
+WebUI.setText(findTestObject('ADM/1Configuracion/4Sistema/5Mensajes Notificacion/Edicion/input_Nombre mensaje'), 'Mensaje de prueba')
 
 WebUI.delay(2)
 
 WebUI.click(findTestObject('ADM/1Configuracion/4Sistema/5Mensajes Notificacion/Edicion/img_Modo HTML'))
 
-WebUI.setText(findTestObject('ADM/1Configuracion/4Sistema/5Mensajes Notificacion/Edicion/textarea_Modo HTML Mensaje'), 
-    GlobalVariable.CampoPrueba)
+WebUI.setText(findTestObject('ADM/1Configuracion/4Sistema/5Mensajes Notificacion/Edicion/textarea_Modo HTML Mensaje'), 'Mensaje de Prueba')
 
 WebUI.delay(2)
 

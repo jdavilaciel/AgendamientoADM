@@ -1,0 +1,1143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="3 Parametros Generales" time="274.397" tests="7" failures="0" errors="0">
+   <testsuite name="3 Parametros Generales" tests="7" failures="0" errors="0" time="274.397" skipped="0" timestamp="2024-05-21 16:24:02" hostname="jdavila - PCPruebas101.ciel.cielingenieria.com" id="Test Suites/1 Configuracion/4 Sistema/3 Parametros Generales">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\4 Sistema\\3 Parametros Generales\\20240521_152418"/>
+         <property name="logFiles" value="C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\4 Sistema\\3 Parametros Generales\\20240521_152418\\execution0.log"/>
+         <property name="attachments" value="C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\4 Sistema\\3 Parametros Generales\\20240521_152418\\1716326670712.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\4 Sistema\\3 Parametros Generales\\20240521_152418\\1716326695100.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\4 Sistema\\3 Parametros Generales\\20240521_152418\\1716326721034.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\4 Sistema\\3 Parametros Generales\\20240521_152418\\1716326725242.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\4 Sistema\\3 Parametros Generales\\20240521_152418\\1716326751277.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\4 Sistema\\3 Parametros Generales\\20240521_152418\\1716326757088.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\4 Sistema\\3 Parametros Generales\\20240521_152418\\1716326783386.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\4 Sistema\\3 Parametros Generales\\20240521_152418\\1716326790358.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\4 Sistema\\3 Parametros Generales\\20240521_152418\\1716326793298.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\4 Sistema\\3 Parametros Generales\\20240521_152418\\1716326819511.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\4 Sistema\\3 Parametros Generales\\20240521_152418\\1716326824838.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\4 Sistema\\3 Parametros Generales\\20240521_152418\\1716326830139.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\4 Sistema\\3 Parametros Generales\\20240521_152418\\1716326835400.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\4 Sistema\\3 Parametros Generales\\20240521_152418\\1716326840715.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\4 Sistema\\3 Parametros Generales\\20240521_152418\\1716326866896.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\4 Sistema\\3 Parametros Generales\\20240521_152418\\1716326871915.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\4 Sistema\\3 Parametros Generales\\20240521_152418\\1716326877198.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\4 Sistema\\3 Parametros Generales\\20240521_152418\\1716326882574.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\4 Sistema\\3 Parametros Generales\\20240521_152418\\1716326887574.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\4 Sistema\\3 Parametros Generales\\20240521_152418\\1716326892879.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\4 Sistema\\3 Parametros Generales\\20240521_152418\\1716326898205.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\4 Sistema\\3 Parametros Generales\\20240521_152418\\1716326904056.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\4 Sistema\\3 Parametros Generales\\20240521_152418\\1716326909552.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\4 Sistema\\3 Parametros Generales\\20240521_152418\\1716326915489.png"/>
+         <property name="hostName" value="jdavila - PCPruebas101.ciel.cielingenieria.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.9.208"/>
+         <property name="browser" value="Chrome 124.0.0.0"/>
+         <property name="hostAddress" value="192.168.91.13"/>
+         <property name="sessionId" value="51353cd6ab725e656a6fd5567021bbb2"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Configuracion/4 Sistema/3 Parametros Generales/R146" time="29.108" classname="Test Cases/Configuracion/4 Sistema/3 Parametros Generales/R146" status="PASSED">
+         <system-out><![CDATA[2024-05-21 16:24:02 - [TEST_CASE][PASSED] - Test Cases/Configuracion/4 Sistema/3 Parametros Generales/R146: Test Cases/Configuracion/4 Sistema/3 Parametros Generales/R146
+
+2024-05-21 16:24:02 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 16:24:03 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 16:24:03 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 16:24:03 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 16:24:03 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 16:24:06 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 16:24:06 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 16:24:07 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 16:24:07 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:24:09 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:24:09 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 16:24:10 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 16:24:10 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:24:12 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:24:12 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 16:24:13 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 16:24:13 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:24:15 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:24:15 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 16:24:15 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 16:24:15 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 16:24:18 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 16:24:18 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 16:24:18 - [TEST_STEP][PASSED] - comment("Verificar elementos presentes"): Verificar elementos presentes
+
+2024-05-21 16:24:18 - [MESSAGE][INFO] - Verificar elementos presentes
+
+2024-05-21 16:24:18 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 16:24:19 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 16:24:19 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:24:21 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:24:21 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_4 Sistema")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_4 Sistema' is clicked on
+
+2024-05-21 16:24:21 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_4 Sistema' is clicked on
+
+2024-05-21 16:24:21 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:24:23 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:24:23 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/4Sistema/0Principal/a_3 Parametros generales")): Object: 'Object Repository/ADM/1Configuracion/4Sistema/0Principal/a_3 Parametros generales' is clicked on
+
+2024-05-21 16:24:25 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/4Sistema/0Principal/a_3 Parametros generales' is clicked on
+
+2024-05-21 16:24:25 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:24:27 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:24:27 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/4Sistema/3Parametros Generales/0 Por Codigo/btn_Editar 1"), 2): Object 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/0 Por Codigo/btn_Editar 1' is present
+
+2024-05-21 16:24:27 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/0 Por Codigo/btn_Editar 1' is present
+
+2024-05-21 16:24:27 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/4Sistema/3Parametros Generales/0 Por Codigo/input_FiltroCodigo"), 2): Object 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/0 Por Codigo/input_FiltroCodigo' is present
+
+2024-05-21 16:24:28 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/0 Por Codigo/input_FiltroCodigo' is present
+
+2024-05-21 16:24:28 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/4Sistema/3Parametros Generales/0 Por Codigo/click_FiltroCodigo"), 2): Object 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/0 Por Codigo/click_FiltroCodigo' is present
+
+2024-05-21 16:24:28 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/0 Por Codigo/click_FiltroCodigo' is present
+
+2024-05-21 16:24:28 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/4Sistema/3Parametros Generales/0 Por Codigo/click_FiltroCodigo"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/0 Por Codigo/click_FiltroCodigo' is clicked on
+
+2024-05-21 16:24:28 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/0 Por Codigo/click_FiltroCodigo' is clicked on
+
+2024-05-21 16:24:28 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/4Sistema/3Parametros Generales/0 Por Codigo/span_Igual a"), 2): Object 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/0 Por Codigo/span_Igual a' is present
+
+2024-05-21 16:24:29 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/0 Por Codigo/span_Igual a' is present
+
+2024-05-21 16:24:29 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/4Sistema/3Parametros Generales/0 Por Codigo/span_Mayor"), 2): Object 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/0 Por Codigo/span_Mayor' is present
+
+2024-05-21 16:24:29 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/0 Por Codigo/span_Mayor' is present
+
+2024-05-21 16:24:29 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/4Sistema/3Parametros Generales/0 Por Codigo/span_Menor"), 2): Object 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/0 Por Codigo/span_Menor' is present
+
+2024-05-21 16:24:30 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/0 Por Codigo/span_Menor' is present
+
+2024-05-21 16:24:30 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/4Sistema/3Parametros Generales/0 Por Codigo/span_Nulo"), 2): Object 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/0 Por Codigo/span_Nulo' is present
+
+2024-05-21 16:24:30 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/0 Por Codigo/span_Nulo' is present
+
+2024-05-21 16:24:30 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 16:24:31 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 16:24:31 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\4 Sistema\\3 Parametros Generales\\20240521_152418\\1716326670712.png]]
+
+2024-05-21 16:24:31 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/4 Sistema/3 Parametros Generales/R147" time="23.889" classname="Test Cases/Configuracion/4 Sistema/3 Parametros Generales/R147" status="PASSED">
+         <system-out><![CDATA[2024-05-21 16:24:31 - [TEST_CASE][PASSED] - Test Cases/Configuracion/4 Sistema/3 Parametros Generales/R147: Test Cases/Configuracion/4 Sistema/3 Parametros Generales/R147
+
+2024-05-21 16:24:32 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 16:24:32 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 16:24:32 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 16:24:32 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 16:24:32 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 16:24:32 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 16:24:35 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 16:24:35 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 16:24:35 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 16:24:35 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:24:37 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:24:37 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 16:24:38 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 16:24:38 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:24:40 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:24:40 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 16:24:41 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 16:24:41 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:24:43 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:24:43 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 16:24:43 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 16:24:43 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 16:24:46 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 16:24:46 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 16:24:46 - [TEST_STEP][PASSED] - comment("Boton Editar dirige a ventana modal"): Boton Editar dirige a ventana modal
+
+2024-05-21 16:24:46 - [MESSAGE][INFO] - Boton Editar dirige a ventana modal
+
+2024-05-21 16:24:46 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 16:24:47 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 16:24:47 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:24:49 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:24:49 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_4 Sistema")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_4 Sistema' is clicked on
+
+2024-05-21 16:24:49 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_4 Sistema' is clicked on
+
+2024-05-21 16:24:49 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:24:51 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:24:51 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/4Sistema/0Principal/a_3 Parametros generales")): Object: 'Object Repository/ADM/1Configuracion/4Sistema/0Principal/a_3 Parametros generales' is clicked on
+
+2024-05-21 16:24:52 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/4Sistema/0Principal/a_3 Parametros generales' is clicked on
+
+2024-05-21 16:24:52 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:24:54 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:24:54 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/4Sistema/3Parametros Generales/0 Por Codigo/btn_Editar 1"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/0 Por Codigo/btn_Editar 1' is clicked on
+
+2024-05-21 16:24:55 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/0 Por Codigo/btn_Editar 1' is clicked on
+
+2024-05-21 16:24:55 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 16:24:55 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 16:24:55 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\4 Sistema\\3 Parametros Generales\\20240521_152418\\1716326695100.png]]
+
+2024-05-21 16:24:55 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/4 Sistema/3 Parametros Generales/R148" time="30.105" classname="Test Cases/Configuracion/4 Sistema/3 Parametros Generales/R148" status="PASSED">
+         <system-out><![CDATA[2024-05-21 16:24:55 - [TEST_CASE][PASSED] - Test Cases/Configuracion/4 Sistema/3 Parametros Generales/R148: Test Cases/Configuracion/4 Sistema/3 Parametros Generales/R148
+
+2024-05-21 16:24:56 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 16:24:56 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 16:24:56 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 16:24:56 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 16:24:56 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 16:24:56 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 16:24:59 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 16:24:59 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 16:24:59 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 16:24:59 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:25:01 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:25:01 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 16:25:02 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 16:25:02 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:25:04 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:25:04 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 16:25:05 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 16:25:05 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:25:07 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:25:07 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 16:25:07 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 16:25:07 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 16:25:10 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 16:25:10 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 16:25:10 - [TEST_STEP][PASSED] - comment("Boton Editar dirige a ventana modal"): Boton Editar dirige a ventana modal
+
+2024-05-21 16:25:10 - [MESSAGE][INFO] - Boton Editar dirige a ventana modal
+
+2024-05-21 16:25:10 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 16:25:11 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 16:25:11 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:25:13 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:25:13 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_4 Sistema")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_4 Sistema' is clicked on
+
+2024-05-21 16:25:13 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_4 Sistema' is clicked on
+
+2024-05-21 16:25:13 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:25:15 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:25:15 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/4Sistema/0Principal/a_3 Parametros generales")): Object: 'Object Repository/ADM/1Configuracion/4Sistema/0Principal/a_3 Parametros generales' is clicked on
+
+2024-05-21 16:25:16 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/4Sistema/0Principal/a_3 Parametros generales' is clicked on
+
+2024-05-21 16:25:16 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:25:18 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:25:18 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/4Sistema/3Parametros Generales/0 Por Codigo/btn_Editar 1"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/0 Por Codigo/btn_Editar 1' is clicked on
+
+2024-05-21 16:25:19 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/0 Por Codigo/btn_Editar 1' is clicked on
+
+2024-05-21 16:25:19 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:25:21 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:25:21 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 16:25:21 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 16:25:21 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\4 Sistema\\3 Parametros Generales\\20240521_152418\\1716326721034.png]]
+
+2024-05-21 16:25:21 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:25:23 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:25:23 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/4Sistema/3Parametros Generales/1 Cambios/Valores/input_Valor2"), "10"): Text '10' is set on object 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/1 Cambios/Valores/input_Valor2'
+
+2024-05-21 16:25:24 - [MESSAGE][PASSED] - Text '10' is set on object 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/1 Cambios/Valores/input_Valor2'
+
+2024-05-21 16:25:24 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/4Sistema/3Parametros Generales/1 Cambios/Valores/input_Valor3"), "10"): Text '10' is set on object 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/1 Cambios/Valores/input_Valor3'
+
+2024-05-21 16:25:25 - [MESSAGE][PASSED] - Text '10' is set on object 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/1 Cambios/Valores/input_Valor3'
+
+2024-05-21 16:25:25 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 16:25:25 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 16:25:25 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\4 Sistema\\3 Parametros Generales\\20240521_152418\\1716326725242.png]]
+
+2024-05-21 16:25:25 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/4 Sistema/3 Parametros Generales/R149" time="32.107" classname="Test Cases/Configuracion/4 Sistema/3 Parametros Generales/R149" status="PASSED">
+         <system-out><![CDATA[2024-05-21 16:25:25 - [TEST_CASE][PASSED] - Test Cases/Configuracion/4 Sistema/3 Parametros Generales/R149: Test Cases/Configuracion/4 Sistema/3 Parametros Generales/R149
+
+2024-05-21 16:25:26 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 16:25:26 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 16:25:26 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 16:25:26 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 16:25:27 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 16:25:27 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 16:25:29 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 16:25:29 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 16:25:29 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 16:25:29 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:25:31 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:25:31 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 16:25:32 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 16:25:32 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:25:34 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:25:34 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 16:25:35 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 16:25:35 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:25:37 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:25:37 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 16:25:37 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 16:25:37 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 16:25:40 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 16:25:40 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 16:25:40 - [TEST_STEP][PASSED] - comment("Boton Actualizar en el parametro 1"): Boton Actualizar en el parametro 1
+
+2024-05-21 16:25:40 - [MESSAGE][INFO] - Boton Actualizar en el parametro 1
+
+2024-05-21 16:25:40 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 16:25:41 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 16:25:41 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:25:43 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:25:43 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_4 Sistema")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_4 Sistema' is clicked on
+
+2024-05-21 16:25:43 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_4 Sistema' is clicked on
+
+2024-05-21 16:25:43 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:25:45 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:25:45 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/4Sistema/0Principal/a_3 Parametros generales")): Object: 'Object Repository/ADM/1Configuracion/4Sistema/0Principal/a_3 Parametros generales' is clicked on
+
+2024-05-21 16:25:46 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/4Sistema/0Principal/a_3 Parametros generales' is clicked on
+
+2024-05-21 16:25:46 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:25:48 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:25:48 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/4Sistema/3Parametros Generales/0 Por Codigo/btn_Editar 1"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/0 Por Codigo/btn_Editar 1' is clicked on
+
+2024-05-21 16:25:49 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/0 Por Codigo/btn_Editar 1' is clicked on
+
+2024-05-21 16:25:49 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:25:51 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:25:51 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 16:25:51 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 16:25:51 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\4 Sistema\\3 Parametros Generales\\20240521_152418\\1716326751277.png]]
+
+2024-05-21 16:25:51 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:25:53 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:25:53 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/4Sistema/3Parametros Generales/1 Cambios/Valores/input_Valor1"), "5"): Text '5' is set on object 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/1 Cambios/Valores/input_Valor1'
+
+2024-05-21 16:25:54 - [MESSAGE][PASSED] - Text '5' is set on object 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/1 Cambios/Valores/input_Valor1'
+
+2024-05-21 16:25:54 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/4Sistema/3Parametros Generales/1 Cambios/Valores/btn_Actualizar")): Object: 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/1 Cambios/Valores/btn_Actualizar' is clicked on
+
+2024-05-21 16:25:55 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/1 Cambios/Valores/btn_Actualizar' is clicked on
+
+2024-05-21 16:25:55 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:25:57 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:25:57 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 16:25:57 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 16:25:57 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\4 Sistema\\3 Parametros Generales\\20240521_152418\\1716326757088.png]]
+
+2024-05-21 16:25:57 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/4 Sistema/3 Parametros Generales/R150" time="36.301" classname="Test Cases/Configuracion/4 Sistema/3 Parametros Generales/R150" status="PASSED">
+         <system-out><![CDATA[2024-05-21 16:25:57 - [TEST_CASE][PASSED] - Test Cases/Configuracion/4 Sistema/3 Parametros Generales/R150: Test Cases/Configuracion/4 Sistema/3 Parametros Generales/R150
+
+2024-05-21 16:25:58 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 16:25:58 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 16:25:58 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 16:25:58 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 16:25:59 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 16:25:59 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 16:26:01 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 16:26:01 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 16:26:01 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 16:26:01 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:26:03 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:26:03 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 16:26:04 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 16:26:04 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:26:06 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:26:06 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 16:26:07 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 16:26:07 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:26:09 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:26:09 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 16:26:10 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 16:26:10 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 16:26:13 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 16:26:13 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 16:26:13 - [TEST_STEP][PASSED] - comment("Boton Cancelar en el parametro 1"): Boton Cancelar en el parametro 1
+
+2024-05-21 16:26:13 - [MESSAGE][INFO] - Boton Cancelar en el parametro 1
+
+2024-05-21 16:26:13 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 16:26:13 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 16:26:13 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:26:15 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:26:15 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_4 Sistema")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_4 Sistema' is clicked on
+
+2024-05-21 16:26:16 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_4 Sistema' is clicked on
+
+2024-05-21 16:26:16 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:26:18 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:26:18 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/4Sistema/0Principal/a_3 Parametros generales")): Object: 'Object Repository/ADM/1Configuracion/4Sistema/0Principal/a_3 Parametros generales' is clicked on
+
+2024-05-21 16:26:18 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/4Sistema/0Principal/a_3 Parametros generales' is clicked on
+
+2024-05-21 16:26:18 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:26:20 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:26:20 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/4Sistema/3Parametros Generales/0 Por Codigo/btn_Editar 1"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/0 Por Codigo/btn_Editar 1' is clicked on
+
+2024-05-21 16:26:21 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/0 Por Codigo/btn_Editar 1' is clicked on
+
+2024-05-21 16:26:21 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:26:23 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:26:23 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 16:26:23 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 16:26:23 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\4 Sistema\\3 Parametros Generales\\20240521_152418\\1716326783386.png]]
+
+2024-05-21 16:26:23 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:26:25 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:26:25 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/4Sistema/3Parametros Generales/1 Cambios/Valores/input_Valor1"), "10"): Text '10' is set on object 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/1 Cambios/Valores/input_Valor1'
+
+2024-05-21 16:26:26 - [MESSAGE][PASSED] - Text '10' is set on object 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/1 Cambios/Valores/input_Valor1'
+
+2024-05-21 16:26:26 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/4Sistema/3Parametros Generales/1 Cambios/Valores/input_Valor2"), "20"): Text '20' is set on object 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/1 Cambios/Valores/input_Valor2'
+
+2024-05-21 16:26:27 - [MESSAGE][PASSED] - Text '20' is set on object 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/1 Cambios/Valores/input_Valor2'
+
+2024-05-21 16:26:27 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/4Sistema/3Parametros Generales/1 Cambios/Valores/input_Valor3"), "30"): Text '30' is set on object 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/1 Cambios/Valores/input_Valor3'
+
+2024-05-21 16:26:28 - [MESSAGE][PASSED] - Text '30' is set on object 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/1 Cambios/Valores/input_Valor3'
+
+2024-05-21 16:26:28 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:26:30 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:26:30 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 16:26:30 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 16:26:30 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\4 Sistema\\3 Parametros Generales\\20240521_152418\\1716326790358.png]]
+
+2024-05-21 16:26:30 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/4Sistema/3Parametros Generales/1 Cambios/Valores/btn_Cancelar")): Object: 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/1 Cambios/Valores/btn_Cancelar' is clicked on
+
+2024-05-21 16:26:31 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/1 Cambios/Valores/btn_Cancelar' is clicked on
+
+2024-05-21 16:26:31 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:26:33 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:26:33 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 16:26:33 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 16:26:34 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\4 Sistema\\3 Parametros Generales\\20240521_152418\\1716326793298.png]]
+
+2024-05-21 16:26:34 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/4 Sistema/3 Parametros Generales/R151" time="47.434" classname="Test Cases/Configuracion/4 Sistema/3 Parametros Generales/R151" status="PASSED">
+         <system-out><![CDATA[2024-05-21 16:26:34 - [TEST_CASE][PASSED] - Test Cases/Configuracion/4 Sistema/3 Parametros Generales/R151: Test Cases/Configuracion/4 Sistema/3 Parametros Generales/R151
+
+2024-05-21 16:26:34 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 16:26:34 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 16:26:34 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 16:26:34 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 16:26:35 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 16:26:35 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 16:26:37 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 16:26:37 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 16:26:37 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 16:26:37 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:26:39 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:26:39 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 16:26:40 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 16:26:40 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:26:42 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:26:42 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 16:26:43 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 16:26:43 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:26:45 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:26:45 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 16:26:46 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 16:26:46 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 16:26:49 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 16:26:49 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 16:26:49 - [TEST_STEP][PASSED] - comment("Listar de acuerdo al titulo de columna"): Listar de acuerdo al titulo de columna
+
+2024-05-21 16:26:49 - [MESSAGE][INFO] - Listar de acuerdo al titulo de columna
+
+2024-05-21 16:26:49 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 16:26:49 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 16:26:49 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:26:51 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:26:51 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_4 Sistema")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_4 Sistema' is clicked on
+
+2024-05-21 16:26:52 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_4 Sistema' is clicked on
+
+2024-05-21 16:26:52 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:26:54 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:26:54 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/4Sistema/0Principal/a_3 Parametros generales")): Object: 'Object Repository/ADM/1Configuracion/4Sistema/0Principal/a_3 Parametros generales' is clicked on
+
+2024-05-21 16:26:55 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/4Sistema/0Principal/a_3 Parametros generales' is clicked on
+
+2024-05-21 16:26:55 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:26:57 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:26:57 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/4Sistema/3Parametros Generales/0 Titulos de Columnas/a_Codigo")): Object: 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/0 Titulos de Columnas/a_Codigo' is clicked on
+
+2024-05-21 16:26:57 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/0 Titulos de Columnas/a_Codigo' is clicked on
+
+2024-05-21 16:26:57 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:26:59 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:26:59 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 16:27:00 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 16:27:00 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\4 Sistema\\3 Parametros Generales\\20240521_152418\\1716326819511.png]]
+
+2024-05-21 16:27:00 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:27:02 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:27:02 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/4Sistema/3Parametros Generales/0 Titulos de Columnas/a_Nombre Parametro")): Object: 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/0 Titulos de Columnas/a_Nombre Parametro' is clicked on
+
+2024-05-21 16:27:02 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/0 Titulos de Columnas/a_Nombre Parametro' is clicked on
+
+2024-05-21 16:27:02 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:27:04 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:27:04 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 16:27:05 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 16:27:05 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\4 Sistema\\3 Parametros Generales\\20240521_152418\\1716326824838.png]]
+
+2024-05-21 16:27:05 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:27:07 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:27:07 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/4Sistema/3Parametros Generales/0 Titulos de Columnas/a_Valor1")): Object: 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/0 Titulos de Columnas/a_Valor1' is clicked on
+
+2024-05-21 16:27:08 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/0 Titulos de Columnas/a_Valor1' is clicked on
+
+2024-05-21 16:27:08 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:27:10 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:27:10 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 16:27:10 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 16:27:10 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\4 Sistema\\3 Parametros Generales\\20240521_152418\\1716326830139.png]]
+
+2024-05-21 16:27:10 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:27:12 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:27:12 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/4Sistema/3Parametros Generales/0 Titulos de Columnas/a_Valor2")): Object: 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/0 Titulos de Columnas/a_Valor2' is clicked on
+
+2024-05-21 16:27:13 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/0 Titulos de Columnas/a_Valor2' is clicked on
+
+2024-05-21 16:27:13 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:27:15 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:27:15 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 16:27:15 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 16:27:16 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\4 Sistema\\3 Parametros Generales\\20240521_152418\\1716326835400.png]]
+
+2024-05-21 16:27:16 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:27:18 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:27:18 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/4Sistema/3Parametros Generales/0 Titulos de Columnas/a_Valor3")): Object: 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/0 Titulos de Columnas/a_Valor3' is clicked on
+
+2024-05-21 16:27:18 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/0 Titulos de Columnas/a_Valor3' is clicked on
+
+2024-05-21 16:27:18 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:27:20 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:27:20 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 16:27:21 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 16:27:21 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\4 Sistema\\3 Parametros Generales\\20240521_152418\\1716326840715.png]]
+
+2024-05-21 16:27:21 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/4 Sistema/3 Parametros Generales/R152" time="75.111" classname="Test Cases/Configuracion/4 Sistema/3 Parametros Generales/R152" status="PASSED">
+         <system-out><![CDATA[2024-05-21 16:27:21 - [TEST_CASE][PASSED] - Test Cases/Configuracion/4 Sistema/3 Parametros Generales/R152: Test Cases/Configuracion/4 Sistema/3 Parametros Generales/R152
+
+2024-05-21 16:27:21 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 16:27:22 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 16:27:22 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 16:27:22 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 16:27:22 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 16:27:22 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 16:27:25 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 16:27:25 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 16:27:25 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 16:27:25 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:27:27 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:27:27 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 16:27:28 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 16:27:28 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:27:30 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:27:30 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 16:27:31 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 16:27:31 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:27:33 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:27:33 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 16:27:33 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 16:27:33 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 16:27:36 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 16:27:36 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 16:27:36 - [TEST_STEP][PASSED] - comment("Botones paginas"): Botones paginas
+
+2024-05-21 16:27:36 - [MESSAGE][INFO] - Botones paginas
+
+2024-05-21 16:27:36 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 16:27:37 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 16:27:37 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:27:39 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:27:39 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_4 Sistema")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_4 Sistema' is clicked on
+
+2024-05-21 16:27:39 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_4 Sistema' is clicked on
+
+2024-05-21 16:27:39 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:27:41 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:27:41 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/4Sistema/0Principal/a_3 Parametros generales")): Object: 'Object Repository/ADM/1Configuracion/4Sistema/0Principal/a_3 Parametros generales' is clicked on
+
+2024-05-21 16:27:42 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/4Sistema/0Principal/a_3 Parametros generales' is clicked on
+
+2024-05-21 16:27:42 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:27:44 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:27:44 - [TEST_STEP][PASSED] - comment("Pagina 3"): Pagina 3
+
+2024-05-21 16:27:44 - [MESSAGE][INFO] - Pagina 3
+
+2024-05-21 16:27:44 - [TEST_STEP][PASSED] - scrollToPosition(0, 1200): Browser is scrolled to position x = 0, y = 1200
+
+2024-05-21 16:27:44 - [MESSAGE][PASSED] - Browser is scrolled to position x = 0, y = 1200
+
+2024-05-21 16:27:44 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/4Sistema/3Parametros Generales/Paginacion/a_3")): Object: 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/Paginacion/a_3' is clicked on
+
+2024-05-21 16:27:44 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/Paginacion/a_3' is clicked on
+
+2024-05-21 16:27:44 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:27:46 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:27:46 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 16:27:47 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 16:27:47 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\4 Sistema\\3 Parametros Generales\\20240521_152418\\1716326866896.png]]
+
+2024-05-21 16:27:47 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:27:49 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:27:49 - [TEST_STEP][PASSED] - comment("Pagina 2"): Pagina 2
+
+2024-05-21 16:27:49 - [MESSAGE][INFO] - Pagina 2
+
+2024-05-21 16:27:49 - [TEST_STEP][PASSED] - scrollToPosition(0, 1200): Browser is scrolled to position x = 0, y = 1200
+
+2024-05-21 16:27:49 - [MESSAGE][PASSED] - Browser is scrolled to position x = 0, y = 1200
+
+2024-05-21 16:27:49 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/4Sistema/3Parametros Generales/Paginacion/a_2")): Object: 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/Paginacion/a_2' is clicked on
+
+2024-05-21 16:27:49 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/Paginacion/a_2' is clicked on
+
+2024-05-21 16:27:49 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:27:51 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:27:51 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 16:27:52 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 16:27:52 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\4 Sistema\\3 Parametros Generales\\20240521_152418\\1716326871915.png]]
+
+2024-05-21 16:27:52 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:27:54 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:27:54 - [TEST_STEP][PASSED] - comment("Pagina 1"): Pagina 1
+
+2024-05-21 16:27:54 - [MESSAGE][INFO] - Pagina 1
+
+2024-05-21 16:27:54 - [TEST_STEP][PASSED] - scrollToPosition(0, 1200): Browser is scrolled to position x = 0, y = 1200
+
+2024-05-21 16:27:54 - [MESSAGE][PASSED] - Browser is scrolled to position x = 0, y = 1200
+
+2024-05-21 16:27:54 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/4Sistema/3Parametros Generales/Paginacion/a_1")): Object: 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/Paginacion/a_1' is clicked on
+
+2024-05-21 16:27:55 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/Paginacion/a_1' is clicked on
+
+2024-05-21 16:27:55 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:27:57 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:27:57 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 16:27:57 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 16:27:58 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\4 Sistema\\3 Parametros Generales\\20240521_152418\\1716326877198.png]]
+
+2024-05-21 16:27:58 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:28:00 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:28:00 - [TEST_STEP][PASSED] - comment("Ultima Pagina"): Ultima Pagina
+
+2024-05-21 16:28:00 - [MESSAGE][INFO] - Ultima Pagina
+
+2024-05-21 16:28:00 - [TEST_STEP][PASSED] - scrollToPosition(0, 1200): Browser is scrolled to position x = 0, y = 1200
+
+2024-05-21 16:28:00 - [MESSAGE][PASSED] - Browser is scrolled to position x = 0, y = 1200
+
+2024-05-21 16:28:00 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/4Sistema/3Parametros Generales/Paginacion/span_Ultima Pagina")): Object: 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/Paginacion/span_Ultima Pagina' is clicked on
+
+2024-05-21 16:28:00 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/Paginacion/span_Ultima Pagina' is clicked on
+
+2024-05-21 16:28:00 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:28:02 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:28:02 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 16:28:02 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 16:28:03 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\4 Sistema\\3 Parametros Generales\\20240521_152418\\1716326882574.png]]
+
+2024-05-21 16:28:03 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:28:05 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:28:05 - [TEST_STEP][PASSED] - comment("Primera Pagina"): Primera Pagina
+
+2024-05-21 16:28:05 - [MESSAGE][INFO] - Primera Pagina
+
+2024-05-21 16:28:05 - [TEST_STEP][PASSED] - scrollToPosition(0, 1200): Browser is scrolled to position x = 0, y = 1200
+
+2024-05-21 16:28:05 - [MESSAGE][PASSED] - Browser is scrolled to position x = 0, y = 1200
+
+2024-05-21 16:28:05 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/4Sistema/3Parametros Generales/Paginacion/span_Primera pagina")): Object: 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/Paginacion/span_Primera pagina' is clicked on
+
+2024-05-21 16:28:05 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/Paginacion/span_Primera pagina' is clicked on
+
+2024-05-21 16:28:05 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:28:07 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:28:07 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 16:28:08 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 16:28:08 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\4 Sistema\\3 Parametros Generales\\20240521_152418\\1716326887574.png]]
+
+2024-05-21 16:28:08 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:28:10 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:28:10 - [TEST_STEP][PASSED] - comment("Pagina Posterior"): Pagina Posterior
+
+2024-05-21 16:28:10 - [MESSAGE][INFO] - Pagina Posterior
+
+2024-05-21 16:28:10 - [TEST_STEP][PASSED] - scrollToPosition(0, 1200): Browser is scrolled to position x = 0, y = 1200
+
+2024-05-21 16:28:10 - [MESSAGE][PASSED] - Browser is scrolled to position x = 0, y = 1200
+
+2024-05-21 16:28:10 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/4Sistema/3Parametros Generales/Paginacion/span_Pagina Posterior")): Object: 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/Paginacion/span_Pagina Posterior' is clicked on
+
+2024-05-21 16:28:10 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/Paginacion/span_Pagina Posterior' is clicked on
+
+2024-05-21 16:28:10 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:28:12 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:28:12 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 16:28:13 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 16:28:13 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\4 Sistema\\3 Parametros Generales\\20240521_152418\\1716326892879.png]]
+
+2024-05-21 16:28:13 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:28:15 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:28:15 - [TEST_STEP][PASSED] - comment("Pagina Anterior"): Pagina Anterior
+
+2024-05-21 16:28:15 - [MESSAGE][INFO] - Pagina Anterior
+
+2024-05-21 16:28:15 - [TEST_STEP][PASSED] - scrollToPosition(0, 1200): Browser is scrolled to position x = 0, y = 1200
+
+2024-05-21 16:28:15 - [MESSAGE][PASSED] - Browser is scrolled to position x = 0, y = 1200
+
+2024-05-21 16:28:15 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/4Sistema/3Parametros Generales/Paginacion/span_Pagina Anterior")): Object: 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/Paginacion/span_Pagina Anterior' is clicked on
+
+2024-05-21 16:28:16 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/Paginacion/span_Pagina Anterior' is clicked on
+
+2024-05-21 16:28:16 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:28:18 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:28:18 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 16:28:18 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 16:28:19 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\4 Sistema\\3 Parametros Generales\\20240521_152418\\1716326898205.png]]
+
+2024-05-21 16:28:19 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:28:21 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:28:21 - [TEST_STEP][PASSED] - comment("Listado 10 Paginas"): Listado 10 Paginas
+
+2024-05-21 16:28:21 - [MESSAGE][INFO] - Listado 10 Paginas
+
+2024-05-21 16:28:21 - [TEST_STEP][PASSED] - scrollToPosition(0, 1200): Browser is scrolled to position x = 0, y = 1200
+
+2024-05-21 16:28:21 - [MESSAGE][PASSED] - Browser is scrolled to position x = 0, y = 1200
+
+2024-05-21 16:28:21 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/4Sistema/3Parametros Generales/Paginacion/Click_SelectNumeroPaginas")): Object: 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/Paginacion/Click_SelectNumeroPaginas' is clicked on
+
+2024-05-21 16:28:21 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/Paginacion/Click_SelectNumeroPaginas' is clicked on
+
+2024-05-21 16:28:21 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/4Sistema/3Parametros Generales/Paginacion/li_10")): Object: 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/Paginacion/li_10' is clicked on
+
+2024-05-21 16:28:22 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/Paginacion/li_10' is clicked on
+
+2024-05-21 16:28:22 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:28:24 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:28:24 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 16:28:24 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 16:28:24 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\4 Sistema\\3 Parametros Generales\\20240521_152418\\1716326904056.png]]
+
+2024-05-21 16:28:24 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:28:26 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:28:26 - [TEST_STEP][PASSED] - comment("Listado 20 Paginas"): Listado 20 Paginas
+
+2024-05-21 16:28:26 - [MESSAGE][INFO] - Listado 20 Paginas
+
+2024-05-21 16:28:26 - [TEST_STEP][PASSED] - scrollToPosition(0, 1200): Browser is scrolled to position x = 0, y = 1200
+
+2024-05-21 16:28:26 - [MESSAGE][PASSED] - Browser is scrolled to position x = 0, y = 1200
+
+2024-05-21 16:28:26 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/4Sistema/3Parametros Generales/Paginacion/Click_SelectNumeroPaginas")): Object: 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/Paginacion/Click_SelectNumeroPaginas' is clicked on
+
+2024-05-21 16:28:27 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/Paginacion/Click_SelectNumeroPaginas' is clicked on
+
+2024-05-21 16:28:27 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/4Sistema/3Parametros Generales/Paginacion/li_20")): Object: 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/Paginacion/li_20' is clicked on
+
+2024-05-21 16:28:27 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/Paginacion/li_20' is clicked on
+
+2024-05-21 16:28:27 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:28:29 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:28:29 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 16:28:30 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 16:28:30 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\4 Sistema\\3 Parametros Generales\\20240521_152418\\1716326909552.png]]
+
+2024-05-21 16:28:30 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:28:32 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:28:32 - [TEST_STEP][PASSED] - comment("Listado 50 Paginas"): Listado 50 Paginas
+
+2024-05-21 16:28:32 - [MESSAGE][INFO] - Listado 50 Paginas
+
+2024-05-21 16:28:32 - [TEST_STEP][PASSED] - scrollToPosition(0, 1200): Browser is scrolled to position x = 0, y = 1200
+
+2024-05-21 16:28:32 - [MESSAGE][PASSED] - Browser is scrolled to position x = 0, y = 1200
+
+2024-05-21 16:28:32 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/4Sistema/3Parametros Generales/Paginacion/Click_SelectNumeroPaginas")): Object: 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/Paginacion/Click_SelectNumeroPaginas' is clicked on
+
+2024-05-21 16:28:32 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/Paginacion/Click_SelectNumeroPaginas' is clicked on
+
+2024-05-21 16:28:32 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/4Sistema/3Parametros Generales/Paginacion/li_50")): Object: 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/Paginacion/li_50' is clicked on
+
+2024-05-21 16:28:33 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/4Sistema/3Parametros Generales/Paginacion/li_50' is clicked on
+
+2024-05-21 16:28:33 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 16:28:35 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 16:28:35 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 16:28:36 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 16:28:36 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\4 Sistema\\3 Parametros Generales\\20240521_152418\\1716326915489.png]]
+
+2024-05-21 16:28:36 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2024-05-21 16:24:02 - [TEST_SUITE][PASSED] - 3 Parametros Generales: Test Cases/Configuracion/4 Sistema/3 Parametros Generales/R152]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

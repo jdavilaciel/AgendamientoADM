@@ -1,0 +1,27 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+6 Modulos y Personalizaciones,Chrome 124.0.0.0,,,2024-05-21 16:36:26,2024-05-21 16:37:17,"50,614s",PASSED
+,,,,,,,
+Test Cases/Configuracion/4 Sistema/6 Modulos y Personalizaciones/R171,Chrome 124.0.0.0,Verificar página módulos y personalizaciones,,2024-05-21 16:36:27,2024-05-21 16:36:51,"24,704s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:36:27,2024-05-21 16:36:43,"15,606s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:36:43,2024-05-21 16:36:43,"0,529s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:36:43,2024-05-21 16:36:45,"2,004s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_4 Sistema""))",Chrome 124.0.0.0,,,2024-05-21 16:36:45,2024-05-21 16:36:46,"0,504s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:36:46,2024-05-21 16:36:48,"2,012s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/0Principal/a_6 Modulos y personalizaciones""))",Chrome 124.0.0.0,,,2024-05-21 16:36:48,2024-05-21 16:36:48,"0,629s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:36:48,2024-05-21 16:36:50,"2,017s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/4Sistema/6Modulos y Personalizaciones/btn_Modulos y personalizaciones""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:36:50,2024-05-21 16:36:51,"0,393s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:36:51,2024-05-21 16:36:51,"0,672s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:36:51,2024-05-21 16:36:51,"0,016s",PASSED
+,,,,,,,
+Test Cases/Configuracion/4 Sistema/6 Modulos y Personalizaciones/R172,Chrome 124.0.0.0,Boton Modulos y personalizaciones,,2024-05-21 16:36:51,2024-05-21 16:37:17,"25,662s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:36:52,2024-05-21 16:37:06,"14,577s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:37:06,2024-05-21 16:37:07,"0,598s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:37:07,2024-05-21 16:37:09,"2,015s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_4 Sistema""))",Chrome 124.0.0.0,,,2024-05-21 16:37:09,2024-05-21 16:37:10,"0,561s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:37:10,2024-05-21 16:37:12,"2,017s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/0Principal/a_6 Modulos y personalizaciones""))",Chrome 124.0.0.0,,,2024-05-21 16:37:12,2024-05-21 16:37:12,"0,563s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:37:12,2024-05-21 16:37:14,"2,004s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/6Modulos y Personalizaciones/btn_Modulos y personalizaciones""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:37:14,2024-05-21 16:37:15,"0,467s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:37:15,2024-05-21 16:37:17,"2,009s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:37:17,2024-05-21 16:37:17,"0,503s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:37:17,2024-05-21 16:37:17,"0,000s",PASSED

@@ -1,0 +1,1724 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="2 Jornadas" time="293.011" tests="9" failures="2" errors="0">
+   <testsuite name="2 Jornadas" tests="9" failures="2" errors="0" time="293.011" skipped="0" timestamp="2024-05-21 15:54:19" hostname="jdavila - PCPruebas101.ciel.cielingenieria.com" id="Test Suites/1 Configuracion/2 Jornadas de Atencion/2 Jornadas">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\2 Jornadas\\20240521_152404"/>
+         <property name="logFiles" value="C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\2 Jornadas\\20240521_152404\\execution0.log"/>
+         <property name="attachments" value="C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\2 Jornadas\\20240521_152404\\1716324884661.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\2 Jornadas\\20240521_152404\\1716324909461.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\2 Jornadas\\20240521_152404\\1716324958159.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\2 Jornadas\\20240521_152404\\1716324995856.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\2 Jornadas\\20240521_152404\\1716325029560.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\2 Jornadas\\20240521_152404\\1716325032400.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\2 Jornadas\\20240521_152404\\1716325072358.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\2 Jornadas\\20240521_152404\\1716325097614.png, C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\2 Jornadas\\20240521_152404\\1716325152111.png"/>
+         <property name="hostName" value="jdavila - PCPruebas101.ciel.cielingenieria.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.9.208"/>
+         <property name="browser" value="Chrome 124.0.0.0"/>
+         <property name="hostAddress" value="192.168.91.13"/>
+         <property name="sessionId" value="cb5b1deab61846d534aaebd40b5515a5"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Configuracion/2 Jornadas de Atencion/2 Jornadas/R81" time="25.841" classname="Test Cases/Configuracion/2 Jornadas de Atencion/2 Jornadas/R81" status="PASSED">
+         <system-out><![CDATA[2024-05-21 15:54:19 - [TEST_CASE][PASSED] - Test Cases/Configuracion/2 Jornadas de Atencion/2 Jornadas/R81: Test Cases/Configuracion/2 Jornadas de Atencion/2 Jornadas/R81
+
+2024-05-21 15:54:19 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:54:19 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 15:54:20 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:54:20 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 15:54:20 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 15:54:23 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:54:23 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 15:54:24 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 15:54:24 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:54:26 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:54:26 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:54:27 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:54:27 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:54:29 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:54:29 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:54:30 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:54:30 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:54:32 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:54:32 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:54:32 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:54:32 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 15:54:35 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 15:54:35 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:54:35 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:54:36 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:54:36 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:54:38 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:54:38 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_2 Jornadas de atencion")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_2 Jornadas de atencion' is clicked on
+
+2024-05-21 15:54:38 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_2 Jornadas de atencion' is clicked on
+
+2024-05-21 15:54:38 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:54:40 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:54:40 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/0Principal/a_2 Jornadas"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/0Principal/a_2 Jornadas' is clicked on
+
+2024-05-21 15:54:41 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/0Principal/a_2 Jornadas' is clicked on
+
+2024-05-21 15:54:41 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:54:43 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:54:43 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/input_N Funcionarios"), 2): Object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/input_N Funcionarios' is present
+
+2024-05-21 15:54:43 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/input_N Funcionarios' is present
+
+2024-05-21 15:54:43 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/textarea_Descripcion"), 2): Object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/textarea_Descripcion' is present
+
+2024-05-21 15:54:44 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/textarea_Descripcion' is present
+
+2024-05-21 15:54:44 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_Guardar"), 2): Object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_Guardar' is present
+
+2024-05-21 15:54:44 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_Guardar' is present
+
+2024-05-21 15:54:44 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 15:54:45 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 15:54:45 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\2 Jornadas\\20240521_152404\\1716324884661.png]]
+
+2024-05-21 15:54:45 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/2 Jornadas de Atencion/2 Jornadas/R82" time="24.638" classname="Test Cases/Configuracion/2 Jornadas de Atencion/2 Jornadas/R82" status="PASSED">
+         <system-out><![CDATA[2024-05-21 15:54:45 - [TEST_CASE][PASSED] - Test Cases/Configuracion/2 Jornadas de Atencion/2 Jornadas/R82: Test Cases/Configuracion/2 Jornadas de Atencion/2 Jornadas/R82
+
+2024-05-21 15:54:45 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:54:45 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 15:54:45 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:54:45 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 15:54:46 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 15:54:46 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 15:54:48 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:54:48 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 15:54:49 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 15:54:49 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:54:51 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:54:51 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:54:52 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:54:52 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:54:54 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:54:54 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:54:54 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:54:54 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:54:56 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:54:56 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:54:57 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:54:57 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 15:55:00 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 15:55:00 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:55:00 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:55:00 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:55:00 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:55:02 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:55:02 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_2 Jornadas de atencion")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_2 Jornadas de atencion' is clicked on
+
+2024-05-21 15:55:03 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_2 Jornadas de atencion' is clicked on
+
+2024-05-21 15:55:03 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:55:05 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:55:05 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/0Principal/a_2 Jornadas"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/0Principal/a_2 Jornadas' is clicked on
+
+2024-05-21 15:55:05 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/0Principal/a_2 Jornadas' is clicked on
+
+2024-05-21 15:55:06 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:55:08 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:55:08 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Jornadas/input_Busqueda"), "Bogota"): Text 'Bogota' is set on object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Jornadas/input_Busqueda'
+
+2024-05-21 15:55:08 - [MESSAGE][PASSED] - Text 'Bogota' is set on object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Jornadas/input_Busqueda'
+
+2024-05-21 15:55:08 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Jornadas/btn_Buscar"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Jornadas/btn_Buscar' is clicked on
+
+2024-05-21 15:55:09 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Jornadas/btn_Buscar' is clicked on
+
+2024-05-21 15:55:09 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_Guardar"), 2): Object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_Guardar' is present
+
+2024-05-21 15:55:09 - [MESSAGE][PASSED] - Object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_Guardar' is present
+
+2024-05-21 15:55:09 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 15:55:09 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 15:55:09 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\2 Jornadas\\20240521_152404\\1716324909461.png]]
+
+2024-05-21 15:55:09 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/2 Jornadas de Atencion/2 Jornadas/R83" time="23.988" classname="Test Cases/Configuracion/2 Jornadas de Atencion/2 Jornadas/R83" status="FAILED">
+         <failure type="FAILED" message="Test Cases/Configuracion/2 Jornadas de Atencion/2 Jornadas/R83 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Cannot take screenshot
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeFullPageScreenshotKeyword.takeScreenshot(TakeFullPageScreenshotKeyword.groovy:125)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeFullPageScreenshotKeyword.execute(TakeFullPageScreenshotKeyword.groovy:82)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.takeFullPageScreenshot(WebUiBuiltInKeywords.groovy:3283)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$takeFullPageScreenshot$5.call(Unknown Source)
+	at R83.run(R83:40)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323044357.run(TempTestSuite1716323044357.groovy:35)
+Caused by: org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : No se encontro el valor: '1' en el filtro de búsqueda}
+  (Session info: chrome=124.0.6367.208): No se encontro el valor: '1' en el filtro de búsqueda
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'PCPRUEBAS101', ip: '192.168.91.13', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_282'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.208, chrome: {chromedriverVersion: 123.0.6312.105 (399174dbe6e..., userDataDir: C:\Users\JDavila\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64686}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4a019af764c3d1c45bffa49d043cac17
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:120)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebDriver.executeScript(RemoteWebDriver.java:489)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.lambda$new$1(EventFiringWebDriver.java:105)
+	at com.sun.proxy.$Proxy11.executeScript(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.executeScript(EventFiringWebDriver.java:229)
+	at com.assertthat.selenium_shutterbug.utils.web.Browser.executeJsScript(Browser.java:668)
+	at com.assertthat.selenium_shutterbug.utils.web.Browser.&lt;init>(Browser.java:83)
+	at com.assertthat.selenium_shutterbug.core.Shutterbug.shootPage(Shutterbug.java:139)
+	at com.assertthat.selenium_shutterbug.core.Shutterbug.shootPage(Shutterbug.java:83)
+	at com.assertthat.selenium_shutterbug.core.Shutterbug.shootPage(Shutterbug.java:69)
+	at com.kms.katalon.core.webui.util.FileUtil.takeFullPageScreenshot(FileUtil.java:86)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeFullPageScreenshotKeyword$_takeScreenshot_closure1.doCall(TakeFullPageScreenshotKeyword.groovy:126)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeFullPageScreenshotKeyword$_takeScreenshot_closure1.call(TakeFullPageScreenshotKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+"/>
+         <system-out><![CDATA[2024-05-21 15:55:09 - [TEST_CASE][FAILED] - Test Cases/Configuracion/2 Jornadas de Atencion/2 Jornadas/R83: Test Cases/Configuracion/2 Jornadas de Atencion/2 Jornadas/R83 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Cannot take screenshot
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeFullPageScreenshotKeyword.takeScreenshot(TakeFullPageScreenshotKeyword.groovy:125)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeFullPageScreenshotKeyword.execute(TakeFullPageScreenshotKeyword.groovy:82)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.takeFullPageScreenshot(WebUiBuiltInKeywords.groovy:3283)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$takeFullPageScreenshot$5.call(Unknown Source)
+	at R83.run(R83:40)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323044357.run(TempTestSuite1716323044357.groovy:35)
+Caused by: org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : No se encontro el valor: '1' en el filtro de búsqueda}
+  (Session info: chrome=124.0.6367.208): No se encontro el valor: '1' en el filtro de búsqueda
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'PCPRUEBAS101', ip: '192.168.91.13', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_282'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.208, chrome: {chromedriverVersion: 123.0.6312.105 (399174dbe6e..., userDataDir: C:\Users\JDavila\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64686}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4a019af764c3d1c45bffa49d043cac17
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:120)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebDriver.executeScript(RemoteWebDriver.java:489)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.lambda$new$1(EventFiringWebDriver.java:105)
+	at com.sun.proxy.$Proxy11.executeScript(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.executeScript(EventFiringWebDriver.java:229)
+	at com.assertthat.selenium_shutterbug.utils.web.Browser.executeJsScript(Browser.java:668)
+	at com.assertthat.selenium_shutterbug.utils.web.Browser.<init>(Browser.java:83)
+	at com.assertthat.selenium_shutterbug.core.Shutterbug.shootPage(Shutterbug.java:139)
+	at com.assertthat.selenium_shutterbug.core.Shutterbug.shootPage(Shutterbug.java:83)
+	at com.assertthat.selenium_shutterbug.core.Shutterbug.shootPage(Shutterbug.java:69)
+	at com.kms.katalon.core.webui.util.FileUtil.takeFullPageScreenshot(FileUtil.java:86)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeFullPageScreenshotKeyword$_takeScreenshot_closure1.doCall(TakeFullPageScreenshotKeyword.groovy:126)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeFullPageScreenshotKeyword$_takeScreenshot_closure1.call(TakeFullPageScreenshotKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+
+
+2024-05-21 15:55:10 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:55:10 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 15:55:10 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:55:10 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 15:55:11 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 15:55:11 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 15:55:13 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:55:13 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 15:55:13 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 15:55:13 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:55:15 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:55:15 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:55:16 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:55:16 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:55:18 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:55:18 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:55:19 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:55:19 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:55:21 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:55:21 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:55:21 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:55:21 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 15:55:24 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 15:55:24 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:55:24 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:55:25 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:55:25 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:55:27 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:55:27 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_2 Jornadas de atencion")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_2 Jornadas de atencion' is clicked on
+
+2024-05-21 15:55:27 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_2 Jornadas de atencion' is clicked on
+
+2024-05-21 15:55:27 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:55:29 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:55:29 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/0Principal/a_2 Jornadas"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/0Principal/a_2 Jornadas' is clicked on
+
+2024-05-21 15:55:30 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/0Principal/a_2 Jornadas' is clicked on
+
+2024-05-21 15:55:30 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:55:32 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:55:32 - [TEST_STEP][PASSED] - comment("La aplicación hace una busqueda en todos los campos incluidos los de hora y funcionarios"): La aplicación hace una busqueda en todos los campos incluidos los de hora y funcionarios
+
+2024-05-21 15:55:32 - [MESSAGE][INFO] - La aplicación hace una busqueda en todos los campos incluidos los de hora y funcionarios
+
+2024-05-21 15:55:32 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Jornadas/input_Busqueda"), "1"): Text '1' is set on object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Jornadas/input_Busqueda'
+
+2024-05-21 15:55:33 - [MESSAGE][PASSED] - Text '1' is set on object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Jornadas/input_Busqueda'
+
+2024-05-21 15:55:33 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Jornadas/btn_Buscar"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Jornadas/btn_Buscar' is clicked on
+
+2024-05-21 15:55:33 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Jornadas/btn_Buscar' is clicked on
+
+2024-05-21 15:55:33 - [TEST_STEP][FAILED] - takeFullPageScreenshot(): Cannot take screenshot (Root cause: com.kms.katalon.core.exception.StepFailedException: Cannot take screenshot
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeFullPageScreenshotKeyword.takeScreenshot(TakeFullPageScreenshotKeyword.groovy:125)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeFullPageScreenshotKeyword.execute(TakeFullPageScreenshotKeyword.groovy:82)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.takeFullPageScreenshot(WebUiBuiltInKeywords.groovy:3283)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$takeFullPageScreenshot$5.call(Unknown Source)
+	at R83.run(R83:40)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323044357.run(TempTestSuite1716323044357.groovy:35)
+Caused by: org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : No se encontro el valor: '1' en el filtro de búsqueda}
+  (Session info: chrome=124.0.6367.208): No se encontro el valor: '1' en el filtro de búsqueda
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'PCPRUEBAS101', ip: '192.168.91.13', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_282'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.208, chrome: {chromedriverVersion: 123.0.6312.105 (399174dbe6e..., userDataDir: C:\Users\JDavila\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64686}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4a019af764c3d1c45bffa49d043cac17
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:120)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebDriver.executeScript(RemoteWebDriver.java:489)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.lambda$new$1(EventFiringWebDriver.java:105)
+	at com.sun.proxy.$Proxy11.executeScript(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.executeScript(EventFiringWebDriver.java:229)
+	at com.assertthat.selenium_shutterbug.utils.web.Browser.executeJsScript(Browser.java:668)
+	at com.assertthat.selenium_shutterbug.utils.web.Browser.<init>(Browser.java:83)
+	at com.assertthat.selenium_shutterbug.core.Shutterbug.shootPage(Shutterbug.java:139)
+	at com.assertthat.selenium_shutterbug.core.Shutterbug.shootPage(Shutterbug.java:83)
+	at com.assertthat.selenium_shutterbug.core.Shutterbug.shootPage(Shutterbug.java:69)
+	at com.kms.katalon.core.webui.util.FileUtil.takeFullPageScreenshot(FileUtil.java:86)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeFullPageScreenshotKeyword$_takeScreenshot_closure1.doCall(TakeFullPageScreenshotKeyword.groovy:126)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeFullPageScreenshotKeyword$_takeScreenshot_closure1.call(TakeFullPageScreenshotKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeFullPageScreenshotKeyword.takeScreenshot(TakeFullPageScreenshotKeyword.groovy:125)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeFullPageScreenshotKeyword.execute(TakeFullPageScreenshotKeyword.groovy:82)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.takeFullPageScreenshot(WebUiBuiltInKeywords.groovy:3283)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$takeFullPageScreenshot$5.call(Unknown Source)
+	at Script1700572214367.run(Script1700572214367.groovy:40)
+	... 13 more
+)
+
+2024-05-21 15:55:33 - [MESSAGE][FAILED] - Cannot take screenshot (Root cause: com.kms.katalon.core.exception.StepFailedException: Cannot take screenshot
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeFullPageScreenshotKeyword.takeScreenshot(TakeFullPageScreenshotKeyword.groovy:125)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeFullPageScreenshotKeyword.execute(TakeFullPageScreenshotKeyword.groovy:82)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.takeFullPageScreenshot(WebUiBuiltInKeywords.groovy:3283)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$takeFullPageScreenshot$5.call(Unknown Source)
+	at R83.run(R83:40)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323044357.run(TempTestSuite1716323044357.groovy:35)
+Caused by: org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : No se encontro el valor: '1' en el filtro de búsqueda}
+  (Session info: chrome=124.0.6367.208): No se encontro el valor: '1' en el filtro de búsqueda
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'PCPRUEBAS101', ip: '192.168.91.13', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_282'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.208, chrome: {chromedriverVersion: 123.0.6312.105 (399174dbe6e..., userDataDir: C:\Users\JDavila\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64686}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4a019af764c3d1c45bffa49d043cac17
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:120)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebDriver.executeScript(RemoteWebDriver.java:489)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.lambda$new$1(EventFiringWebDriver.java:105)
+	at com.sun.proxy.$Proxy11.executeScript(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.executeScript(EventFiringWebDriver.java:229)
+	at com.assertthat.selenium_shutterbug.utils.web.Browser.executeJsScript(Browser.java:668)
+	at com.assertthat.selenium_shutterbug.utils.web.Browser.<init>(Browser.java:83)
+	at com.assertthat.selenium_shutterbug.core.Shutterbug.shootPage(Shutterbug.java:139)
+	at com.assertthat.selenium_shutterbug.core.Shutterbug.shootPage(Shutterbug.java:83)
+	at com.assertthat.selenium_shutterbug.core.Shutterbug.shootPage(Shutterbug.java:69)
+	at com.kms.katalon.core.webui.util.FileUtil.takeFullPageScreenshot(FileUtil.java:86)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeFullPageScreenshotKeyword$_takeScreenshot_closure1.doCall(TakeFullPageScreenshotKeyword.groovy:126)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeFullPageScreenshotKeyword$_takeScreenshot_closure1.call(TakeFullPageScreenshotKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeFullPageScreenshotKeyword.takeScreenshot(TakeFullPageScreenshotKeyword.groovy:125)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeFullPageScreenshotKeyword.execute(TakeFullPageScreenshotKeyword.groovy:82)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.takeFullPageScreenshot(WebUiBuiltInKeywords.groovy:3283)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$takeFullPageScreenshot$5.call(Unknown Source)
+	at Script1700572214367.run(Script1700572214367.groovy:40)
+	... 13 more
+)
+
+2024-05-21 15:55:33 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[2024-05-21 15:55:09 - [TEST_CASE][FAILED] - Test Cases/Configuracion/2 Jornadas de Atencion/2 Jornadas/R83: Test Cases/Configuracion/2 Jornadas de Atencion/2 Jornadas/R83 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Cannot take screenshot
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeFullPageScreenshotKeyword.takeScreenshot(TakeFullPageScreenshotKeyword.groovy:125)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeFullPageScreenshotKeyword.execute(TakeFullPageScreenshotKeyword.groovy:82)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.takeFullPageScreenshot(WebUiBuiltInKeywords.groovy:3283)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$takeFullPageScreenshot$5.call(Unknown Source)
+	at R83.run(R83:40)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323044357.run(TempTestSuite1716323044357.groovy:35)
+Caused by: org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : No se encontro el valor: '1' en el filtro de búsqueda}
+  (Session info: chrome=124.0.6367.208): No se encontro el valor: '1' en el filtro de búsqueda
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'PCPRUEBAS101', ip: '192.168.91.13', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_282'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.208, chrome: {chromedriverVersion: 123.0.6312.105 (399174dbe6e..., userDataDir: C:\Users\JDavila\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64686}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4a019af764c3d1c45bffa49d043cac17
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:120)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebDriver.executeScript(RemoteWebDriver.java:489)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.lambda$new$1(EventFiringWebDriver.java:105)
+	at com.sun.proxy.$Proxy11.executeScript(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.executeScript(EventFiringWebDriver.java:229)
+	at com.assertthat.selenium_shutterbug.utils.web.Browser.executeJsScript(Browser.java:668)
+	at com.assertthat.selenium_shutterbug.utils.web.Browser.<init>(Browser.java:83)
+	at com.assertthat.selenium_shutterbug.core.Shutterbug.shootPage(Shutterbug.java:139)
+	at com.assertthat.selenium_shutterbug.core.Shutterbug.shootPage(Shutterbug.java:83)
+	at com.assertthat.selenium_shutterbug.core.Shutterbug.shootPage(Shutterbug.java:69)
+	at com.kms.katalon.core.webui.util.FileUtil.takeFullPageScreenshot(FileUtil.java:86)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeFullPageScreenshotKeyword$_takeScreenshot_closure1.doCall(TakeFullPageScreenshotKeyword.groovy:126)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeFullPageScreenshotKeyword$_takeScreenshot_closure1.call(TakeFullPageScreenshotKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/2 Jornadas de Atencion/2 Jornadas/R84" time="24.764" classname="Test Cases/Configuracion/2 Jornadas de Atencion/2 Jornadas/R84" status="PASSED">
+         <system-out><![CDATA[2024-05-21 15:55:33 - [TEST_CASE][PASSED] - Test Cases/Configuracion/2 Jornadas de Atencion/2 Jornadas/R84: Test Cases/Configuracion/2 Jornadas de Atencion/2 Jornadas/R84
+
+2024-05-21 15:55:34 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:55:34 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 15:55:34 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:55:34 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 15:55:35 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 15:55:35 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 15:55:37 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:55:37 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 15:55:37 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 15:55:37 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:55:39 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:55:39 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:55:40 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:55:40 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:55:42 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:55:42 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:55:43 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:55:43 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:55:45 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:55:45 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:55:46 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:55:46 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 15:55:49 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 15:55:49 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:55:49 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:55:49 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:55:49 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:55:51 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:55:51 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_2 Jornadas de atencion")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_2 Jornadas de atencion' is clicked on
+
+2024-05-21 15:55:52 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_2 Jornadas de atencion' is clicked on
+
+2024-05-21 15:55:52 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:55:54 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:55:54 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/0Principal/a_2 Jornadas"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/0Principal/a_2 Jornadas' is clicked on
+
+2024-05-21 15:55:54 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/0Principal/a_2 Jornadas' is clicked on
+
+2024-05-21 15:55:54 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:55:56 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:55:56 - [TEST_STEP][PASSED] - comment("Se utiliza el boton limpiar, para borrar el campo de busqueda"): Se utiliza el boton limpiar, para borrar el campo de busqueda
+
+2024-05-21 15:55:56 - [MESSAGE][INFO] - Se utiliza el boton limpiar, para borrar el campo de busqueda
+
+2024-05-21 15:55:56 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Jornadas/input_Busqueda"), "Limpiar"): Text 'Limpiar' is set on object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Jornadas/input_Busqueda'
+
+2024-05-21 15:55:57 - [MESSAGE][PASSED] - Text 'Limpiar' is set on object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Jornadas/input_Busqueda'
+
+2024-05-21 15:55:57 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Jornadas/btn_Limpiar"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Jornadas/btn_Limpiar' is clicked on
+
+2024-05-21 15:55:58 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Jornadas/btn_Limpiar' is clicked on
+
+2024-05-21 15:55:58 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 15:55:58 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 15:55:58 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\2 Jornadas\\20240521_152404\\1716324958159.png]]
+
+2024-05-21 15:55:58 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/2 Jornadas de Atencion/2 Jornadas/R85" time="39.698" classname="Test Cases/Configuracion/2 Jornadas de Atencion/2 Jornadas/R85" status="PASSED">
+         <system-out><![CDATA[2024-05-21 15:55:58 - [TEST_CASE][PASSED] - Test Cases/Configuracion/2 Jornadas de Atencion/2 Jornadas/R85: Test Cases/Configuracion/2 Jornadas de Atencion/2 Jornadas/R85
+
+2024-05-21 15:55:59 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:55:59 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 15:55:59 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:55:59 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 15:55:59 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 15:55:59 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 15:56:02 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:56:02 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 15:56:02 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 15:56:02 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:56:04 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:56:04 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:56:05 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:56:05 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:56:07 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:56:07 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:56:08 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:56:08 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:56:10 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:56:10 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:56:10 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:56:10 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 15:56:13 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 15:56:13 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:56:13 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:56:14 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:56:14 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:56:16 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:56:16 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_2 Jornadas de atencion")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_2 Jornadas de atencion' is clicked on
+
+2024-05-21 15:56:16 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_2 Jornadas de atencion' is clicked on
+
+2024-05-21 15:56:16 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:56:18 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:56:18 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/0Principal/a_2 Jornadas"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/0Principal/a_2 Jornadas' is clicked on
+
+2024-05-21 15:56:19 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/0Principal/a_2 Jornadas' is clicked on
+
+2024-05-21 15:56:19 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:56:21 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:56:21 - [TEST_STEP][PASSED] - comment("Se verificará si el Id se crea de manera correlativa y correcta con la captura de pantalla"): Se verificará si el Id se crea de manera correlativa y correcta con la captura de pantalla
+
+2024-05-21 15:56:21 - [MESSAGE][INFO] - Se verificará si el Id se crea de manera correlativa y correcta con la captura de pantalla
+
+2024-05-21 15:56:21 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/textarea_Descripcion"), "Jornada Prueba"): Text 'Jornada Prueba' is set on object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/textarea_Descripcion'
+
+2024-05-21 15:56:22 - [MESSAGE][PASSED] - Text 'Jornada Prueba' is set on object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/textarea_Descripcion'
+
+2024-05-21 15:56:22 - [TEST_STEP][PASSED] - for (def index : (1..8)): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio' is clicked on
+
+2024-05-21 15:56:22 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio' is clicked on
+
+2024-05-21 15:56:22 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio' is clicked on
+
+2024-05-21 15:56:22 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio' is clicked on
+
+2024-05-21 15:56:23 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio' is clicked on
+
+2024-05-21 15:56:23 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio' is clicked on
+
+2024-05-21 15:56:23 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio' is clicked on
+
+2024-05-21 15:56:23 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio' is clicked on
+
+2024-05-21 15:56:23 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio' is clicked on
+
+2024-05-21 15:56:23 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio' is clicked on
+
+2024-05-21 15:56:24 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio' is clicked on
+
+2024-05-21 15:56:24 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio' is clicked on
+
+2024-05-21 15:56:24 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio' is clicked on
+
+2024-05-21 15:56:24 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio' is clicked on
+
+2024-05-21 15:56:25 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio' is clicked on
+
+2024-05-21 15:56:25 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio' is clicked on
+
+2024-05-21 15:56:25 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio' is clicked on
+
+2024-05-21 15:56:25 - [TEST_STEP][PASSED] - for (def index : (1..17)): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:56:25 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:56:25 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:56:25 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:56:26 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:56:26 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:56:26 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:56:26 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:56:27 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:56:27 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:56:27 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:56:27 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:56:27 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:56:27 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:56:28 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:56:28 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:56:28 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:56:28 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:56:29 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:56:29 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:56:29 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:56:29 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:56:29 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:56:29 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:56:30 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:56:30 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:56:30 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:56:30 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:56:31 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:56:31 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:56:31 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:56:31 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:56:32 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:56:32 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:56:32 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:56:32 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/input_N Funcionarios"), "2"): Text '2' is set on object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/input_N Funcionarios'
+
+2024-05-21 15:56:33 - [MESSAGE][PASSED] - Text '2' is set on object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/input_N Funcionarios'
+
+2024-05-21 15:56:33 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_Guardar")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_Guardar' is clicked on
+
+2024-05-21 15:56:33 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_Guardar' is clicked on
+
+2024-05-21 15:56:33 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:56:35 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:56:35 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 15:56:36 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 15:56:36 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\2 Jornadas\\20240521_152404\\1716324995856.png]]
+
+2024-05-21 15:56:36 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:56:38 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:56:38 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/2 Jornadas de Atencion/2 Jornadas/R86" time="36.516" classname="Test Cases/Configuracion/2 Jornadas de Atencion/2 Jornadas/R86" status="PASSED">
+         <system-out><![CDATA[2024-05-21 15:56:38 - [TEST_CASE][PASSED] - Test Cases/Configuracion/2 Jornadas de Atencion/2 Jornadas/R86: Test Cases/Configuracion/2 Jornadas de Atencion/2 Jornadas/R86
+
+2024-05-21 15:56:38 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:56:38 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 15:56:38 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:56:38 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 15:56:39 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 15:56:39 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 15:56:41 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:56:41 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 15:56:41 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 15:56:41 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:56:43 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:56:43 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:56:45 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:56:45 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:56:47 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:56:47 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:56:47 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:56:47 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:56:49 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:56:49 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:56:50 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:56:50 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 15:56:53 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 15:56:53 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:56:53 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:56:53 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:56:53 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:56:55 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:56:55 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_2 Jornadas de atencion")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_2 Jornadas de atencion' is clicked on
+
+2024-05-21 15:56:56 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_2 Jornadas de atencion' is clicked on
+
+2024-05-21 15:56:56 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:56:58 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:56:58 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/0Principal/a_2 Jornadas"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/0Principal/a_2 Jornadas' is clicked on
+
+2024-05-21 15:56:59 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/0Principal/a_2 Jornadas' is clicked on
+
+2024-05-21 15:56:59 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:57:01 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:57:01 - [TEST_STEP][PASSED] - comment("Se utiliza el boton limpiar, en la parte de edición"): Se utiliza el boton limpiar, en la parte de edición
+
+2024-05-21 15:57:01 - [MESSAGE][INFO] - Se utiliza el boton limpiar, en la parte de edición
+
+2024-05-21 15:57:01 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/textarea_Descripcion"), "Jornada Prueba"): Text 'Jornada Prueba' is set on object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/textarea_Descripcion'
+
+2024-05-21 15:57:02 - [MESSAGE][PASSED] - Text 'Jornada Prueba' is set on object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/textarea_Descripcion'
+
+2024-05-21 15:57:02 - [TEST_STEP][PASSED] - for (def index : (1..8)): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio' is clicked on
+
+2024-05-21 15:57:02 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio' is clicked on
+
+2024-05-21 15:57:02 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio' is clicked on
+
+2024-05-21 15:57:02 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio' is clicked on
+
+2024-05-21 15:57:02 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio' is clicked on
+
+2024-05-21 15:57:02 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio' is clicked on
+
+2024-05-21 15:57:03 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio' is clicked on
+
+2024-05-21 15:57:03 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio' is clicked on
+
+2024-05-21 15:57:03 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio' is clicked on
+
+2024-05-21 15:57:03 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio' is clicked on
+
+2024-05-21 15:57:04 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio' is clicked on
+
+2024-05-21 15:57:04 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio' is clicked on
+
+2024-05-21 15:57:04 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio' is clicked on
+
+2024-05-21 15:57:04 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio' is clicked on
+
+2024-05-21 15:57:05 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio' is clicked on
+
+2024-05-21 15:57:05 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio' is clicked on
+
+2024-05-21 15:57:05 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio' is clicked on
+
+2024-05-21 15:57:05 - [TEST_STEP][PASSED] - for (def index : (1..10)): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:57:05 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:57:05 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:57:05 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:57:06 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:57:06 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:57:06 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:57:06 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:57:07 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:57:07 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:57:07 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:57:07 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:57:07 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:57:07 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:57:08 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:57:08 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:57:08 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:57:08 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:57:09 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:57:09 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:57:09 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:57:09 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 15:57:09 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 15:57:10 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\2 Jornadas\\20240521_152404\\1716325029560.png]]
+
+2024-05-21 15:57:10 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_Limpiar")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_Limpiar' is clicked on
+
+2024-05-21 15:57:10 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_Limpiar' is clicked on
+
+2024-05-21 15:57:10 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:57:12 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:57:12 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 15:57:12 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 15:57:12 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\2 Jornadas\\20240521_152404\\1716325032400.png]]
+
+2024-05-21 15:57:12 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:57:14 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:57:14 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/2 Jornadas de Atencion/2 Jornadas/R87" time="39.976" classname="Test Cases/Configuracion/2 Jornadas de Atencion/2 Jornadas/R87" status="PASSED">
+         <system-out><![CDATA[2024-05-21 15:57:14 - [TEST_CASE][PASSED] - Test Cases/Configuracion/2 Jornadas de Atencion/2 Jornadas/R87: Test Cases/Configuracion/2 Jornadas de Atencion/2 Jornadas/R87
+
+2024-05-21 15:57:15 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:57:15 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 15:57:15 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:57:15 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 15:57:16 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 15:57:16 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 15:57:18 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:57:18 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 15:57:18 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 15:57:18 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:57:20 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:57:20 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:57:21 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:57:21 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:57:23 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:57:23 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:57:24 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:57:24 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:57:26 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:57:26 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:57:26 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:57:26 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 15:57:29 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 15:57:29 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:57:29 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:57:30 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:57:30 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:57:32 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:57:32 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_2 Jornadas de atencion")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_2 Jornadas de atencion' is clicked on
+
+2024-05-21 15:57:32 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_2 Jornadas de atencion' is clicked on
+
+2024-05-21 15:57:32 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:57:34 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:57:34 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/0Principal/a_2 Jornadas"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/0Principal/a_2 Jornadas' is clicked on
+
+2024-05-21 15:57:35 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/0Principal/a_2 Jornadas' is clicked on
+
+2024-05-21 15:57:35 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:57:37 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:57:37 - [TEST_STEP][PASSED] - comment("Se verificará si funciona el boton guardar"): Se verificará si funciona el boton guardar
+
+2024-05-21 15:57:37 - [MESSAGE][INFO] - Se verificará si funciona el boton guardar
+
+2024-05-21 15:57:37 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/textarea_Descripcion"), "Jornada Prueba3"): Text 'Jornada Prueba3' is set on object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/textarea_Descripcion'
+
+2024-05-21 15:57:38 - [MESSAGE][PASSED] - Text 'Jornada Prueba3' is set on object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/textarea_Descripcion'
+
+2024-05-21 15:57:38 - [TEST_STEP][PASSED] - for (def index : (1..8)): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio' is clicked on
+
+2024-05-21 15:57:38 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio' is clicked on
+
+2024-05-21 15:57:38 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio' is clicked on
+
+2024-05-21 15:57:38 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio' is clicked on
+
+2024-05-21 15:57:39 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio' is clicked on
+
+2024-05-21 15:57:39 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio' is clicked on
+
+2024-05-21 15:57:39 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio' is clicked on
+
+2024-05-21 15:57:39 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio' is clicked on
+
+2024-05-21 15:57:40 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio' is clicked on
+
+2024-05-21 15:57:40 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio' is clicked on
+
+2024-05-21 15:57:40 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio' is clicked on
+
+2024-05-21 15:57:40 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio' is clicked on
+
+2024-05-21 15:57:40 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio' is clicked on
+
+2024-05-21 15:57:40 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio' is clicked on
+
+2024-05-21 15:57:41 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio' is clicked on
+
+2024-05-21 15:57:41 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio' is clicked on
+
+2024-05-21 15:57:41 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Inicio' is clicked on
+
+2024-05-21 15:57:41 - [TEST_STEP][PASSED] - for (def index : (1..17)): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:57:41 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:57:42 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:57:42 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:57:42 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:57:42 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:57:43 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:57:43 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:57:43 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:57:43 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:57:43 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:57:43 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:57:44 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:57:44 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:57:44 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:57:44 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:57:45 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:57:45 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:57:45 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:57:45 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:57:45 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:57:45 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:57:46 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:57:46 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:57:46 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:57:46 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:57:47 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:57:47 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:57:47 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:57:47 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:57:48 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:57:48 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:57:48 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:57:48 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:57:49 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_UP HH Fin' is clicked on
+
+2024-05-21 15:57:49 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/input_N Funcionarios"), "2"): Text '2' is set on object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/input_N Funcionarios'
+
+2024-05-21 15:57:49 - [MESSAGE][PASSED] - Text '2' is set on object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/input_N Funcionarios'
+
+2024-05-21 15:57:49 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_Guardar")): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_Guardar' is clicked on
+
+2024-05-21 15:57:50 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Edicion Jornada/btn_Guardar' is clicked on
+
+2024-05-21 15:57:50 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:57:52 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:57:52 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 15:57:52 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 15:57:52 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\2 Jornadas\\20240521_152404\\1716325072358.png]]
+
+2024-05-21 15:57:52 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:57:54 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:57:54 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/2 Jornadas de Atencion/2 Jornadas/R88" time="23.169" classname="Test Cases/Configuracion/2 Jornadas de Atencion/2 Jornadas/R88" status="PASSED">
+         <system-out><![CDATA[2024-05-21 15:57:54 - [TEST_CASE][PASSED] - Test Cases/Configuracion/2 Jornadas de Atencion/2 Jornadas/R88: Test Cases/Configuracion/2 Jornadas de Atencion/2 Jornadas/R88
+
+2024-05-21 15:57:55 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:57:55 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 15:57:55 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:57:55 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 15:57:56 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 15:57:56 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 15:57:58 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:57:58 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 15:57:58 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 15:57:58 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:58:00 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:58:00 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:58:01 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:58:01 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:58:03 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:58:03 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:58:04 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:58:04 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:58:06 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:58:06 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:58:06 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:58:06 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 15:58:09 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 15:58:09 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:58:09 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:58:10 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:58:10 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:58:12 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:58:12 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_2 Jornadas de atencion")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_2 Jornadas de atencion' is clicked on
+
+2024-05-21 15:58:13 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_2 Jornadas de atencion' is clicked on
+
+2024-05-21 15:58:13 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:58:15 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:58:15 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/0Principal/a_2 Jornadas"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/0Principal/a_2 Jornadas' is clicked on
+
+2024-05-21 15:58:15 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/0Principal/a_2 Jornadas' is clicked on
+
+2024-05-21 15:58:15 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:58:17 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:58:17 - [TEST_STEP][PASSED] - comment("Captura para mostrar los datos d ela tabla y ver si salen correctos."): Captura para mostrar los datos d ela tabla y ver si salen correctos.
+
+2024-05-21 15:58:17 - [MESSAGE][INFO] - Captura para mostrar los datos d ela tabla y ver si salen correctos.
+
+2024-05-21 15:58:17 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+2024-05-21 15:58:17 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2024-05-21 15:58:18 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\2 Jornadas\\20240521_152404\\1716325097614.png]]
+
+2024-05-21 15:58:18 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Configuracion/2 Jornadas de Atencion/2 Jornadas/R89" time="54.146" classname="Test Cases/Configuracion/2 Jornadas de Atencion/2 Jornadas/R89" status="FAILED">
+         <failure type="FAILED" message="Test Cases/Configuracion/2 Jornadas de Atencion/2 Jornadas/R89 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Jornadas/Lista Jornadas/a_8 Prueba_Borrar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at R89.run(R89:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323044357.run(TempTestSuite1716323044357.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Jornadas/Lista Jornadas/a_8 Prueba_Borrar' located by '//a[@id='ctl00_ContentPlaceHolder2_gvJornadas_ctl09_btnBorrar']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+"/>
+         <system-out><![CDATA[2024-05-21 15:58:18 - [TEST_CASE][FAILED] - Test Cases/Configuracion/2 Jornadas de Atencion/2 Jornadas/R89: Test Cases/Configuracion/2 Jornadas de Atencion/2 Jornadas/R89 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Jornadas/Lista Jornadas/a_8 Prueba_Borrar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at R89.run(R89:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323044357.run(TempTestSuite1716323044357.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Jornadas/Lista Jornadas/a_8 Prueba_Borrar' located by '//a[@id='ctl00_ContentPlaceHolder2_gvJornadas_ctl09_btnBorrar']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+
+
+2024-05-21 15:58:18 - [TEST_STEP][PASSED] - callTestCase(findTestCase("0InicioSesion"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:58:18 - [TEST_CASE][PASSED] - Test Cases/0InicioSesion: Test Cases/0InicioSesion
+
+2024-05-21 15:58:18 - [TEST_STEP][PASSED] - openBrowser(Url): Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:58:18 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2024-05-21 15:58:19 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-05-21 15:58:19 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-05-21 15:58:21 - [MESSAGE][PASSED] - Browser is opened with url: 'https://pcpruebas101.ciel.cielingenieria.com:8815/'
+
+2024-05-21 15:58:21 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-05-21 15:58:21 - [MESSAGE][PASSED] - Current window maximized
+
+2024-05-21 15:58:21 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:58:23 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:58:23 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Usuario"), Usuario): Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:58:24 - [MESSAGE][PASSED] - Text 'Ciel' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Usuario'
+
+2024-05-21 15:58:24 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:58:26 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:58:26 - [TEST_STEP][PASSED] - setText(findTestObject("ADM/0Inicio Sesion/input_Clave"), Clave): Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:58:27 - [MESSAGE][PASSED] - Text 'Digiturno5.' is set on object 'Object Repository/ADM/0Inicio Sesion/input_Clave'
+
+2024-05-21 15:58:27 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:58:29 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:58:29 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Inicio Sesion/btn_IniciarSesion")): Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:58:30 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Inicio Sesion/btn_IniciarSesion' is clicked on
+
+2024-05-21 15:58:30 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2024-05-21 15:58:33 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2024-05-21 15:58:33 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/0InicioSesion' successfully
+
+2024-05-21 15:58:33 - [TEST_STEP][PASSED] - comment("Se eliminará una jornada"): Se eliminará una jornada
+
+2024-05-21 15:58:33 - [MESSAGE][INFO] - Se eliminará una jornada
+
+2024-05-21 15:58:33 - [TEST_STEP][PASSED] - click(findTestObject("ADM/0Principal/a_Configuracion")): Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:58:33 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/0Principal/a_Configuracion' is clicked on
+
+2024-05-21 15:58:33 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:58:35 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:58:35 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/0Principal/a_2 Jornadas de atencion")): Object: 'Object Repository/ADM/1Configuracion/0Principal/a_2 Jornadas de atencion' is clicked on
+
+2024-05-21 15:58:36 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/0Principal/a_2 Jornadas de atencion' is clicked on
+
+2024-05-21 15:58:36 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:58:38 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:58:38 - [TEST_STEP][PASSED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/0Principal/a_2 Jornadas"), STOP_ON_FAILURE): Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/0Principal/a_2 Jornadas' is clicked on
+
+2024-05-21 15:58:38 - [MESSAGE][PASSED] - Object: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/0Principal/a_2 Jornadas' is clicked on
+
+2024-05-21 15:58:38 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2024-05-21 15:58:40 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2024-05-21 15:58:40 - [TEST_STEP][FAILED] - click(findTestObject("ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Jornadas/Lista Jornadas/a_8 Prueba_Borrar")): Unable to click on object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Jornadas/Lista Jornadas/a_8 Prueba_Borrar' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Jornadas/Lista Jornadas/a_8 Prueba_Borrar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at R89.run(R89:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323044357.run(TempTestSuite1716323044357.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Jornadas/Lista Jornadas/a_8 Prueba_Borrar' located by '//a[@id='ctl00_ContentPlaceHolder2_gvJornadas_ctl09_btnBorrar']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Script1700588032736.run(Script1700588032736.groovy:36)
+	... 13 more
+)
+
+2024-05-21 15:59:12 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //a[@id='ctl00_ContentPlaceHolder2_gvJornadas_ctl09_btnBorrar']'. Please recheck the objects properties to make sure the desired element is located. 
+
+2024-05-21 15:59:12 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Jornadas/Lista Jornadas/a_8 Prueba_Borrar' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Jornadas/Lista Jornadas/a_8 Prueba_Borrar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at R89.run(R89:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323044357.run(TempTestSuite1716323044357.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Jornadas/Lista Jornadas/a_8 Prueba_Borrar' located by '//a[@id='ctl00_ContentPlaceHolder2_gvJornadas_ctl09_btnBorrar']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at Script1700588032736.run(Script1700588032736.groovy:36)
+	... 13 more
+)
+[[ATTACHMENT|C:\\CIEL INGENIERIA\\Katalon\\AgendamientoADM\\Reports\\20240521_152353\\1 Configuracion\\2 Jornadas de Atencion\\2 Jornadas\\20240521_152404\\1716325152111.png]]
+
+2024-05-21 15:59:12 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[2024-05-21 15:58:18 - [TEST_CASE][FAILED] - Test Cases/Configuracion/2 Jornadas de Atencion/2 Jornadas/R89: Test Cases/Configuracion/2 Jornadas de Atencion/2 Jornadas/R89 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Jornadas/Lista Jornadas/a_8 Prueba_Borrar'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$2.call(Unknown Source)
+	at R89.run(R89:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323044357.run(TempTestSuite1716323044357.groovy:35)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ADM/1Configuracion/2Jornadas de atencion/2Jornadas/Jornadas/Lista Jornadas/a_8 Prueba_Borrar' located by '//a[@id='ctl00_ContentPlaceHolder2_gvJornadas_ctl09_btnBorrar']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2024-05-21 15:54:19 - [TEST_SUITE][FAILED] - 2 Jornadas: Test Cases/Configuracion/2 Jornadas de Atencion/2 Jornadas/R83 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Cannot take screenshot
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeFullPageScreenshotKeyword.takeScreenshot(TakeFullPageScreenshotKeyword.groovy:125)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeFullPageScreenshotKeyword.execute(TakeFullPageScreenshotKeyword.groovy:82)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.takeFullPageScreenshot(WebUiBuiltInKeywords.groovy:3283)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$takeFullPageScreenshot$5.call(Unknown Source)
+	at R83.run(R83:40)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323044357.run(TempTestSuite1716323044357.groovy:35)
+Caused by: org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : No se encontro el valor: '1' en el filtro de búsqueda}
+  (Session info: chrome=124.0.6367.208): No se encontro el valor: '1' en el filtro de búsqueda
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'PCPRUEBAS101', ip: '192.168.91.13', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_282'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.208, chrome: {chromedriverVersion: 123.0.6312.105 (399174dbe6e..., userDataDir: C:\Users\JDavila\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64686}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4a019af764c3d1c45bffa49d043cac17
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:120)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebDriver.executeScript(RemoteWebDriver.java:489)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.lambda$new$1(EventFiringWebDriver.java:105)
+	at com.sun.proxy.$Proxy11.executeScript(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.executeScript(EventFiringWebDriver.java:229)
+	at com.assertthat.selenium_shutterbug.utils.web.Browser.executeJsScript(Browser.java:668)
+	at com.assertthat.selenium_shutterbug.utils.web.Browser.<init>(Browser.java:83)
+	at com.assertthat.selenium_shutterbug.core.Shutterbug.shootPage(Shutterbug.java:139)
+	at com.assertthat.selenium_shutterbug.core.Shutterbug.shootPage(Shutterbug.java:83)
+	at com.assertthat.selenium_shutterbug.core.Shutterbug.shootPage(Shutterbug.java:69)
+	at com.kms.katalon.core.webui.util.FileUtil.takeFullPageScreenshot(FileUtil.java:86)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeFullPageScreenshotKeyword$_takeScreenshot_closure1.doCall(TakeFullPageScreenshotKeyword.groovy:126)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeFullPageScreenshotKeyword$_takeScreenshot_closure1.call(TakeFullPageScreenshotKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-out>
+      <system-err><![CDATA[2024-05-21 15:54:19 - [TEST_SUITE][FAILED] - 2 Jornadas: Test Cases/Configuracion/2 Jornadas de Atencion/2 Jornadas/R83 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Cannot take screenshot
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeFullPageScreenshotKeyword.takeScreenshot(TakeFullPageScreenshotKeyword.groovy:125)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeFullPageScreenshotKeyword.execute(TakeFullPageScreenshotKeyword.groovy:82)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.takeFullPageScreenshot(WebUiBuiltInKeywords.groovy:3283)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$takeFullPageScreenshot$5.call(Unknown Source)
+	at R83.run(R83:40)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1716323044357.run(TempTestSuite1716323044357.groovy:35)
+Caused by: org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : No se encontro el valor: '1' en el filtro de búsqueda}
+  (Session info: chrome=124.0.6367.208): No se encontro el valor: '1' en el filtro de búsqueda
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'PCPRUEBAS101', ip: '192.168.91.13', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_282'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.208, chrome: {chromedriverVersion: 123.0.6312.105 (399174dbe6e..., userDataDir: C:\Users\JDavila\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64686}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4a019af764c3d1c45bffa49d043cac17
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:120)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebDriver.executeScript(RemoteWebDriver.java:489)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.lambda$new$1(EventFiringWebDriver.java:105)
+	at com.sun.proxy.$Proxy11.executeScript(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.executeScript(EventFiringWebDriver.java:229)
+	at com.assertthat.selenium_shutterbug.utils.web.Browser.executeJsScript(Browser.java:668)
+	at com.assertthat.selenium_shutterbug.utils.web.Browser.<init>(Browser.java:83)
+	at com.assertthat.selenium_shutterbug.core.Shutterbug.shootPage(Shutterbug.java:139)
+	at com.assertthat.selenium_shutterbug.core.Shutterbug.shootPage(Shutterbug.java:83)
+	at com.assertthat.selenium_shutterbug.core.Shutterbug.shootPage(Shutterbug.java:69)
+	at com.kms.katalon.core.webui.util.FileUtil.takeFullPageScreenshot(FileUtil.java:86)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeFullPageScreenshotKeyword$_takeScreenshot_closure1.doCall(TakeFullPageScreenshotKeyword.groovy:126)
+	at com.kms.katalon.core.webui.keyword.builtin.TakeFullPageScreenshotKeyword$_takeScreenshot_closure1.call(TakeFullPageScreenshotKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+   </testsuite>
+</testsuites>

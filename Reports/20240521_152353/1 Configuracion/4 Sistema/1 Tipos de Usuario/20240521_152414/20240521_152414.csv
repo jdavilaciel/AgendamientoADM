@@ -1,0 +1,114 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+1 Tipos de Usuario,Chrome 124.0.0.0,,,2024-05-21 16:16:50,2024-05-21 16:20:26,"3m - 36,124s",FAILED
+,,,,,,,
+Test Cases/Configuracion/4 Sistema/1 Tipos de Usuario/R129,Chrome 124.0.0.0,Sistema,,2024-05-21 16:16:50,2024-05-21 16:17:16,"25,728s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:16:50,2024-05-21 16:17:06,"15,806s",PASSED
+"comment(""Verificar que los iconos de Sistema estén presentes"")",Chrome 124.0.0.0,,,2024-05-21 16:17:06,2024-05-21 16:17:06,"0,016s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:17:06,2024-05-21 16:17:07,"0,566s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:17:07,2024-05-21 16:17:09,"2,003s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_4 Sistema""))",Chrome 124.0.0.0,,,2024-05-21 16:17:09,2024-05-21 16:17:10,"1,347s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:17:10,2024-05-21 16:17:12,"2,016s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/4Sistema/0Principal/a_1 Tipos de usuario""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:17:12,2024-05-21 16:17:13,"0,392s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/4Sistema/0Principal/a_2 Tipos de documento""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:17:13,2024-05-21 16:17:13,"0,408s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/4Sistema/0Principal/a_3 Parametros generales""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:17:13,2024-05-21 16:17:13,"0,362s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/4Sistema/0Principal/a_4 Mensajes de inicio""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:17:13,2024-05-21 16:17:14,"0,346s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/4Sistema/0Principal/a_5 Mensajes notificacion""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:17:14,2024-05-21 16:17:14,"0,392s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/4Sistema/0Principal/a_6 Modulos y personalizaciones""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:17:14,2024-05-21 16:17:14,"0,364s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/4Sistema/0Principal/a_7 Motivos de cancelacion""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:17:14,2024-05-21 16:17:15,"0,376s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/4Sistema/0Principal/a_8 Origenes""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:17:15,2024-05-21 16:17:15,"0,330s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:17:15,2024-05-21 16:17:16,"0,677s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:17:16,2024-05-21 16:17:16,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/4 Sistema/1 Tipos de Usuario/R130,Chrome 124.0.0.0,Tipos de usuario. comproibación de elementos de la página,,2024-05-21 16:17:16,2024-05-21 16:17:41,"25,274s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:17:16,2024-05-21 16:17:31,"14,781s",PASSED
+"comment(""Verificar elementos en Tipos de usuario"")",Chrome 124.0.0.0,,,2024-05-21 16:17:31,2024-05-21 16:17:31,"0,000s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:17:31,2024-05-21 16:17:32,"0,613s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:17:32,2024-05-21 16:17:34,"2,003s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_4 Sistema""))",Chrome 124.0.0.0,,,2024-05-21 16:17:34,2024-05-21 16:17:34,"0,558s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:17:34,2024-05-21 16:17:36,"2,008s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/0Principal/a_1 Tipos de usuario""))",Chrome 124.0.0.0,,,2024-05-21 16:17:36,2024-05-21 16:17:37,"0,582s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:17:37,2024-05-21 16:17:39,"2,001s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/4Sistema/1Tipos de Usuario/Edicion/btn_Guardar""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:17:39,2024-05-21 16:17:39,"0,424s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/4Sistema/1Tipos de Usuario/Edicion/btn_Limpiar""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:17:39,2024-05-21 16:17:40,"0,348s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/4Sistema/1Tipos de Usuario/Edicion/input_Codigo""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:17:40,2024-05-21 16:17:40,"0,346s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/4Sistema/1Tipos de Usuario/Edicion/label_Activo""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:17:40,2024-05-21 16:17:40,"0,347s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/4Sistema/1Tipos de Usuario/Edicion/input_Nombre""), 2)",Chrome 124.0.0.0,,,2024-05-21 16:17:40,2024-05-21 16:17:41,"0,376s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:17:41,2024-05-21 16:17:41,"0,500s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:17:41,2024-05-21 16:17:41,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/4 Sistema/1 Tipos de Usuario/R131,Chrome 124.0.0.0,Campo Nombre,,2024-05-21 16:17:41,2024-05-21 16:18:08,"27,373s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:17:41,2024-05-21 16:17:56,"14,678s",PASSED
+"comment(""Validar campo Nombre"")",Chrome 124.0.0.0,,,2024-05-21 16:17:56,2024-05-21 16:17:56,"0,000s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:17:56,2024-05-21 16:17:57,"0,609s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:17:57,2024-05-21 16:17:59,"2,006s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_4 Sistema""))",Chrome 124.0.0.0,,,2024-05-21 16:17:59,2024-05-21 16:17:59,"0,503s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:17:59,2024-05-21 16:18:01,"2,012s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/0Principal/a_1 Tipos de usuario""))",Chrome 124.0.0.0,,,2024-05-21 16:18:01,2024-05-21 16:18:02,"0,530s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:18:02,2024-05-21 16:18:04,"2,003s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/4Sistema/1Tipos de Usuario/Edicion/input_Codigo""), ""4"")",Chrome 124.0.0.0,,,2024-05-21 16:18:04,2024-05-21 16:18:05,"0,851s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/4Sistema/1Tipos de Usuario/Edicion/input_Nombre""), ""zzz08576prueba()/."")",Chrome 124.0.0.0,No debería crear por los simbolos,,2024-05-21 16:18:05,2024-05-21 16:18:06,"0,911s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/1Tipos de Usuario/Edicion/btn_Guardar""))",Chrome 124.0.0.0,,,2024-05-21 16:18:06,2024-05-21 16:18:06,"0,402s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:18:06,2024-05-21 16:18:08,"2,009s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:18:08,2024-05-21 16:18:08,"0,528s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:18:08,2024-05-21 16:18:08,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/4 Sistema/1 Tipos de Usuario/R132,Chrome 124.0.0.0,Boton Limpiar,,2024-05-21 16:18:08,2024-05-21 16:18:38,"29,731s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:18:09,2024-05-21 16:18:23,"14,671s",PASSED
+"comment(""Boton Limpiar"")",Chrome 124.0.0.0,,,2024-05-21 16:18:23,2024-05-21 16:18:23,"0,000s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:18:23,2024-05-21 16:18:24,"0,522s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:18:24,2024-05-21 16:18:26,"2,005s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_4 Sistema""))",Chrome 124.0.0.0,,,2024-05-21 16:18:26,2024-05-21 16:18:27,"0,556s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:18:27,2024-05-21 16:18:29,"2,008s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/0Principal/a_1 Tipos de usuario""))",Chrome 124.0.0.0,,,2024-05-21 16:18:29,2024-05-21 16:18:29,"0,543s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:18:29,2024-05-21 16:18:31,"2,005s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/4Sistema/1Tipos de Usuario/Edicion/input_Codigo""), ""3"")",Chrome 124.0.0.0,,,2024-05-21 16:18:31,2024-05-21 16:18:32,"0,803s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/4Sistema/1Tipos de Usuario/Edicion/input_Nombre""), ""Boton Limpiar"")",Chrome 124.0.0.0,,,2024-05-21 16:18:32,2024-05-21 16:18:33,"0,859s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:18:33,2024-05-21 16:18:35,"2,011s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:18:35,2024-05-21 16:18:35,"0,500s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/1Tipos de Usuario/Edicion/btn_Limpiar""))",Chrome 124.0.0.0,,,2024-05-21 16:18:35,2024-05-21 16:18:36,"0,443s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:18:36,2024-05-21 16:18:38,"2,010s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:18:38,2024-05-21 16:18:38,"0,462s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:18:38,2024-05-21 16:18:38,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/4 Sistema/1 Tipos de Usuario/R133,Chrome 124.0.0.0,Boton Guardar,,2024-05-21 16:18:38,2024-05-21 16:19:08,"29,791s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:18:39,2024-05-21 16:18:53,"14,616s",PASSED
+"comment(""Boton Guardar"")",Chrome 124.0.0.0,,,2024-05-21 16:18:53,2024-05-21 16:18:53,"0,000s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:18:53,2024-05-21 16:18:54,"0,559s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:18:54,2024-05-21 16:18:56,"2,002s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_4 Sistema""))",Chrome 124.0.0.0,,,2024-05-21 16:18:56,2024-05-21 16:18:56,"0,561s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:18:56,2024-05-21 16:18:58,"2,005s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/0Principal/a_1 Tipos de usuario""))",Chrome 124.0.0.0,,,2024-05-21 16:18:58,2024-05-21 16:18:59,"0,567s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:18:59,2024-05-21 16:19:01,"2,015s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/4Sistema/1Tipos de Usuario/Edicion/input_Nombre""), ""Prueba"")",Chrome 124.0.0.0,,,2024-05-21 16:19:01,2024-05-21 16:19:02,"0,815s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/4Sistema/1Tipos de Usuario/Edicion/input_Codigo""), ""3"")",Chrome 124.0.0.0,,,2024-05-21 16:19:02,2024-05-21 16:19:02,"0,798s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:19:02,2024-05-21 16:19:05,"2,012s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:19:05,2024-05-21 16:19:05,"0,561s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/1Tipos de Usuario/Edicion/btn_Guardar""))",Chrome 124.0.0.0,,,2024-05-21 16:19:05,2024-05-21 16:19:05,"0,415s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:19:05,2024-05-21 16:19:07,"2,005s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:19:07,2024-05-21 16:19:08,"0,530s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:19:08,2024-05-21 16:19:08,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/4 Sistema/1 Tipos de Usuario/R134,Chrome 124.0.0.0,Captura de Listado de tipos de Usuario,,2024-05-21 16:19:08,2024-05-21 16:19:31,"23,398s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:19:08,2024-05-21 16:19:23,"14,720s",PASSED
+"comment(""Captura Listado Tipos de Usuario"")",Chrome 124.0.0.0,,,2024-05-21 16:19:23,2024-05-21 16:19:23,"0,000s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:19:23,2024-05-21 16:19:24,"0,563s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:19:24,2024-05-21 16:19:26,"2,015s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_4 Sistema""))",Chrome 124.0.0.0,,,2024-05-21 16:19:26,2024-05-21 16:19:26,"0,527s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:19:26,2024-05-21 16:19:28,"2,006s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/0Principal/a_1 Tipos de usuario""))",Chrome 124.0.0.0,,,2024-05-21 16:19:28,2024-05-21 16:19:29,"0,553s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:19:29,2024-05-21 16:19:31,"2,013s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:19:31,2024-05-21 16:19:31,"0,552s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:19:31,2024-05-21 16:19:31,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/4 Sistema/1 Tipos de Usuario/R135,Chrome 124.0.0.0,Eliminar un tipo de usuario,,2024-05-21 16:19:31,2024-05-21 16:20:26,"54,513s",FAILED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:19:32,2024-05-21 16:19:46,"14,551s",PASSED
+"comment(""Eliminar un Tipo de usuario"")",Chrome 124.0.0.0,,,2024-05-21 16:19:46,2024-05-21 16:19:46,"0,000s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:19:46,2024-05-21 16:19:47,"0,576s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:19:47,2024-05-21 16:19:49,"2,003s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_4 Sistema""))",Chrome 124.0.0.0,,,2024-05-21 16:19:49,2024-05-21 16:19:49,"0,586s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:19:49,2024-05-21 16:19:51,"2,013s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/0Principal/a_1 Tipos de usuario""))",Chrome 124.0.0.0,,,2024-05-21 16:19:51,2024-05-21 16:19:52,"0,563s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:19:52,2024-05-21 16:19:54,"2,004s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:19:54,2024-05-21 16:19:55,"0,519s",PASSED
+"click(findTestObject(""ADM/1Configuracion/4Sistema/1Tipos de Usuario/Listado de Tipos de Cliente/a_3 Prueba_Borrar""))",Chrome 124.0.0.0,,,2024-05-21 16:19:55,2024-05-21 16:20:26,"31,384s",FAILED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:20:26,2024-05-21 16:20:26,"0,000s",PASSED

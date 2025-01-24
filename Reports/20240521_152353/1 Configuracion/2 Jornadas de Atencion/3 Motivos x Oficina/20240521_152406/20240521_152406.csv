@@ -1,0 +1,104 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+3 Motivos x Oficina,Chrome 124.0.0.0,,,2024-05-21 15:59:20,2024-05-21 16:03:35,"4m - 14,741s",FAILED
+,,,,,,,
+Test Cases/Configuracion/2 Jornadas de Atencion/3 Motivos x Oficina/R92,Chrome 124.0.0.0,Motivos Por oficina,,2024-05-21 15:59:21,2024-05-21 15:59:47,"26,545s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:59:21,2024-05-21 15:59:37,"15,801s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 15:59:37,2024-05-21 15:59:37,"0,592s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:59:37,2024-05-21 15:59:39,"2,001s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_2 Jornadas de atencion""))",Chrome 124.0.0.0,,,2024-05-21 15:59:39,2024-05-21 15:59:40,"0,604s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:59:40,2024-05-21 15:59:42,"2,012s",PASSED
+"click(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/0Principal/a_3 Motivos por oficina""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:59:42,2024-05-21 15:59:43,"0,630s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 15:59:43,2024-05-21 15:59:45,"2,002s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 15:59:45,2024-05-21 15:59:45,"0,567s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/textarea_Descripcion""), 2)",Chrome 124.0.0.0,,,2024-05-21 15:59:45,2024-05-21 15:59:46,"0,408s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_Guardar""), 2)",Chrome 124.0.0.0,,,2024-05-21 15:59:46,2024-05-21 15:59:46,"0,377s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_Limpiar""), 2)",Chrome 124.0.0.0,,,2024-05-21 15:59:46,2024-05-21 15:59:46,"0,392s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Inicio""), 2)",Chrome 124.0.0.0,,,2024-05-21 15:59:46,2024-05-21 15:59:47,"0,377s",PASSED
+"verifyElementPresent(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_UP HH Fin""), 2)",Chrome 124.0.0.0,,,2024-05-21 15:59:47,2024-05-21 15:59:47,"0,392s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 15:59:47,2024-05-21 15:59:47,"0,015s",PASSED
+,,,,,,,
+Test Cases/Configuracion/2 Jornadas de Atencion/3 Motivos x Oficina/R93,Chrome 124.0.0.0,Mostrar captura para verificar los ID correlativos,,2024-05-21 15:59:47,2024-05-21 16:00:11,"23,456s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 15:59:48,2024-05-21 16:00:02,"14,779s",PASSED
+"comment(""Mostrar captura para verificar los ID correlativos"")",Chrome 124.0.0.0,,,2024-05-21 16:00:02,2024-05-21 16:00:02,"0,016s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:00:02,2024-05-21 16:00:03,"0,639s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:00:03,2024-05-21 16:00:05,"2,002s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_2 Jornadas de atencion""))",Chrome 124.0.0.0,,,2024-05-21 16:00:05,2024-05-21 16:00:06,"0,551s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:00:06,2024-05-21 16:00:08,"2,029s",PASSED
+"click(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/0Principal/a_3 Motivos por oficina""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:00:08,2024-05-21 16:00:08,"0,601s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:00:08,2024-05-21 16:00:10,"2,017s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:00:10,2024-05-21 16:00:11,"0,522s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:00:11,2024-05-21 16:00:11,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/2 Jornadas de Atencion/3 Motivos x Oficina/R94,Chrome 124.0.0.0,"Boton Limpiar, limpiara datos ingresados",,2024-05-21 16:00:11,2024-05-21 16:00:42,"31,157s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:00:11,2024-05-21 16:00:26,"14,635s",PASSED
+"comment(""Boton Limpiar"")",Chrome 124.0.0.0,,,2024-05-21 16:00:26,2024-05-21 16:00:26,"0,000s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:00:26,2024-05-21 16:00:26,"0,560s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:00:26,2024-05-21 16:00:28,"2,004s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_2 Jornadas de atencion""))",Chrome 124.0.0.0,,,2024-05-21 16:00:28,2024-05-21 16:00:29,"0,529s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:00:29,2024-05-21 16:00:31,"2,003s",PASSED
+"click(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/0Principal/a_3 Motivos por oficina""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:00:31,2024-05-21 16:00:31,"0,612s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:00:31,2024-05-21 16:00:33,"2,004s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/textarea_Descripcion""), ""Esto es una prueba del Boton Limpiar"")",Chrome 124.0.0.0,,,2024-05-21 16:00:33,2024-05-21 16:00:34,"0,882s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:00:34,2024-05-21 16:00:36,"2,004s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:00:36,2024-05-21 16:00:37,"0,548s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:00:37,2024-05-21 16:00:39,"2,008s",PASSED
+"click(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_Limpiar""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:00:39,2024-05-21 16:00:39,"0,456s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:00:39,2024-05-21 16:00:41,"2,009s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:00:41,2024-05-21 16:00:42,"0,542s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:00:42,2024-05-21 16:00:42,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/2 Jornadas de Atencion/3 Motivos x Oficina/R95,Chrome 124.0.0.0,Boton Guardar,,2024-05-21 16:00:42,2024-05-21 16:01:21,"38,811s",PASSED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:00:42,2024-05-21 16:00:57,"14,744s",PASSED
+"comment(""Boton Guardar verificar si guarda un nuevo motivo"")",Chrome 124.0.0.0,,,2024-05-21 16:00:57,2024-05-21 16:00:57,"0,000s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:00:57,2024-05-21 16:00:58,"0,605s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:00:58,2024-05-21 16:01:00,"2,004s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_2 Jornadas de atencion""))",Chrome 124.0.0.0,,,2024-05-21 16:01:00,2024-05-21 16:01:00,"0,664s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:01:00,2024-05-21 16:01:02,"2,009s",PASSED
+"click(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/0Principal/a_3 Motivos por oficina""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:01:02,2024-05-21 16:01:03,"0,616s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:01:03,2024-05-21 16:01:05,"2,007s",PASSED
+"setText(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/textarea_Descripcion""), ""Prueba"")",Chrome 124.0.0.0,,,2024-05-21 16:01:05,2024-05-21 16:01:06,"0,835s",PASSED
+for (def index : (1..11)),Chrome 124.0.0.0,,,2024-05-21 16:01:06,2024-05-21 16:01:11,"4,783s",PASSED
+for (def index : (1..12)),Chrome 124.0.0.0,,,2024-05-21 16:01:11,2024-05-21 16:01:16,"5,146s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:01:16,2024-05-21 16:01:18,"2,012s",PASSED
+"click(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos/btn_Guardar""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:01:18,2024-05-21 16:01:18,"0,481s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:01:18,2024-05-21 16:01:20,"2,015s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:01:20,2024-05-21 16:01:21,"0,512s",PASSED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:01:21,2024-05-21 16:01:21,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/2 Jornadas de Atencion/3 Motivos x Oficina/R96,Chrome 124.0.0.0,Habilitar o deshabilitar los Motivos Creados,,2024-05-21 16:01:21,2024-05-21 16:01:44,"23,486s",FAILED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:01:21,2024-05-21 16:01:36,"14,600s",PASSED
+"comment(""Seleccionar una oficina y Habilitar los Motivos Creados"")",Chrome 124.0.0.0,,,2024-05-21 16:01:36,2024-05-21 16:01:36,"0,000s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:01:36,2024-05-21 16:01:36,"0,592s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:01:36,2024-05-21 16:01:38,"2,003s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_2 Jornadas de atencion""))",Chrome 124.0.0.0,,,2024-05-21 16:01:38,2024-05-21 16:01:39,"0,530s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:01:39,2024-05-21 16:01:41,"2,003s",PASSED
+"click(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/0Principal/a_3 Motivos por oficina""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:01:41,2024-05-21 16:01:41,"0,581s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:01:41,2024-05-21 16:01:43,"2,004s",PASSED
+"selectOptionByIndex(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Motivos de cierre por oficina/select_Oficina""), 1)",Chrome 124.0.0.0,,,2024-05-21 16:01:43,2024-05-21 16:01:44,"0,890s",FAILED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:01:44,2024-05-21 16:01:44,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/2 Jornadas de Atencion/3 Motivos x Oficina/R98,Chrome 124.0.0.0,Actualizar un motivo,,2024-05-21 16:01:44,2024-05-21 16:02:38,"54,041s",FAILED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:01:44,2024-05-21 16:01:59,"14,497s",PASSED
+"comment(""Boton Guardar verificar si guarda un nuevo motivo"")",Chrome 124.0.0.0,,,2024-05-21 16:01:59,2024-05-21 16:01:59,"0,000s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:01:59,2024-05-21 16:02:00,"0,590s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:02:00,2024-05-21 16:02:02,"2,003s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_2 Jornadas de atencion""))",Chrome 124.0.0.0,,,2024-05-21 16:02:02,2024-05-21 16:02:02,"0,579s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:02:02,2024-05-21 16:02:04,"2,020s",PASSED
+"click(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/0Principal/a_3 Motivos por oficina""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:02:04,2024-05-21 16:02:05,"0,604s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:02:05,2024-05-21 16:02:07,"2,012s",PASSED
+"click(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Lista de Motivos/td3_Prueba""))",Chrome 124.0.0.0,,,2024-05-21 16:02:07,2024-05-21 16:02:38,"31,438s",FAILED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:02:38,2024-05-21 16:02:38,"0,000s",PASSED
+,,,,,,,
+Test Cases/Configuracion/2 Jornadas de Atencion/3 Motivos x Oficina/R99,Chrome 124.0.0.0,Boton eliminar,,2024-05-21 16:02:38,2024-05-21 16:03:35,"56,956s",FAILED
+"callTestCase(findTestCase(""0InicioSesion""), [:], STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:02:39,2024-05-21 16:02:54,"14,915s",PASSED
+"comment(""Boton Eliminar Prueba"")",Chrome 124.0.0.0,,,2024-05-21 16:02:54,2024-05-21 16:02:54,"0,000s",PASSED
+"click(findTestObject(""ADM/0Principal/a_Configuracion""))",Chrome 124.0.0.0,,,2024-05-21 16:02:54,2024-05-21 16:02:54,"0,565s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:02:54,2024-05-21 16:02:56,"2,013s",PASSED
+"click(findTestObject(""ADM/1Configuracion/0Principal/a_2 Jornadas de atencion""))",Chrome 124.0.0.0,,,2024-05-21 16:02:56,2024-05-21 16:02:57,"0,547s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:02:57,2024-05-21 16:02:59,"2,004s",PASSED
+"click(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/0Principal/a_3 Motivos por oficina""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:02:59,2024-05-21 16:02:59,"0,596s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:02:59,2024-05-21 16:03:01,"2,003s",PASSED
+takeFullPageScreenshot(),Chrome 124.0.0.0,,,2024-05-21 16:03:01,2024-05-21 16:03:02,"0,533s",PASSED
+delay(2),Chrome 124.0.0.0,,,2024-05-21 16:03:02,2024-05-21 16:03:04,"2,009s",PASSED
+"click(findTestObject(""ADM/1Configuracion/2Jornadas de atencion/3Motivos Por Oficina/Lista de Motivos/a3_Prueba_btnBorrar""), STOP_ON_FAILURE)",Chrome 124.0.0.0,,,2024-05-21 16:03:04,2024-05-21 16:03:35,"31,409s",FAILED
+Start listener action : sampleAfterTestCase,Chrome 124.0.0.0,,,2024-05-21 16:03:35,2024-05-21 16:03:35,"0,000s",PASSED

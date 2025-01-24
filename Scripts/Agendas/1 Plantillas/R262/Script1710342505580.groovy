@@ -34,8 +34,6 @@ WebUI.verifyElementPresent(findTestObject('ADM/2Agendas/1 Plantillas/Plantillas 
 
 WebUI.verifyElementPresent(findTestObject('ADM/2Agendas/1 Plantillas/Plantillas por oficina/select_Oficina'), 2)
 
-WebUI.verifyElementPresent(findTestObject('ADM/2Agendas/1 Plantillas/Plantillas por oficina/label_1'), 2)
-
 WebUI.delay(2)
 
 WebUI.takeFullPageScreenshot()

@@ -6,7 +6,7 @@
    <defaultProfile>true</defaultProfile>
    <GlobalVariableEntity>
       <description>Url Agendamiento ADM</description>
-      <initValue>'https://pcpruebas101.ciel.cielingenieria.com:8615/'</initValue>
+      <initValue>'https://pcpruebas101.ciel.cielingenieria.com:8815/'</initValue>
       <name>Url</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>

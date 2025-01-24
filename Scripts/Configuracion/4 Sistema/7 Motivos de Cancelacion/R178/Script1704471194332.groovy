@@ -40,6 +40,8 @@ WebUI.setText(findTestObject('ADM/1Configuracion/4Sistema/7Motivos de Cancelacio
 WebUI.selectOptionByIndex(findTestObject('ADM/1Configuracion/4Sistema/7Motivos de Cancelacion/Edicion/select_Tipo de Motivo'), 
     1)
 
+WebUI.comment('Tiene que dar el mensaje que no se puede guardar un motivo creado con el mismo nombre.')
+
 WebUI.takeFullPageScreenshot()
 
 WebUI.delay(2)

@@ -165,5 +165,6 @@
 	<classpathentry kind="lib" path="C:/CIEL INGENIERIA/Katalon/Katalon_Studio_Windows_64-8.3.5/configuration/plugin/install/222735/1.0.3/katalon-studio-microsoftteam-keywords-plugin.jar"/>
 	<classpathentry kind="lib" path="C:/CIEL INGENIERIA/Katalon/Katalon_Studio_Windows_64-8.3.5/configuration/plugin/install/218359/1.0.0/katalon-studio-datetime-plugin.jar"/>
 	<classpathentry kind="con" path="GROOVY_SUPPORT"/>
+	<classpathentry kind="con" path="GROOVY_DSL_SUPPORT"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
